@@ -18,5 +18,5 @@ daily = {}
 for sht in xls.sheet_names:
     daily[sht] = pd.read_excel(xls, sht).to_dict('records')
 
-with open('daily.json', 'w') as json_file:
+with open('docs/daily.json', 'w') as json_file:
   json.dump(daily, json_file, indent=4, sort_keys=True, default=str)
