@@ -7,11 +7,6 @@
         },
         {
             "Date": "2020-03-17 00:00:00",
-            "Hospital Admissions": 472,
-            "Region": "England"
-        },
-        {
-            "Date": "2020-03-17 00:00:00",
             "Hospital Admissions": 282,
             "Region": "London"
         },
@@ -44,11 +39,6 @@
             "Date": "2020-03-18 00:00:00",
             "Hospital Admissions": 25,
             "Region": "East of England"
-        },
-        {
-            "Date": "2020-03-18 00:00:00",
-            "Hospital Admissions": 759,
-            "Region": "England"
         },
         {
             "Date": "2020-03-18 00:00:00",
@@ -87,11 +77,6 @@
         },
         {
             "Date": "2020-03-19 00:00:00",
-            "Hospital Admissions": 1197,
-            "Region": "England"
-        },
-        {
-            "Date": "2020-03-19 00:00:00",
             "Hospital Admissions": 708,
             "Region": "London"
         },
@@ -124,11 +109,6 @@
             "Date": "2020-03-20 00:00:00",
             "Hospital Admissions": 59,
             "Region": "East of England"
-        },
-        {
-            "Date": "2020-03-20 00:00:00",
-            "Hospital Admissions": 1541,
-            "Region": "England"
         },
         {
             "Date": "2020-03-20 00:00:00",
@@ -167,11 +147,6 @@
         },
         {
             "Date": "2020-03-21 00:00:00",
-            "Hospital Admissions": 2156,
-            "Region": "England"
-        },
-        {
-            "Date": "2020-03-21 00:00:00",
             "Hospital Admissions": 1119,
             "Region": "London"
         },
@@ -204,11 +179,6 @@
             "Date": "2020-03-22 00:00:00",
             "Hospital Admissions": 91,
             "Region": "East of England"
-        },
-        {
-            "Date": "2020-03-22 00:00:00",
-            "Hospital Admissions": 2588,
-            "Region": "England"
         },
         {
             "Date": "2020-03-22 00:00:00",
@@ -247,11 +217,6 @@
         },
         {
             "Date": "2020-03-23 00:00:00",
-            "Hospital Admissions": 3097,
-            "Region": "England"
-        },
-        {
-            "Date": "2020-03-23 00:00:00",
             "Hospital Admissions": 1515,
             "Region": "London"
         },
@@ -287,11 +252,6 @@
         },
         {
             "Date": "2020-03-24 00:00:00",
-            "Hospital Admissions": 3492,
-            "Region": "England"
-        },
-        {
-            "Date": "2020-03-24 00:00:00",
             "Hospital Admissions": 1651,
             "Region": "London"
         },
@@ -321,14 +281,14 @@
             "Region": "South West"
         },
         {
-            "Date": "2020-03-25 00:00:00",
-            "Hospital Admissions": 191,
-            "Region": "East of England"
+            "Date": "2020-03-24 00:00:00",
+            "Hospital Admissions": 63,
+            "Region": "Wales"
         },
         {
             "Date": "2020-03-25 00:00:00",
-            "Hospital Admissions": 4304,
-            "Region": "England"
+            "Hospital Admissions": 191,
+            "Region": "East of England"
         },
         {
             "Date": "2020-03-25 00:00:00",
@@ -361,14 +321,14 @@
             "Region": "South West"
         },
         {
-            "Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 290,
-            "Region": "East of England"
+            "Date": "2020-03-25 00:00:00",
+            "Hospital Admissions": 178,
+            "Region": "Wales"
         },
         {
             "Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 5304,
-            "Region": "England"
+            "Hospital Admissions": 290,
+            "Region": "East of England"
         },
         {
             "Date": "2020-03-26 00:00:00",
@@ -392,6 +352,11 @@
         },
         {
             "Date": "2020-03-26 00:00:00",
+            "Hospital Admissions": 575,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-03-26 00:00:00",
             "Hospital Admissions": 599,
             "Region": "South East"
         },
@@ -401,14 +366,14 @@
             "Region": "South West"
         },
         {
-            "Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 336,
-            "Region": "East of England"
+            "Date": "2020-03-26 00:00:00",
+            "Hospital Admissions": 411,
+            "Region": "Wales"
         },
         {
             "Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 6245,
-            "Region": "England"
+            "Hospital Admissions": 336,
+            "Region": "East of England"
         },
         {
             "Date": "2020-03-27 00:00:00",
@@ -432,6 +397,11 @@
         },
         {
             "Date": "2020-03-27 00:00:00",
+            "Hospital Admissions": 672,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-03-27 00:00:00",
             "Hospital Admissions": 744,
             "Region": "South East"
         },
@@ -441,14 +411,14 @@
             "Region": "South West"
         },
         {
-            "Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 423,
-            "Region": "East of England"
+            "Date": "2020-03-27 00:00:00",
+            "Hospital Admissions": 451,
+            "Region": "Wales"
         },
         {
             "Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 7017,
-            "Region": "England"
+            "Hospital Admissions": 423,
+            "Region": "East of England"
         },
         {
             "Date": "2020-03-28 00:00:00",
@@ -472,6 +442,11 @@
         },
         {
             "Date": "2020-03-28 00:00:00",
+            "Hospital Admissions": 782,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-03-28 00:00:00",
             "Hospital Admissions": 802,
             "Region": "South East"
         },
@@ -481,14 +456,14 @@
             "Region": "South West"
         },
         {
-            "Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 475,
-            "Region": "East of England"
+            "Date": "2020-03-28 00:00:00",
+            "Hospital Admissions": 552,
+            "Region": "Wales"
         },
         {
             "Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 8143,
-            "Region": "England"
+            "Hospital Admissions": 475,
+            "Region": "East of England"
         },
         {
             "Date": "2020-03-29 00:00:00",
@@ -512,6 +487,11 @@
         },
         {
             "Date": "2020-03-29 00:00:00",
+            "Hospital Admissions": 859,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-03-29 00:00:00",
             "Hospital Admissions": 1008,
             "Region": "South East"
         },
@@ -521,14 +501,14 @@
             "Region": "South West"
         },
         {
-            "Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 617,
-            "Region": "East of England"
+            "Date": "2020-03-29 00:00:00",
+            "Hospital Admissions": 535,
+            "Region": "Wales"
         },
         {
             "Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 9498,
-            "Region": "England"
+            "Hospital Admissions": 617,
+            "Region": "East of England"
         },
         {
             "Date": "2020-03-30 00:00:00",
@@ -552,6 +532,11 @@
         },
         {
             "Date": "2020-03-30 00:00:00",
+            "Hospital Admissions": 924,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-03-30 00:00:00",
             "Hospital Admissions": 1208,
             "Region": "South East"
         },
@@ -561,14 +546,14 @@
             "Region": "South West"
         },
         {
-            "Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 779,
-            "Region": "East of England"
+            "Date": "2020-03-30 00:00:00",
+            "Hospital Admissions": 625,
+            "Region": "Wales"
         },
         {
             "Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 10767,
-            "Region": "England"
+            "Hospital Admissions": 779,
+            "Region": "East of England"
         },
         {
             "Date": "2020-03-31 00:00:00",
@@ -592,6 +577,11 @@
         },
         {
             "Date": "2020-03-31 00:00:00",
+            "Hospital Admissions": 1073,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-03-31 00:00:00",
             "Hospital Admissions": 1469,
             "Region": "South East"
         },
@@ -601,14 +591,14 @@
             "Region": "South West"
         },
         {
-            "Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 812,
-            "Region": "East of England"
+            "Date": "2020-03-31 00:00:00",
+            "Hospital Admissions": 781,
+            "Region": "Wales"
         },
         {
             "Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 11589,
-            "Region": "England"
+            "Hospital Admissions": 812,
+            "Region": "East of England"
         },
         {
             "Date": "2020-04-01 00:00:00",
@@ -632,6 +622,11 @@
         },
         {
             "Date": "2020-04-01 00:00:00",
+            "Hospital Admissions": 1153,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-04-01 00:00:00",
             "Hospital Admissions": 1368,
             "Region": "South East"
         },
@@ -641,14 +636,14 @@
             "Region": "South West"
         },
         {
-            "Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 796,
-            "Region": "East of England"
+            "Date": "2020-04-01 00:00:00",
+            "Hospital Admissions": 972,
+            "Region": "Wales"
         },
         {
             "Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 11309,
-            "Region": "England"
+            "Hospital Admissions": 796,
+            "Region": "East of England"
         },
         {
             "Date": "2020-04-02 00:00:00",
@@ -672,6 +667,11 @@
         },
         {
             "Date": "2020-04-02 00:00:00",
+            "Hospital Admissions": 1282,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-04-02 00:00:00",
             "Hospital Admissions": 1614,
             "Region": "South East"
         },
@@ -681,14 +681,19 @@
             "Region": "South West"
         },
         {
-            "Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 3836,
-            "Region": "London"
+            "Date": "2020-04-02 00:00:00",
+            "Hospital Admissions": 865,
+            "Region": "Wales"
         },
         {
             "Date": "2020-04-03 00:00:00",
             "Hospital Admissions": 870,
             "Region": "East of England"
+        },
+        {
+            "Date": "2020-04-03 00:00:00",
+            "Hospital Admissions": 3836,
+            "Region": "London"
         },
         {
             "Date": "2020-04-03 00:00:00",
@@ -707,6 +712,11 @@
         },
         {
             "Date": "2020-04-03 00:00:00",
+            "Hospital Admissions": 1321,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-04-03 00:00:00",
             "Hospital Admissions": 1541,
             "Region": "South East"
         },
@@ -717,18 +727,18 @@
         },
         {
             "Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 12841,
-            "Region": "England"
-        },
-        {
-            "Date": "2020-04-04 00:00:00",
-            "Hospital Admissions": 4406,
-            "Region": "London"
+            "Hospital Admissions": 911,
+            "Region": "Wales"
         },
         {
             "Date": "2020-04-04 00:00:00",
             "Hospital Admissions": 931,
             "Region": "East of England"
+        },
+        {
+            "Date": "2020-04-04 00:00:00",
+            "Hospital Admissions": 4406,
+            "Region": "London"
         },
         {
             "Date": "2020-04-04 00:00:00",
@@ -747,6 +757,11 @@
         },
         {
             "Date": "2020-04-04 00:00:00",
+            "Hospital Admissions": 1480,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-04-04 00:00:00",
             "Hospital Admissions": 1712,
             "Region": "South East"
         },
@@ -754,6 +769,56 @@
             "Date": "2020-04-04 00:00:00",
             "Hospital Admissions": 697,
             "Region": "South West"
+        },
+        {
+            "Date": "2020-04-04 00:00:00",
+            "Hospital Admissions": 915,
+            "Region": "Wales"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Hospital Admissions": 1161,
+            "Region": "East of England"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Hospital Admissions": 4571,
+            "Region": "London"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Hospital Admissions": 2895,
+            "Region": "Midlands"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Hospital Admissions": 2218,
+            "Region": "North East & Yorkshire"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Hospital Admissions": 2178,
+            "Region": "North West"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Hospital Admissions": 1590,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Hospital Admissions": 1850,
+            "Region": "South East"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Hospital Admissions": 734,
+            "Region": "South West"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Hospital Admissions": 990,
+            "Region": "Wales"
         }
     ],
     "global_death_comparison": [
@@ -865,7 +930,7 @@
         {
             "Country": "United Kingdom",
             "Day": "Day 21",
-            "Deaths": 0
+            "Deaths": 5373
         },
         {
             "Country": "United Kingdom",
@@ -1040,7 +1105,7 @@
         {
             "Country": "Spain",
             "Day": "Day 25",
-            "Deaths": 0
+            "Deaths": 12641
         },
         {
             "Country": "Spain",
@@ -1360,7 +1425,7 @@
         {
             "Country": "South Korea",
             "Day": "Day 27",
-            "Deaths": 0
+            "Deaths": 186
         },
         {
             "Country": "South Korea",
@@ -1495,7 +1560,7 @@
         {
             "Country": "France",
             "Day": "Day 23",
-            "Deaths": 0
+            "Deaths": 8078
         },
         {
             "Country": "France",
@@ -1650,7 +1715,7 @@
         {
             "Country": "United States",
             "Day": "Day 23",
-            "Deaths": 0
+            "Deaths": 9620
         },
         {
             "Country": "United States",
@@ -1925,7 +1990,7 @@
         {
             "Country": "Germany",
             "Day": "Day 16",
-            "Deaths": 0
+            "Deaths": 1584
         },
         {
             "Country": "Germany",
@@ -1998,143 +2063,138 @@
             "Deaths": 0
         }
     ],
-    "google mobility changes": [
-        {
-            "activity": "Retail & Recreation",
-            "date": "2020-03-29 00:00:00",
-            "mobility change": -0.85
-        },
-        {
-            "activity": "Grocery & Pharmacy",
-            "date": "2020-03-29 00:00:00",
-            "mobility change": -0.46
-        },
-        {
-            "activity": "Parks",
-            "date": "2020-03-29 00:00:00",
-            "mobility change": -0.52
-        },
-        {
-            "activity": "Transit Stations",
-            "date": "2020-03-29 00:00:00",
-            "mobility change": -0.75
-        },
-        {
-            "activity": "Workplaces",
-            "date": "2020-03-29 00:00:00",
-            "mobility change": -0.55
-        },
-        {
-            "activity": "Residential",
-            "date": "2020-03-29 00:00:00",
-            "mobility change": 0.15
-        }
-    ],
     "new_uk_cases": [
         {
             "Date": "2020-03-16 00:00:00",
             "New UK Cases": 171,
-            "Total UK Cases": 1543
+            "Total UK Cases": 1543,
+            "date_text": "16 Mar"
         },
         {
             "Date": "2020-03-17 00:00:00",
             "New UK Cases": 407,
-            "Total UK Cases": 1950
+            "Total UK Cases": 1950,
+            "date_text": "17 Mar"
         },
         {
             "Date": "2020-03-18 00:00:00",
             "New UK Cases": 676,
-            "Total UK Cases": 2626
+            "Total UK Cases": 2626,
+            "date_text": "18 Mar"
         },
         {
             "Date": "2020-03-19 00:00:00",
             "New UK Cases": 643,
-            "Total UK Cases": 3269
+            "Total UK Cases": 3269,
+            "date_text": "19 Mar"
         },
         {
             "Date": "2020-03-20 00:00:00",
             "New UK Cases": 714,
-            "Total UK Cases": 3983
+            "Total UK Cases": 3983,
+            "date_text": "20 Mar"
         },
         {
             "Date": "2020-03-21 00:00:00",
             "New UK Cases": 1029,
-            "Total UK Cases": 5012
+            "Total UK Cases": 5012,
+            "date_text": "21 Mar"
         },
         {
             "Date": "2020-03-22 00:00:00",
             "New UK Cases": 851,
-            "Total UK Cases": 5863
+            "Total UK Cases": 5863,
+            "date_text": "22 Mar"
         },
         {
             "Date": "2020-03-23 00:00:00",
             "New UK Cases": 787,
-            "Total UK Cases": 6650
+            "Total UK Cases": 6650,
+            "date_text": "23 Mar"
         },
         {
             "Date": "2020-03-24 00:00:00",
             "New UK Cases": 1427,
-            "Total UK Cases": 8077
+            "Total UK Cases": 8077,
+            "date_text": "24 Mar"
         },
         {
             "Date": "2020-03-25 00:00:00",
             "New UK Cases": 1452,
-            "Total UK Cases": 9529
+            "Total UK Cases": 9529,
+            "date_text": "25 Mar"
         },
         {
             "Date": "2020-03-26 00:00:00",
             "New UK Cases": 2129,
-            "Total UK Cases": 11658
+            "Total UK Cases": 11658,
+            "date_text": "26 Mar"
         },
         {
             "Date": "2020-03-27 00:00:00",
             "New UK Cases": 2885,
-            "Total UK Cases": 14543
+            "Total UK Cases": 14543,
+            "date_text": "27 Mar"
         },
         {
             "Date": "2020-03-28 00:00:00",
             "New UK Cases": 2546,
-            "Total UK Cases": 17089
+            "Total UK Cases": 17089,
+            "date_text": "28 Mar"
         },
         {
             "Date": "2020-03-29 00:00:00",
             "New UK Cases": 2433,
-            "Total UK Cases": 19522
+            "Total UK Cases": 19522,
+            "date_text": "29 Mar"
         },
         {
             "Date": "2020-03-30 00:00:00",
             "New UK Cases": 2619,
-            "Total UK Cases": 22141
+            "Total UK Cases": 22141,
+            "date_text": "30 Mar"
         },
         {
             "Date": "2020-03-31 00:00:00",
             "New UK Cases": 3009,
-            "Total UK Cases": 25150
+            "Total UK Cases": 25150,
+            "date_text": "31 Mar"
         },
         {
             "Date": "2020-04-01 00:00:00",
             "New UK Cases": 4324,
-            "Total UK Cases": 29474
+            "Total UK Cases": 29474,
+            "date_text": "01 Apr"
         },
         {
             "Date": "2020-04-02 00:00:00",
             "New UK Cases": 4244,
-            "Total UK Cases": 33718
+            "Total UK Cases": 33718,
+            "date_text": "02 Apr"
         },
         {
             "Date": "2020-04-03 00:00:00",
             "New UK Cases": 4450,
-            "Total UK Cases": 38168
+            "Total UK Cases": 38168,
+            "date_text": "03 Apr"
         },
         {
             "Date": "2020-04-04 00:00:00",
             "New UK Cases": 3735,
-            "Total UK Cases": 41903
+            "Total UK Cases": 41903,
+            "date_text": "04 Apr"
         },
         {
             "Date": "2020-04-05 00:00:00",
             "New UK Cases": 5903,
-            "Total UK Cases": 47806
+            "Total UK Cases": 47806,
+            "date_text": "05 Apr"
+        },
+        {
+            "Date": "2020-04-06 00:00:00",
+            "New UK Cases": 3802,
+            "Total UK Cases": 51608,
+            "date_text": "06 Apr"
         }
     ],
     "transport_use_change": [
@@ -2876,6 +2936,26 @@
         {
             "Date": "2020-04-03 00:00:00",
             "Percentage": 0.05,
+            "Transport Type": "TfL - Tube"
+        },
+        {
+            "Date": "2020-04-04 00:00:00",
+            "Percentage": 0.32,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Date": "2020-04-04 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "National rail"
+        },
+        {
+            "Date": "2020-04-04 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "TfL - Bus"
+        },
+        {
+            "Date": "2020-04-04 00:00:00",
+            "Percentage": 0.04,
             "Transport Type": "TfL - Tube"
         }
     ]
