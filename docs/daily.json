@@ -819,6 +819,51 @@
             "Date": "2020-04-05 00:00:00",
             "Hospital Admissions": 990,
             "Region": "Wales"
+        },
+        {
+            "Date": "2020-04-06 00:00:00",
+            "Hospital Admissions": 4656,
+            "Region": "London"
+        },
+        {
+            "Date": "2020-04-06 00:00:00",
+            "Hospital Admissions": 1144,
+            "Region": "East of England"
+        },
+        {
+            "Date": "2020-04-06 00:00:00",
+            "Hospital Admissions": 3042,
+            "Region": "Midlands"
+        },
+        {
+            "Date": "2020-04-06 00:00:00",
+            "Hospital Admissions": 2041,
+            "Region": "North East & Yorkshire"
+        },
+        {
+            "Date": "2020-04-06 00:00:00",
+            "Hospital Admissions": 2409,
+            "Region": "North West"
+        },
+        {
+            "Date": "2020-04-06 00:00:00",
+            "Hospital Admissions": 1858,
+            "Region": "South East"
+        },
+        {
+            "Date": "2020-04-06 00:00:00",
+            "Hospital Admissions": 796,
+            "Region": "South West"
+        },
+        {
+            "Date": "2020-04-06 00:00:00",
+            "Hospital Admissions": 1599,
+            "Region": "Scotland"
+        },
+        {
+            "Date": "2020-04-06 00:00:00",
+            "Hospital Admissions": 1044,
+            "Region": "Wales"
         }
     ],
     "global_death_comparison": [
@@ -935,7 +980,7 @@
         {
             "Country": "United Kingdom",
             "Day": "Day 22",
-            "Deaths": 0
+            "Deaths": 6159
         },
         {
             "Country": "United Kingdom",
@@ -1110,7 +1155,7 @@
         {
             "Country": "Spain",
             "Day": "Day 26",
-            "Deaths": 0
+            "Deaths": 13341
         },
         {
             "Country": "Spain",
@@ -1430,7 +1475,7 @@
         {
             "Country": "South Korea",
             "Day": "Day 28",
-            "Deaths": 0
+            "Deaths": 192
         },
         {
             "Country": "South Korea",
@@ -1565,7 +1610,7 @@
         {
             "Country": "France",
             "Day": "Day 24",
-            "Deaths": 0
+            "Deaths": 8911
         },
         {
             "Country": "France",
@@ -1720,7 +1765,7 @@
         {
             "Country": "United States",
             "Day": "Day 24",
-            "Deaths": 0
+            "Deaths": 10943
         },
         {
             "Country": "United States",
@@ -1995,7 +2040,7 @@
         {
             "Country": "Germany",
             "Day": "Day 17",
-            "Deaths": 0
+            "Deaths": 1810
         },
         {
             "Country": "Germany",
@@ -2195,6 +2240,869 @@
             "New UK Cases": 3802,
             "Total UK Cases": 51608,
             "date_text": "06 Apr"
+        },
+        {
+            "Date": "2020-04-07 00:00:00",
+            "New UK Cases": 3634,
+            "Total UK Cases": 55242,
+            "date_text": "07 Apr"
+        }
+    ],
+    "total_cc_beds": [
+        {
+            "date": "2020-03-21 00:00:00",
+            "number": 3247,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-21 00:00:00",
+            "number": 333,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-21 00:00:00",
+            "number": 799,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-21 00:00:00",
+            "number": 625,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-21 00:00:00",
+            "number": 667,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-21 00:00:00",
+            "number": 487,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-21 00:00:00",
+            "number": 460,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-21 00:00:00",
+            "number": 312,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-21 00:00:00",
+            "number": 153,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-22 00:00:00",
+            "number": 3145,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-22 00:00:00",
+            "number": 333,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-22 00:00:00",
+            "number": 799,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-22 00:00:00",
+            "number": 625,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-22 00:00:00",
+            "number": 667,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-22 00:00:00",
+            "number": 487,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-22 00:00:00",
+            "number": 460,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-22 00:00:00",
+            "number": 312,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-22 00:00:00",
+            "number": 153,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-23 00:00:00",
+            "number": 3687,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-23 00:00:00",
+            "number": 318,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-23 00:00:00",
+            "number": 833,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-23 00:00:00",
+            "number": 636,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-23 00:00:00",
+            "number": 654,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-23 00:00:00",
+            "number": 466,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-23 00:00:00",
+            "number": 452,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-23 00:00:00",
+            "number": 328,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-23 00:00:00",
+            "number": 171,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-24 00:00:00",
+            "number": 3727,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-24 00:00:00",
+            "number": 312,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-24 00:00:00",
+            "number": 838,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-24 00:00:00",
+            "number": 616,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-24 00:00:00",
+            "number": 648,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-24 00:00:00",
+            "number": 489,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-24 00:00:00",
+            "number": 492,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-24 00:00:00",
+            "number": 332,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-24 00:00:00",
+            "number": 209,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-25 00:00:00",
+            "number": 3789,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-25 00:00:00",
+            "number": 332,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-25 00:00:00",
+            "number": 858,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-25 00:00:00",
+            "number": 630,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-25 00:00:00",
+            "number": 661,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-25 00:00:00",
+            "number": 482,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-25 00:00:00",
+            "number": 494,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-25 00:00:00",
+            "number": 332,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-25 00:00:00",
+            "number": 225,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-26 00:00:00",
+            "number": 3771,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-26 00:00:00",
+            "number": 330,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-26 00:00:00",
+            "number": 846,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-26 00:00:00",
+            "number": 638,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-26 00:00:00",
+            "number": 638,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-26 00:00:00",
+            "number": 493,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-26 00:00:00",
+            "number": 494,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-26 00:00:00",
+            "number": 332,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-26 00:00:00",
+            "number": 294,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-26 00:00:00",
+            "number": 418,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-03-27 00:00:00",
+            "number": 3884,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-27 00:00:00",
+            "number": 334,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-27 00:00:00",
+            "number": 938,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-27 00:00:00",
+            "number": 635,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-27 00:00:00",
+            "number": 666,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-27 00:00:00",
+            "number": 476,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-27 00:00:00",
+            "number": 499,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-27 00:00:00",
+            "number": 336,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-27 00:00:00",
+            "number": 293,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-27 00:00:00",
+            "number": 383,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-03-28 00:00:00",
+            "number": 3884,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-28 00:00:00",
+            "number": 334,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-28 00:00:00",
+            "number": 938,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-28 00:00:00",
+            "number": 635,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-28 00:00:00",
+            "number": 666,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-28 00:00:00",
+            "number": 476,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-28 00:00:00",
+            "number": 499,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-28 00:00:00",
+            "number": 336,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-28 00:00:00",
+            "number": 307,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-28 00:00:00",
+            "number": 367,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-03-29 00:00:00",
+            "number": 3755,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-29 00:00:00",
+            "number": 337,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-29 00:00:00",
+            "number": 894,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-29 00:00:00",
+            "number": 560,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-29 00:00:00",
+            "number": 660,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-29 00:00:00",
+            "number": 465,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-29 00:00:00",
+            "number": 496,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-29 00:00:00",
+            "number": 343,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-29 00:00:00",
+            "number": 312,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-29 00:00:00",
+            "number": 360,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-03-30 00:00:00",
+            "number": 4060,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-30 00:00:00",
+            "number": 324,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-30 00:00:00",
+            "number": 1045,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-30 00:00:00",
+            "number": 647,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-30 00:00:00",
+            "number": 672,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-30 00:00:00",
+            "number": 492,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-30 00:00:00",
+            "number": 537,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-30 00:00:00",
+            "number": 343,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-30 00:00:00",
+            "number": 304,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-30 00:00:00",
+            "number": 367,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-03-31 00:00:00",
+            "number": 4321,
+            "region": "England"
+        },
+        {
+            "date": "2020-03-31 00:00:00",
+            "number": 372,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-03-31 00:00:00",
+            "number": 1084,
+            "region": "London"
+        },
+        {
+            "date": "2020-03-31 00:00:00",
+            "number": 702,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-03-31 00:00:00",
+            "number": 715,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-03-31 00:00:00",
+            "number": 501,
+            "region": "North West"
+        },
+        {
+            "date": "2020-03-31 00:00:00",
+            "number": 594,
+            "region": "South East"
+        },
+        {
+            "date": "2020-03-31 00:00:00",
+            "number": 353,
+            "region": "South West"
+        },
+        {
+            "date": "2020-03-31 00:00:00",
+            "number": 331,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-03-31 00:00:00",
+            "number": 376,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 4310,
+            "region": "England"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 374,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 1056,
+            "region": "London"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 694,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 706,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 504,
+            "region": "North West"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 601,
+            "region": "South East"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 375,
+            "region": "South West"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 331,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 379,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-04-01 00:00:00",
+            "number": 87,
+            "region": "Northern Ireland"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 4506,
+            "region": "England"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 375,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 1208,
+            "region": "London"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 699,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 723,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 509,
+            "region": "North West"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 620,
+            "region": "South East"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 372,
+            "region": "South West"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 340,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 585,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-04-02 00:00:00",
+            "number": 87,
+            "region": "Northern Ireland"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 4643,
+            "region": "England"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 392,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 1236,
+            "region": "London"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 701,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 733,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 534,
+            "region": "North West"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 639,
+            "region": "South East"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 408,
+            "region": "South West"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 353,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 585,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-04-03 00:00:00",
+            "number": 111,
+            "region": "Northern Ireland"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 4643,
+            "region": "England"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 392,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 1236,
+            "region": "London"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 701,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 733,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 534,
+            "region": "North West"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 639,
+            "region": "South East"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 408,
+            "region": "South West"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 356,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 585,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-04-04 00:00:00",
+            "number": 105,
+            "region": "Northern Ireland"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 4643,
+            "region": "England"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 392,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 1236,
+            "region": "London"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 701,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 733,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 534,
+            "region": "North West"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 639,
+            "region": "South East"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 408,
+            "region": "South West"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 357,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 585,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-04-05 00:00:00",
+            "number": 107,
+            "region": "Northern Ireland"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 4810,
+            "region": "England"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 401,
+            "region": "East of England"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 1304,
+            "region": "London"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 751,
+            "region": "Midlands"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 683,
+            "region": "North East & Yorkshire"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 541,
+            "region": "North West"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 717,
+            "region": "South East"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 413,
+            "region": "South West"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 369,
+            "region": "Wales"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 585,
+            "region": "Scotland"
+        },
+        {
+            "date": "2020-04-06 00:00:00",
+            "number": 108,
+            "region": "Northern Ireland"
         }
     ],
     "transport_use_change": [
@@ -2955,6 +3863,26 @@
         },
         {
             "Date": "2020-04-04 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "TfL - Tube"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Percentage": 0.29,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "National rail"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "TfL - Bus"
+        },
+        {
+            "Date": "2020-04-05 00:00:00",
             "Percentage": 0.04,
             "Transport Type": "TfL - Tube"
         }
