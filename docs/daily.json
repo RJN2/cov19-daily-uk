@@ -1,58 +1,13 @@
 {
     "cc_beds_occupied_covid": [
         {
-            "Day of date": 23
+            "Day of date": 88
         },
         {
-            "Day of date": 24
+            "Day of date": 143
         },
         {
-            "Day of date": 34
-        },
-        {
-            "Day of date": 46
-        },
-        {
-            "Day of date": 55
-        },
-        {
-            "Day of date": 72
-        },
-        {
-            "Day of date": 85
-        },
-        {
-            "Day of date": 101
-        },
-        {
-            "Day of date": 106
-        },
-        {
-            "Day of date": 113
-        },
-        {
-            "Day of date": 159
-        },
-        {
-            "Day of date": 161
-        },
-        {
-            "Day of date": 162
-        },
-        {
-            "Day of date": 167
-        },
-        {
-            "Day of date": 171
-        },
-        {
-            "Day of date": 205
-        },
-        {
-            "Day of date": 218
-        },
-        {
-            "Day of date": 241
+            "Day of date": 177
         },
         {
             "Day of date": 234
@@ -109,6 +64,18 @@
             "Day of date": 894
         },
         {
+            "Day of date": 926
+        },
+        {
+            "Day of date": 24
+        },
+        {
+            "Day of date": 27
+        },
+        {
+            "Day of date": 35
+        },
+        {
             "Day of date": 47
         },
         {
@@ -163,172 +130,16 @@
             "Day of date": 444
         },
         {
-            "Day of date": 20
+            "Day of date": 473
         },
         {
-            "Day of date": 25
+            "Day of date": 15
+        },
+        {
+            "Day of date": 27
         },
         {
             "Day of date": 32
-        },
-        {
-            "Day of date": 39
-        },
-        {
-            "Day of date": 48
-        },
-        {
-            "Day of date": 61
-        },
-        {
-            "Day of date": 82
-        },
-        {
-            "Day of date": 106
-        },
-        {
-            "Day of date": 131
-        },
-        {
-            "Day of date": 147
-        },
-        {
-            "Day of date": 180
-        },
-        {
-            "Day of date": 197
-        },
-        {
-            "Day of date": 200
-        },
-        {
-            "Day of date": 250
-        },
-        {
-            "Day of date": 293
-        },
-        {
-            "Day of date": 297
-        },
-        {
-            "Day of date": 306
-        },
-        {
-            "Day of date": 314
-        },
-        {
-            "Day of date": 31
-        },
-        {
-            "Day of date": 40
-        },
-        {
-            "Day of date": 42
-        },
-        {
-            "Day of date": 47
-        },
-        {
-            "Day of date": 57
-        },
-        {
-            "Day of date": 68
-        },
-        {
-            "Day of date": 86
-        },
-        {
-            "Day of date": 95
-        },
-        {
-            "Day of date": 110
-        },
-        {
-            "Day of date": 141
-        },
-        {
-            "Day of date": 190
-        },
-        {
-            "Day of date": 244
-        },
-        {
-            "Day of date": 245
-        },
-        {
-            "Day of date": 258
-        },
-        {
-            "Day of date": 286
-        },
-        {
-            "Day of date": 295
-        },
-        {
-            "Day of date": 324
-        },
-        {
-            "Day of date": 332
-        },
-        {
-            "Day of date": 46
-        },
-        {
-            "Day of date": 48
-        },
-        {
-            "Day of date": 48
-        },
-        {
-            "Day of date": 49
-        },
-        {
-            "Day of date": 49
-        },
-        {
-            "Day of date": 50
-        },
-        {
-            "Day of date": 56
-        },
-        {
-            "Day of date": 57
-        },
-        {
-            "Day of date": 72
-        },
-        {
-            "Day of date": 81
-        },
-        {
-            "Day of date": 95
-        },
-        {
-            "Day of date": 108
-        },
-        {
-            "Day of date": 135
-        },
-        {
-            "Day of date": 147
-        },
-        {
-            "Day of date": 162
-        },
-        {
-            "Day of date": 176
-        },
-        {
-            "Day of date": 192
-        },
-        {
-            "Day of date": 197
-        },
-        {
-            "Day of date": 199
-        },
-        {
-            "Day of date": 199
         },
         {
             "Day of date": 58
@@ -385,6 +196,258 @@
             "Day of date": 332
         },
         {
+            "Day of date": 348
+        },
+        {
+            "Day of date": 13
+        },
+        {
+            "Day of date": 14
+        },
+        {
+            "Day of date": 30
+        },
+        {
+            "Day of date": 31
+        },
+        {
+            "Day of date": 40
+        },
+        {
+            "Day of date": 42
+        },
+        {
+            "Day of date": 47
+        },
+        {
+            "Day of date": 57
+        },
+        {
+            "Day of date": 68
+        },
+        {
+            "Day of date": 86
+        },
+        {
+            "Day of date": 95
+        },
+        {
+            "Day of date": 110
+        },
+        {
+            "Day of date": 141
+        },
+        {
+            "Day of date": 190
+        },
+        {
+            "Day of date": 244
+        },
+        {
+            "Day of date": 245
+        },
+        {
+            "Day of date": 258
+        },
+        {
+            "Day of date": 286
+        },
+        {
+            "Day of date": 295
+        },
+        {
+            "Day of date": 324
+        },
+        {
+            "Day of date": 332
+        },
+        {
+            "Day of date": 333
+        },
+        {
+            "Day of date": 7
+        },
+        {
+            "Day of date": 8
+        },
+        {
+            "Day of date": 17
+        },
+        {
+            "Day of date": 20
+        },
+        {
+            "Day of date": 25
+        },
+        {
+            "Day of date": 32
+        },
+        {
+            "Day of date": 39
+        },
+        {
+            "Day of date": 48
+        },
+        {
+            "Day of date": 61
+        },
+        {
+            "Day of date": 82
+        },
+        {
+            "Day of date": 106
+        },
+        {
+            "Day of date": 131
+        },
+        {
+            "Day of date": 147
+        },
+        {
+            "Day of date": 180
+        },
+        {
+            "Day of date": 197
+        },
+        {
+            "Day of date": 200
+        },
+        {
+            "Day of date": 250
+        },
+        {
+            "Day of date": 293
+        },
+        {
+            "Day of date": 297
+        },
+        {
+            "Day of date": 306
+        },
+        {
+            "Day of date": 314
+        },
+        {
+            "Day of date": 352
+        },
+        {
+            "Day of date": 8
+        },
+        {
+            "Day of date": 8
+        },
+        {
+            "Day of date": 20
+        },
+        {
+            "Day of date": 23
+        },
+        {
+            "Day of date": 24
+        },
+        {
+            "Day of date": 34
+        },
+        {
+            "Day of date": 46
+        },
+        {
+            "Day of date": 55
+        },
+        {
+            "Day of date": 72
+        },
+        {
+            "Day of date": 85
+        },
+        {
+            "Day of date": 101
+        },
+        {
+            "Day of date": 106
+        },
+        {
+            "Day of date": 113
+        },
+        {
+            "Day of date": 159
+        },
+        {
+            "Day of date": 161
+        },
+        {
+            "Day of date": 162
+        },
+        {
+            "Day of date": 167
+        },
+        {
+            "Day of date": 171
+        },
+        {
+            "Day of date": 205
+        },
+        {
+            "Day of date": 218
+        },
+        {
+            "Day of date": 241
+        },
+        {
+            "Day of date": 242
+        },
+        {
+            "Day of date": 57
+        },
+        {
+            "Day of date": 72
+        },
+        {
+            "Day of date": 81
+        },
+        {
+            "Day of date": 95
+        },
+        {
+            "Day of date": 108
+        },
+        {
+            "Day of date": 135
+        },
+        {
+            "Day of date": 147
+        },
+        {
+            "Day of date": 150
+        },
+        {
+            "Day of date": 162
+        },
+        {
+            "Day of date": 176
+        },
+        {
+            "Day of date": 192
+        },
+        {
+            "Day of date": 197
+        },
+        {
+            "Day of date": 199
+        },
+        {
+            "Day of date": 199
+        },
+        {
+            "Day of date": 8
+        },
+        {
+            "Day of date": 8
+        },
+        {
+            "Day of date": 10
+        },
+        {
             "Day of date": 23
         },
         {
@@ -436,6 +499,9 @@
             "Day of date": 125
         },
         {
+            "Day of date": 126
+        },
+        {
             "Day of date": 128
         },
         {
@@ -464,14 +530,38 @@
         },
         {
             "Day of date": 144
+        },
+        {
+            "Day of date": 210
+        },
+        {
+            "Day of date": 46
+        },
+        {
+            "Day of date": 48
+        },
+        {
+            "Day of date": 48
+        },
+        {
+            "Day of date": 49
+        },
+        {
+            "Day of date": 49
+        },
+        {
+            "Day of date": 50
+        },
+        {
+            "Day of date": 54
+        },
+        {
+            "Day of date": 56
         }
     ],
     "covid_hospitalisations": [
         {
             "Day of Date": 24
-        },
-        {
-            "Day of Date": 25
         },
         {
             "Day of Date": 59
@@ -528,10 +618,10 @@
             "Day of Date": 1161
         },
         {
-            "Day of Date": 1323
+            "Day of Date": 1316
         },
         {
-            "Day of Date": 445
+            "Day of Date": 1323
         },
         {
             "Day of Date": 708
@@ -594,7 +684,7 @@
             "Day of Date": 4689
         },
         {
-            "Day of Date": 96
+            "Day of Date": 4813
         },
         {
             "Day of Date": 132
@@ -654,10 +744,10 @@
             "Day of Date": 3042
         },
         {
-            "Day of Date": 3086
+            "Day of Date": 3070
         },
         {
-            "Day of Date": 50
+            "Day of Date": 3086
         },
         {
             "Day of Date": 63
@@ -720,7 +810,7 @@
             "Day of Date": 2218
         },
         {
-            "Day of Date": 51
+            "Day of Date": 2319
         },
         {
             "Day of Date": 71
@@ -780,6 +870,9 @@
             "Day of Date": 2409
         },
         {
+            "Day of Date": 2436
+        },
+        {
             "Day of Date": 2495
         },
         {
@@ -822,7 +915,7 @@
             "Day of Date": 1733
         },
         {
-            "Day of Date": 56
+            "Day of Date": 1771
         },
         {
             "Day of Date": 144
@@ -882,10 +975,10 @@
             "Day of Date": 1858
         },
         {
-            "Day of Date": 2073
+            "Day of Date": 2058
         },
         {
-            "Day of Date": 36
+            "Day of Date": 2073
         },
         {
             "Day of Date": 55
@@ -942,6 +1035,9 @@
             "Day of Date": 734
         },
         {
+            "Day of Date": 772
+        },
+        {
             "Day of Date": 784
         },
         {
@@ -991,6 +1087,9 @@
         },
         {
             "Day of Date": 1142
+        },
+        {
+            "Day of Date": 1160
         }
     ],
     "global_deaths": [
@@ -1067,7 +1166,7 @@
             "Country": 7097.0
         },
         {
-            "Country": NaN
+            "Country": 7978.0
         },
         {
             "Country": NaN
@@ -1364,7 +1463,7 @@
             "Country": 200.0
         },
         {
-            "Country": NaN
+            "Country": 204.0
         },
         {
             "Country": 52.0
@@ -1517,7 +1616,7 @@
             "Country": 2016.0
         },
         {
-            "Country": NaN
+            "Country": 2349.0
         },
         {
             "Country": NaN
@@ -1631,7 +1730,7 @@
             "Country": 10328.0
         },
         {
-            "Country": NaN
+            "Country": 10869.0
         },
         {
             "Country": NaN
@@ -1739,7 +1838,7 @@
             "Country": 2663.0
         }
     ],
-    "new_cases": [
+    "new_uk_cases": [
         {
             "date_text": 171
         },
@@ -1811,263 +1910,326 @@
         },
         {
             "date_text": 5492
+        },
+        {
+            "date_text": 4344
         }
     ],
-    "station_footfall": [
+    "transport_use_change": [
         {
-            "station": 7989
+            "Day of Date": 0.27
         },
         {
-            "station": 12061
+            "Day of Date": 0.29
         },
         {
-            "station": 41782
+            "Day of Date": 0.31
         },
         {
-            "station": 86219
+            "Day of Date": 0.32
         },
         {
-            "station": 94875
+            "Day of Date": 0.35
         },
         {
-            "station": 14516
+            "Day of Date": 0.35
         },
         {
-            "station": 25552
+            "Day of Date": 0.36
         },
         {
-            "station": 100644
+            "Day of Date": 0.37
         },
         {
-            "station": 218078
+            "Day of Date": 0.37
         },
         {
-            "station": 233890
+            "Day of Date": 0.37
         },
         {
-            "station": 28750
+            "Day of Date": 0.37
         },
         {
-            "station": 46393
+            "Day of Date": 0.38
         },
         {
-            "station": 164700
+            "Day of Date": 0.39
         },
         {
-            "station": 307206
+            "Day of Date": 0.42
         },
         {
-            "station": 323315
+            "Day of Date": 0.48
         },
         {
-            "station": 18628
+            "Day of Date": 0.68
         },
         {
-            "station": 30440
+            "Day of Date": 0.71
         },
         {
-            "station": 151897
+            "Day of Date": 0.74
         },
         {
-            "station": 353739
+            "Day of Date": 0.81
         },
         {
-            "station": 397242
+            "Day of Date": 0.82
         },
         {
-            "station": 33037
+            "Day of Date": 0.83
         },
         {
-            "station": 57827
+            "Day of Date": 0.11
         },
         {
-            "station": 197016
+            "Day of Date": 0.11
         },
         {
-            "station": 411553
+            "Day of Date": 0.11
         },
         {
-            "station": 462266
+            "Day of Date": 0.11
         },
         {
-            "station": 42679
+            "Day of Date": 0.11
         },
         {
-            "station": 67421
+            "Day of Date": 0.12
         },
         {
-            "station": 252125
+            "Day of Date": 0.12
         },
         {
-            "station": 522636
+            "Day of Date": 0.12
         },
         {
-            "station": 530835
+            "Day of Date": 0.12
         },
         {
-            "station": 35910
+            "Day of Date": 0.12
         },
         {
-            "station": 57884
+            "Day of Date": 0.13
         },
         {
-            "station": 261399
+            "Day of Date": 0.13
         },
         {
-            "station": 547468
+            "Day of Date": 0.14
         },
         {
-            "station": 606819
+            "Day of Date": 0.14
         },
         {
-            "station": 34474
+            "Day of Date": 0.17
         },
         {
-            "station": 63559
+            "Day of Date": 0.27
         },
         {
-            "station": 289360
+            "Day of Date": 0.35
         },
         {
-            "station": 592095
+            "Day of Date": 0.4
         },
         {
-            "station": 650449
+            "Day of Date": 0.53
         },
         {
-            "station": 46430
+            "Day of Date": 0.58
         },
         {
-            "station": 83391
+            "Day of Date": 0.62
         },
         {
-            "station": 369432
+            "Day of Date": 0.03
         },
         {
-            "station": 730055
+            "Day of Date": 0.03
         },
         {
-            "station": 780719
+            "Day of Date": 0.04
         },
         {
-            "station": 55511
+            "Day of Date": 0.05
         },
         {
-            "station": 103733
+            "Day of Date": 0.05
         },
         {
-            "station": 358742
+            "Day of Date": 0.05
         },
         {
-            "station": 716545
+            "Day of Date": 0.07
         },
         {
-            "station": 782676
+            "Day of Date": 0.09
         },
         {
-            "station": 61737
+            "Day of Date": 0.1
         },
         {
-            "station": 96415
+            "Day of Date": 0.11
         },
         {
-            "station": 382329
+            "Day of Date": 0.11
         },
         {
-            "station": 798956
+            "Day of Date": 0.12
         },
         {
-            "station": 874707
+            "Day of Date": 0.16
         },
         {
-            "station": 52576
+            "Day of Date": 0.17
         },
         {
-            "station": 99147
+            "Day of Date": 0.24
         },
         {
-            "station": 391317
+            "Day of Date": 0.28
         },
         {
-            "station": 822011
+            "Day of Date": 0.35
         },
         {
-            "station": 975028
+            "Day of Date": 0.38
         },
         {
-            "station": 71230
+            "Day of Date": 0.44
         },
         {
-            "station": 130972
+            "Day of Date": 0.52
         },
         {
-            "station": 516044
+            "Day of Date": 0.59
         },
         {
-            "station": 1025091
+            "Day of Date": 0.16
         },
         {
-            "station": 1148523
+            "Day of Date": 0.16
         },
         {
-            "station": 74748
+            "Day of Date": 0.16
         },
         {
-            "station": 129517
+            "Day of Date": 0.16
         },
         {
-            "station": 500802
+            "Day of Date": 0.17
         },
         {
-            "station": 1134622
+            "Day of Date": 0.17
         },
         {
-            "station": 1312451
+            "Day of Date": 0.17
         },
         {
-            "station": 126664
+            "Day of Date": 0.17
         },
         {
-            "station": 230229
+            "Day of Date": 0.17
         },
         {
-            "station": 805218
+            "Day of Date": 0.18
         },
         {
-            "station": 1681798
+            "Day of Date": 0.18
         },
         {
-            "station": 1881782
+            "Day of Date": 0.18
         },
         {
-            "station": 122344
+            "Day of Date": 0.18
         },
         {
-            "station": 193177
+            "Day of Date": 0.19
         },
         {
-            "station": 721004
+            "Day of Date": 0.22
         },
         {
-            "station": 1726403
+            "Day of Date": 0.31
         },
         {
-            "station": 2005437
+            "Day of Date": 0.32
         },
         {
-            "station": 135596
+            "Day of Date": 0.39
         },
         {
-            "station": 244634
+            "Day of Date": 0.52
         },
         {
-            "station": 976698
+            "Day of Date": 0.59
         },
         {
-            "station": 2233230
+            "Day of Date": 0.65
         },
         {
-            "station": 2590400
+            "Day of Date": 0.04
+        },
+        {
+            "Day of Date": 0.04
+        },
+        {
+            "Day of Date": 0.04
+        },
+        {
+            "Day of Date": 0.04
+        },
+        {
+            "Day of Date": 0.05
+        },
+        {
+            "Day of Date": 0.05
+        },
+        {
+            "Day of Date": 0.05
+        },
+        {
+            "Day of Date": 0.05
+        },
+        {
+            "Day of Date": 0.05
+        },
+        {
+            "Day of Date": 0.05
+        },
+        {
+            "Day of Date": 0.06
+        },
+        {
+            "Day of Date": 0.06
+        },
+        {
+            "Day of Date": 0.06
+        },
+        {
+            "Day of Date": 0.07
+        },
+        {
+            "Day of Date": 0.09
+        },
+        {
+            "Day of Date": 0.11
+        },
+        {
+            "Day of Date": 0.13
+        },
+        {
+            "Day of Date": 0.15
+        },
+        {
+            "Day of Date": 0.24
+        },
+        {
+            "Day of Date": 0.3
+        },
+        {
+            "Day of Date": 0.35
         }
     ]
 }
