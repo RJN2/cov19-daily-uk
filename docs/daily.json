@@ -98,7 +98,7 @@
         {
             "Country": "UK",
             "Day": "Day 29",
-            "Deaths": NaN
+            "Deaths": 12107.0
         },
         {
             "Country": "UK",
@@ -178,82 +178,82 @@
         {
             "Country": "United States",
             "Day": "Day 14",
-            "Deaths": 1878.0
-        },
-        {
-            "Country": "United States",
-            "Day": "Day 15",
             "Deaths": 2222.0
         },
         {
             "Country": "United States",
+            "Day": "Day 15",
+            "Deaths": 2592.0
+        },
+        {
+            "Country": "United States",
             "Day": "Day 16",
-            "Deaths": 2585.0
+            "Deaths": 3150.0
         },
         {
             "Country": "United States",
             "Day": "Day 17",
-            "Deaths": 3143.0
+            "Deaths": 4064.0
         },
         {
             "Country": "United States",
             "Day": "Day 18",
-            "Deaths": 4057.0
+            "Deaths": 5114.0
         },
         {
             "Country": "United States",
             "Day": "Day 19",
-            "Deaths": 5107.0
+            "Deaths": 6088.0
         },
         {
             "Country": "United States",
             "Day": "Day 20",
-            "Deaths": 6081.0
+            "Deaths": 7139.0
         },
         {
             "Country": "United States",
             "Day": "Day 21",
-            "Deaths": 7127.0
+            "Deaths": 8469.0
         },
         {
             "Country": "United States",
             "Day": "Day 22",
-            "Deaths": 8457.0
+            "Deaths": 9636.0
         },
         {
             "Country": "United States",
             "Day": "Day 23",
-            "Deaths": 9622.0
+            "Deaths": 10895.0
         },
         {
             "Country": "United States",
             "Day": "Day 24",
-            "Deaths": 10880.0
+            "Deaths": 12868.0
         },
         {
             "Country": "United States",
             "Day": "Day 25",
-            "Deaths": 12851.0
+            "Deaths": 14811.0
         },
         {
             "Country": "United States",
             "Day": "Day 26",
-            "Deaths": 14791.0
+            "Deaths": 16712.0
         },
         {
             "Country": "United States",
             "Day": "Day 27",
-            "Deaths": 16691.0
-        },
-        {
-            "Country": "United States",
-            "Day": "Day 28",
             "Deaths": 18747.0
         },
         {
             "Country": "United States",
-            "Day": "Day 29",
+            "Day": "Day 28",
             "Deaths": 20577.0
+        },
+        {
+            "Country": "United States",
+            "Day": "Day 29",
+            "Deaths": NaN
         },
         {
             "Country": "United States",
@@ -428,7 +428,7 @@
         {
             "Country": "Spain",
             "Day": "Day 33",
-            "Deaths": NaN
+            "Deaths": 17756.0
         },
         {
             "Country": "Spain",
@@ -593,17 +593,17 @@
         {
             "Country": "South Korea",
             "Day": "Day 35",
-            "Deaths": 217.0
+            "Deaths": 214.0
         },
         {
             "Country": "South Korea",
             "Day": "Day 36",
-            "Deaths": NaN
+            "Deaths": 217.0
         },
         {
             "Country": "South Korea",
             "Day": "Day 37",
-            "Deaths": NaN
+            "Deaths": 222.0
         },
         {
             "Country": "South Korea",
@@ -743,7 +743,7 @@
         {
             "Country": "Italy",
             "Day": "Day 34",
-            "Deaths": 15887.0
+            "Deaths": 15877.0
         },
         {
             "Country": "Italy",
@@ -848,7 +848,7 @@
         {
             "Country": "Germany",
             "Day": "Day 24",
-            "Deaths": NaN
+            "Deaths": 3194.0
         },
         {
             "Country": "Germany",
@@ -1043,7 +1043,7 @@
         {
             "Country": "France",
             "Day": "Day 32",
-            "Deaths": NaN
+            "Deaths": 14967.0
         },
         {
             "Country": "France",
@@ -1241,38 +1241,7 @@
             "Deaths": 3042.0
         }
     ],
-    "Google Mobility Change": [
-        {
-            "Activity": "Residential",
-            "Mobility Change": 0.15
-        },
-        {
-            "Activity": "Parks",
-            "Mobility Change": -0.29
-        },
-        {
-            "Activity": "Grocery and Pharmacy",
-            "Mobility Change": -0.41
-        },
-        {
-            "Activity": "Workplaces",
-            "Mobility Change": -0.54
-        },
-        {
-            "Activity": "Transport Stations",
-            "Mobility Change": -0.7
-        },
-        {
-            "Activity": "Retail and recreation",
-            "Mobility Change": -0.85
-        }
-    ],
     "Hospital Beds": [
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Hospital Admissions": 131,
-            "Region": "East of England"
-        },
         {
             "Day of Date": "2020-03-24 00:00:00",
             "Hospital Admissions": 150,
@@ -1344,6 +1313,11 @@
             "Region": "East of England"
         },
         {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Admissions": 1268,
+            "Region": "East of England"
+        },
+        {
             "Day of Date": "2020-04-09 00:00:00",
             "Hospital Admissions": 1272,
             "Region": "East of England"
@@ -1372,11 +1346,6 @@
             "Day of Date": "2020-04-12 00:00:00",
             "Hospital Admissions": 1484,
             "Region": "East of England"
-        },
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Hospital Admissions": 1515,
-            "Region": "London"
         },
         {
             "Day of Date": "2020-03-24 00:00:00",
@@ -1439,6 +1408,11 @@
             "Region": "London"
         },
         {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Admissions": 4248,
+            "Region": "London"
+        },
+        {
             "Day of Date": "2020-04-04 00:00:00",
             "Hospital Admissions": 4406,
             "Region": "London"
@@ -1477,11 +1451,6 @@
             "Day of Date": "2020-04-08 00:00:00",
             "Hospital Admissions": 4813,
             "Region": "London"
-        },
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Hospital Admissions": 436,
-            "Region": "Midlands"
         },
         {
             "Day of Date": "2020-03-24 00:00:00",
@@ -1549,6 +1518,11 @@
             "Region": "Midlands"
         },
         {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Admissions": 2975,
+            "Region": "Midlands"
+        },
+        {
             "Day of Date": "2020-04-09 00:00:00",
             "Hospital Admissions": 2999,
             "Region": "Midlands"
@@ -1582,11 +1556,6 @@
             "Day of Date": "2020-04-10 00:00:00",
             "Hospital Admissions": 3101,
             "Region": "Midlands"
-        },
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Hospital Admissions": 190,
-            "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-03-24 00:00:00",
@@ -1684,14 +1653,14 @@
             "Region": "North East & Yorkshire"
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Admissions": 2567,
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Admissions": 2470,
             "Region": "North East & Yorkshire"
         },
         {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Hospital Admissions": 236,
-            "Region": "North West"
+            "Day of Date": "2020-04-09 00:00:00",
+            "Hospital Admissions": 2567,
+            "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-03-24 00:00:00",
@@ -1794,6 +1763,11 @@
             "Region": "North West"
         },
         {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Admissions": 2890,
+            "Region": "North West"
+        },
+        {
             "Day of Date": "2020-03-26 00:00:00",
             "Hospital Admissions": 575,
             "Region": "Scotland"
@@ -1874,6 +1848,11 @@
             "Region": "Scotland"
         },
         {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Admissions": 1797,
+            "Region": "Scotland"
+        },
+        {
             "Day of Date": "2020-04-10 00:00:00",
             "Hospital Admissions": 1832,
             "Region": "Scotland"
@@ -1882,11 +1861,6 @@
             "Day of Date": "2020-04-11 00:00:00",
             "Hospital Admissions": 1855,
             "Region": "Scotland"
-        },
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Hospital Admissions": 449,
-            "Region": "South East"
         },
         {
             "Day of Date": "2020-03-24 00:00:00",
@@ -1974,6 +1948,11 @@
             "Region": "South East"
         },
         {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Admissions": 2049,
+            "Region": "South East"
+        },
+        {
             "Day of Date": "2020-04-12 00:00:00",
             "Hospital Admissions": 2053,
             "Region": "South East"
@@ -1987,11 +1966,6 @@
             "Day of Date": "2020-04-07 00:00:00",
             "Hospital Admissions": 2073,
             "Region": "South East"
-        },
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Hospital Admissions": 140,
-            "Region": "South West"
         },
         {
             "Day of Date": "2020-03-24 00:00:00",
@@ -2089,6 +2063,11 @@
             "Region": "South West"
         },
         {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Admissions": 822,
+            "Region": "South West"
+        },
+        {
             "Day of Date": "2020-04-12 00:00:00",
             "Hospital Admissions": 833,
             "Region": "South West"
@@ -2179,6 +2158,11 @@
             "Region": "Wales"
         },
         {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Admissions": 1187,
+            "Region": "Wales"
+        },
+        {
             "Day of Date": "2020-04-11 00:00:00",
             "Hospital Admissions": 1209,
             "Region": "Wales"
@@ -2194,7 +2178,7 @@
             "Region": "Wales"
         }
     ],
-    "New Cases": [
+    "New UK Cases": [
         {
             "Pillar": "Pillar 2",
             "cases": 5,
@@ -2284,6 +2268,11 @@
             "Pillar": "Pillar 2",
             "cases": 799,
             "date_text": "2020-04-13 00:00:00"
+        },
+        {
+            "Pillar": "Pillar 2",
+            "cases": 784,
+            "date_text": "2020-04-14 00:00:00"
         },
         {
             "Pillar": "Pillar 1",
@@ -2404,6 +2393,663 @@
             "Pillar": "Pillar 1",
             "cases": 3543,
             "date_text": "2020-04-13 00:00:00"
+        },
+        {
+            "Pillar": "Pillar 1",
+            "cases": 4468,
+            "date_text": "2020-04-14 00:00:00"
+        }
+    ],
+    "Transport Use Change": [
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Percentage": 0.24,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Percentage": 0.25,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Percentage": 0.27,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Percentage": 0.27,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Percentage": 0.3,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Percentage": 0.31,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Percentage": 0.31,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Percentage": 0.35,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Percentage": 0.35,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Percentage": 0.36,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Percentage": 0.36,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Percentage": 0.36,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Percentage": 0.36,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Percentage": 0.37,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Percentage": 0.37,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Percentage": 0.38,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-26 00:00:00",
+            "Percentage": 0.39,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Percentage": 0.39,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-25 00:00:00",
+            "Percentage": 0.42,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-24 00:00:00",
+            "Percentage": 0.49,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-22 00:00:00",
+            "Percentage": 0.69,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-23 00:00:00",
+            "Percentage": 0.69,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-21 00:00:00",
+            "Percentage": 0.73,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-20 00:00:00",
+            "Percentage": 0.81,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-19 00:00:00",
+            "Percentage": 0.82,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-03-18 00:00:00",
+            "Percentage": 0.83,
+            "Transport Type": "All motor vehicles - \"Motor\""
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Percentage": 0.13,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Percentage": 0.13,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-26 00:00:00",
+            "Percentage": 0.18,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Percentage": 0.18,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Percentage": 0.18,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Percentage": 0.18,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Percentage": 0.18,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-25 00:00:00",
+            "Percentage": 0.19,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-24 00:00:00",
+            "Percentage": 0.22,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-23 00:00:00",
+            "Percentage": 0.31,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-22 00:00:00",
+            "Percentage": 0.32,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-21 00:00:00",
+            "Percentage": 0.39,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-20 00:00:00",
+            "Percentage": 0.52,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-19 00:00:00",
+            "Percentage": 0.59,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-03-18 00:00:00",
+            "Percentage": 0.65,
+            "Transport Type": "Transport for London Bus - \"TfL Bus\""
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Percentage": 0.1,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Percentage": 0.1,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Percentage": 0.1,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-26 00:00:00",
+            "Percentage": 0.13,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Percentage": 0.13,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-25 00:00:00",
+            "Percentage": 0.14,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Percentage": 0.14,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-24 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-23 00:00:00",
+            "Percentage": 0.27,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-22 00:00:00",
+            "Percentage": 0.35,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-21 00:00:00",
+            "Percentage": 0.4,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-20 00:00:00",
+            "Percentage": 0.53,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-19 00:00:00",
+            "Percentage": 0.58,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-03-18 00:00:00",
+            "Percentage": 0.62,
+            "Transport Type": "Bus (excl. London) - \"Bus\""
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Percentage": 0.07,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Percentage": 0.09,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Percentage": 0.1,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-26 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-25 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-24 00:00:00",
+            "Percentage": 0.24,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-23 00:00:00",
+            "Percentage": 0.28,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-22 00:00:00",
+            "Percentage": 0.35,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-21 00:00:00",
+            "Percentage": 0.38,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-20 00:00:00",
+            "Percentage": 0.44,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-19 00:00:00",
+            "Percentage": 0.52,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-03-18 00:00:00",
+            "Percentage": 0.59,
+            "Transport Type": "National rail - \"Rail\""
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-26 00:00:00",
+            "Percentage": 0.06,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Percentage": 0.06,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Percentage": 0.06,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-25 00:00:00",
+            "Percentage": 0.07,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-24 00:00:00",
+            "Percentage": 0.09,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-22 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-21 00:00:00",
+            "Percentage": 0.13,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-23 00:00:00",
+            "Percentage": 0.15,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-20 00:00:00",
+            "Percentage": 0.24,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-19 00:00:00",
+            "Percentage": 0.3,
+            "Transport Type": "Transport for London Tube - \"Tube\""
+        },
+        {
+            "Day of Date": "2020-03-18 00:00:00",
+            "Percentage": 0.35,
+            "Transport Type": "Transport for London Tube - \"Tube\""
         }
     ]
 }
