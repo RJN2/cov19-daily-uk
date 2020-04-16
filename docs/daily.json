@@ -1,2499 +1,2691 @@
 {
-    "Global Comparisons": [
+    "Global comparisons": [
         {
-            "Country": "United Kingdom",
-            "Day": "Day 10",
-            "Deaths": 578.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 11",
-            "Deaths": 759.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 12",
-            "Deaths": 1022.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 13",
-            "Deaths": 1228.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 14",
-            "Deaths": 1408.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 15",
-            "Deaths": 1789.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 16",
-            "Deaths": 2352.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 17",
-            "Deaths": 2921.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 18",
-            "Deaths": 3605.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 19",
-            "Deaths": 4313.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 20",
-            "Deaths": 4934.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 21",
-            "Deaths": 5373.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 22",
-            "Deaths": 6159.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 23",
-            "Deaths": 7097.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 24",
-            "Deaths": 7978.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 25",
-            "Deaths": 8958.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 26",
-            "Deaths": 9875.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 27",
-            "Deaths": 10612.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 28",
-            "Deaths": 11329.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 29",
-            "Deaths": 12107.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 30",
-            "Deaths": 12868.0
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 31",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 32",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 33",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 34",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 35",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 36",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 37",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 38",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 39",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United Kingdom",
-            "Day": "Day 40",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 10",
-            "Deaths": 1041.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 11",
-            "Deaths": 1312.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 12",
-            "Deaths": 1651.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 13",
-            "Deaths": 2028.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 14",
-            "Deaths": 2438.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 15",
-            "Deaths": 2907.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 16",
-            "Deaths": 3451.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 17",
-            "Deaths": 4091.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 18",
-            "Deaths": 4743.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 19",
-            "Deaths": 5423.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 20",
-            "Deaths": 5979.0
-        },
-        {
-            "Country": "England",
-            "Day": "Day 21",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 22",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 23",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 24",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 25",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 26",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 27",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 28",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 29",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 30",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 31",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 32",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 33",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 34",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 35",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 36",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 37",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 38",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 39",
-            "Deaths": NaN
-        },
-        {
-            "Country": "England",
-            "Day": "Day 40",
-            "Deaths": NaN
+            "Country": "UK (hospitals only)",
+            "Day_number": 10,
+            "Deaths": 578
         },
         {
             "Country": "United States",
-            "Day": "Day 10",
-            "Deaths": 706.0
+            "Day_number": 10,
+            "Deaths": 706
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 10,
+            "Deaths": 1375
+        },
+        {
+            "Country": "France",
+            "Day_number": 10,
+            "Deaths": 860
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 10,
+            "Deaths": 827
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 10,
+            "Deaths": 645
+        },
+        {
+            "Country": "China",
+            "Day_number": 10,
+            "Deaths": 562
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 10,
+            "Deaths": 373
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 10,
+            "Deaths": 84
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 11,
+            "Deaths": 759
+        },
+        {
+            "Country": "UK (all settings)",
+            "Day_number": 11,
+            "Deaths": 725
         },
         {
             "Country": "United States",
-            "Day": "Day 11",
-            "Deaths": 942.0
+            "Day_number": 11,
+            "Deaths": 942
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 11,
+            "Deaths": 1772
+        },
+        {
+            "Country": "France",
+            "Day_number": 11,
+            "Deaths": 1100
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 11,
+            "Deaths": 1266
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 11,
+            "Deaths": 775
+        },
+        {
+            "Country": "China",
+            "Day_number": 11,
+            "Deaths": 632
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 11,
+            "Deaths": 401
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 11,
+            "Deaths": 91
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 12,
+            "Deaths": 1022
         },
         {
             "Country": "United States",
-            "Day": "Day 12",
-            "Deaths": 1209.0
+            "Day_number": 12,
+            "Deaths": 1209
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 12,
+            "Deaths": 2311
+        },
+        {
+            "Country": "France",
+            "Day_number": 12,
+            "Deaths": 1331
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 12,
+            "Deaths": 1441
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 12,
+            "Deaths": 920
+        },
+        {
+            "Country": "China",
+            "Day_number": 12,
+            "Deaths": 717
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 12,
+            "Deaths": 477
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 12,
+            "Deaths": 94
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 13,
+            "Deaths": 1228
         },
         {
             "Country": "United States",
-            "Day": "Day 13",
-            "Deaths": 1581.0
+            "Day_number": 13,
+            "Deaths": 1581
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 13,
+            "Deaths": 2808
+        },
+        {
+            "Country": "France",
+            "Day_number": 13,
+            "Deaths": 1696
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 13,
+            "Deaths": 1809
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 13,
+            "Deaths": 1107
+        },
+        {
+            "Country": "China",
+            "Day_number": 13,
+            "Deaths": 804
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 13,
+            "Deaths": 591
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 13,
+            "Deaths": 102
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 14,
+            "Deaths": 1408
         },
         {
             "Country": "United States",
-            "Day": "Day 14",
-            "Deaths": 2026.0
+            "Day_number": 14,
+            "Deaths": 2026
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 14,
+            "Deaths": 3647
+        },
+        {
+            "Country": "France",
+            "Day_number": 14,
+            "Deaths": 1995
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 14,
+            "Deaths": 2158
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 14,
+            "Deaths": 1275
+        },
+        {
+            "Country": "China",
+            "Day_number": 14,
+            "Deaths": 904
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 14,
+            "Deaths": 687
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 14,
+            "Deaths": 111
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 15,
+            "Deaths": 1789
         },
         {
             "Country": "United States",
-            "Day": "Day 15",
-            "Deaths": 2467.0
+            "Day_number": 15,
+            "Deaths": 2467
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 15,
+            "Deaths": 4365
+        },
+        {
+            "Country": "France",
+            "Day_number": 15,
+            "Deaths": 2314
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 15,
+            "Deaths": 2503
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 15,
+            "Deaths": 1444
+        },
+        {
+            "Country": "China",
+            "Day_number": 15,
+            "Deaths": 1011
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 15,
+            "Deaths": 793
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 15,
+            "Deaths": 111
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 16,
+            "Deaths": 2352
         },
         {
             "Country": "United States",
-            "Day": "Day 16",
-            "Deaths": 2978.0
+            "Day_number": 16,
+            "Deaths": 2978
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 16,
+            "Deaths": 5138
+        },
+        {
+            "Country": "France",
+            "Day_number": 16,
+            "Deaths": 2606
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 16,
+            "Deaths": 2978
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 16,
+            "Deaths": 1584
+        },
+        {
+            "Country": "China",
+            "Day_number": 16,
+            "Deaths": 1111
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 16,
+            "Deaths": 870
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 16,
+            "Deaths": 120
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 17,
+            "Deaths": 2921
         },
         {
             "Country": "United States",
-            "Day": "Day 17",
-            "Deaths": 3873.0
+            "Day_number": 17,
+            "Deaths": 3873
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 17,
+            "Deaths": 5982
+        },
+        {
+            "Country": "France",
+            "Day_number": 17,
+            "Deaths": 3024
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 17,
+            "Deaths": 3405
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 17,
+            "Deaths": 1810
+        },
+        {
+            "Country": "China",
+            "Day_number": 17,
+            "Deaths": 1116
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 17,
+            "Deaths": 887
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 17,
+            "Deaths": 126
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 18,
+            "Deaths": 3605
+        },
+        {
+            "Country": "UK (all settings)",
+            "Day_number": 18,
+            "Deaths": 4526
         },
         {
             "Country": "United States",
-            "Day": "Day 18",
-            "Deaths": 4757.0
+            "Day_number": 18,
+            "Deaths": 4757
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 18,
+            "Deaths": 6803
+        },
+        {
+            "Country": "France",
+            "Day_number": 18,
+            "Deaths": 3523
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 18,
+            "Deaths": 4032
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 18,
+            "Deaths": 2016
+        },
+        {
+            "Country": "China",
+            "Day_number": 18,
+            "Deaths": 1368
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 18,
+            "Deaths": 899
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 18,
+            "Deaths": 131
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 19,
+            "Deaths": 4313
         },
         {
             "Country": "United States",
-            "Day": "Day 19",
-            "Deaths": 5926.0
+            "Day_number": 19,
+            "Deaths": 5926
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 19,
+            "Deaths": 7716
+        },
+        {
+            "Country": "France",
+            "Day_number": 19,
+            "Deaths": 4032
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 19,
+            "Deaths": 4825
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 19,
+            "Deaths": 2349
+        },
+        {
+            "Country": "China",
+            "Day_number": 19,
+            "Deaths": 1520
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 19,
+            "Deaths": 919
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 19,
+            "Deaths": 139
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 20,
+            "Deaths": 4934
         },
         {
             "Country": "United States",
-            "Day": "Day 20",
-            "Deaths": 7087.0
+            "Day_number": 20,
+            "Deaths": 7087
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 20,
+            "Deaths": 8464
+        },
+        {
+            "Country": "France",
+            "Day_number": 20,
+            "Deaths": 5387
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 20,
+            "Deaths": 5476
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 20,
+            "Deaths": 2607
+        },
+        {
+            "Country": "China",
+            "Day_number": 20,
+            "Deaths": 1662
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 20,
+            "Deaths": 1033
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 20,
+            "Deaths": 144
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 21,
+            "Deaths": 5373
         },
         {
             "Country": "United States",
-            "Day": "Day 21",
-            "Deaths": 8407.0
+            "Day_number": 21,
+            "Deaths": 8407
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 21,
+            "Deaths": 9387
+        },
+        {
+            "Country": "France",
+            "Day_number": 21,
+            "Deaths": 6507
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 21,
+            "Deaths": 6077
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 21,
+            "Deaths": 2767
+        },
+        {
+            "Country": "China",
+            "Day_number": 21,
+            "Deaths": 1765
+        },
+        {
+            "Country": "Sweden",
+            "Day_number": 21,
+            "Deaths": 1203
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 21,
+            "Deaths": 152
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 22,
+            "Deaths": 6159
         },
         {
             "Country": "United States",
-            "Day": "Day 22",
-            "Deaths": 9619.0
+            "Day_number": 22,
+            "Deaths": 9619
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 22,
+            "Deaths": 10348
+        },
+        {
+            "Country": "France",
+            "Day_number": 22,
+            "Deaths": 7560
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 22,
+            "Deaths": 6820
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 22,
+            "Deaths": 2736
+        },
+        {
+            "Country": "China",
+            "Day_number": 22,
+            "Deaths": 1863
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 22,
+            "Deaths": 158
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 23,
+            "Deaths": 7097
         },
         {
             "Country": "United States",
-            "Day": "Day 23",
-            "Deaths": 10783.0
+            "Day_number": 23,
+            "Deaths": 10783
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 23,
+            "Deaths": 11198
+        },
+        {
+            "Country": "France",
+            "Day_number": 23,
+            "Deaths": 8078
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 23,
+            "Deaths": 7503
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 23,
+            "Deaths": 3022
+        },
+        {
+            "Country": "China",
+            "Day_number": 23,
+            "Deaths": 2002
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 23,
+            "Deaths": 162
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 24,
+            "Deaths": 7978
         },
         {
             "Country": "United States",
-            "Day": "Day 24",
-            "Deaths": 12722.0
+            "Day_number": 24,
+            "Deaths": 12722
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 24,
+            "Deaths": 11947
+        },
+        {
+            "Country": "France",
+            "Day_number": 24,
+            "Deaths": 8911
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 24,
+            "Deaths": 8215
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 24,
+            "Deaths": 3194
+        },
+        {
+            "Country": "China",
+            "Day_number": 24,
+            "Deaths": 2114
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 24,
+            "Deaths": 165
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 25,
+            "Deaths": 8958
         },
         {
             "Country": "United States",
-            "Day": "Day 25",
-            "Deaths": 14695.0
+            "Day_number": 25,
+            "Deaths": 14695
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 25,
+            "Deaths": 12641
+        },
+        {
+            "Country": "France",
+            "Day_number": 25,
+            "Deaths": 10328
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 25,
+            "Deaths": 9134
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 25,
+            "Deaths": 3294
+        },
+        {
+            "Country": "China",
+            "Day_number": 25,
+            "Deaths": 2236
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 25,
+            "Deaths": 169
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 26,
+            "Deaths": 9875
         },
         {
             "Country": "United States",
-            "Day": "Day 26",
-            "Deaths": 16478.0
+            "Day_number": 26,
+            "Deaths": 16478
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 26,
+            "Deaths": 13341
+        },
+        {
+            "Country": "France",
+            "Day_number": 26,
+            "Deaths": 10869
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 26,
+            "Deaths": 10023
+        },
+        {
+            "Country": "Germany",
+            "Day_number": 26,
+            "Deaths": 3804
+        },
+        {
+            "Country": "China",
+            "Day_number": 26,
+            "Deaths": 2236
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 26,
+            "Deaths": 174
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 27,
+            "Deaths": 10612
         },
         {
             "Country": "United States",
-            "Day": "Day 27",
-            "Deaths": 18586.0
+            "Day_number": 27,
+            "Deaths": 18586
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 27,
+            "Deaths": 14045
+        },
+        {
+            "Country": "France",
+            "Day_number": 27,
+            "Deaths": 12210
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 27,
+            "Deaths": 10779
+        },
+        {
+            "Country": "China",
+            "Day_number": 27,
+            "Deaths": 2441
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 27,
+            "Deaths": 177
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 28,
+            "Deaths": 11329
         },
         {
             "Country": "United States",
-            "Day": "Day 28",
-            "Deaths": 20463.0
+            "Day_number": 28,
+            "Deaths": 20463
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 28,
+            "Deaths": 14792
+        },
+        {
+            "Country": "France",
+            "Day_number": 28,
+            "Deaths": 13197
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 28,
+            "Deaths": 11591
+        },
+        {
+            "Country": "China",
+            "Day_number": 28,
+            "Deaths": 2443
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 28,
+            "Deaths": 183
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 29,
+            "Deaths": 12107
         },
         {
             "Country": "United States",
-            "Day": "Day 29",
-            "Deaths": 22020.0
+            "Day_number": 29,
+            "Deaths": 22020
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 29,
+            "Deaths": 15447
+        },
+        {
+            "Country": "France",
+            "Day_number": 29,
+            "Deaths": 13832
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 29,
+            "Deaths": 12428
+        },
+        {
+            "Country": "China",
+            "Day_number": 29,
+            "Deaths": 2593
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 29,
+            "Deaths": 186
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 30,
+            "Deaths": 12868
         },
         {
             "Country": "United States",
-            "Day": "Day 30",
-            "Deaths": 23529.0
+            "Day_number": 30,
+            "Deaths": 23529
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 30,
+            "Deaths": 16081
+        },
+        {
+            "Country": "France",
+            "Day_number": 30,
+            "Deaths": 14393
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 30,
+            "Deaths": 13155
+        },
+        {
+            "Country": "China",
+            "Day_number": 30,
+            "Deaths": 2663
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 30,
+            "Deaths": 192
+        },
+        {
+            "Country": "UK (hospitals only)",
+            "Day_number": 31,
+            "Deaths": 13729
         },
         {
             "Country": "United States",
-            "Day": "Day 31",
-            "Deaths": 25671.0
+            "Day_number": 31,
+            "Deaths": 25671
+        },
+        {
+            "Country": "Spain",
+            "Day_number": 31,
+            "Deaths": 16606
+        },
+        {
+            "Country": "France",
+            "Day_number": 31,
+            "Deaths": 14967
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 31,
+            "Deaths": 13915
+        },
+        {
+            "Country": "China",
+            "Day_number": 31,
+            "Deaths": 2715
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 31,
+            "Deaths": 200
         },
         {
             "Country": "United States",
-            "Day": "Day 32",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United States",
-            "Day": "Day 33",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United States",
-            "Day": "Day 34",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United States",
-            "Day": "Day 35",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United States",
-            "Day": "Day 36",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United States",
-            "Day": "Day 37",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United States",
-            "Day": "Day 38",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United States",
-            "Day": "Day 39",
-            "Deaths": NaN
-        },
-        {
-            "Country": "United States",
-            "Day": "Day 40",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 10",
-            "Deaths": 373.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 11",
-            "Deaths": 401.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 12",
-            "Deaths": 477.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 13",
-            "Deaths": 591.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 14",
-            "Deaths": 687.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 15",
-            "Deaths": 793.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 16",
-            "Deaths": 870.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 17",
-            "Deaths": 887.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 18",
-            "Deaths": 899.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 19",
-            "Deaths": 919.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 20",
-            "Deaths": 1033.0
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 21",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 22",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 23",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 24",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 25",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 26",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 27",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 28",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 29",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 30",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 31",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 32",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 33",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 34",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 35",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 36",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 37",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 38",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 39",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Sweden",
-            "Day": "Day 40",
-            "Deaths": NaN
+            "Day_number": 32,
+            "Deaths": 28326
         },
         {
             "Country": "Spain",
-            "Day": "Day 10",
-            "Deaths": 1375.0
+            "Day_number": 32,
+            "Deaths": 17209
+        },
+        {
+            "Country": "France",
+            "Day_number": 32,
+            "Deaths": 15729
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 32,
+            "Deaths": 14681
+        },
+        {
+            "Country": "China",
+            "Day_number": 32,
+            "Deaths": 2744
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 32,
+            "Deaths": 204
         },
         {
             "Country": "Spain",
-            "Day": "Day 11",
-            "Deaths": 1772.0
+            "Day_number": 33,
+            "Deaths": 17756
+        },
+        {
+            "Country": "France",
+            "Day_number": 33,
+            "Deaths": 17167
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 33,
+            "Deaths": 15362
+        },
+        {
+            "Country": "China",
+            "Day_number": 33,
+            "Deaths": 2788
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 33,
+            "Deaths": 208
         },
         {
             "Country": "Spain",
-            "Day": "Day 12",
-            "Deaths": 2311.0
+            "Day_number": 34,
+            "Deaths": 18056
+        },
+        {
+            "Country": "Italy",
+            "Day_number": 34,
+            "Deaths": 15887
+        },
+        {
+            "Country": "China",
+            "Day_number": 34,
+            "Deaths": 2835
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 34,
+            "Deaths": 211
         },
         {
             "Country": "Spain",
-            "Day": "Day 13",
-            "Deaths": 2808.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 14",
-            "Deaths": 3647.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 15",
-            "Deaths": 4365.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 16",
-            "Deaths": 5138.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 17",
-            "Deaths": 5982.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 18",
-            "Deaths": 6803.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 19",
-            "Deaths": 7716.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 20",
-            "Deaths": 8464.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 21",
-            "Deaths": 9387.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 22",
-            "Deaths": 10348.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 23",
-            "Deaths": 11198.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 24",
-            "Deaths": 11947.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 25",
-            "Deaths": 12641.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 26",
-            "Deaths": 13341.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 27",
-            "Deaths": 14045.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 28",
-            "Deaths": 14792.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 29",
-            "Deaths": 15447.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 30",
-            "Deaths": 16081.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 31",
-            "Deaths": 16606.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 32",
-            "Deaths": 17209.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 33",
-            "Deaths": 17756.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 34",
-            "Deaths": 18056.0
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 35",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 36",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 37",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 38",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 39",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Spain",
-            "Day": "Day 40",
-            "Deaths": NaN
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 10",
-            "Deaths": 84.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 11",
-            "Deaths": 91.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 12",
-            "Deaths": 94.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 13",
-            "Deaths": 102.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 14",
-            "Deaths": 111.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 15",
-            "Deaths": 111.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 16",
-            "Deaths": 120.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 17",
-            "Deaths": 126.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 18",
-            "Deaths": 131.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 19",
-            "Deaths": 139.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 20",
-            "Deaths": 144.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 21",
-            "Deaths": 152.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 22",
-            "Deaths": 158.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 23",
-            "Deaths": 162.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 24",
-            "Deaths": 165.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 25",
-            "Deaths": 169.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 26",
-            "Deaths": 174.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 27",
-            "Deaths": 177.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 28",
-            "Deaths": 183.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 29",
-            "Deaths": 186.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 30",
-            "Deaths": 192.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 31",
-            "Deaths": 200.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 32",
-            "Deaths": 204.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 33",
-            "Deaths": 208.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 34",
-            "Deaths": 211.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 35",
-            "Deaths": 214.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 36",
-            "Deaths": 217.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 37",
-            "Deaths": 222.0
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 38",
-            "Deaths": NaN
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 39",
-            "Deaths": NaN
-        },
-        {
-            "Country": "South Korea",
-            "Day": "Day 40",
-            "Deaths": NaN
+            "Day_number": 35,
+            "Deaths": 18708
         },
         {
             "Country": "Italy",
-            "Day": "Day 10",
-            "Deaths": 827.0
+            "Day_number": 35,
+            "Deaths": 16523
+        },
+        {
+            "Country": "China",
+            "Day_number": 35,
+            "Deaths": 2870
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 35,
+            "Deaths": 214
         },
         {
             "Country": "Italy",
-            "Day": "Day 11",
-            "Deaths": 1266.0
+            "Day_number": 36,
+            "Deaths": 17127
+        },
+        {
+            "Country": "China",
+            "Day_number": 36,
+            "Deaths": 2912
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 36,
+            "Deaths": 217
         },
         {
             "Country": "Italy",
-            "Day": "Day 12",
-            "Deaths": 1441.0
+            "Day_number": 37,
+            "Deaths": 17669
+        },
+        {
+            "Country": "China",
+            "Day_number": 37,
+            "Deaths": 2945
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 37,
+            "Deaths": 222
         },
         {
             "Country": "Italy",
-            "Day": "Day 13",
-            "Deaths": 1809.0
+            "Day_number": 38,
+            "Deaths": 18279
+        },
+        {
+            "Country": "China",
+            "Day_number": 38,
+            "Deaths": 2981
+        },
+        {
+            "Country": "South Korea",
+            "Day_number": 38,
+            "Deaths": 225
         },
         {
             "Country": "Italy",
-            "Day": "Day 14",
-            "Deaths": 2158.0
+            "Day_number": 39,
+            "Deaths": 18849
+        },
+        {
+            "Country": "China",
+            "Day_number": 39,
+            "Deaths": 3013
         },
         {
             "Country": "Italy",
-            "Day": "Day 15",
-            "Deaths": 2503.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 16",
-            "Deaths": 2978.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 17",
-            "Deaths": 3405.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 18",
-            "Deaths": 4032.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 19",
-            "Deaths": 4825.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 20",
-            "Deaths": 5476.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 21",
-            "Deaths": 6077.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 22",
-            "Deaths": 6820.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 23",
-            "Deaths": 7503.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 24",
-            "Deaths": 8215.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 25",
-            "Deaths": 9134.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 26",
-            "Deaths": 10023.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 27",
-            "Deaths": 10779.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 28",
-            "Deaths": 11591.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 29",
-            "Deaths": 12428.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 30",
-            "Deaths": 13155.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 31",
-            "Deaths": 13915.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 32",
-            "Deaths": 14681.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 33",
-            "Deaths": 15362.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 34",
-            "Deaths": 15887.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 35",
-            "Deaths": 16523.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 36",
-            "Deaths": 17127.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 37",
-            "Deaths": 17669.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 38",
-            "Deaths": 18279.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 39",
-            "Deaths": 18849.0
-        },
-        {
-            "Country": "Italy",
-            "Day": "Day 40",
-            "Deaths": 19468.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 10",
-            "Deaths": 645.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 11",
-            "Deaths": 775.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 12",
-            "Deaths": 920.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 13",
-            "Deaths": 1107.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 14",
-            "Deaths": 1275.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 15",
-            "Deaths": 1444.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 16",
-            "Deaths": 1584.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 17",
-            "Deaths": 1810.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 18",
-            "Deaths": 2016.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 19",
-            "Deaths": 2349.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 20",
-            "Deaths": 2607.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 21",
-            "Deaths": 2767.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 22",
-            "Deaths": 2736.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 23",
-            "Deaths": 3022.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 24",
-            "Deaths": 3194.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 25",
-            "Deaths": 3294.0
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 26",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 27",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 28",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 29",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 30",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 31",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 32",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 33",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 34",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 35",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 36",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 37",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 38",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 39",
-            "Deaths": NaN
-        },
-        {
-            "Country": "Germany",
-            "Day": "Day 40",
-            "Deaths": NaN
-        },
-        {
-            "Country": "France",
-            "Day": "Day 10",
-            "Deaths": 860.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 11",
-            "Deaths": 1100.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 12",
-            "Deaths": 1331.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 13",
-            "Deaths": 1696.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 14",
-            "Deaths": 1995.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 15",
-            "Deaths": 2314.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 16",
-            "Deaths": 2606.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 17",
-            "Deaths": 3024.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 18",
-            "Deaths": 3523.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 19",
-            "Deaths": 4032.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 20",
-            "Deaths": 5387.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 21",
-            "Deaths": 6507.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 22",
-            "Deaths": 7560.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 23",
-            "Deaths": 8078.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 24",
-            "Deaths": 8911.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 25",
-            "Deaths": 10328.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 26",
-            "Deaths": 10869.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 27",
-            "Deaths": 12210.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 28",
-            "Deaths": 13197.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 29",
-            "Deaths": 13832.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 30",
-            "Deaths": 14393.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 31",
-            "Deaths": 14967.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 32",
-            "Deaths": 15729.0
-        },
-        {
-            "Country": "France",
-            "Day": "Day 33",
-            "Deaths": NaN
-        },
-        {
-            "Country": "France",
-            "Day": "Day 34",
-            "Deaths": NaN
-        },
-        {
-            "Country": "France",
-            "Day": "Day 35",
-            "Deaths": NaN
-        },
-        {
-            "Country": "France",
-            "Day": "Day 36",
-            "Deaths": NaN
-        },
-        {
-            "Country": "France",
-            "Day": "Day 37",
-            "Deaths": NaN
-        },
-        {
-            "Country": "France",
-            "Day": "Day 38",
-            "Deaths": NaN
-        },
-        {
-            "Country": "France",
-            "Day": "Day 39",
-            "Deaths": NaN
-        },
-        {
-            "Country": "France",
-            "Day": "Day 40",
-            "Deaths": NaN
+            "Day_number": 40,
+            "Deaths": 19468
         },
         {
             "Country": "China",
-            "Day": "Day 10",
-            "Deaths": 562.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 11",
-            "Deaths": 632.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 12",
-            "Deaths": 717.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 13",
-            "Deaths": 804.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 14",
-            "Deaths": 904.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 15",
-            "Deaths": 1011.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 16",
-            "Deaths": 1111.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 17",
-            "Deaths": 1116.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 18",
-            "Deaths": 1368.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 19",
-            "Deaths": 1520.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 20",
-            "Deaths": 1662.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 21",
-            "Deaths": 1765.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 22",
-            "Deaths": 1863.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 23",
-            "Deaths": 2002.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 24",
-            "Deaths": 2114.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 25",
-            "Deaths": 2236.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 26",
-            "Deaths": 2236.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 27",
-            "Deaths": 2441.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 28",
-            "Deaths": 2443.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 29",
-            "Deaths": 2593.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 30",
-            "Deaths": 2663.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 31",
-            "Deaths": 2715.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 32",
-            "Deaths": 2744.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 33",
-            "Deaths": 2788.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 34",
-            "Deaths": 2835.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 35",
-            "Deaths": 2870.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 36",
-            "Deaths": 2912.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 37",
-            "Deaths": 2945.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 38",
-            "Deaths": 2981.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 39",
-            "Deaths": 3013.0
-        },
-        {
-            "Country": "China",
-            "Day": "Day 40",
-            "Deaths": 3042.0
+            "Day_number": 40,
+            "Deaths": 3042
         }
     ],
-    "Hospital Admissions": [
-        {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Hospital Admissions": 191,
-            "Region": "East of England"
-        },
+    "Hospital beds": [
         {
             "Day of Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 290,
+            "Hospital Beds": 290,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 336,
+            "Hospital Beds": 336,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 423,
+            "Hospital Beds": 423,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 475,
+            "Hospital Beds": 475,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 617,
+            "Hospital Beds": 617,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 779,
+            "Hospital Beds": 779,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 796,
+            "Hospital Beds": 796,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 812,
+            "Hospital Beds": 812,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 870,
+            "Hospital Beds": 870,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Admissions": 931,
+            "Hospital Beds": 931,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Admissions": 1144,
+            "Hospital Beds": 1144,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Admissions": 1161,
+            "Hospital Beds": 1161,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Admissions": 1268,
+            "Hospital Beds": 1268,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Admissions": 1272,
+            "Hospital Beds": 1272,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Admissions": 1316,
+            "Hospital Beds": 1316,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Admissions": 1322,
+            "Hospital Beds": 1322,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Admissions": 1323,
+            "Hospital Beds": 1323,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Admissions": 1345,
+            "Hospital Beds": 1345,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Admissions": 1387,
+            "Hospital Beds": 1387,
+            "Region": "East of England"
+        },
+        {
+            "Day of Date": "2020-04-15 00:00:00",
+            "Hospital Beds": 1418,
             "Region": "East of England"
         },
         {
             "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Admissions": 1484,
+            "Hospital Beds": 1484,
             "Region": "East of England"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Hospital Admissions": 2019,
-            "Region": "London"
-        },
-        {
             "Day of Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 2417,
+            "Hospital Beds": 2417,
             "Region": "London"
         },
         {
             "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 2727,
+            "Hospital Beds": 2727,
             "Region": "London"
         },
         {
             "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 3002,
+            "Hospital Beds": 3002,
             "Region": "London"
         },
         {
             "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 3334,
+            "Hospital Beds": 3334,
             "Region": "London"
         },
         {
             "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 3492,
+            "Hospital Beds": 3492,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 3836,
+            "Hospital Beds": 3836,
+            "Region": "London"
+        },
+        {
+            "Day of Date": "2020-04-15 00:00:00",
+            "Hospital Beds": 3886,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 3893,
+            "Hospital Beds": 3893,
             "Region": "London"
         },
         {
             "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 3915,
+            "Hospital Beds": 3915,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Admissions": 4031,
+            "Hospital Beds": 4031,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 4065,
+            "Hospital Beds": 4065,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Admissions": 4194,
+            "Hospital Beds": 4194,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Admissions": 4248,
+            "Hospital Beds": 4248,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Admissions": 4406,
+            "Hospital Beds": 4406,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Admissions": 4430,
+            "Hospital Beds": 4430,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Admissions": 4433,
+            "Hospital Beds": 4433,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Admissions": 4571,
+            "Hospital Beds": 4571,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Admissions": 4656,
+            "Hospital Beds": 4656,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Admissions": 4689,
+            "Hospital Beds": 4689,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Admissions": 4736,
+            "Hospital Beds": 4736,
             "Region": "London"
         },
         {
             "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Admissions": 4813,
+            "Hospital Beds": 4813,
             "Region": "London"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Hospital Admissions": 688,
-            "Region": "Midlands"
-        },
-        {
             "Day of Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 964,
+            "Hospital Beds": 964,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 1054,
+            "Hospital Beds": 1054,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 1117,
+            "Hospital Beds": 1117,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 1312,
+            "Hospital Beds": 1312,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 1729,
+            "Hospital Beds": 1729,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 1799,
+            "Hospital Beds": 1799,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 1918,
+            "Hospital Beds": 1918,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 2138,
+            "Hospital Beds": 2138,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 2546,
+            "Hospital Beds": 2546,
+            "Region": "Midlands"
+        },
+        {
+            "Day of Date": "2020-04-15 00:00:00",
+            "Hospital Beds": 2756,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Admissions": 2768,
+            "Hospital Beds": 2768,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Admissions": 2895,
+            "Hospital Beds": 2895,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Admissions": 2975,
+            "Hospital Beds": 2975,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Admissions": 2989,
+            "Hospital Beds": 2989,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Admissions": 2999,
+            "Hospital Beds": 2999,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Admissions": 3042,
+            "Hospital Beds": 3042,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Admissions": 3062,
+            "Hospital Beds": 3062,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Admissions": 3070,
+            "Hospital Beds": 3070,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Admissions": 3086,
+            "Hospital Beds": 3086,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Admissions": 3092,
+            "Hospital Beds": 3092,
             "Region": "Midlands"
         },
         {
             "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Admissions": 3101,
+            "Hospital Beds": 3101,
             "Region": "Midlands"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Hospital Admissions": 307,
-            "Region": "North East & Yorkshire"
-        },
-        {
             "Day of Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 426,
+            "Hospital Beds": 426,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 532,
+            "Hospital Beds": 532,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 677,
+            "Hospital Beds": 677,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 804,
+            "Hospital Beds": 804,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 963,
+            "Hospital Beds": 963,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 1085,
+            "Hospital Beds": 1085,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 1254,
+            "Hospital Beds": 1254,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 1311,
+            "Hospital Beds": 1311,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 1771,
+            "Hospital Beds": 1771,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Admissions": 2013,
+            "Hospital Beds": 2013,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Admissions": 2041,
+            "Hospital Beds": 2041,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Admissions": 2113,
+            "Hospital Beds": 2113,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Admissions": 2218,
+            "Hospital Beds": 2218,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Admissions": 2304,
+            "Hospital Beds": 2304,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Admissions": 2319,
+            "Hospital Beds": 2319,
+            "Region": "North East & Yorkshire"
+        },
+        {
+            "Day of Date": "2020-04-15 00:00:00",
+            "Hospital Beds": 2400,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Admissions": 2422,
+            "Hospital Beds": 2422,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Admissions": 2431,
+            "Hospital Beds": 2431,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Admissions": 2440,
+            "Hospital Beds": 2440,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Admissions": 2470,
+            "Hospital Beds": 2470,
             "Region": "North East & Yorkshire"
         },
         {
             "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Admissions": 2567,
+            "Hospital Beds": 2567,
             "Region": "North East & Yorkshire"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Hospital Admissions": 332,
-            "Region": "North West"
-        },
-        {
             "Day of Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 372,
+            "Hospital Beds": 372,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 548,
+            "Hospital Beds": 548,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 654,
+            "Hospital Beds": 654,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 809,
+            "Hospital Beds": 809,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 964,
+            "Hospital Beds": 964,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 1110,
+            "Hospital Beds": 1110,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 1379,
+            "Hospital Beds": 1379,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 1392,
+            "Hospital Beds": 1392,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 1638,
+            "Hospital Beds": 1638,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Admissions": 2049,
+            "Hospital Beds": 2049,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Admissions": 2178,
+            "Hospital Beds": 2178,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Admissions": 2409,
+            "Hospital Beds": 2409,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Admissions": 2436,
+            "Hospital Beds": 2436,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Admissions": 2495,
+            "Hospital Beds": 2495,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Admissions": 2596,
+            "Hospital Beds": 2596,
+            "Region": "North West"
+        },
+        {
+            "Day of Date": "2020-04-15 00:00:00",
+            "Hospital Beds": 2655,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Admissions": 2721,
+            "Hospital Beds": 2721,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Admissions": 2830,
+            "Hospital Beds": 2830,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Admissions": 2837,
+            "Hospital Beds": 2837,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Admissions": 2842,
+            "Hospital Beds": 2842,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Admissions": 2890,
+            "Hospital Beds": 2890,
             "Region": "North West"
         },
         {
             "Day of Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 575,
+            "Hospital Beds": 575,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 672,
+            "Hospital Beds": 672,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 782,
+            "Hospital Beds": 782,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 859,
+            "Hospital Beds": 859,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 924,
+            "Hospital Beds": 924,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 1073,
+            "Hospital Beds": 1073,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 1153,
+            "Hospital Beds": 1153,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 1282,
+            "Hospital Beds": 1282,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 1321,
+            "Hospital Beds": 1321,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Admissions": 1480,
+            "Hospital Beds": 1480,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Admissions": 1590,
+            "Hospital Beds": 1590,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Admissions": 1599,
+            "Hospital Beds": 1599,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Admissions": 1733,
+            "Hospital Beds": 1733,
+            "Region": "Scotland"
+        },
+        {
+            "Day of Date": "2020-04-15 00:00:00",
+            "Hospital Beds": 1748,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Admissions": 1755,
+            "Hospital Beds": 1755,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Admissions": 1771,
+            "Hospital Beds": 1771,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Admissions": 1781,
+            "Hospital Beds": 1781,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Admissions": 1797,
+            "Hospital Beds": 1797,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Admissions": 1798,
+            "Hospital Beds": 1801,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Admissions": 1832,
+            "Hospital Beds": 1832,
             "Region": "Scotland"
         },
         {
             "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Admissions": 1855,
+            "Hospital Beds": 1855,
             "Region": "Scotland"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Hospital Admissions": 567,
+            "Day of Date": "2020-03-26 00:00:00",
+            "Hospital Beds": 599,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Hospital Beds": 744,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Hospital Beds": 802,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Hospital Beds": 1008,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Hospital Beds": 1208,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Hospital Beds": 1368,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Hospital Beds": 1469,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Hospital Beds": 1541,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Hospital Beds": 1614,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Hospital Beds": 1712,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Hospital Beds": 1850,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Hospital Beds": 1858,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Hospital Beds": 1930,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-15 00:00:00",
+            "Hospital Beds": 1970,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Hospital Beds": 2007,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-14 00:00:00",
+            "Hospital Beds": 2020,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Hospital Beds": 2031,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Beds": 2049,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Hospital Beds": 2053,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Hospital Beds": 2058,
+            "Region": "South East"
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Hospital Beds": 2073,
             "Region": "South East"
         },
         {
             "Day of Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 599,
-            "Region": "South East"
+            "Hospital Beds": 236,
+            "Region": "South West"
         },
         {
             "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 744,
-            "Region": "South East"
+            "Hospital Beds": 304,
+            "Region": "South West"
         },
         {
             "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 802,
-            "Region": "South East"
+            "Hospital Beds": 342,
+            "Region": "South West"
         },
         {
             "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 1008,
-            "Region": "South East"
+            "Hospital Beds": 401,
+            "Region": "South West"
         },
         {
             "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 1208,
-            "Region": "South East"
-        },
-        {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 1368,
-            "Region": "South East"
+            "Hospital Beds": 455,
+            "Region": "South West"
         },
         {
             "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 1469,
-            "Region": "South East"
+            "Hospital Beds": 491,
+            "Region": "South West"
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 1541,
-            "Region": "South East"
+            "Day of Date": "2020-04-01 00:00:00",
+            "Hospital Beds": 560,
+            "Region": "South West"
         },
         {
             "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 1614,
-            "Region": "South East"
+            "Hospital Beds": 587,
+            "Region": "South West"
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Hospital Beds": 639,
+            "Region": "South West"
         },
         {
             "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Admissions": 1712,
-            "Region": "South East"
+            "Hospital Beds": 697,
+            "Region": "South West"
         },
         {
             "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Admissions": 1850,
-            "Region": "South East"
-        },
-        {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Admissions": 1858,
-            "Region": "South East"
-        },
-        {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Admissions": 1930,
-            "Region": "South East"
-        },
-        {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Admissions": 2007,
-            "Region": "South East"
-        },
-        {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Admissions": 2020,
-            "Region": "South East"
-        },
-        {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Admissions": 2031,
-            "Region": "South East"
-        },
-        {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Admissions": 2049,
-            "Region": "South East"
-        },
-        {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Admissions": 2053,
-            "Region": "South East"
+            "Hospital Beds": 734,
+            "Region": "South West"
         },
         {
             "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Admissions": 2058,
-            "Region": "South East"
+            "Hospital Beds": 772,
+            "Region": "South West"
         },
         {
             "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Admissions": 2073,
-            "Region": "South East"
+            "Hospital Beds": 784,
+            "Region": "South West"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Hospital Admissions": 200,
+            "Day of Date": "2020-04-06 00:00:00",
+            "Hospital Beds": 796,
+            "Region": "South West"
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Hospital Beds": 797,
+            "Region": "South West"
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Hospital Beds": 808,
+            "Region": "South West"
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Hospital Beds": 809,
+            "Region": "South West"
+        },
+        {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Hospital Beds": 822,
+            "Region": "South West"
+        },
+        {
+            "Day of Date": "2020-04-15 00:00:00",
+            "Hospital Beds": 832,
+            "Region": "South West"
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Hospital Beds": 833,
+            "Region": "South West"
+        },
+        {
+            "Day of Date": "2020-04-14 00:00:00",
+            "Hospital Beds": 840,
             "Region": "South West"
         },
         {
             "Day of Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 236,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 304,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 342,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 401,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 455,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 491,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 560,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 587,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 639,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Admissions": 697,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Admissions": 734,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Admissions": 772,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Admissions": 784,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Admissions": 796,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Admissions": 797,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Admissions": 808,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Admissions": 809,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Admissions": 822,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Admissions": 833,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Admissions": 840,
-            "Region": "South West"
-        },
-        {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Hospital Admissions": 178,
-            "Region": "Wales"
-        },
-        {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Hospital Admissions": 411,
+            "Hospital Beds": 411,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Admissions": 451,
+            "Hospital Beds": 451,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Admissions": 535,
+            "Hospital Beds": 535,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Admissions": 552,
+            "Hospital Beds": 552,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Admissions": 625,
+            "Hospital Beds": 625,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Admissions": 781,
+            "Hospital Beds": 781,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Admissions": 865,
+            "Hospital Beds": 865,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Admissions": 911,
+            "Hospital Beds": 911,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Admissions": 915,
+            "Hospital Beds": 915,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Admissions": 972,
+            "Hospital Beds": 972,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Admissions": 990,
+            "Hospital Beds": 990,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Admissions": 1044,
+            "Hospital Beds": 1044,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Admissions": 1142,
+            "Hospital Beds": 1142,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Admissions": 1160,
+            "Hospital Beds": 1160,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Admissions": 1168,
+            "Hospital Beds": 1168,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Admissions": 1187,
+            "Hospital Beds": 1187,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Admissions": 1191,
+            "Hospital Beds": 1191,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Admissions": 1209,
+            "Hospital Beds": 1209,
+            "Region": "Wales"
+        },
+        {
+            "Day of Date": "2020-04-15 00:00:00",
+            "Hospital Beds": 1209,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Admissions": 1222,
+            "Hospital Beds": 1222,
             "Region": "Wales"
         },
         {
             "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Admissions": 1257,
+            "Hospital Beds": 1257,
             "Region": "Wales"
         }
     ],
-    "New UK Cases": [
+    "Transport use": [
+        {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Percentage": 0.23,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Percentage": 0.24,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Percentage": 0.25,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Percentage": 0.27,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Percentage": 0.27,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Percentage": 0.3,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Percentage": 0.31,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Percentage": 0.31,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Percentage": 0.35,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Percentage": 0.35,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Percentage": 0.36,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Percentage": 0.36,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Percentage": 0.36,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Percentage": 0.36,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Percentage": 0.37,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Percentage": 0.37,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Percentage": 0.38,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-14 00:00:00",
+            "Percentage": 0.38,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-26 00:00:00",
+            "Percentage": 0.39,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Percentage": 0.39,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-25 00:00:00",
+            "Percentage": 0.42,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-24 00:00:00",
+            "Percentage": 0.49,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-22 00:00:00",
+            "Percentage": 0.69,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-23 00:00:00",
+            "Percentage": 0.69,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-21 00:00:00",
+            "Percentage": 0.73,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-03-20 00:00:00",
+            "Percentage": 0.81,
+            "Transport Type": "All motor vehicles"
+        },
+        {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Percentage": 0.13,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Percentage": 0.13,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-26 00:00:00",
+            "Percentage": 0.18,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Percentage": 0.18,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Percentage": 0.18,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Percentage": 0.18,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Percentage": 0.18,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-25 00:00:00",
+            "Percentage": 0.19,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-14 00:00:00",
+            "Percentage": 0.19,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-24 00:00:00",
+            "Percentage": 0.22,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-23 00:00:00",
+            "Percentage": 0.31,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-22 00:00:00",
+            "Percentage": 0.32,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-21 00:00:00",
+            "Percentage": 0.39,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-03-20 00:00:00",
+            "Percentage": 0.52,
+            "Transport Type": "TfL Bus"
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Percentage": 0.1,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Percentage": 0.1,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Percentage": 0.1,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-14 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-26 00:00:00",
+            "Percentage": 0.13,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Percentage": 0.13,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-25 00:00:00",
+            "Percentage": 0.14,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Percentage": 0.14,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-24 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-23 00:00:00",
+            "Percentage": 0.27,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-22 00:00:00",
+            "Percentage": 0.35,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-21 00:00:00",
+            "Percentage": 0.4,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-03-20 00:00:00",
+            "Percentage": 0.53,
+            "Transport Type": "Bus (excl. London)"
+        },
+        {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Percentage": 0.02,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-14 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-26 00:00:00",
+            "Percentage": 0.06,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Percentage": 0.06,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Percentage": 0.06,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-25 00:00:00",
+            "Percentage": 0.07,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-24 00:00:00",
+            "Percentage": 0.09,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-22 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-21 00:00:00",
+            "Percentage": 0.13,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-23 00:00:00",
+            "Percentage": 0.15,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-03-20 00:00:00",
+            "Percentage": 0.24,
+            "Transport Type": "TfL Tube"
+        },
+        {
+            "Day of Date": "2020-04-02 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-06 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-10 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-11 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-12 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-13 00:00:00",
+            "Percentage": 0.03,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-07 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-08 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-09 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-14 00:00:00",
+            "Percentage": 0.04,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-03 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-04 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-05 00:00:00",
+            "Percentage": 0.05,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-04-01 00:00:00",
+            "Percentage": 0.07,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-31 00:00:00",
+            "Percentage": 0.09,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-30 00:00:00",
+            "Percentage": 0.1,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-28 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-29 00:00:00",
+            "Percentage": 0.11,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-27 00:00:00",
+            "Percentage": 0.12,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-26 00:00:00",
+            "Percentage": 0.16,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-25 00:00:00",
+            "Percentage": 0.17,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-24 00:00:00",
+            "Percentage": 0.24,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-23 00:00:00",
+            "Percentage": 0.28,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-22 00:00:00",
+            "Percentage": 0.35,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-21 00:00:00",
+            "Percentage": 0.38,
+            "Transport Type": "National rail"
+        },
+        {
+            "Day of Date": "2020-03-20 00:00:00",
+            "Percentage": 0.44,
+            "Transport Type": "National rail"
+        }
+    ],
+    "UK cases": [
         {
             "Pillar": "Pillar 2",
             "cases": 5,
@@ -2593,6 +2785,11 @@
             "Pillar": "Pillar 2",
             "cases": 634,
             "date_text": "2020-04-15 00:00:00"
+        },
+        {
+            "Pillar": "Pillar 2",
+            "cases": 749,
+            "date_text": "2020-04-16 00:00:00"
         },
         {
             "Pillar": "Pillar 1",
@@ -2723,658 +2920,11 @@
             "Pillar": "Pillar 1",
             "cases": 3971,
             "date_text": "2020-04-15 00:00:00"
-        }
-    ],
-    "Transport Usage": [
-        {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Percentage": 0.23,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Percentage": 0.24,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Percentage": 0.25,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Percentage": 0.27,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Percentage": 0.27,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Percentage": 0.3,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Percentage": 0.31,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Percentage": 0.31,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Percentage": 0.35,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Percentage": 0.35,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Percentage": 0.36,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Percentage": 0.36,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Percentage": 0.36,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Percentage": 0.36,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Percentage": 0.37,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Percentage": 0.37,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Percentage": 0.38,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Percentage": 0.39,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Percentage": 0.39,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Percentage": 0.42,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-24 00:00:00",
-            "Percentage": 0.49,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-22 00:00:00",
-            "Percentage": 0.69,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Percentage": 0.69,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-21 00:00:00",
-            "Percentage": 0.73,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-20 00:00:00",
-            "Percentage": 0.81,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-03-19 00:00:00",
-            "Percentage": 0.82,
-            "Transport Type": "All motor vehicles"
-        },
-        {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Percentage": 0.13,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Percentage": 0.13,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Percentage": 0.19,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-24 00:00:00",
-            "Percentage": 0.22,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Percentage": 0.31,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-22 00:00:00",
-            "Percentage": 0.32,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-21 00:00:00",
-            "Percentage": 0.39,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-20 00:00:00",
-            "Percentage": 0.52,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-03-19 00:00:00",
-            "Percentage": 0.59,
-            "Transport Type": "TfL Bus"
-        },
-        {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Percentage": 0.1,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Percentage": 0.1,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Percentage": 0.1,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Percentage": 0.13,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Percentage": 0.13,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Percentage": 0.14,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Percentage": 0.14,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-24 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Percentage": 0.27,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-22 00:00:00",
-            "Percentage": 0.35,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-21 00:00:00",
-            "Percentage": 0.4,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-20 00:00:00",
-            "Percentage": 0.53,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-03-19 00:00:00",
-            "Percentage": 0.58,
-            "Transport Type": "Bus (excl. London)"
-        },
-        {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Percentage": 0.07,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Percentage": 0.09,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Percentage": 0.1,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-24 00:00:00",
-            "Percentage": 0.24,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Percentage": 0.28,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-22 00:00:00",
-            "Percentage": 0.35,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-21 00:00:00",
-            "Percentage": 0.38,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-20 00:00:00",
-            "Percentage": 0.44,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-03-19 00:00:00",
-            "Percentage": 0.52,
-            "Transport Type": "National rail"
-        },
-        {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Percentage": 0.02,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Percentage": 0.06,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Percentage": 0.06,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Percentage": 0.06,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Percentage": 0.07,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-24 00:00:00",
-            "Percentage": 0.09,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-22 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-21 00:00:00",
-            "Percentage": 0.13,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Percentage": 0.15,
-            "Transport Type": "TfL Tube"
-        },
-        {
-            "Day of Date": "2020-03-20 00:00:00",
-            "Percentage": 0.24,
-            "Transport Type": "TfL Tube"
         },
         {
-            "Day of Date": "2020-03-19 00:00:00",
-            "Percentage": 0.3,
-            "Transport Type": "TfL Tube"
+            "Pillar": "Pillar 1",
+            "cases": 3869,
+            "date_text": "2020-04-16 00:00:00"
         }
     ]
 }
