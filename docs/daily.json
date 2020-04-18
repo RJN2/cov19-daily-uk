@@ -1,3480 +1,3811 @@
 {
-    "Global deaths": [
+    "Cover": [
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": NaN,
-            "Deaths": 55
+            "Slides and datasets to accompany coronavirus press conferences": "Transport use change"
         },
         {
-            "Country": "United States",
-            "Day_num": NaN,
-            "Deaths": 54
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department for Transport (DfT)"
         },
         {
-            "Country": "Spain",
-            "Day_num": NaN,
-            "Deaths": 54
+            "Slides and datasets to accompany coronavirus press conferences": "DfT provides daily updates to the Cabinet Office for use in the government\u2019s daily media briefings on changes in:"
         },
         {
-            "Country": "France",
-            "Day_num": NaN,
-            "Deaths": 79
+            "Slides and datasets to accompany coronavirus press conferences": "1. road traffic in Great Britain"
         },
         {
-            "Country": "Italy",
-            "Day_num": NaN,
-            "Deaths": 52
+            "Slides and datasets to accompany coronavirus press conferences": "2. rail passenger journeys in Great Britain"
         },
         {
-            "Country": "Germany",
-            "Day_num": NaN,
-            "Deaths": 67
+            "Slides and datasets to accompany coronavirus press conferences": "3. Transport for London\u2019s (TfL) tube and bus routes"
         },
         {
-            "Country": "China",
-            "Day_num": NaN,
-            "Deaths": 56
+            "Slides and datasets to accompany coronavirus press conferences": "4. bus travel in Great Britain (excluding London)"
         },
         {
-            "Country": "Sweden",
-            "Day_num": NaN,
-            "Deaths": 62
+            "Slides and datasets to accompany coronavirus press conferences": "Although daily data is being reported, direct comparisons of change should not be made between weekdays and weekends/bank holidays."
         },
         {
-            "Country": "South Korea",
-            "Day_num": NaN,
-            "Deaths": 50
+            "Slides and datasets to accompany coronavirus press conferences": "For public transport there are typically different levels of service/timetable in place on weekends and bank holidays than on weekdays; and for road traffic, there is a different profile on weekend days compared to weekdays."
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 1.0,
-            "Deaths": 74
+            "Slides and datasets to accompany coronavirus press conferences": "The data is sent as near to real time as possible. "
         },
         {
-            "Country": "United States",
-            "Day_num": 1.0,
-            "Deaths": 63
+            "Slides and datasets to accompany coronavirus press conferences": "DfT have published information on the data sources and methodology used to generate each of these headline measures:"
         },
         {
-            "Country": "Spain",
-            "Day_num": 1.0,
-            "Deaths": 55
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/government/publications/coronavirus-covid-19-transport-data-methodology-note/covid-19-transport-data-methodology-note"
         },
         {
-            "Country": "France",
-            "Day_num": 1.0,
-            "Deaths": 91
+            "Slides and datasets to accompany coronavirus press conferences": "New UK cases"
         },
         {
-            "Country": "Italy",
-            "Day_num": 1.0,
-            "Deaths": 79
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care (DHSC)"
         },
         {
-            "Country": "Germany",
-            "Day_num": 1.0,
-            "Deaths": 84
+            "Slides and datasets to accompany coronavirus press conferences": "Cases are reported when lab tests are completed. This may be a few days after initial testing. "
         },
         {
-            "Country": "China",
-            "Day_num": 1.0,
-            "Deaths": 82
+            "Slides and datasets to accompany coronavirus press conferences": "Testing capacity is increasing, which is resulting in a greater number of observed cases There are likely many more cases than currently recorded here. "
         },
         {
-            "Country": "Sweden",
-            "Day_num": 1.0,
-            "Deaths": 77
+            "Slides and datasets to accompany coronavirus press conferences": "Pillar 1: swab testing in PHE labs and NHS hospitals for those with a medical need and the most critical workers and their families"
         },
         {
-            "Country": "South Korea",
-            "Day_num": 1.0,
-            "Deaths": 53
+            "Slides and datasets to accompany coronavirus press conferences": "Pillar 2: swab testing for key workers and their households"
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 2.0,
-            "Deaths": 103
+            "Slides and datasets to accompany coronavirus press conferences": "DHSC have published explanatory notes to accompany this data:"
         },
         {
-            "Country": "United States",
-            "Day_num": 2.0,
-            "Deaths": 85
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public"
         },
         {
-            "Country": "Spain",
-            "Day_num": 2.0,
-            "Deaths": 133
+            "Slides and datasets to accompany coronavirus press conferences": "People in hospital beds with COVID-19"
         },
         {
-            "Country": "France",
-            "Day_num": 2.0,
-            "Deaths": 91
+            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government"
         },
         {
-            "Country": "Italy",
-            "Day_num": 2.0,
-            "Deaths": 107
+            "Slides and datasets to accompany coronavirus press conferences": "Global death comparison"
         },
         {
-            "Country": "Germany",
-            "Day_num": 2.0,
-            "Deaths": 94
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Office for National Statistics (ONS), National Records Scotland (NRS), Northern Ireland Statistics and Research Agency (NISRA), Public Health England, John Hopkins University"
         },
         {
-            "Country": "China",
-            "Day_num": 2.0,
-            "Deaths": 131
+            "Slides and datasets to accompany coronavirus press conferences": "Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more deaths were reported."
         },
         {
-            "Country": "Sweden",
-            "Day_num": 2.0,
-            "Deaths": 105
+            "Slides and datasets to accompany coronavirus press conferences": "Daily reporting of UK deaths is for hospitals only and may lag by up to several days. "
         },
         {
-            "Country": "South Korea",
-            "Day_num": 2.0,
-            "Deaths": 54
+            "Slides and datasets to accompany coronavirus press conferences": "ONS, NRS and NISRA reporting of UK deaths for all settings is based on information from death certificates, and therefore lags daily hospital data."
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 3.0,
-            "Deaths": 144
-        },
-        {
-            "Country": "United States",
-            "Day_num": 3.0,
-            "Deaths": 108
-        },
-        {
-            "Country": "Spain",
-            "Day_num": 3.0,
-            "Deaths": 195
-        },
-        {
-            "Country": "France",
-            "Day_num": 3.0,
-            "Deaths": 148
-        },
-        {
-            "Country": "Italy",
-            "Day_num": 3.0,
-            "Deaths": 148
-        },
-        {
-            "Country": "Germany",
-            "Day_num": 3.0,
-            "Deaths": 123
-        },
-        {
-            "Country": "China",
-            "Day_num": 3.0,
-            "Deaths": 133
-        },
-        {
-            "Country": "Sweden",
-            "Day_num": 3.0,
-            "Deaths": 105
-        },
-        {
-            "Country": "South Korea",
-            "Day_num": 3.0,
-            "Deaths": 60
-        },
-        {
-            "Country": "UK (hospitals only)",
-            "Day_num": 4.0,
-            "Deaths": 177
-        },
-        {
-            "Country": "UK (all settings)",
-            "Day_num": 4.0,
-            "Deaths": 118
-        },
-        {
-            "Country": "United States",
-            "Day_num": 4.0,
-            "Deaths": 118
-        },
-        {
-            "Country": "Spain",
-            "Day_num": 4.0,
-            "Deaths": 289
-        },
-        {
-            "Country": "France",
-            "Day_num": 4.0,
-            "Deaths": 148
-        },
-        {
-            "Country": "Italy",
-            "Day_num": 4.0,
-            "Deaths": 197
-        },
-        {
-            "Country": "Germany",
-            "Day_num": 4.0,
-            "Deaths": 157
-        },
-        {
-            "Country": "China",
-            "Day_num": 4.0,
-            "Deaths": 171
-        },
-        {
-            "Country": "Sweden",
-            "Day_num": 4.0,
-            "Deaths": 110
-        },
-        {
-            "Country": "South Korea",
-            "Day_num": 4.0,
-            "Deaths": 66
-        },
-        {
-            "Country": "UK (hospitals only)",
-            "Day_num": 5.0,
-            "Deaths": 230
-        },
-        {
-            "Country": "United States",
-            "Day_num": 5.0,
-            "Deaths": 200
-        },
-        {
-            "Country": "Spain",
-            "Day_num": 5.0,
-            "Deaths": 342
-        },
-        {
-            "Country": "France",
-            "Day_num": 5.0,
-            "Deaths": 148
-        },
-        {
-            "Country": "Italy",
-            "Day_num": 5.0,
-            "Deaths": 233
-        },
-        {
-            "Country": "Germany",
-            "Day_num": 5.0,
-            "Deaths": 206
-        },
-        {
-            "Country": "China",
-            "Day_num": 5.0,
-            "Deaths": 213
-        },
-        {
-            "Country": "Sweden",
-            "Day_num": 5.0,
-            "Deaths": 146
-        },
-        {
-            "Country": "South Korea",
-            "Day_num": 5.0,
-            "Deaths": 66
-        },
-        {
-            "Country": "UK (hospitals only)",
-            "Day_num": 6.0,
-            "Deaths": 281
-        },
-        {
-            "Country": "United States",
-            "Day_num": 6.0,
-            "Deaths": 244
-        },
-        {
-            "Country": "Spain",
-            "Day_num": 6.0,
-            "Deaths": 533
-        },
-        {
-            "Country": "France",
-            "Day_num": 6.0,
-            "Deaths": 243
-        },
-        {
-            "Country": "Italy",
-            "Day_num": 6.0,
-            "Deaths": 366
-        },
-        {
-            "Country": "Germany",
-            "Day_num": 6.0,
-            "Deaths": 267
-        },
-        {
-            "Country": "China",
-            "Day_num": 6.0,
-            "Deaths": 259
-        },
-        {
-            "Country": "Sweden",
-            "Day_num": 6.0,
-            "Deaths": 180
-        },
-        {
-            "Country": "South Korea",
-            "Day_num": 6.0,
-            "Deaths": 72
-        },
-        {
-            "Country": "UK (hospitals only)",
-            "Day_num": 7.0,
-            "Deaths": 335
-        },
-        {
-            "Country": "United States",
-            "Day_num": 7.0,
-            "Deaths": 307
-        },
-        {
-            "Country": "Spain",
-            "Day_num": 7.0,
-            "Deaths": 623
-        },
-        {
-            "Country": "France",
-            "Day_num": 7.0,
-            "Deaths": 450
-        },
-        {
-            "Country": "Italy",
-            "Day_num": 7.0,
-            "Deaths": 463
-        },
-        {
-            "Country": "Germany",
-            "Day_num": 7.0,
-            "Deaths": 342
-        },
-        {
-            "Country": "China",
-            "Day_num": 7.0,
-            "Deaths": 361
-        },
-        {
-            "Country": "Sweden",
-            "Day_num": 7.0,
-            "Deaths": 239
-        },
-        {
-            "Country": "South Korea",
-            "Day_num": 7.0,
-            "Deaths": 75
-        },
-        {
-            "Country": "UK (hospitals only)",
-            "Day_num": 8.0,
-            "Deaths": 422
-        },
-        {
-            "Country": "United States",
-            "Day_num": 8.0,
-            "Deaths": 417
-        },
-        {
-            "Country": "Spain",
-            "Day_num": 8.0,
-            "Deaths": 830
-        },
-        {
-            "Country": "France",
-            "Day_num": 8.0,
-            "Deaths": 562
-        },
-        {
-            "Country": "Italy",
-            "Day_num": 8.0,
-            "Deaths": 631
-        },
-        {
-            "Country": "Germany",
-            "Day_num": 8.0,
-            "Deaths": 433
-        },
-        {
-            "Country": "China",
-            "Day_num": 8.0,
-            "Deaths": 425
-        },
-        {
-            "Country": "Sweden",
-            "Day_num": 8.0,
-            "Deaths": 308
-        },
-        {
-            "Country": "South Korea",
-            "Day_num": 8.0,
-            "Deaths": 75
-        },
-        {
-            "Country": "UK (hospitals only)",
-            "Day_num": 9.0,
-            "Deaths": 465
-        },
-        {
-            "Country": "United States",
-            "Day_num": 9.0,
-            "Deaths": 557
-        },
-        {
-            "Country": "Spain",
-            "Day_num": 9.0,
-            "Deaths": 1043
-        },
-        {
-            "Country": "France",
-            "Day_num": 9.0,
-            "Deaths": 674
-        },
-        {
-            "Country": "Italy",
-            "Day_num": 9.0,
-            "Deaths": 827
-        },
+            "Slides and datasets to accompany coronavirus press conferences": "International reporting procedures and lags are unclear, so may not be comparing like-for-like. "
+        }
+    ],
+    "Global comparisons": [
         {
-            "Country": "Germany",
-            "Day_num": 9.0,
-            "Deaths": 533
+            "Deaths related to Covid-19": "Day 0 is the first day that 50 or more deaths were reported",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
         },
         {
-            "Country": "China",
-            "Day_num": 9.0,
-            "Deaths": 490
+            "Deaths related to Covid-19": "Global",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Number of deaths"
         },
         {
-            "Country": "Sweden",
-            "Day_num": 9.0,
-            "Deaths": 358
+            "Deaths related to Covid-19": NaN,
+            "Unnamed: 1": "Day number",
+            "Unnamed: 2": "Deaths"
         },
         {
-            "Country": "South Korea",
-            "Day_num": 9.0,
-            "Deaths": 81
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 10,
+            "Unnamed: 2": 578
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 10.0,
-            "Deaths": 578
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 10,
+            "Unnamed: 2": 706
         },
         {
-            "Country": "United States",
-            "Day_num": 10.0,
-            "Deaths": 706
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 10,
+            "Unnamed: 2": 373
         },
         {
-            "Country": "Spain",
-            "Day_num": 10.0,
-            "Deaths": 1375
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 10,
+            "Unnamed: 2": 1375
         },
         {
-            "Country": "France",
-            "Day_num": 10.0,
-            "Deaths": 860
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 10,
+            "Unnamed: 2": 84
         },
         {
-            "Country": "Italy",
-            "Day_num": 10.0,
-            "Deaths": 827
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 10,
+            "Unnamed: 2": 827
         },
         {
-            "Country": "Germany",
-            "Day_num": 10.0,
-            "Deaths": 645
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 10,
+            "Unnamed: 2": 645
         },
         {
-            "Country": "China",
-            "Day_num": 10.0,
-            "Deaths": 562
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 10,
+            "Unnamed: 2": 860
         },
         {
-            "Country": "Sweden",
-            "Day_num": 10.0,
-            "Deaths": 373
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 10,
+            "Unnamed: 2": 562
         },
         {
-            "Country": "South Korea",
-            "Day_num": 10.0,
-            "Deaths": 84
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 11,
+            "Unnamed: 2": 759
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 11.0,
-            "Deaths": 759
+            "Deaths related to Covid-19": "UK (all settings)",
+            "Unnamed: 1": 11,
+            "Unnamed: 2": 725
         },
         {
-            "Country": "UK (all settings)",
-            "Day_num": 11.0,
-            "Deaths": 725
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 11,
+            "Unnamed: 2": 942
         },
         {
-            "Country": "United States",
-            "Day_num": 11.0,
-            "Deaths": 942
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 11,
+            "Unnamed: 2": 401
         },
         {
-            "Country": "Spain",
-            "Day_num": 11.0,
-            "Deaths": 1772
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 11,
+            "Unnamed: 2": 1772
         },
         {
-            "Country": "France",
-            "Day_num": 11.0,
-            "Deaths": 1100
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 11,
+            "Unnamed: 2": 91
         },
         {
-            "Country": "Italy",
-            "Day_num": 11.0,
-            "Deaths": 1266
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 11,
+            "Unnamed: 2": 1266
         },
         {
-            "Country": "Germany",
-            "Day_num": 11.0,
-            "Deaths": 775
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 11,
+            "Unnamed: 2": 775
         },
         {
-            "Country": "China",
-            "Day_num": 11.0,
-            "Deaths": 632
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 11,
+            "Unnamed: 2": 1100
         },
         {
-            "Country": "Sweden",
-            "Day_num": 11.0,
-            "Deaths": 401
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 11,
+            "Unnamed: 2": 632
         },
         {
-            "Country": "South Korea",
-            "Day_num": 11.0,
-            "Deaths": 91
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 12,
+            "Unnamed: 2": 1022
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 12.0,
-            "Deaths": 1022
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 12,
+            "Unnamed: 2": 1209
         },
         {
-            "Country": "United States",
-            "Day_num": 12.0,
-            "Deaths": 1209
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 12,
+            "Unnamed: 2": 477
         },
         {
-            "Country": "Spain",
-            "Day_num": 12.0,
-            "Deaths": 2311
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 12,
+            "Unnamed: 2": 2311
         },
         {
-            "Country": "France",
-            "Day_num": 12.0,
-            "Deaths": 1331
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 12,
+            "Unnamed: 2": 94
         },
         {
-            "Country": "Italy",
-            "Day_num": 12.0,
-            "Deaths": 1441
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 12,
+            "Unnamed: 2": 1441
         },
         {
-            "Country": "Germany",
-            "Day_num": 12.0,
-            "Deaths": 920
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 12,
+            "Unnamed: 2": 920
         },
         {
-            "Country": "China",
-            "Day_num": 12.0,
-            "Deaths": 717
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 12,
+            "Unnamed: 2": 1331
         },
         {
-            "Country": "Sweden",
-            "Day_num": 12.0,
-            "Deaths": 477
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 12,
+            "Unnamed: 2": 717
         },
         {
-            "Country": "South Korea",
-            "Day_num": 12.0,
-            "Deaths": 94
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 13,
+            "Unnamed: 2": 1228
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 13.0,
-            "Deaths": 1228
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 13,
+            "Unnamed: 2": 1581
         },
         {
-            "Country": "United States",
-            "Day_num": 13.0,
-            "Deaths": 1581
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 13,
+            "Unnamed: 2": 591
         },
         {
-            "Country": "Spain",
-            "Day_num": 13.0,
-            "Deaths": 2808
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 13,
+            "Unnamed: 2": 2808
         },
         {
-            "Country": "France",
-            "Day_num": 13.0,
-            "Deaths": 1696
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 13,
+            "Unnamed: 2": 102
         },
         {
-            "Country": "Italy",
-            "Day_num": 13.0,
-            "Deaths": 1809
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 13,
+            "Unnamed: 2": 1809
         },
         {
-            "Country": "Germany",
-            "Day_num": 13.0,
-            "Deaths": 1107
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 13,
+            "Unnamed: 2": 1107
         },
         {
-            "Country": "China",
-            "Day_num": 13.0,
-            "Deaths": 804
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 13,
+            "Unnamed: 2": 1696
         },
         {
-            "Country": "Sweden",
-            "Day_num": 13.0,
-            "Deaths": 591
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 13,
+            "Unnamed: 2": 804
         },
         {
-            "Country": "South Korea",
-            "Day_num": 13.0,
-            "Deaths": 102
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 14,
+            "Unnamed: 2": 1408
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 14.0,
-            "Deaths": 1408
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 14,
+            "Unnamed: 2": 2026
         },
         {
-            "Country": "United States",
-            "Day_num": 14.0,
-            "Deaths": 2026
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 14,
+            "Unnamed: 2": 687
         },
         {
-            "Country": "Spain",
-            "Day_num": 14.0,
-            "Deaths": 3647
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 14,
+            "Unnamed: 2": 3647
         },
         {
-            "Country": "France",
-            "Day_num": 14.0,
-            "Deaths": 1995
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 14,
+            "Unnamed: 2": 111
         },
         {
-            "Country": "Italy",
-            "Day_num": 14.0,
-            "Deaths": 2158
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 14,
+            "Unnamed: 2": 2158
         },
         {
-            "Country": "Germany",
-            "Day_num": 14.0,
-            "Deaths": 1275
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 14,
+            "Unnamed: 2": 1275
         },
         {
-            "Country": "China",
-            "Day_num": 14.0,
-            "Deaths": 904
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 14,
+            "Unnamed: 2": 1995
         },
         {
-            "Country": "Sweden",
-            "Day_num": 14.0,
-            "Deaths": 687
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 14,
+            "Unnamed: 2": 904
         },
         {
-            "Country": "South Korea",
-            "Day_num": 14.0,
-            "Deaths": 111
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 15,
+            "Unnamed: 2": 1789
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 15.0,
-            "Deaths": 1789
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 15,
+            "Unnamed: 2": 2467
         },
         {
-            "Country": "United States",
-            "Day_num": 15.0,
-            "Deaths": 2467
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 15,
+            "Unnamed: 2": 793
         },
         {
-            "Country": "Spain",
-            "Day_num": 15.0,
-            "Deaths": 4365
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 15,
+            "Unnamed: 2": 4365
         },
         {
-            "Country": "France",
-            "Day_num": 15.0,
-            "Deaths": 2314
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 15,
+            "Unnamed: 2": 111
         },
         {
-            "Country": "Italy",
-            "Day_num": 15.0,
-            "Deaths": 2503
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 15,
+            "Unnamed: 2": 2503
         },
         {
-            "Country": "Germany",
-            "Day_num": 15.0,
-            "Deaths": 1444
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 15,
+            "Unnamed: 2": 1444
         },
         {
-            "Country": "China",
-            "Day_num": 15.0,
-            "Deaths": 1011
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 15,
+            "Unnamed: 2": 2314
         },
         {
-            "Country": "Sweden",
-            "Day_num": 15.0,
-            "Deaths": 793
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 15,
+            "Unnamed: 2": 1011
         },
         {
-            "Country": "South Korea",
-            "Day_num": 15.0,
-            "Deaths": 111
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 16,
+            "Unnamed: 2": 2352
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 16.0,
-            "Deaths": 2352
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 16,
+            "Unnamed: 2": 2978
         },
         {
-            "Country": "United States",
-            "Day_num": 16.0,
-            "Deaths": 2978
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 16,
+            "Unnamed: 2": 870
         },
         {
-            "Country": "Spain",
-            "Day_num": 16.0,
-            "Deaths": 5138
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 16,
+            "Unnamed: 2": 5138
         },
         {
-            "Country": "France",
-            "Day_num": 16.0,
-            "Deaths": 2606
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 16,
+            "Unnamed: 2": 120
         },
         {
-            "Country": "Italy",
-            "Day_num": 16.0,
-            "Deaths": 2978
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 16,
+            "Unnamed: 2": 2978
         },
         {
-            "Country": "Germany",
-            "Day_num": 16.0,
-            "Deaths": 1584
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 16,
+            "Unnamed: 2": 1584
         },
         {
-            "Country": "China",
-            "Day_num": 16.0,
-            "Deaths": 1111
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 16,
+            "Unnamed: 2": 2606
         },
         {
-            "Country": "Sweden",
-            "Day_num": 16.0,
-            "Deaths": 870
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 16,
+            "Unnamed: 2": 1111
         },
         {
-            "Country": "South Korea",
-            "Day_num": 16.0,
-            "Deaths": 120
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 17,
+            "Unnamed: 2": 2921
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 17.0,
-            "Deaths": 2921
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 17,
+            "Unnamed: 2": 3873
         },
         {
-            "Country": "United States",
-            "Day_num": 17.0,
-            "Deaths": 3873
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 17,
+            "Unnamed: 2": 887
         },
         {
-            "Country": "Spain",
-            "Day_num": 17.0,
-            "Deaths": 5982
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 17,
+            "Unnamed: 2": 5982
         },
         {
-            "Country": "France",
-            "Day_num": 17.0,
-            "Deaths": 3024
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 17,
+            "Unnamed: 2": 126
         },
         {
-            "Country": "Italy",
-            "Day_num": 17.0,
-            "Deaths": 3405
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 17,
+            "Unnamed: 2": 3405
         },
         {
-            "Country": "Germany",
-            "Day_num": 17.0,
-            "Deaths": 1810
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 17,
+            "Unnamed: 2": 1810
         },
         {
-            "Country": "China",
-            "Day_num": 17.0,
-            "Deaths": 1116
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 17,
+            "Unnamed: 2": 3024
         },
         {
-            "Country": "Sweden",
-            "Day_num": 17.0,
-            "Deaths": 887
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 17,
+            "Unnamed: 2": 1116
         },
         {
-            "Country": "South Korea",
-            "Day_num": 17.0,
-            "Deaths": 126
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 18,
+            "Unnamed: 2": 3605
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 18.0,
-            "Deaths": 3605
+            "Deaths related to Covid-19": "UK (all settings)",
+            "Unnamed: 1": 18,
+            "Unnamed: 2": 4526
         },
         {
-            "Country": "UK (all settings)",
-            "Day_num": 18.0,
-            "Deaths": 4526
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 18,
+            "Unnamed: 2": 4757
         },
         {
-            "Country": "United States",
-            "Day_num": 18.0,
-            "Deaths": 4757
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 18,
+            "Unnamed: 2": 899
         },
         {
-            "Country": "Spain",
-            "Day_num": 18.0,
-            "Deaths": 6803
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 18,
+            "Unnamed: 2": 6803
         },
         {
-            "Country": "France",
-            "Day_num": 18.0,
-            "Deaths": 3523
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 18,
+            "Unnamed: 2": 131
         },
         {
-            "Country": "Italy",
-            "Day_num": 18.0,
-            "Deaths": 4032
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 18,
+            "Unnamed: 2": 4032
         },
         {
-            "Country": "Germany",
-            "Day_num": 18.0,
-            "Deaths": 2016
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 18,
+            "Unnamed: 2": 2016
         },
         {
-            "Country": "China",
-            "Day_num": 18.0,
-            "Deaths": 1368
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 18,
+            "Unnamed: 2": 3523
         },
         {
-            "Country": "Sweden",
-            "Day_num": 18.0,
-            "Deaths": 899
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 18,
+            "Unnamed: 2": 1368
         },
         {
-            "Country": "South Korea",
-            "Day_num": 18.0,
-            "Deaths": 131
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 19,
+            "Unnamed: 2": 4313
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 19.0,
-            "Deaths": 4313
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 19,
+            "Unnamed: 2": 5926
         },
         {
-            "Country": "United States",
-            "Day_num": 19.0,
-            "Deaths": 5926
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 19,
+            "Unnamed: 2": 919
         },
         {
-            "Country": "Spain",
-            "Day_num": 19.0,
-            "Deaths": 7716
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 19,
+            "Unnamed: 2": 7716
         },
         {
-            "Country": "France",
-            "Day_num": 19.0,
-            "Deaths": 4403
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 19,
+            "Unnamed: 2": 139
         },
         {
-            "Country": "Italy",
-            "Day_num": 19.0,
-            "Deaths": 4825
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 19,
+            "Unnamed: 2": 4825
         },
         {
-            "Country": "Germany",
-            "Day_num": 19.0,
-            "Deaths": 2349
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 19,
+            "Unnamed: 2": 2349
         },
         {
-            "Country": "China",
-            "Day_num": 19.0,
-            "Deaths": 1520
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 19,
+            "Unnamed: 2": 4403
         },
         {
-            "Country": "Sweden",
-            "Day_num": 19.0,
-            "Deaths": 919
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 19,
+            "Unnamed: 2": 1520
         },
         {
-            "Country": "South Korea",
-            "Day_num": 19.0,
-            "Deaths": 139
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 20,
+            "Unnamed: 2": 4934
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 20.0,
-            "Deaths": 4934
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 20,
+            "Unnamed: 2": 7087
         },
         {
-            "Country": "United States",
-            "Day_num": 20.0,
-            "Deaths": 7087
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 20,
+            "Unnamed: 2": 1033
         },
         {
-            "Country": "Spain",
-            "Day_num": 20.0,
-            "Deaths": 8464
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 20,
+            "Unnamed: 2": 8464
         },
         {
-            "Country": "France",
-            "Day_num": 20.0,
-            "Deaths": 5387
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 20,
+            "Unnamed: 2": 144
         },
         {
-            "Country": "Italy",
-            "Day_num": 20.0,
-            "Deaths": 5476
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 20,
+            "Unnamed: 2": 5476
         },
         {
-            "Country": "Germany",
-            "Day_num": 20.0,
-            "Deaths": 2607
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 20,
+            "Unnamed: 2": 2607
         },
         {
-            "Country": "China",
-            "Day_num": 20.0,
-            "Deaths": 1662
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 20,
+            "Unnamed: 2": 5387
         },
         {
-            "Country": "Sweden",
-            "Day_num": 20.0,
-            "Deaths": 1033
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 20,
+            "Unnamed: 2": 1662
         },
         {
-            "Country": "South Korea",
-            "Day_num": 20.0,
-            "Deaths": 144
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 21,
+            "Unnamed: 2": 5373
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 21.0,
-            "Deaths": 5373
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 21,
+            "Unnamed: 2": 8407
         },
         {
-            "Country": "United States",
-            "Day_num": 21.0,
-            "Deaths": 8407
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 21,
+            "Unnamed: 2": 1203
         },
         {
-            "Country": "Spain",
-            "Day_num": 21.0,
-            "Deaths": 9387
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 21,
+            "Unnamed: 2": 9387
         },
         {
-            "Country": "France",
-            "Day_num": 21.0,
-            "Deaths": 6507
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 21,
+            "Unnamed: 2": 152
         },
         {
-            "Country": "Italy",
-            "Day_num": 21.0,
-            "Deaths": 6077
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 21,
+            "Unnamed: 2": 6077
         },
         {
-            "Country": "Germany",
-            "Day_num": 21.0,
-            "Deaths": 2767
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 21,
+            "Unnamed: 2": 2767
         },
         {
-            "Country": "China",
-            "Day_num": 21.0,
-            "Deaths": 1765
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 21,
+            "Unnamed: 2": 6507
         },
         {
-            "Country": "Sweden",
-            "Day_num": 21.0,
-            "Deaths": 1203
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 21,
+            "Unnamed: 2": 1765
         },
         {
-            "Country": "South Korea",
-            "Day_num": 21.0,
-            "Deaths": 152
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 22,
+            "Unnamed: 2": 6159
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 22.0,
-            "Deaths": 6159
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 22,
+            "Unnamed: 2": 9619
         },
         {
-            "Country": "United States",
-            "Day_num": 22.0,
-            "Deaths": 9619
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 22,
+            "Unnamed: 2": 1333
         },
         {
-            "Country": "Spain",
-            "Day_num": 22.0,
-            "Deaths": 10348
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 22,
+            "Unnamed: 2": 10348
         },
         {
-            "Country": "France",
-            "Day_num": 22.0,
-            "Deaths": 7560
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 22,
+            "Unnamed: 2": 158
         },
         {
-            "Country": "Italy",
-            "Day_num": 22.0,
-            "Deaths": 6820
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 22,
+            "Unnamed: 2": 6820
         },
         {
-            "Country": "Germany",
-            "Day_num": 22.0,
-            "Deaths": 2736
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 22,
+            "Unnamed: 2": 2736
         },
         {
-            "Country": "China",
-            "Day_num": 22.0,
-            "Deaths": 1863
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 22,
+            "Unnamed: 2": 7560
         },
         {
-            "Country": "Sweden",
-            "Day_num": 22.0,
-            "Deaths": 1333
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 22,
+            "Unnamed: 2": 1863
         },
         {
-            "Country": "South Korea",
-            "Day_num": 22.0,
-            "Deaths": 158
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 23,
+            "Unnamed: 2": 7097
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 23.0,
-            "Deaths": 7097
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 23,
+            "Unnamed: 2": 10783
         },
         {
-            "Country": "United States",
-            "Day_num": 23.0,
-            "Deaths": 10783
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 23,
+            "Unnamed: 2": 1400
         },
         {
-            "Country": "Spain",
-            "Day_num": 23.0,
-            "Deaths": 11198
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 23,
+            "Unnamed: 2": 11198
         },
         {
-            "Country": "France",
-            "Day_num": 23.0,
-            "Deaths": 8078
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 23,
+            "Unnamed: 2": 162
         },
         {
-            "Country": "Italy",
-            "Day_num": 23.0,
-            "Deaths": 7503
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 23,
+            "Unnamed: 2": 7503
         },
         {
-            "Country": "Germany",
-            "Day_num": 23.0,
-            "Deaths": 3022
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 23,
+            "Unnamed: 2": 3022
         },
         {
-            "Country": "China",
-            "Day_num": 23.0,
-            "Deaths": 2002
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 23,
+            "Unnamed: 2": 8078
         },
         {
-            "Country": "South Korea",
-            "Day_num": 23.0,
-            "Deaths": 162
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 23,
+            "Unnamed: 2": 2002
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 24.0,
-            "Deaths": 7978
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 24,
+            "Unnamed: 2": 7978
         },
         {
-            "Country": "United States",
-            "Day_num": 24.0,
-            "Deaths": 12722
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 24,
+            "Unnamed: 2": 12722
         },
         {
-            "Country": "Spain",
-            "Day_num": 24.0,
-            "Deaths": 11947
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 24,
+            "Unnamed: 2": 11947
         },
         {
-            "Country": "France",
-            "Day_num": 24.0,
-            "Deaths": 8911
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 24,
+            "Unnamed: 2": 165
         },
         {
-            "Country": "Italy",
-            "Day_num": 24.0,
-            "Deaths": 8215
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 24,
+            "Unnamed: 2": 8215
         },
         {
-            "Country": "Germany",
-            "Day_num": 24.0,
-            "Deaths": 3194
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 24,
+            "Unnamed: 2": 3194
         },
         {
-            "Country": "China",
-            "Day_num": 24.0,
-            "Deaths": 2114
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 24,
+            "Unnamed: 2": 8911
         },
         {
-            "Country": "South Korea",
-            "Day_num": 24.0,
-            "Deaths": 165
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 24,
+            "Unnamed: 2": 2114
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 25.0,
-            "Deaths": 8958
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 25,
+            "Unnamed: 2": 8958
         },
         {
-            "Country": "United States",
-            "Day_num": 25.0,
-            "Deaths": 14695
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 25,
+            "Unnamed: 2": 14695
         },
         {
-            "Country": "Spain",
-            "Day_num": 25.0,
-            "Deaths": 12641
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 25,
+            "Unnamed: 2": 12641
         },
         {
-            "Country": "France",
-            "Day_num": 25.0,
-            "Deaths": 10328
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 25,
+            "Unnamed: 2": 169
         },
         {
-            "Country": "Italy",
-            "Day_num": 25.0,
-            "Deaths": 9134
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 25,
+            "Unnamed: 2": 9134
         },
         {
-            "Country": "Germany",
-            "Day_num": 25.0,
-            "Deaths": 3294
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 25,
+            "Unnamed: 2": 3294
         },
         {
-            "Country": "China",
-            "Day_num": 25.0,
-            "Deaths": 2236
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 25,
+            "Unnamed: 2": 10328
         },
         {
-            "Country": "South Korea",
-            "Day_num": 25.0,
-            "Deaths": 169
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 25,
+            "Unnamed: 2": 2236
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 26.0,
-            "Deaths": 9875
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 26,
+            "Unnamed: 2": 9875
         },
         {
-            "Country": "United States",
-            "Day_num": 26.0,
-            "Deaths": 16478
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 26,
+            "Unnamed: 2": 16478
         },
         {
-            "Country": "Spain",
-            "Day_num": 26.0,
-            "Deaths": 13341
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 26,
+            "Unnamed: 2": 13341
         },
         {
-            "Country": "France",
-            "Day_num": 26.0,
-            "Deaths": 10869
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 26,
+            "Unnamed: 2": 174
         },
         {
-            "Country": "Italy",
-            "Day_num": 26.0,
-            "Deaths": 10023
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 26,
+            "Unnamed: 2": 10023
         },
         {
-            "Country": "Germany",
-            "Day_num": 26.0,
-            "Deaths": 3804
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 26,
+            "Unnamed: 2": 3804
         },
         {
-            "Country": "China",
-            "Day_num": 26.0,
-            "Deaths": 2236
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 26,
+            "Unnamed: 2": 10869
         },
         {
-            "Country": "South Korea",
-            "Day_num": 26.0,
-            "Deaths": 174
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 26,
+            "Unnamed: 2": 2236
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 27.0,
-            "Deaths": 10612
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 27,
+            "Unnamed: 2": 10612
         },
         {
-            "Country": "United States",
-            "Day_num": 27.0,
-            "Deaths": 18586
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 27,
+            "Unnamed: 2": 18586
         },
         {
-            "Country": "Spain",
-            "Day_num": 27.0,
-            "Deaths": 14045
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 27,
+            "Unnamed: 2": 14045
         },
         {
-            "Country": "France",
-            "Day_num": 27.0,
-            "Deaths": 12210
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 27,
+            "Unnamed: 2": 177
         },
         {
-            "Country": "Italy",
-            "Day_num": 27.0,
-            "Deaths": 10779
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 27,
+            "Unnamed: 2": 10779
         },
         {
-            "Country": "Germany",
-            "Day_num": 27.0,
-            "Deaths": 4052
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 27,
+            "Unnamed: 2": 4052
         },
         {
-            "Country": "China",
-            "Day_num": 27.0,
-            "Deaths": 2441
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 27,
+            "Unnamed: 2": 12210
         },
         {
-            "Country": "South Korea",
-            "Day_num": 27.0,
-            "Deaths": 177
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 27,
+            "Unnamed: 2": 2441
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 28.0,
-            "Deaths": 11329
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 28,
+            "Unnamed: 2": 11329
         },
         {
-            "Country": "United States",
-            "Day_num": 28.0,
-            "Deaths": 20462
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 28,
+            "Unnamed: 2": 20462
         },
         {
-            "Country": "Spain",
-            "Day_num": 28.0,
-            "Deaths": 14792
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 28,
+            "Unnamed: 2": 14792
         },
         {
-            "Country": "France",
-            "Day_num": 28.0,
-            "Deaths": 13197
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 28,
+            "Unnamed: 2": 183
         },
         {
-            "Country": "Italy",
-            "Day_num": 28.0,
-            "Deaths": 11591
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 28,
+            "Unnamed: 2": 11591
         },
         {
-            "Country": "China",
-            "Day_num": 28.0,
-            "Deaths": 2443
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 28,
+            "Unnamed: 2": 4352
         },
         {
-            "Country": "South Korea",
-            "Day_num": 28.0,
-            "Deaths": 183
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 28,
+            "Unnamed: 2": 13197
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 29.0,
-            "Deaths": 12107
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 28,
+            "Unnamed: 2": 2443
         },
         {
-            "Country": "United States",
-            "Day_num": 29.0,
-            "Deaths": 22019
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 29,
+            "Unnamed: 2": 12107
         },
         {
-            "Country": "Spain",
-            "Day_num": 29.0,
-            "Deaths": 15447
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 29,
+            "Unnamed: 2": 22019
         },
         {
-            "Country": "France",
-            "Day_num": 29.0,
-            "Deaths": 13832
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 29,
+            "Unnamed: 2": 15447
         },
         {
-            "Country": "Italy",
-            "Day_num": 29.0,
-            "Deaths": 12428
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 29,
+            "Unnamed: 2": 186
         },
         {
-            "Country": "China",
-            "Day_num": 29.0,
-            "Deaths": 2593
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 29,
+            "Unnamed: 2": 12428
         },
         {
-            "Country": "South Korea",
-            "Day_num": 29.0,
-            "Deaths": 186
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 29,
+            "Unnamed: 2": 13832
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 30.0,
-            "Deaths": 12868
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 29,
+            "Unnamed: 2": 2593
         },
         {
-            "Country": "United States",
-            "Day_num": 30.0,
-            "Deaths": 23528
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 30,
+            "Unnamed: 2": 12868
         },
         {
-            "Country": "Spain",
-            "Day_num": 30.0,
-            "Deaths": 16081
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 30,
+            "Unnamed: 2": 23528
         },
         {
-            "Country": "France",
-            "Day_num": 30.0,
-            "Deaths": 14393
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 30,
+            "Unnamed: 2": 16081
         },
         {
-            "Country": "Italy",
-            "Day_num": 30.0,
-            "Deaths": 13155
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 30,
+            "Unnamed: 2": 192
         },
         {
-            "Country": "China",
-            "Day_num": 30.0,
-            "Deaths": 2663
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 30,
+            "Unnamed: 2": 13155
         },
         {
-            "Country": "South Korea",
-            "Day_num": 30.0,
-            "Deaths": 192
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 30,
+            "Unnamed: 2": 14393
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 31.0,
-            "Deaths": 13729
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 30,
+            "Unnamed: 2": 2663
         },
         {
-            "Country": "United States",
-            "Day_num": 31.0,
-            "Deaths": 25831
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 31,
+            "Unnamed: 2": 13729
         },
         {
-            "Country": "Spain",
-            "Day_num": 31.0,
-            "Deaths": 16606
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 31,
+            "Unnamed: 2": 25831
         },
         {
-            "Country": "France",
-            "Day_num": 31.0,
-            "Deaths": 14967
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 31,
+            "Unnamed: 2": 16606
         },
         {
-            "Country": "Italy",
-            "Day_num": 31.0,
-            "Deaths": 13915
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 31,
+            "Unnamed: 2": 200
         },
         {
-            "Country": "China",
-            "Day_num": 31.0,
-            "Deaths": 2715
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 31,
+            "Unnamed: 2": 13915
         },
         {
-            "Country": "South Korea",
-            "Day_num": 31.0,
-            "Deaths": 200
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 31,
+            "Unnamed: 2": 14967
         },
         {
-            "Country": "UK (hospitals only)",
-            "Day_num": 32.0,
-            "Deaths": 14576
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 31,
+            "Unnamed: 2": 2715
         },
         {
-            "Country": "United States",
-            "Day_num": 32.0,
-            "Deaths": 28325
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 32,
+            "Unnamed: 2": 14576
         },
         {
-            "Country": "Spain",
-            "Day_num": 32.0,
-            "Deaths": 17209
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 32,
+            "Unnamed: 2": 28325
         },
         {
-            "Country": "France",
-            "Day_num": 32.0,
-            "Deaths": 15729
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 32,
+            "Unnamed: 2": 17209
         },
         {
-            "Country": "Italy",
-            "Day_num": 32.0,
-            "Deaths": 14681
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 32,
+            "Unnamed: 2": 204
         },
         {
-            "Country": "China",
-            "Day_num": 32.0,
-            "Deaths": 2744
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 32,
+            "Unnamed: 2": 14681
         },
         {
-            "Country": "South Korea",
-            "Day_num": 32.0,
-            "Deaths": 204
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 32,
+            "Unnamed: 2": 15729
         },
         {
-            "Country": "United States",
-            "Day_num": 33.0,
-            "Deaths": 32916
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 32,
+            "Unnamed: 2": 2744
         },
         {
-            "Country": "Spain",
-            "Day_num": 33.0,
-            "Deaths": 17756
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 33,
+            "Unnamed: 2": 15464
         },
         {
-            "Country": "France",
-            "Day_num": 33.0,
-            "Deaths": 17167
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 33,
+            "Unnamed: 2": 32916
         },
         {
-            "Country": "Italy",
-            "Day_num": 33.0,
-            "Deaths": 15362
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 33,
+            "Unnamed: 2": 17756
         },
         {
-            "Country": "China",
-            "Day_num": 33.0,
-            "Deaths": 2788
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 33,
+            "Unnamed: 2": 208
         },
         {
-            "Country": "South Korea",
-            "Day_num": 33.0,
-            "Deaths": 208
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 33,
+            "Unnamed: 2": 15362
         },
         {
-            "Country": "Spain",
-            "Day_num": 34.0,
-            "Deaths": 18056
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 33,
+            "Unnamed: 2": 17167
         },
         {
-            "Country": "France",
-            "Day_num": 34.0,
-            "Deaths": 17920
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 33,
+            "Unnamed: 2": 2788
         },
         {
-            "Country": "Italy",
-            "Day_num": 34.0,
-            "Deaths": 15887
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 34,
+            "Unnamed: 2": 36773
         },
         {
-            "Country": "China",
-            "Day_num": 34.0,
-            "Deaths": 2835
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 34,
+            "Unnamed: 2": 18056
         },
         {
-            "Country": "South Korea",
-            "Day_num": 34.0,
-            "Deaths": 211
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 34,
+            "Unnamed: 2": 211
         },
         {
-            "Country": "Spain",
-            "Day_num": 35.0,
-            "Deaths": 18708
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 34,
+            "Unnamed: 2": 15887
         },
         {
-            "Country": "Italy",
-            "Day_num": 35.0,
-            "Deaths": 16523
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 34,
+            "Unnamed: 2": 17920
         },
         {
-            "Country": "China",
-            "Day_num": 35.0,
-            "Deaths": 2870
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 34,
+            "Unnamed: 2": 2835
         },
         {
-            "Country": "South Korea",
-            "Day_num": 35.0,
-            "Deaths": 214
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 35,
+            "Unnamed: 2": 18708
         },
         {
-            "Country": "Spain",
-            "Day_num": 36.0,
-            "Deaths": 19315
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 35,
+            "Unnamed: 2": 214
         },
         {
-            "Country": "Italy",
-            "Day_num": 36.0,
-            "Deaths": 17127
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 35,
+            "Unnamed: 2": 16523
         },
         {
-            "Country": "China",
-            "Day_num": 36.0,
-            "Deaths": 2912
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 35,
+            "Unnamed: 2": 18681
         },
         {
-            "Country": "South Korea",
-            "Day_num": 36.0,
-            "Deaths": 217
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 35,
+            "Unnamed: 2": 2870
         },
         {
-            "Country": "Italy",
-            "Day_num": 37.0,
-            "Deaths": 17669
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 36,
+            "Unnamed: 2": 19315
         },
         {
-            "Country": "China",
-            "Day_num": 37.0,
-            "Deaths": 2945
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 36,
+            "Unnamed: 2": 217
         },
         {
-            "Country": "South Korea",
-            "Day_num": 37.0,
-            "Deaths": 222
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 36,
+            "Unnamed: 2": 17127
         },
         {
-            "Country": "Italy",
-            "Day_num": 38.0,
-            "Deaths": 18279
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 36,
+            "Unnamed: 2": 2912
         },
         {
-            "Country": "China",
-            "Day_num": 38.0,
-            "Deaths": 2981
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 37,
+            "Unnamed: 2": 20002
         },
         {
-            "Country": "South Korea",
-            "Day_num": 38.0,
-            "Deaths": 225
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 37,
+            "Unnamed: 2": 222
         },
         {
-            "Country": "Italy",
-            "Day_num": 39.0,
-            "Deaths": 18849
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 37,
+            "Unnamed: 2": 17669
         },
         {
-            "Country": "China",
-            "Day_num": 39.0,
-            "Deaths": 3013
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 37,
+            "Unnamed: 2": 2945
         },
         {
-            "Country": "South Korea",
-            "Day_num": 39.0,
-            "Deaths": 229
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 38,
+            "Unnamed: 2": 225
         },
         {
-            "Country": "Italy",
-            "Day_num": 40.0,
-            "Deaths": 19468
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 38,
+            "Unnamed: 2": 18279
         },
         {
-            "Country": "China",
-            "Day_num": 40.0,
-            "Deaths": 3042
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 38,
+            "Unnamed: 2": 2981
         },
         {
-            "Country": "Italy",
-            "Day_num": 41.0,
-            "Deaths": 19899
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 39,
+            "Unnamed: 2": 229
         },
         {
-            "Country": "China",
-            "Day_num": 41.0,
-            "Deaths": 3070
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 39,
+            "Unnamed: 2": 18849
         },
         {
-            "Country": "Italy",
-            "Day_num": 42.0,
-            "Deaths": 20465
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 39,
+            "Unnamed: 2": 3013
         },
         {
-            "Country": "China",
-            "Day_num": 42.0,
-            "Deaths": 3097
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 40,
+            "Unnamed: 2": 230
         },
         {
-            "Country": "Italy",
-            "Day_num": 43.0,
-            "Deaths": 21067
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 40,
+            "Unnamed: 2": 19468
         },
         {
-            "Country": "China",
-            "Day_num": 43.0,
-            "Deaths": 3120
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 40,
+            "Unnamed: 2": 3042
         },
         {
-            "Country": "Italy",
-            "Day_num": 44.0,
-            "Deaths": 21645
+            "Deaths related to Covid-19": "(ONS, NRS, NISRA, Public Health England, Johns Hopkins University)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
         },
         {
-            "Country": "China",
-            "Day_num": 44.0,
-            "Deaths": 3136
+            "Deaths related to Covid-19": "(Daily reporting of UK deaths is for hospitals only and may lag by up to several days.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
         },
         {
-            "Country": "Italy",
-            "Day_num": 45.0,
-            "Deaths": 22170
+            "Deaths related to Covid-19": "(ONS, NRS and NISRA reporting of UK deaths for all settings is based on information from death certificates, and therefore lags daily hospital data. International reporting procedures and lags are unclear, so may not be comparing likefor-like.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
         },
         {
-            "Country": "China",
-            "Day_num": 45.0,
-            "Deaths": 3158
+            "Deaths related to Covid-19": "(Deaths are reasonably accurate, but international reporting procedures and lags are unclear, so may not be comparing like-for-like.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
         }
     ],
     "Hospital beds": [
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Beds": 336,
-            "Region": "East of England"
+            "People in hospital beds": "With illness related to Covid-19",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Beds": 423,
-            "Region": "East of England"
+            "People in hospital beds": "Great Britain",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Number of people"
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Beds": 475,
-            "Region": "East of England"
+            "People in hospital beds": NaN,
+            "Unnamed: 1": "Region",
+            "Unnamed: 2": "Hospital Beds"
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Beds": 617,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-17 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 14
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Beds": 779,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-18 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 25
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Beds": 812,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-19 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 24
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Beds": 796,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-20 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 59
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Beds": 870,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-21 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 71
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Beds": 931,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-22 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 91
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Beds": 1161,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-23 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 131
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Beds": 1144,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-24 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 150
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Beds": 1323,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-25 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 191
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Beds": 1316,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-26 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 290
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Beds": 1272,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-27 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 336
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Beds": 1345,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-28 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 423
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Beds": 1322,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-29 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 475
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Beds": 1484,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-30 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 617
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Beds": 1268,
-            "Region": "East of England"
+            "People in hospital beds": "2020-03-31 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 779
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Beds": 1387,
-            "Region": "East of England"
+            "People in hospital beds": "2020-04-01 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 812
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Hospital Beds": 1418,
-            "Region": "East of England"
+            "People in hospital beds": "2020-04-02 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 796
         },
         {
-            "Day of Date": "2020-04-16 00:00:00",
-            "Hospital Beds": 1364,
-            "Region": "East of England"
+            "People in hospital beds": "2020-04-03 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 870
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Beds": 2727,
-            "Region": "London"
+            "People in hospital beds": "2020-04-04 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 931
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Beds": 3002,
-            "Region": "London"
+            "People in hospital beds": "2020-04-05 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1161
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Beds": 3334,
-            "Region": "London"
+            "People in hospital beds": "2020-04-06 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1144
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Beds": 3492,
-            "Region": "London"
+            "People in hospital beds": "2020-04-07 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1323
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Beds": 3915,
-            "Region": "London"
+            "People in hospital beds": "2020-04-08 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1316
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Beds": 4065,
-            "Region": "London"
+            "People in hospital beds": "2020-04-09 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1272
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Beds": 3893,
-            "Region": "London"
+            "People in hospital beds": "2020-04-10 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1345
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Beds": 3836,
-            "Region": "London"
+            "People in hospital beds": "2020-04-11 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1322
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Beds": 4406,
-            "Region": "London"
+            "People in hospital beds": "2020-04-12 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1484
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Beds": 4571,
-            "Region": "London"
+            "People in hospital beds": "2020-04-13 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1268
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Beds": 4656,
-            "Region": "London"
+            "People in hospital beds": "2020-04-14 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1387
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Beds": 4689,
-            "Region": "London"
+            "People in hospital beds": "2020-04-15 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1418
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Beds": 4813,
-            "Region": "London"
+            "People in hospital beds": "2020-04-16 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1364
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Beds": 4194,
-            "Region": "London"
+            "People in hospital beds": "2020-04-17 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1340
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Beds": 4736,
-            "Region": "London"
+            "People in hospital beds": "2020-03-17 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 282
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Beds": 4430,
-            "Region": "London"
+            "People in hospital beds": "2020-03-18 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 445
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Beds": 4433,
-            "Region": "London"
+            "People in hospital beds": "2020-03-19 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 708
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Beds": 4248,
-            "Region": "London"
+            "People in hospital beds": "2020-03-20 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 819
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Beds": 4031,
-            "Region": "London"
+            "People in hospital beds": "2020-03-21 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 1119
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Hospital Beds": 3886,
-            "Region": "London"
+            "People in hospital beds": "2020-03-22 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 1228
         },
         {
-            "Day of Date": "2020-04-16 00:00:00",
-            "Hospital Beds": 3800,
-            "Region": "London"
+            "People in hospital beds": "2020-03-23 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 1515
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Beds": 1054,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-03-24 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 1651
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Beds": 1117,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-03-25 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 2019
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Beds": 1312,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-03-26 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 2417
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Beds": 1799,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-03-27 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 2727
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Beds": 1918,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-03-28 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3002
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Beds": 2138,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-03-29 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3334
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Beds": 1729,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-03-30 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3492
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Beds": 2546,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-03-31 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3915
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Beds": 2768,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-01 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4065
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Beds": 2895,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-02 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3893
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Beds": 3042,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-03 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3836
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Beds": 3086,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-04 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4406
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Beds": 3070,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-05 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4571
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Beds": 2999,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-06 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4656
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Beds": 3101,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-07 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4689
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Beds": 3062,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-08 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4813
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Beds": 3092,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-09 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4194
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Beds": 2975,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-10 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4736
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Beds": 2989,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-11 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4430
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Hospital Beds": 2756,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-12 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4433
         },
         {
-            "Day of Date": "2020-04-16 00:00:00",
-            "Hospital Beds": 2708,
-            "Region": "Midlands"
+            "People in hospital beds": "2020-04-13 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4248
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Beds": 532,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-04-14 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 4031
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Beds": 677,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-04-15 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3886
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Beds": 804,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-04-16 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3800
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Beds": 963,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-04-17 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3617
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Beds": 1085,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 58
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Beds": 1254,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 96
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Beds": 1311,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 132
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Beds": 1771,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 218
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Beds": 2013,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 278
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Beds": 2218,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 379
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Beds": 2041,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 436
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Beds": 2113,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 581
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Beds": 2319,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 688
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Beds": 2567,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 964
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Beds": 2304,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 1054
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Beds": 2422,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 1117
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Beds": 2440,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 1312
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Beds": 2470,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 1799
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Beds": 2431,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 1918
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Hospital Beds": 2400,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2138
         },
         {
-            "Day of Date": "2020-04-16 00:00:00",
-            "Hospital Beds": 2353,
-            "Region": "North East & Yorkshire"
+            "People in hospital beds": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 1729
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Beds": 548,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2546
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Beds": 654,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2768
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Beds": 809,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2895
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Beds": 964,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 3042
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Beds": 1110,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 3086
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Beds": 1392,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 3070
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Beds": 1379,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2999
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Beds": 1638,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 3101
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Beds": 2049,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 3062
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Beds": 2178,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 3092
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Beds": 2409,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2975
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Beds": 2495,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2989
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Beds": 2436,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2756
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Beds": 2596,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2708
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Beds": 2721,
-            "Region": "North West"
+            "People in hospital beds": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2496
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Beds": 2830,
-            "Region": "North West"
+            "People in hospital beds": "2020-03-17 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 29
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Beds": 2837,
-            "Region": "North West"
+            "People in hospital beds": "2020-03-18 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 50
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Beds": 2890,
-            "Region": "North West"
+            "People in hospital beds": "2020-03-19 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 63
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Beds": 2842,
-            "Region": "North West"
+            "People in hospital beds": "2020-03-20 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 82
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Hospital Beds": 2655,
-            "Region": "North West"
+            "People in hospital beds": "2020-03-21 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 124
         },
         {
-            "Day of Date": "2020-04-16 00:00:00",
-            "Hospital Beds": 2753,
-            "Region": "North West"
+            "People in hospital beds": "2020-03-22 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 158
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Beds": 672,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-03-23 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 190
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Beds": 782,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-03-24 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 228
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Beds": 859,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-03-25 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 307
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Beds": 924,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-03-26 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 426
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Beds": 1073,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-03-27 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 532
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Beds": 1153,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-03-28 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 677
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Beds": 1282,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-03-29 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 804
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Beds": 1321,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-03-30 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 963
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Beds": 1480,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-03-31 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 1085
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Beds": 1590,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-01 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 1254
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Beds": 1599,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-02 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 1311
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Beds": 1733,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-03 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 1771
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Beds": 1771,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-04 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2013
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Beds": 1781,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-05 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2218
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Beds": 1832,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-06 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2041
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Beds": 1855,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-07 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2113
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Beds": 1755,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-08 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2319
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Beds": 1797,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-09 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2567
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Beds": 1801,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-10 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2304
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Hospital Beds": 1748,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-11 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2422
         },
         {
-            "Day of Date": "2020-04-16 00:00:00",
-            "Hospital Beds": 1799,
-            "Region": "Scotland"
+            "People in hospital beds": "2020-04-12 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2440
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Beds": 744,
-            "Region": "South East"
+            "People in hospital beds": "2020-04-13 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2470
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Beds": 802,
-            "Region": "South East"
+            "People in hospital beds": "2020-04-14 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2431
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Beds": 1008,
-            "Region": "South East"
+            "People in hospital beds": "2020-04-15 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2400
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Beds": 1208,
-            "Region": "South East"
+            "People in hospital beds": "2020-04-16 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2353
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Beds": 1469,
-            "Region": "South East"
+            "People in hospital beds": "2020-04-17 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2206
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Beds": 1368,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-17 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 33
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Beds": 1614,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-18 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 51
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Beds": 1541,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-19 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 71
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Beds": 1712,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-20 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 130
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Beds": 1850,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-21 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 162
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Beds": 1858,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-22 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 190
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Beds": 2073,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-23 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 236
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Beds": 2058,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-24 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 250
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Beds": 1930,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-25 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 332
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Beds": 2031,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-26 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 372
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Beds": 2007,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-27 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 548
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Beds": 2053,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-28 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 654
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Beds": 2049,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-29 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 809
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Beds": 2020,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-30 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 964
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Hospital Beds": 1970,
-            "Region": "South East"
+            "People in hospital beds": "2020-03-31 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 1110
         },
         {
-            "Day of Date": "2020-04-16 00:00:00",
-            "Hospital Beds": 1911,
-            "Region": "South East"
+            "People in hospital beds": "2020-04-01 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 1392
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Beds": 304,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-02 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 1379
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Beds": 342,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-03 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 1638
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Beds": 401,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-04 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2049
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Beds": 455,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-05 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2178
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Beds": 491,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-06 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2409
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Beds": 560,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-07 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2495
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Beds": 587,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-08 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2436
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Beds": 639,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-09 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2596
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Beds": 697,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-10 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2721
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Beds": 734,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-11 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2830
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Beds": 796,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-12 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2837
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Beds": 784,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-13 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2890
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Beds": 772,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-14 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2842
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Beds": 797,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-15 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2655
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Beds": 809,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-16 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2753
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Beds": 808,
-            "Region": "South West"
+            "People in hospital beds": "2020-04-17 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2389
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Beds": 833,
-            "Region": "South West"
+            "People in hospital beds": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 575
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Beds": 822,
-            "Region": "South West"
+            "People in hospital beds": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 672
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Beds": 840,
-            "Region": "South West"
+            "People in hospital beds": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 782
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Hospital Beds": 832,
-            "Region": "South West"
+            "People in hospital beds": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 859
         },
         {
-            "Day of Date": "2020-04-16 00:00:00",
-            "Hospital Beds": 796,
-            "Region": "South West"
+            "People in hospital beds": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 924
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Hospital Beds": 451,
-            "Region": "Wales"
+            "People in hospital beds": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1073
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Hospital Beds": 552,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1153
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Hospital Beds": 535,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1282
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Hospital Beds": 625,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1321
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Hospital Beds": 781,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1480
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Hospital Beds": 972,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1590
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Hospital Beds": 865,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1599
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Hospital Beds": 911,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1733
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Hospital Beds": 915,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1771
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Hospital Beds": 990,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1781
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Hospital Beds": 1044,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1832
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Hospital Beds": 1054,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1855
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Hospital Beds": 1160,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1755
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Hospital Beds": 1168,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1797
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Hospital Beds": 1222,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1801
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Hospital Beds": 1209,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1748
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Hospital Beds": 1257,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1798
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Hospital Beds": 1187,
-            "Region": "Wales"
+            "People in hospital beds": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1799
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Hospital Beds": 1191,
-            "Region": "Wales"
+            "People in hospital beds": "2020-03-17 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 33
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Hospital Beds": 1209,
-            "Region": "Wales"
+            "People in hospital beds": "2020-03-18 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 56
         },
         {
-            "Day of Date": "2020-04-16 00:00:00",
-            "Hospital Beds": 1227,
-            "Region": "Wales"
+            "People in hospital beds": "2020-03-19 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 144
+        },
+        {
+            "People in hospital beds": "2020-03-20 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 176
+        },
+        {
+            "People in hospital beds": "2020-03-21 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 307
+        },
+        {
+            "People in hospital beds": "2020-03-22 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 408
+        },
+        {
+            "People in hospital beds": "2020-03-23 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 449
+        },
+        {
+            "People in hospital beds": "2020-03-24 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 469
+        },
+        {
+            "People in hospital beds": "2020-03-25 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 567
+        },
+        {
+            "People in hospital beds": "2020-03-26 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 599
+        },
+        {
+            "People in hospital beds": "2020-03-27 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 744
+        },
+        {
+            "People in hospital beds": "2020-03-28 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 802
+        },
+        {
+            "People in hospital beds": "2020-03-29 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1008
+        },
+        {
+            "People in hospital beds": "2020-03-30 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1208
+        },
+        {
+            "People in hospital beds": "2020-03-31 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1469
+        },
+        {
+            "People in hospital beds": "2020-04-01 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1368
+        },
+        {
+            "People in hospital beds": "2020-04-02 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1614
+        },
+        {
+            "People in hospital beds": "2020-04-03 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1541
+        },
+        {
+            "People in hospital beds": "2020-04-04 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1712
+        },
+        {
+            "People in hospital beds": "2020-04-05 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1850
+        },
+        {
+            "People in hospital beds": "2020-04-06 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1858
+        },
+        {
+            "People in hospital beds": "2020-04-07 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 2073
+        },
+        {
+            "People in hospital beds": "2020-04-08 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 2058
+        },
+        {
+            "People in hospital beds": "2020-04-09 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1930
+        },
+        {
+            "People in hospital beds": "2020-04-10 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 2031
+        },
+        {
+            "People in hospital beds": "2020-04-11 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 2007
+        },
+        {
+            "People in hospital beds": "2020-04-12 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 2053
+        },
+        {
+            "People in hospital beds": "2020-04-13 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 2049
+        },
+        {
+            "People in hospital beds": "2020-04-14 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 2020
+        },
+        {
+            "People in hospital beds": "2020-04-15 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1970
+        },
+        {
+            "People in hospital beds": "2020-04-16 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1911
+        },
+        {
+            "People in hospital beds": "2020-04-17 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1893
+        },
+        {
+            "People in hospital beds": "2020-03-17 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 23
+        },
+        {
+            "People in hospital beds": "2020-03-18 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 36
+        },
+        {
+            "People in hospital beds": "2020-03-19 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 55
+        },
+        {
+            "People in hospital beds": "2020-03-20 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 57
+        },
+        {
+            "People in hospital beds": "2020-03-21 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 95
+        },
+        {
+            "People in hospital beds": "2020-03-22 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 134
+        },
+        {
+            "People in hospital beds": "2020-03-23 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 140
+        },
+        {
+            "People in hospital beds": "2020-03-24 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 163
+        },
+        {
+            "People in hospital beds": "2020-03-25 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 200
+        },
+        {
+            "People in hospital beds": "2020-03-26 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 236
+        },
+        {
+            "People in hospital beds": "2020-03-27 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 304
+        },
+        {
+            "People in hospital beds": "2020-03-28 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 342
+        },
+        {
+            "People in hospital beds": "2020-03-29 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 401
+        },
+        {
+            "People in hospital beds": "2020-03-30 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 455
+        },
+        {
+            "People in hospital beds": "2020-03-31 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 491
+        },
+        {
+            "People in hospital beds": "2020-04-01 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 560
+        },
+        {
+            "People in hospital beds": "2020-04-02 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 587
+        },
+        {
+            "People in hospital beds": "2020-04-03 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 639
+        },
+        {
+            "People in hospital beds": "2020-04-04 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 697
+        },
+        {
+            "People in hospital beds": "2020-04-05 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 734
+        },
+        {
+            "People in hospital beds": "2020-04-06 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 796
+        },
+        {
+            "People in hospital beds": "2020-04-07 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 784
+        },
+        {
+            "People in hospital beds": "2020-04-08 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 772
+        },
+        {
+            "People in hospital beds": "2020-04-09 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 797
+        },
+        {
+            "People in hospital beds": "2020-04-10 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 809
+        },
+        {
+            "People in hospital beds": "2020-04-11 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 808
+        },
+        {
+            "People in hospital beds": "2020-04-12 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 833
+        },
+        {
+            "People in hospital beds": "2020-04-13 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 822
+        },
+        {
+            "People in hospital beds": "2020-04-14 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 840
+        },
+        {
+            "People in hospital beds": "2020-04-15 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 832
+        },
+        {
+            "People in hospital beds": "2020-04-16 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 796
+        },
+        {
+            "People in hospital beds": "2020-04-17 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 792
+        },
+        {
+            "People in hospital beds": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 63
+        },
+        {
+            "People in hospital beds": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 178
+        },
+        {
+            "People in hospital beds": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 411
+        },
+        {
+            "People in hospital beds": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 451
+        },
+        {
+            "People in hospital beds": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 552
+        },
+        {
+            "People in hospital beds": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 535
+        },
+        {
+            "People in hospital beds": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 625
+        },
+        {
+            "People in hospital beds": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 781
+        },
+        {
+            "People in hospital beds": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 972
+        },
+        {
+            "People in hospital beds": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 865
+        },
+        {
+            "People in hospital beds": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 911
+        },
+        {
+            "People in hospital beds": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 915
+        },
+        {
+            "People in hospital beds": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 990
+        },
+        {
+            "People in hospital beds": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1044
+        },
+        {
+            "People in hospital beds": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1054
+        },
+        {
+            "People in hospital beds": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1160
+        },
+        {
+            "People in hospital beds": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1168
+        },
+        {
+            "People in hospital beds": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1222
+        },
+        {
+            "People in hospital beds": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1209
+        },
+        {
+            "People in hospital beds": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1257
+        },
+        {
+            "People in hospital beds": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1187
+        },
+        {
+            "People in hospital beds": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1191
+        },
+        {
+            "People in hospital beds": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1209
+        },
+        {
+            "People in hospital beds": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1227
+        },
+        {
+            "People in hospital beds": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1227
+        },
+        {
+            "People in hospital beds": "((Confidence: a new categorisation has been added to an existing high quality administrative data set))",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "People in hospital beds": "(NHSE, Welsh Government, Scotland Government)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "People in hospital beds": "(Nine hospitals, including London Nightingale did not return data for April 9, resulting in a misrepresented drop in hospitalisations)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "People in hospital beds": "(Over the last 24 hours, the number of people in hospital with confirmed COVID-19 fell by 3% across Great Britain)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
         }
     ],
     "Transport use": [
         {
-            "Day of Date": "2020-03-21 00:00:00",
-            "Percentage": 0.73,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": "Since 16 March 2020"
         },
         {
-            "Day of Date": "2020-03-22 00:00:00",
-            "Percentage": 0.69,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Percentage",
+            "Use of transport modes": "Great Britain"
         },
         {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Percentage": 0.69,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "Transport Type",
+            "Unnamed: 2": "Percentage",
+            "Use of transport modes": NaN
         },
         {
-            "Day of Date": "2020-03-24 00:00:00",
-            "Percentage": 0.49,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.98,
+            "Use of transport modes": "2020-03-16 00:00:00"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Percentage": 0.42,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.89,
+            "Use of transport modes": "2020-03-17 00:00:00"
         },
         {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Percentage": 0.39,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.83,
+            "Use of transport modes": "2020-03-18 00:00:00"
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Percentage": 0.38,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.82,
+            "Use of transport modes": "2020-03-19 00:00:00"
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Percentage": 0.3,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.81,
+            "Use of transport modes": "2020-03-20 00:00:00"
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Percentage": 0.25,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.73,
+            "Use of transport modes": "2020-03-21 00:00:00"
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Percentage": 0.36,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.69,
+            "Use of transport modes": "2020-03-22 00:00:00"
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Percentage": 0.36,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.69,
+            "Use of transport modes": "2020-03-23 00:00:00"
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Percentage": 0.35,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.49,
+            "Use of transport modes": "2020-03-24 00:00:00"
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Percentage": 0.35,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.42,
+            "Use of transport modes": "2020-03-25 00:00:00"
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Percentage": 0.36,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.39,
+            "Use of transport modes": "2020-03-26 00:00:00"
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Percentage": 0.31,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.38,
+            "Use of transport modes": "2020-03-27 00:00:00"
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Percentage": 0.27,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.3,
+            "Use of transport modes": "2020-03-28 00:00:00"
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Percentage": 0.37,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.25,
+            "Use of transport modes": "2020-03-29 00:00:00"
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Percentage": 0.36,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.36,
+            "Use of transport modes": "2020-03-30 00:00:00"
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Percentage": 0.37,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.36,
+            "Use of transport modes": "2020-03-31 00:00:00"
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Percentage": 0.39,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-04-01 00:00:00"
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Percentage": 0.27,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-04-02 00:00:00"
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Percentage": 0.31,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.36,
+            "Use of transport modes": "2020-04-03 00:00:00"
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Percentage": 0.24,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.31,
+            "Use of transport modes": "2020-04-04 00:00:00"
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Percentage": 0.23,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.27,
+            "Use of transport modes": "2020-04-05 00:00:00"
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Percentage": 0.38,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.37,
+            "Use of transport modes": "2020-04-06 00:00:00"
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Percentage": 0.38,
-            "Transport Type": "All motor vehicles"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.36,
+            "Use of transport modes": "2020-04-07 00:00:00"
         },
         {
-            "Day of Date": "2020-03-21 00:00:00",
-            "Percentage": 0.39,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.37,
+            "Use of transport modes": "2020-04-08 00:00:00"
         },
         {
-            "Day of Date": "2020-03-22 00:00:00",
-            "Percentage": 0.32,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.39,
+            "Use of transport modes": "2020-04-09 00:00:00"
         },
         {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Percentage": 0.31,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.27,
+            "Use of transport modes": "2020-04-10 00:00:00"
         },
         {
-            "Day of Date": "2020-03-24 00:00:00",
-            "Percentage": 0.22,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.31,
+            "Use of transport modes": "2020-04-11 00:00:00"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Percentage": 0.19,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.24,
+            "Use of transport modes": "2020-04-12 00:00:00"
         },
         {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.23,
+            "Use of transport modes": "2020-04-13 00:00:00"
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.38,
+            "Use of transport modes": "2020-04-14 00:00:00"
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.38,
+            "Use of transport modes": "2020-04-15 00:00:00"
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.38,
+            "Use of transport modes": "2020-04-16 00:00:00"
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.88,
+            "Use of transport modes": "2020-03-16 00:00:00"
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.77,
+            "Use of transport modes": "2020-03-17 00:00:00"
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.62,
+            "Use of transport modes": "2020-03-18 00:00:00"
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.58,
+            "Use of transport modes": "2020-03-19 00:00:00"
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.53,
+            "Use of transport modes": "2020-03-20 00:00:00"
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.4,
+            "Use of transport modes": "2020-03-21 00:00:00"
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-03-22 00:00:00"
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.27,
+            "Use of transport modes": "2020-03-23 00:00:00"
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-03-24 00:00:00"
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.14,
+            "Use of transport modes": "2020-03-25 00:00:00"
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-03-26 00:00:00"
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Percentage": 0.13,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.14,
+            "Use of transport modes": "2020-03-27 00:00:00"
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Percentage": 0.16,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-03-28 00:00:00"
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Percentage": 0.13,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-03-29 00:00:00"
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-03-30 00:00:00"
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Percentage": 0.19,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-03-31 00:00:00"
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "TfL Bus"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-01 00:00:00"
         },
         {
-            "Day of Date": "2020-03-21 00:00:00",
-            "Percentage": 0.4,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-02 00:00:00"
         },
         {
-            "Day of Date": "2020-03-22 00:00:00",
-            "Percentage": 0.35,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-03 00:00:00"
         },
         {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Percentage": 0.27,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-04 00:00:00"
         },
         {
-            "Day of Date": "2020-03-24 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-05 00:00:00"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Percentage": 0.14,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-06 00:00:00"
         },
         {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Percentage": 0.13,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-07 00:00:00"
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Percentage": 0.14,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.1,
+            "Use of transport modes": "2020-04-08 00:00:00"
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-09 00:00:00"
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Percentage": 0.13,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.116,
+            "Use of transport modes": "2020-04-10 00:00:00"
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.1,
+            "Use of transport modes": "2020-04-11 00:00:00"
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.1,
+            "Use of transport modes": "2020-04-12 00:00:00"
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-13 00:00:00"
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-14 00:00:00"
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.1,
+            "Use of transport modes": "2020-04-15 00:00:00"
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-16 00:00:00"
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.77,
+            "Use of transport modes": "2020-03-16 00:00:00"
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.69,
+            "Use of transport modes": "2020-03-17 00:00:00"
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.59,
+            "Use of transport modes": "2020-03-18 00:00:00"
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Percentage": 0.1,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.52,
+            "Use of transport modes": "2020-03-19 00:00:00"
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.44,
+            "Use of transport modes": "2020-03-20 00:00:00"
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.38,
+            "Use of transport modes": "2020-03-21 00:00:00"
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Percentage": 0.1,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-03-22 00:00:00"
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Percentage": 0.1,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.29,
+            "Use of transport modes": "2020-03-23 00:00:00"
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.24,
+            "Use of transport modes": "2020-03-24 00:00:00"
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-03-25 00:00:00"
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Percentage": 0.1,
-            "Transport Type": "Bus (excl. London)"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-03-26 00:00:00"
         },
         {
-            "Day of Date": "2020-03-21 00:00:00",
-            "Percentage": 0.13,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-03-27 00:00:00"
         },
         {
-            "Day of Date": "2020-03-22 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-03-28 00:00:00"
         },
         {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Percentage": 0.15,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-03-29 00:00:00"
         },
         {
-            "Day of Date": "2020-03-24 00:00:00",
-            "Percentage": 0.09,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.1,
+            "Use of transport modes": "2020-03-30 00:00:00"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Percentage": 0.07,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.09,
+            "Use of transport modes": "2020-03-31 00:00:00"
         },
         {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Percentage": 0.06,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.08,
+            "Use of transport modes": "2020-04-01 00:00:00"
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Percentage": 0.06,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-02 00:00:00"
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-04-03 00:00:00"
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-04-04 00:00:00"
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-04-05 00:00:00"
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-06 00:00:00"
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-07 00:00:00"
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-08 00:00:00"
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-09 00:00:00"
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-10 00:00:00"
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-11 00:00:00"
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-12 00:00:00"
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-13 00:00:00"
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-14 00:00:00"
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-15 00:00:00"
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.02,
+            "Use of transport modes": "2020-04-16 00:00:00"
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.79,
+            "Use of transport modes": "2020-03-16 00:00:00"
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.7,
+            "Use of transport modes": "2020-03-17 00:00:00"
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Percentage": 0.02,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.65,
+            "Use of transport modes": "2020-03-18 00:00:00"
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.59,
+            "Use of transport modes": "2020-03-19 00:00:00"
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "TfL Tube"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.52,
+            "Use of transport modes": "2020-03-20 00:00:00"
         },
         {
-            "Day of Date": "2020-03-21 00:00:00",
-            "Percentage": 0.38,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.39,
+            "Use of transport modes": "2020-03-21 00:00:00"
         },
         {
-            "Day of Date": "2020-03-22 00:00:00",
-            "Percentage": 0.35,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.32,
+            "Use of transport modes": "2020-03-22 00:00:00"
         },
         {
-            "Day of Date": "2020-03-23 00:00:00",
-            "Percentage": 0.29,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.31,
+            "Use of transport modes": "2020-03-23 00:00:00"
         },
         {
-            "Day of Date": "2020-03-24 00:00:00",
-            "Percentage": 0.24,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.22,
+            "Use of transport modes": "2020-03-24 00:00:00"
         },
         {
-            "Day of Date": "2020-03-25 00:00:00",
-            "Percentage": 0.18,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.19,
+            "Use of transport modes": "2020-03-25 00:00:00"
         },
         {
-            "Day of Date": "2020-03-26 00:00:00",
-            "Percentage": 0.17,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-03-26 00:00:00"
         },
         {
-            "Day of Date": "2020-03-27 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-03-27 00:00:00"
         },
         {
-            "Day of Date": "2020-03-28 00:00:00",
-            "Percentage": 0.12,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-03-28 00:00:00"
         },
         {
-            "Day of Date": "2020-03-29 00:00:00",
-            "Percentage": 0.11,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-03-29 00:00:00"
         },
         {
-            "Day of Date": "2020-03-30 00:00:00",
-            "Percentage": 0.1,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-03-30 00:00:00"
         },
         {
-            "Day of Date": "2020-03-31 00:00:00",
-            "Percentage": 0.09,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-03-31 00:00:00"
         },
         {
-            "Day of Date": "2020-04-01 00:00:00",
-            "Percentage": 0.08,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-04-01 00:00:00"
         },
         {
-            "Day of Date": "2020-04-02 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-04-02 00:00:00"
         },
         {
-            "Day of Date": "2020-04-03 00:00:00",
-            "Percentage": 0.06,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-04-03 00:00:00"
         },
         {
-            "Day of Date": "2020-04-04 00:00:00",
-            "Percentage": 0.06,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-04-04 00:00:00"
         },
         {
-            "Day of Date": "2020-04-05 00:00:00",
-            "Percentage": 0.06,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-04-05 00:00:00"
         },
         {
-            "Day of Date": "2020-04-06 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-06 00:00:00"
         },
         {
-            "Day of Date": "2020-04-07 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-07 00:00:00"
         },
         {
-            "Day of Date": "2020-04-08 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-04-08 00:00:00"
         },
         {
-            "Day of Date": "2020-04-09 00:00:00",
-            "Percentage": 0.05,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-09 00:00:00"
         },
         {
-            "Day of Date": "2020-04-10 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-04-10 00:00:00"
         },
         {
-            "Day of Date": "2020-04-11 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-04-11 00:00:00"
         },
         {
-            "Day of Date": "2020-04-12 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-04-12 00:00:00"
         },
         {
-            "Day of Date": "2020-04-13 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-13 00:00:00"
         },
         {
-            "Day of Date": "2020-04-14 00:00:00",
-            "Percentage": 0.04,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.19,
+            "Use of transport modes": "2020-04-14 00:00:00"
         },
         {
-            "Day of Date": "2020-04-15 00:00:00",
-            "Percentage": 0.03,
-            "Transport Type": "National rail"
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-15 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.6,
+            "Use of transport modes": "2020-03-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.44,
+            "Use of transport modes": "2020-03-17 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-03-18 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.3,
+            "Use of transport modes": "2020-03-19 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.24,
+            "Use of transport modes": "2020-03-20 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-03-21 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-03-22 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.15,
+            "Use of transport modes": "2020-03-23 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.09,
+            "Use of transport modes": "2020-03-24 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.07,
+            "Use of transport modes": "2020-03-25 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-03-26 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-03-27 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-03-28 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-03-29 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-03-30 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-03-31 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-01 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-02 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-03 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-04 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-05 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-06 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-07 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-08 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-09 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-10 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-11 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-12 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.02,
+            "Use of transport modes": "2020-04-13 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-14 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-15 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": "(Bus (excl. London) data has been adjusted to compare against typical usage for the Easter break, whereas all other data sources have not.)"
+        },
+        {
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": "(Department for Transport)"
         }
     ],
     "UK cases": [
         {
-            "Pillar": "Pillar 2",
-            "cases": 5,
-            "date_text": "2020-03-27 00:00:00"
+            "Confirmed cases of Covid-19": "As per testing under pillars 1 and 2 of the testing strategy",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 10,
-            "date_text": "2020-03-28 00:00:00"
+            "Confirmed cases of Covid-19": "United Kingdom",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Number of new cases"
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 69,
-            "date_text": "2020-03-29 00:00:00"
+            "Confirmed cases of Covid-19": NaN,
+            "Unnamed: 1": "Pillar",
+            "Unnamed: 2": "Cases"
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 46,
-            "date_text": "2020-03-30 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 873
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 241,
-            "date_text": "2020-03-31 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 665
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 243,
-            "date_text": "2020-04-01 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 967
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 278,
-            "date_text": "2020-04-02 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 1427
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 222,
-            "date_text": "2020-04-03 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 1452
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 265,
-            "date_text": "2020-04-04 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 2129
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 296,
-            "date_text": "2020-04-05 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 2885
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 341,
-            "date_text": "2020-04-06 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 2546
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 254,
-            "date_text": "2020-04-07 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 2433
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 374,
-            "date_text": "2020-04-08 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 2619
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 331,
-            "date_text": "2020-04-09 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 3009
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 511,
-            "date_text": "2020-04-10 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 4324
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 610,
-            "date_text": "2020-04-11 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 4244
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 838,
-            "date_text": "2020-04-12 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 4450
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 799,
-            "date_text": "2020-04-13 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 3735
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 784,
-            "date_text": "2020-04-14 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 5903
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 634,
-            "date_text": "2020-04-15 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 3802
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 749,
-            "date_text": "2020-04-16 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 3634
         },
         {
-            "Pillar": "Pillar 2",
-            "cases": 926,
-            "date_text": "2020-04-17 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 5491
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 873,
-            "date_text": "2020-03-21 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 4344
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 665,
-            "date_text": "2020-03-22 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 5195
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 967,
-            "date_text": "2020-03-23 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 4624
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 1427,
-            "date_text": "2020-03-24 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 4450
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 1452,
-            "date_text": "2020-03-25 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 3543
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 2129,
-            "date_text": "2020-03-26 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 4468
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 2885,
-            "date_text": "2020-03-27 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 3971
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 2546,
-            "date_text": "2020-03-28 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 3869
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 2433,
-            "date_text": "2020-03-29 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 4673
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 2619,
-            "date_text": "2020-03-30 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 4399
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 3009,
-            "date_text": "2020-03-31 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 5
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 4324,
-            "date_text": "2020-04-01 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 10
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 4244,
-            "date_text": "2020-04-02 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 69
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 4450,
-            "date_text": "2020-04-03 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 46
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 3735,
-            "date_text": "2020-04-04 00:00:00"
+            "Confirmed cases of Covid-19": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 241
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 5903,
-            "date_text": "2020-04-05 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 243
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 3802,
-            "date_text": "2020-04-06 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 278
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 3634,
-            "date_text": "2020-04-07 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 222
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 5491,
-            "date_text": "2020-04-08 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 265
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 4344,
-            "date_text": "2020-04-09 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 296
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 5195,
-            "date_text": "2020-04-10 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 341
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 4624,
-            "date_text": "2020-04-11 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 254
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 4450,
-            "date_text": "2020-04-12 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 374
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 3543,
-            "date_text": "2020-04-13 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 331
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 4468,
-            "date_text": "2020-04-14 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 511
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 3971,
-            "date_text": "2020-04-15 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 610
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 3869,
-            "date_text": "2020-04-16 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 838
         },
         {
-            "Pillar": "Pillar 1",
-            "cases": 4673,
-            "date_text": "2020-04-17 00:00:00"
+            "Confirmed cases of Covid-19": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 799
+        },
+        {
+            "Confirmed cases of Covid-19": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 784
+        },
+        {
+            "Confirmed cases of Covid-19": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 634
+        },
+        {
+            "Confirmed cases of Covid-19": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 749
+        },
+        {
+            "Confirmed cases of Covid-19": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 926
+        },
+        {
+            "Confirmed cases of Covid-19": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 1127
+        },
+        {
+            "Confirmed cases of Covid-19": "((Confidence: there are likely many more cases than currently recorded here). )",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Confirmed cases of Covid-19": "(Cases are reported when lab tests are completed. This may be a few days after initial testing.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Confirmed cases of Covid-19": "(Department of Health and Social Care)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Confirmed cases of Covid-19": "(Pillar 1: swab testing in PHE labs and NHS hospitals for those with a medical need and the most critical workers and their families)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Confirmed cases of Covid-19": "(Pillar 2: swab testing for key workers and their households)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Confirmed cases of Covid-19": "(Testing capacity is increasing, which is resulting in a greater number of observed cases)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
         }
     ]
 }
