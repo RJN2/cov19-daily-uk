@@ -61,7 +61,7 @@
             "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "People in hospital beds with COVID-19"
+            "Slides and datasets to accompany coronavirus press conferences": "People in hospital with COVID-19"
         },
         {
             "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government"
@@ -144,7 +144,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 10,
-            "Unnamed: 2": 562
+            "Unnamed: 2": 563
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -194,7 +194,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 11,
-            "Unnamed: 2": 632
+            "Unnamed: 2": 633
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -239,7 +239,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 12,
-            "Unnamed: 2": 717
+            "Unnamed: 2": 718
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -284,7 +284,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 13,
-            "Unnamed: 2": 804
+            "Unnamed: 2": 805
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -329,7 +329,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 14,
-            "Unnamed: 2": 904
+            "Unnamed: 2": 905
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -374,7 +374,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 15,
-            "Unnamed: 2": 1011
+            "Unnamed: 2": 1012
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -419,7 +419,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 16,
-            "Unnamed: 2": 1111
+            "Unnamed: 2": 1112
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -464,7 +464,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 17,
-            "Unnamed: 2": 1116
+            "Unnamed: 2": 1117
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -514,7 +514,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 18,
-            "Unnamed: 2": 1368
+            "Unnamed: 2": 1369
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -559,7 +559,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 19,
-            "Unnamed: 2": 1520
+            "Unnamed: 2": 1521
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -604,7 +604,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 20,
-            "Unnamed: 2": 1662
+            "Unnamed: 2": 1663
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -649,7 +649,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 21,
-            "Unnamed: 2": 1765
+            "Unnamed: 2": 1766
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -694,7 +694,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 22,
-            "Unnamed: 2": 1863
+            "Unnamed: 2": 1864
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -739,7 +739,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 23,
-            "Unnamed: 2": 2002
+            "Unnamed: 2": 2003
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -749,7 +749,12 @@
         {
             "Deaths related to Covid-19": "United States",
             "Unnamed: 1": 24,
-            "Unnamed: 2": 12722
+            "Unnamed: 2": 12794
+        },
+        {
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 24,
+            "Unnamed: 2": 1511
         },
         {
             "Deaths related to Covid-19": "Spain",
@@ -779,7 +784,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 24,
-            "Unnamed: 2": 2114
+            "Unnamed: 2": 2116
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -819,7 +824,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 25,
-            "Unnamed: 2": 2236
+            "Unnamed: 2": 2238
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -829,7 +834,7 @@
         {
             "Deaths related to Covid-19": "United States",
             "Unnamed: 1": 26,
-            "Unnamed: 2": 16478
+            "Unnamed: 2": 16544
         },
         {
             "Deaths related to Covid-19": "Spain",
@@ -859,7 +864,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 26,
-            "Unnamed: 2": 2236
+            "Unnamed: 2": 2238
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -899,7 +904,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 27,
-            "Unnamed: 2": 2441
+            "Unnamed: 2": 2443
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -939,7 +944,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 28,
-            "Unnamed: 2": 2443
+            "Unnamed: 2": 2445
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -967,6 +972,11 @@
             "Unnamed: 2": 12428
         },
         {
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 29,
+            "Unnamed: 2": 4459
+        },
+        {
             "Deaths related to Covid-19": "France",
             "Unnamed: 1": 29,
             "Unnamed: 2": 13832
@@ -974,7 +984,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 29,
-            "Unnamed: 2": 2593
+            "Unnamed: 2": 2595
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -1009,7 +1019,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 30,
-            "Unnamed: 2": 2663
+            "Unnamed: 2": 2665
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -1044,7 +1054,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 31,
-            "Unnamed: 2": 2715
+            "Unnamed: 2": 2717
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -1079,7 +1089,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 32,
-            "Unnamed: 2": 2744
+            "Unnamed: 2": 2746
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -1114,7 +1124,12 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 33,
-            "Unnamed: 2": 2788
+            "Unnamed: 2": 2790
+        },
+        {
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 34,
+            "Unnamed: 2": 16060
         },
         {
             "Deaths related to Covid-19": "United States",
@@ -1144,7 +1159,12 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 34,
-            "Unnamed: 2": 2835
+            "Unnamed: 2": 2837
+        },
+        {
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 35,
+            "Unnamed: 2": 38664
         },
         {
             "Deaths related to Covid-19": "Spain",
@@ -1169,7 +1189,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 35,
-            "Unnamed: 2": 2870
+            "Unnamed: 2": 2872
         },
         {
             "Deaths related to Covid-19": "Spain",
@@ -1187,9 +1207,14 @@
             "Unnamed: 2": 17127
         },
         {
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 36,
+            "Unnamed: 2": 19323
+        },
+        {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 36,
-            "Unnamed: 2": 2912
+            "Unnamed: 2": 2914
         },
         {
             "Deaths related to Covid-19": "Spain",
@@ -1209,7 +1234,12 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 37,
-            "Unnamed: 2": 2945
+            "Unnamed: 2": 2947
+        },
+        {
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 38,
+            "Unnamed: 2": 20043
         },
         {
             "Deaths related to Covid-19": "South Korea",
@@ -1224,7 +1254,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 38,
-            "Unnamed: 2": 2981
+            "Unnamed: 2": 2983
         },
         {
             "Deaths related to Covid-19": "South Korea",
@@ -1239,7 +1269,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 39,
-            "Unnamed: 2": 3013
+            "Unnamed: 2": 3015
         },
         {
             "Deaths related to Covid-19": "South Korea",
@@ -1254,7 +1284,7 @@
         {
             "Deaths related to Covid-19": "China",
             "Unnamed: 1": 40,
-            "Unnamed: 2": 3042
+            "Unnamed: 2": 3044
         },
         {
             "Deaths related to Covid-19": "(ONS, NRS, NISRA, Public Health England, Johns Hopkins University)",
@@ -1277,1399 +1307,1434 @@
             "Unnamed: 2": NaN
         }
     ],
-    "Hospital beds": [
+    "People in hospital": [
         {
-            "People in hospital beds": "With illness related to Covid-19",
+            "People in hospital": "With illness related to Covid-19",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
         {
-            "People in hospital beds": "Great Britain",
+            "People in hospital": "Great Britain",
             "Unnamed: 1": NaN,
             "Unnamed: 2": "Number of people"
         },
         {
-            "People in hospital beds": NaN,
+            "People in hospital": NaN,
             "Unnamed: 1": "Region",
-            "Unnamed: 2": "Hospital Beds"
+            "Unnamed: 2": "People in hospital"
         },
         {
-            "People in hospital beds": "2020-03-17 00:00:00",
+            "People in hospital": "2020-03-17 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 14
         },
         {
-            "People in hospital beds": "2020-03-18 00:00:00",
+            "People in hospital": "2020-03-18 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 25
         },
         {
-            "People in hospital beds": "2020-03-19 00:00:00",
+            "People in hospital": "2020-03-19 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 24
         },
         {
-            "People in hospital beds": "2020-03-20 00:00:00",
+            "People in hospital": "2020-03-20 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 59
         },
         {
-            "People in hospital beds": "2020-03-21 00:00:00",
+            "People in hospital": "2020-03-21 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 71
         },
         {
-            "People in hospital beds": "2020-03-22 00:00:00",
+            "People in hospital": "2020-03-22 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 91
         },
         {
-            "People in hospital beds": "2020-03-23 00:00:00",
+            "People in hospital": "2020-03-23 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 131
         },
         {
-            "People in hospital beds": "2020-03-24 00:00:00",
+            "People in hospital": "2020-03-24 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 150
         },
         {
-            "People in hospital beds": "2020-03-25 00:00:00",
+            "People in hospital": "2020-03-25 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 191
         },
         {
-            "People in hospital beds": "2020-03-26 00:00:00",
+            "People in hospital": "2020-03-26 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 290
         },
         {
-            "People in hospital beds": "2020-03-27 00:00:00",
+            "People in hospital": "2020-03-27 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 336
         },
         {
-            "People in hospital beds": "2020-03-28 00:00:00",
+            "People in hospital": "2020-03-28 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 423
         },
         {
-            "People in hospital beds": "2020-03-29 00:00:00",
+            "People in hospital": "2020-03-29 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 475
         },
         {
-            "People in hospital beds": "2020-03-30 00:00:00",
+            "People in hospital": "2020-03-30 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 617
         },
         {
-            "People in hospital beds": "2020-03-31 00:00:00",
+            "People in hospital": "2020-03-31 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 779
         },
         {
-            "People in hospital beds": "2020-04-01 00:00:00",
+            "People in hospital": "2020-04-01 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 812
         },
         {
-            "People in hospital beds": "2020-04-02 00:00:00",
+            "People in hospital": "2020-04-02 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 796
         },
         {
-            "People in hospital beds": "2020-04-03 00:00:00",
+            "People in hospital": "2020-04-03 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 870
         },
         {
-            "People in hospital beds": "2020-04-04 00:00:00",
+            "People in hospital": "2020-04-04 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 931
         },
         {
-            "People in hospital beds": "2020-04-05 00:00:00",
+            "People in hospital": "2020-04-05 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1161
         },
         {
-            "People in hospital beds": "2020-04-06 00:00:00",
+            "People in hospital": "2020-04-06 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1144
         },
         {
-            "People in hospital beds": "2020-04-07 00:00:00",
+            "People in hospital": "2020-04-07 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1323
         },
         {
-            "People in hospital beds": "2020-04-08 00:00:00",
+            "People in hospital": "2020-04-08 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1316
         },
         {
-            "People in hospital beds": "2020-04-09 00:00:00",
+            "People in hospital": "2020-04-09 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1272
         },
         {
-            "People in hospital beds": "2020-04-10 00:00:00",
+            "People in hospital": "2020-04-10 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1345
         },
         {
-            "People in hospital beds": "2020-04-11 00:00:00",
+            "People in hospital": "2020-04-11 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1322
         },
         {
-            "People in hospital beds": "2020-04-12 00:00:00",
+            "People in hospital": "2020-04-12 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1484
         },
         {
-            "People in hospital beds": "2020-04-13 00:00:00",
+            "People in hospital": "2020-04-13 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1268
         },
         {
-            "People in hospital beds": "2020-04-14 00:00:00",
+            "People in hospital": "2020-04-14 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1387
         },
         {
-            "People in hospital beds": "2020-04-15 00:00:00",
+            "People in hospital": "2020-04-15 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1418
         },
         {
-            "People in hospital beds": "2020-04-16 00:00:00",
+            "People in hospital": "2020-04-16 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1364
         },
         {
-            "People in hospital beds": "2020-04-17 00:00:00",
+            "People in hospital": "2020-04-17 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1340
         },
         {
-            "People in hospital beds": "2020-03-17 00:00:00",
+            "People in hospital": "2020-04-18 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1323
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 282
         },
         {
-            "People in hospital beds": "2020-03-18 00:00:00",
+            "People in hospital": "2020-03-18 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 445
         },
         {
-            "People in hospital beds": "2020-03-19 00:00:00",
+            "People in hospital": "2020-03-19 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 708
         },
         {
-            "People in hospital beds": "2020-03-20 00:00:00",
+            "People in hospital": "2020-03-20 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 819
         },
         {
-            "People in hospital beds": "2020-03-21 00:00:00",
+            "People in hospital": "2020-03-21 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 1119
         },
         {
-            "People in hospital beds": "2020-03-22 00:00:00",
+            "People in hospital": "2020-03-22 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 1228
         },
         {
-            "People in hospital beds": "2020-03-23 00:00:00",
+            "People in hospital": "2020-03-23 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 1515
         },
         {
-            "People in hospital beds": "2020-03-24 00:00:00",
+            "People in hospital": "2020-03-24 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 1651
         },
         {
-            "People in hospital beds": "2020-03-25 00:00:00",
+            "People in hospital": "2020-03-25 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 2019
         },
         {
-            "People in hospital beds": "2020-03-26 00:00:00",
+            "People in hospital": "2020-03-26 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 2417
         },
         {
-            "People in hospital beds": "2020-03-27 00:00:00",
+            "People in hospital": "2020-03-27 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 2727
         },
         {
-            "People in hospital beds": "2020-03-28 00:00:00",
+            "People in hospital": "2020-03-28 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3002
         },
         {
-            "People in hospital beds": "2020-03-29 00:00:00",
+            "People in hospital": "2020-03-29 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3334
         },
         {
-            "People in hospital beds": "2020-03-30 00:00:00",
+            "People in hospital": "2020-03-30 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3492
         },
         {
-            "People in hospital beds": "2020-03-31 00:00:00",
+            "People in hospital": "2020-03-31 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3915
         },
         {
-            "People in hospital beds": "2020-04-01 00:00:00",
+            "People in hospital": "2020-04-01 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4065
         },
         {
-            "People in hospital beds": "2020-04-02 00:00:00",
+            "People in hospital": "2020-04-02 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3893
         },
         {
-            "People in hospital beds": "2020-04-03 00:00:00",
+            "People in hospital": "2020-04-03 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3836
         },
         {
-            "People in hospital beds": "2020-04-04 00:00:00",
+            "People in hospital": "2020-04-04 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4406
         },
         {
-            "People in hospital beds": "2020-04-05 00:00:00",
+            "People in hospital": "2020-04-05 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4571
         },
         {
-            "People in hospital beds": "2020-04-06 00:00:00",
+            "People in hospital": "2020-04-06 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4656
         },
         {
-            "People in hospital beds": "2020-04-07 00:00:00",
+            "People in hospital": "2020-04-07 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4689
         },
         {
-            "People in hospital beds": "2020-04-08 00:00:00",
+            "People in hospital": "2020-04-08 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4813
         },
         {
-            "People in hospital beds": "2020-04-09 00:00:00",
+            "People in hospital": "2020-04-09 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4194
         },
         {
-            "People in hospital beds": "2020-04-10 00:00:00",
+            "People in hospital": "2020-04-10 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4736
         },
         {
-            "People in hospital beds": "2020-04-11 00:00:00",
+            "People in hospital": "2020-04-11 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4430
         },
         {
-            "People in hospital beds": "2020-04-12 00:00:00",
+            "People in hospital": "2020-04-12 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4433
         },
         {
-            "People in hospital beds": "2020-04-13 00:00:00",
+            "People in hospital": "2020-04-13 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4248
         },
         {
-            "People in hospital beds": "2020-04-14 00:00:00",
+            "People in hospital": "2020-04-14 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4031
         },
         {
-            "People in hospital beds": "2020-04-15 00:00:00",
+            "People in hospital": "2020-04-15 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3886
         },
         {
-            "People in hospital beds": "2020-04-16 00:00:00",
+            "People in hospital": "2020-04-16 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3800
         },
         {
-            "People in hospital beds": "2020-04-17 00:00:00",
+            "People in hospital": "2020-04-17 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3617
         },
         {
-            "People in hospital beds": "2020-03-17 00:00:00",
+            "People in hospital": "2020-04-18 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3445
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 58
         },
         {
-            "People in hospital beds": "2020-03-18 00:00:00",
+            "People in hospital": "2020-03-18 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 96
         },
         {
-            "People in hospital beds": "2020-03-19 00:00:00",
+            "People in hospital": "2020-03-19 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 132
         },
         {
-            "People in hospital beds": "2020-03-20 00:00:00",
+            "People in hospital": "2020-03-20 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 218
         },
         {
-            "People in hospital beds": "2020-03-21 00:00:00",
+            "People in hospital": "2020-03-21 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 278
         },
         {
-            "People in hospital beds": "2020-03-22 00:00:00",
+            "People in hospital": "2020-03-22 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 379
         },
         {
-            "People in hospital beds": "2020-03-23 00:00:00",
+            "People in hospital": "2020-03-23 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 436
         },
         {
-            "People in hospital beds": "2020-03-24 00:00:00",
+            "People in hospital": "2020-03-24 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 581
         },
         {
-            "People in hospital beds": "2020-03-25 00:00:00",
+            "People in hospital": "2020-03-25 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 688
         },
         {
-            "People in hospital beds": "2020-03-26 00:00:00",
+            "People in hospital": "2020-03-26 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 964
         },
         {
-            "People in hospital beds": "2020-03-27 00:00:00",
+            "People in hospital": "2020-03-27 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1054
         },
         {
-            "People in hospital beds": "2020-03-28 00:00:00",
+            "People in hospital": "2020-03-28 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1117
         },
         {
-            "People in hospital beds": "2020-03-29 00:00:00",
+            "People in hospital": "2020-03-29 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1312
         },
         {
-            "People in hospital beds": "2020-03-30 00:00:00",
+            "People in hospital": "2020-03-30 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1799
         },
         {
-            "People in hospital beds": "2020-03-31 00:00:00",
+            "People in hospital": "2020-03-31 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1918
         },
         {
-            "People in hospital beds": "2020-04-01 00:00:00",
+            "People in hospital": "2020-04-01 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2138
         },
         {
-            "People in hospital beds": "2020-04-02 00:00:00",
+            "People in hospital": "2020-04-02 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1729
         },
         {
-            "People in hospital beds": "2020-04-03 00:00:00",
+            "People in hospital": "2020-04-03 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2546
         },
         {
-            "People in hospital beds": "2020-04-04 00:00:00",
+            "People in hospital": "2020-04-04 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2768
         },
         {
-            "People in hospital beds": "2020-04-05 00:00:00",
+            "People in hospital": "2020-04-05 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2895
         },
         {
-            "People in hospital beds": "2020-04-06 00:00:00",
+            "People in hospital": "2020-04-06 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3042
         },
         {
-            "People in hospital beds": "2020-04-07 00:00:00",
+            "People in hospital": "2020-04-07 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3086
         },
         {
-            "People in hospital beds": "2020-04-08 00:00:00",
+            "People in hospital": "2020-04-08 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3070
         },
         {
-            "People in hospital beds": "2020-04-09 00:00:00",
+            "People in hospital": "2020-04-09 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2999
         },
         {
-            "People in hospital beds": "2020-04-10 00:00:00",
+            "People in hospital": "2020-04-10 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3101
         },
         {
-            "People in hospital beds": "2020-04-11 00:00:00",
+            "People in hospital": "2020-04-11 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3062
         },
         {
-            "People in hospital beds": "2020-04-12 00:00:00",
+            "People in hospital": "2020-04-12 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3092
         },
         {
-            "People in hospital beds": "2020-04-13 00:00:00",
+            "People in hospital": "2020-04-13 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2975
         },
         {
-            "People in hospital beds": "2020-04-14 00:00:00",
+            "People in hospital": "2020-04-14 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2989
         },
         {
-            "People in hospital beds": "2020-04-15 00:00:00",
+            "People in hospital": "2020-04-15 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2756
         },
         {
-            "People in hospital beds": "2020-04-16 00:00:00",
+            "People in hospital": "2020-04-16 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2708
         },
         {
-            "People in hospital beds": "2020-04-17 00:00:00",
+            "People in hospital": "2020-04-17 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2496
         },
         {
-            "People in hospital beds": "2020-03-17 00:00:00",
+            "People in hospital": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2510
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 29
         },
         {
-            "People in hospital beds": "2020-03-18 00:00:00",
+            "People in hospital": "2020-03-18 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 50
         },
         {
-            "People in hospital beds": "2020-03-19 00:00:00",
+            "People in hospital": "2020-03-19 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 63
         },
         {
-            "People in hospital beds": "2020-03-20 00:00:00",
+            "People in hospital": "2020-03-20 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 82
         },
         {
-            "People in hospital beds": "2020-03-21 00:00:00",
+            "People in hospital": "2020-03-21 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 124
         },
         {
-            "People in hospital beds": "2020-03-22 00:00:00",
+            "People in hospital": "2020-03-22 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 158
         },
         {
-            "People in hospital beds": "2020-03-23 00:00:00",
+            "People in hospital": "2020-03-23 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 190
         },
         {
-            "People in hospital beds": "2020-03-24 00:00:00",
+            "People in hospital": "2020-03-24 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 228
         },
         {
-            "People in hospital beds": "2020-03-25 00:00:00",
+            "People in hospital": "2020-03-25 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 307
         },
         {
-            "People in hospital beds": "2020-03-26 00:00:00",
+            "People in hospital": "2020-03-26 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 426
         },
         {
-            "People in hospital beds": "2020-03-27 00:00:00",
+            "People in hospital": "2020-03-27 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 532
         },
         {
-            "People in hospital beds": "2020-03-28 00:00:00",
+            "People in hospital": "2020-03-28 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 677
         },
         {
-            "People in hospital beds": "2020-03-29 00:00:00",
+            "People in hospital": "2020-03-29 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 804
         },
         {
-            "People in hospital beds": "2020-03-30 00:00:00",
+            "People in hospital": "2020-03-30 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 963
         },
         {
-            "People in hospital beds": "2020-03-31 00:00:00",
+            "People in hospital": "2020-03-31 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1085
         },
         {
-            "People in hospital beds": "2020-04-01 00:00:00",
+            "People in hospital": "2020-04-01 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1254
         },
         {
-            "People in hospital beds": "2020-04-02 00:00:00",
+            "People in hospital": "2020-04-02 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1311
         },
         {
-            "People in hospital beds": "2020-04-03 00:00:00",
+            "People in hospital": "2020-04-03 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1771
         },
         {
-            "People in hospital beds": "2020-04-04 00:00:00",
+            "People in hospital": "2020-04-04 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2013
         },
         {
-            "People in hospital beds": "2020-04-05 00:00:00",
+            "People in hospital": "2020-04-05 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2218
         },
         {
-            "People in hospital beds": "2020-04-06 00:00:00",
+            "People in hospital": "2020-04-06 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2041
         },
         {
-            "People in hospital beds": "2020-04-07 00:00:00",
+            "People in hospital": "2020-04-07 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2113
         },
         {
-            "People in hospital beds": "2020-04-08 00:00:00",
+            "People in hospital": "2020-04-08 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2319
         },
         {
-            "People in hospital beds": "2020-04-09 00:00:00",
+            "People in hospital": "2020-04-09 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2567
         },
         {
-            "People in hospital beds": "2020-04-10 00:00:00",
+            "People in hospital": "2020-04-10 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2304
         },
         {
-            "People in hospital beds": "2020-04-11 00:00:00",
+            "People in hospital": "2020-04-11 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2422
         },
         {
-            "People in hospital beds": "2020-04-12 00:00:00",
+            "People in hospital": "2020-04-12 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2440
         },
         {
-            "People in hospital beds": "2020-04-13 00:00:00",
+            "People in hospital": "2020-04-13 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2470
         },
         {
-            "People in hospital beds": "2020-04-14 00:00:00",
+            "People in hospital": "2020-04-14 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2431
         },
         {
-            "People in hospital beds": "2020-04-15 00:00:00",
+            "People in hospital": "2020-04-15 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2400
         },
         {
-            "People in hospital beds": "2020-04-16 00:00:00",
+            "People in hospital": "2020-04-16 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2353
         },
         {
-            "People in hospital beds": "2020-04-17 00:00:00",
+            "People in hospital": "2020-04-17 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2206
         },
         {
-            "People in hospital beds": "2020-03-17 00:00:00",
+            "People in hospital": "2020-04-18 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2236
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 33
         },
         {
-            "People in hospital beds": "2020-03-18 00:00:00",
+            "People in hospital": "2020-03-18 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 51
         },
         {
-            "People in hospital beds": "2020-03-19 00:00:00",
+            "People in hospital": "2020-03-19 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 71
         },
         {
-            "People in hospital beds": "2020-03-20 00:00:00",
+            "People in hospital": "2020-03-20 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 130
         },
         {
-            "People in hospital beds": "2020-03-21 00:00:00",
+            "People in hospital": "2020-03-21 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 162
         },
         {
-            "People in hospital beds": "2020-03-22 00:00:00",
+            "People in hospital": "2020-03-22 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 190
         },
         {
-            "People in hospital beds": "2020-03-23 00:00:00",
+            "People in hospital": "2020-03-23 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 236
         },
         {
-            "People in hospital beds": "2020-03-24 00:00:00",
+            "People in hospital": "2020-03-24 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 250
         },
         {
-            "People in hospital beds": "2020-03-25 00:00:00",
+            "People in hospital": "2020-03-25 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 332
         },
         {
-            "People in hospital beds": "2020-03-26 00:00:00",
+            "People in hospital": "2020-03-26 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 372
         },
         {
-            "People in hospital beds": "2020-03-27 00:00:00",
+            "People in hospital": "2020-03-27 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 548
         },
         {
-            "People in hospital beds": "2020-03-28 00:00:00",
+            "People in hospital": "2020-03-28 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 654
         },
         {
-            "People in hospital beds": "2020-03-29 00:00:00",
+            "People in hospital": "2020-03-29 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 809
         },
         {
-            "People in hospital beds": "2020-03-30 00:00:00",
+            "People in hospital": "2020-03-30 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 964
         },
         {
-            "People in hospital beds": "2020-03-31 00:00:00",
+            "People in hospital": "2020-03-31 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 1110
         },
         {
-            "People in hospital beds": "2020-04-01 00:00:00",
+            "People in hospital": "2020-04-01 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 1392
         },
         {
-            "People in hospital beds": "2020-04-02 00:00:00",
+            "People in hospital": "2020-04-02 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 1379
         },
         {
-            "People in hospital beds": "2020-04-03 00:00:00",
+            "People in hospital": "2020-04-03 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 1638
         },
         {
-            "People in hospital beds": "2020-04-04 00:00:00",
+            "People in hospital": "2020-04-04 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2049
         },
         {
-            "People in hospital beds": "2020-04-05 00:00:00",
+            "People in hospital": "2020-04-05 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2178
         },
         {
-            "People in hospital beds": "2020-04-06 00:00:00",
+            "People in hospital": "2020-04-06 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2409
         },
         {
-            "People in hospital beds": "2020-04-07 00:00:00",
+            "People in hospital": "2020-04-07 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2495
         },
         {
-            "People in hospital beds": "2020-04-08 00:00:00",
+            "People in hospital": "2020-04-08 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2436
         },
         {
-            "People in hospital beds": "2020-04-09 00:00:00",
+            "People in hospital": "2020-04-09 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2596
         },
         {
-            "People in hospital beds": "2020-04-10 00:00:00",
+            "People in hospital": "2020-04-10 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2721
         },
         {
-            "People in hospital beds": "2020-04-11 00:00:00",
+            "People in hospital": "2020-04-11 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2830
         },
         {
-            "People in hospital beds": "2020-04-12 00:00:00",
+            "People in hospital": "2020-04-12 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2837
         },
         {
-            "People in hospital beds": "2020-04-13 00:00:00",
+            "People in hospital": "2020-04-13 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2890
         },
         {
-            "People in hospital beds": "2020-04-14 00:00:00",
+            "People in hospital": "2020-04-14 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2842
         },
         {
-            "People in hospital beds": "2020-04-15 00:00:00",
+            "People in hospital": "2020-04-15 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2655
         },
         {
-            "People in hospital beds": "2020-04-16 00:00:00",
+            "People in hospital": "2020-04-16 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2753
         },
         {
-            "People in hospital beds": "2020-04-17 00:00:00",
+            "People in hospital": "2020-04-17 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2389
         },
         {
-            "People in hospital beds": "2020-03-26 00:00:00",
+            "People in hospital": "2020-04-18 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2652
+        },
+        {
+            "People in hospital": "2020-03-26 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 575
         },
         {
-            "People in hospital beds": "2020-03-27 00:00:00",
+            "People in hospital": "2020-03-27 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 672
         },
         {
-            "People in hospital beds": "2020-03-28 00:00:00",
+            "People in hospital": "2020-03-28 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 782
         },
         {
-            "People in hospital beds": "2020-03-29 00:00:00",
+            "People in hospital": "2020-03-29 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 859
         },
         {
-            "People in hospital beds": "2020-03-30 00:00:00",
+            "People in hospital": "2020-03-30 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 924
         },
         {
-            "People in hospital beds": "2020-03-31 00:00:00",
+            "People in hospital": "2020-03-31 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1073
         },
         {
-            "People in hospital beds": "2020-04-01 00:00:00",
+            "People in hospital": "2020-04-01 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1153
         },
         {
-            "People in hospital beds": "2020-04-02 00:00:00",
+            "People in hospital": "2020-04-02 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1282
         },
         {
-            "People in hospital beds": "2020-04-03 00:00:00",
+            "People in hospital": "2020-04-03 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1321
         },
         {
-            "People in hospital beds": "2020-04-04 00:00:00",
+            "People in hospital": "2020-04-04 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1480
         },
         {
-            "People in hospital beds": "2020-04-05 00:00:00",
+            "People in hospital": "2020-04-05 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1590
         },
         {
-            "People in hospital beds": "2020-04-06 00:00:00",
+            "People in hospital": "2020-04-06 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1599
         },
         {
-            "People in hospital beds": "2020-04-07 00:00:00",
+            "People in hospital": "2020-04-07 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1733
         },
         {
-            "People in hospital beds": "2020-04-08 00:00:00",
+            "People in hospital": "2020-04-08 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1771
         },
         {
-            "People in hospital beds": "2020-04-09 00:00:00",
+            "People in hospital": "2020-04-09 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1781
         },
         {
-            "People in hospital beds": "2020-04-10 00:00:00",
+            "People in hospital": "2020-04-10 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1832
         },
         {
-            "People in hospital beds": "2020-04-11 00:00:00",
+            "People in hospital": "2020-04-11 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1855
         },
         {
-            "People in hospital beds": "2020-04-12 00:00:00",
+            "People in hospital": "2020-04-12 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1755
         },
         {
-            "People in hospital beds": "2020-04-13 00:00:00",
+            "People in hospital": "2020-04-13 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1797
         },
         {
-            "People in hospital beds": "2020-04-14 00:00:00",
+            "People in hospital": "2020-04-14 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1801
         },
         {
-            "People in hospital beds": "2020-04-15 00:00:00",
+            "People in hospital": "2020-04-15 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1748
         },
         {
-            "People in hospital beds": "2020-04-16 00:00:00",
+            "People in hospital": "2020-04-16 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1798
         },
         {
-            "People in hospital beds": "2020-04-17 00:00:00",
+            "People in hospital": "2020-04-17 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1799
         },
         {
-            "People in hospital beds": "2020-03-17 00:00:00",
+            "People in hospital": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1793
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 33
         },
         {
-            "People in hospital beds": "2020-03-18 00:00:00",
+            "People in hospital": "2020-03-18 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 56
         },
         {
-            "People in hospital beds": "2020-03-19 00:00:00",
+            "People in hospital": "2020-03-19 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 144
         },
         {
-            "People in hospital beds": "2020-03-20 00:00:00",
+            "People in hospital": "2020-03-20 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 176
         },
         {
-            "People in hospital beds": "2020-03-21 00:00:00",
+            "People in hospital": "2020-03-21 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 307
         },
         {
-            "People in hospital beds": "2020-03-22 00:00:00",
+            "People in hospital": "2020-03-22 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 408
         },
         {
-            "People in hospital beds": "2020-03-23 00:00:00",
+            "People in hospital": "2020-03-23 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 449
         },
         {
-            "People in hospital beds": "2020-03-24 00:00:00",
+            "People in hospital": "2020-03-24 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 469
         },
         {
-            "People in hospital beds": "2020-03-25 00:00:00",
+            "People in hospital": "2020-03-25 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 567
         },
         {
-            "People in hospital beds": "2020-03-26 00:00:00",
+            "People in hospital": "2020-03-26 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 599
         },
         {
-            "People in hospital beds": "2020-03-27 00:00:00",
+            "People in hospital": "2020-03-27 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 744
         },
         {
-            "People in hospital beds": "2020-03-28 00:00:00",
+            "People in hospital": "2020-03-28 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 802
         },
         {
-            "People in hospital beds": "2020-03-29 00:00:00",
+            "People in hospital": "2020-03-29 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1008
         },
         {
-            "People in hospital beds": "2020-03-30 00:00:00",
+            "People in hospital": "2020-03-30 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1208
         },
         {
-            "People in hospital beds": "2020-03-31 00:00:00",
+            "People in hospital": "2020-03-31 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1469
         },
         {
-            "People in hospital beds": "2020-04-01 00:00:00",
+            "People in hospital": "2020-04-01 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1368
         },
         {
-            "People in hospital beds": "2020-04-02 00:00:00",
+            "People in hospital": "2020-04-02 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1614
         },
         {
-            "People in hospital beds": "2020-04-03 00:00:00",
+            "People in hospital": "2020-04-03 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1541
         },
         {
-            "People in hospital beds": "2020-04-04 00:00:00",
+            "People in hospital": "2020-04-04 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1712
         },
         {
-            "People in hospital beds": "2020-04-05 00:00:00",
+            "People in hospital": "2020-04-05 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1850
         },
         {
-            "People in hospital beds": "2020-04-06 00:00:00",
+            "People in hospital": "2020-04-06 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1858
         },
         {
-            "People in hospital beds": "2020-04-07 00:00:00",
+            "People in hospital": "2020-04-07 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2073
         },
         {
-            "People in hospital beds": "2020-04-08 00:00:00",
+            "People in hospital": "2020-04-08 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2058
         },
         {
-            "People in hospital beds": "2020-04-09 00:00:00",
+            "People in hospital": "2020-04-09 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1930
         },
         {
-            "People in hospital beds": "2020-04-10 00:00:00",
+            "People in hospital": "2020-04-10 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2031
         },
         {
-            "People in hospital beds": "2020-04-11 00:00:00",
+            "People in hospital": "2020-04-11 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2007
         },
         {
-            "People in hospital beds": "2020-04-12 00:00:00",
+            "People in hospital": "2020-04-12 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2053
         },
         {
-            "People in hospital beds": "2020-04-13 00:00:00",
+            "People in hospital": "2020-04-13 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2049
         },
         {
-            "People in hospital beds": "2020-04-14 00:00:00",
+            "People in hospital": "2020-04-14 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2020
         },
         {
-            "People in hospital beds": "2020-04-15 00:00:00",
+            "People in hospital": "2020-04-15 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1970
         },
         {
-            "People in hospital beds": "2020-04-16 00:00:00",
+            "People in hospital": "2020-04-16 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1911
         },
         {
-            "People in hospital beds": "2020-04-17 00:00:00",
+            "People in hospital": "2020-04-17 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1893
         },
         {
-            "People in hospital beds": "2020-03-17 00:00:00",
+            "People in hospital": "2020-04-18 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1932
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 23
         },
         {
-            "People in hospital beds": "2020-03-18 00:00:00",
+            "People in hospital": "2020-03-18 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 36
         },
         {
-            "People in hospital beds": "2020-03-19 00:00:00",
+            "People in hospital": "2020-03-19 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 55
         },
         {
-            "People in hospital beds": "2020-03-20 00:00:00",
+            "People in hospital": "2020-03-20 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 57
         },
         {
-            "People in hospital beds": "2020-03-21 00:00:00",
+            "People in hospital": "2020-03-21 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 95
         },
         {
-            "People in hospital beds": "2020-03-22 00:00:00",
+            "People in hospital": "2020-03-22 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 134
         },
         {
-            "People in hospital beds": "2020-03-23 00:00:00",
+            "People in hospital": "2020-03-23 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 140
         },
         {
-            "People in hospital beds": "2020-03-24 00:00:00",
+            "People in hospital": "2020-03-24 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 163
         },
         {
-            "People in hospital beds": "2020-03-25 00:00:00",
+            "People in hospital": "2020-03-25 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 200
         },
         {
-            "People in hospital beds": "2020-03-26 00:00:00",
+            "People in hospital": "2020-03-26 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 236
         },
         {
-            "People in hospital beds": "2020-03-27 00:00:00",
+            "People in hospital": "2020-03-27 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 304
         },
         {
-            "People in hospital beds": "2020-03-28 00:00:00",
+            "People in hospital": "2020-03-28 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 342
         },
         {
-            "People in hospital beds": "2020-03-29 00:00:00",
+            "People in hospital": "2020-03-29 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 401
         },
         {
-            "People in hospital beds": "2020-03-30 00:00:00",
+            "People in hospital": "2020-03-30 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 455
         },
         {
-            "People in hospital beds": "2020-03-31 00:00:00",
+            "People in hospital": "2020-03-31 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 491
         },
         {
-            "People in hospital beds": "2020-04-01 00:00:00",
+            "People in hospital": "2020-04-01 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 560
         },
         {
-            "People in hospital beds": "2020-04-02 00:00:00",
+            "People in hospital": "2020-04-02 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 587
         },
         {
-            "People in hospital beds": "2020-04-03 00:00:00",
+            "People in hospital": "2020-04-03 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 639
         },
         {
-            "People in hospital beds": "2020-04-04 00:00:00",
+            "People in hospital": "2020-04-04 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 697
         },
         {
-            "People in hospital beds": "2020-04-05 00:00:00",
+            "People in hospital": "2020-04-05 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 734
         },
         {
-            "People in hospital beds": "2020-04-06 00:00:00",
+            "People in hospital": "2020-04-06 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 796
         },
         {
-            "People in hospital beds": "2020-04-07 00:00:00",
+            "People in hospital": "2020-04-07 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 784
         },
         {
-            "People in hospital beds": "2020-04-08 00:00:00",
+            "People in hospital": "2020-04-08 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 772
         },
         {
-            "People in hospital beds": "2020-04-09 00:00:00",
+            "People in hospital": "2020-04-09 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 797
         },
         {
-            "People in hospital beds": "2020-04-10 00:00:00",
+            "People in hospital": "2020-04-10 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 809
         },
         {
-            "People in hospital beds": "2020-04-11 00:00:00",
+            "People in hospital": "2020-04-11 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 808
         },
         {
-            "People in hospital beds": "2020-04-12 00:00:00",
+            "People in hospital": "2020-04-12 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 833
         },
         {
-            "People in hospital beds": "2020-04-13 00:00:00",
+            "People in hospital": "2020-04-13 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 822
         },
         {
-            "People in hospital beds": "2020-04-14 00:00:00",
+            "People in hospital": "2020-04-14 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 840
         },
         {
-            "People in hospital beds": "2020-04-15 00:00:00",
+            "People in hospital": "2020-04-15 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 832
         },
         {
-            "People in hospital beds": "2020-04-16 00:00:00",
+            "People in hospital": "2020-04-16 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 796
         },
         {
-            "People in hospital beds": "2020-04-17 00:00:00",
+            "People in hospital": "2020-04-17 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 792
         },
         {
-            "People in hospital beds": "2020-03-24 00:00:00",
+            "People in hospital": "2020-04-18 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 770
+        },
+        {
+            "People in hospital": "2020-03-24 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 63
         },
         {
-            "People in hospital beds": "2020-03-25 00:00:00",
+            "People in hospital": "2020-03-25 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 178
         },
         {
-            "People in hospital beds": "2020-03-26 00:00:00",
+            "People in hospital": "2020-03-26 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 411
         },
         {
-            "People in hospital beds": "2020-03-27 00:00:00",
+            "People in hospital": "2020-03-27 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 451
         },
         {
-            "People in hospital beds": "2020-03-28 00:00:00",
+            "People in hospital": "2020-03-28 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 552
         },
         {
-            "People in hospital beds": "2020-03-29 00:00:00",
+            "People in hospital": "2020-03-29 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 535
         },
         {
-            "People in hospital beds": "2020-03-30 00:00:00",
+            "People in hospital": "2020-03-30 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 625
         },
         {
-            "People in hospital beds": "2020-03-31 00:00:00",
+            "People in hospital": "2020-03-31 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 781
         },
         {
-            "People in hospital beds": "2020-04-01 00:00:00",
+            "People in hospital": "2020-04-01 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 972
         },
         {
-            "People in hospital beds": "2020-04-02 00:00:00",
+            "People in hospital": "2020-04-02 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 865
         },
         {
-            "People in hospital beds": "2020-04-03 00:00:00",
+            "People in hospital": "2020-04-03 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 911
         },
         {
-            "People in hospital beds": "2020-04-04 00:00:00",
+            "People in hospital": "2020-04-04 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 915
         },
         {
-            "People in hospital beds": "2020-04-05 00:00:00",
+            "People in hospital": "2020-04-05 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 990
         },
         {
-            "People in hospital beds": "2020-04-06 00:00:00",
+            "People in hospital": "2020-04-06 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1044
         },
         {
-            "People in hospital beds": "2020-04-07 00:00:00",
+            "People in hospital": "2020-04-07 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1054
         },
         {
-            "People in hospital beds": "2020-04-08 00:00:00",
+            "People in hospital": "2020-04-08 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1160
         },
         {
-            "People in hospital beds": "2020-04-09 00:00:00",
+            "People in hospital": "2020-04-09 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1168
         },
         {
-            "People in hospital beds": "2020-04-10 00:00:00",
+            "People in hospital": "2020-04-10 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1222
         },
         {
-            "People in hospital beds": "2020-04-11 00:00:00",
+            "People in hospital": "2020-04-11 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1209
         },
         {
-            "People in hospital beds": "2020-04-12 00:00:00",
+            "People in hospital": "2020-04-12 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1257
         },
         {
-            "People in hospital beds": "2020-04-13 00:00:00",
+            "People in hospital": "2020-04-13 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1187
         },
         {
-            "People in hospital beds": "2020-04-14 00:00:00",
+            "People in hospital": "2020-04-14 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1191
         },
         {
-            "People in hospital beds": "2020-04-15 00:00:00",
+            "People in hospital": "2020-04-15 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1209
         },
         {
-            "People in hospital beds": "2020-04-16 00:00:00",
+            "People in hospital": "2020-04-16 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1227
         },
         {
-            "People in hospital beds": "2020-04-17 00:00:00",
+            "People in hospital": "2020-04-17 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1227
         },
         {
-            "People in hospital beds": "((Confidence: a new categorisation has been added to an existing high quality administrative data set))",
+            "People in hospital": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1249
+        },
+        {
+            "People in hospital": "((Confidence: a new categorisation has been added to an existing high quality administrative data set))",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
         {
-            "People in hospital beds": "(NHSE, Welsh Government, Scotland Government)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN
-        },
-        {
-            "People in hospital beds": "(Nine hospitals, including London Nightingale did not return data for April 9, resulting in a misrepresented drop in hospitalisations)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN
-        },
-        {
-            "People in hospital beds": "(Over the last 24 hours, the number of people in hospital with confirmed COVID-19 fell by 3% across Great Britain)",
+            "People in hospital": "(NHSE, Welsh Government, Scotland Government)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         }
@@ -2851,6 +2916,11 @@
             "Use of transport modes": "2020-04-16 00:00:00"
         },
         {
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.39,
+            "Use of transport modes": "2020-04-17 00:00:00"
+        },
+        {
             "Unnamed: 1": "Bus (excl. London)",
             "Unnamed: 2": 0.88,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -3011,6 +3081,11 @@
             "Use of transport modes": "2020-04-16 00:00:00"
         },
         {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-17 00:00:00"
+        },
+        {
             "Unnamed: 1": "National rail",
             "Unnamed: 2": 0.77,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -3167,8 +3242,13 @@
         },
         {
             "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.02,
+            "Unnamed: 2": 0.03,
             "Use of transport modes": "2020-04-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-17 00:00:00"
         },
         {
             "Unnamed: 1": "TfL - Bus",
@@ -3331,6 +3411,11 @@
             "Use of transport modes": "2020-04-16 00:00:00"
         },
         {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-17 00:00:00"
+        },
+        {
             "Unnamed: 1": "TfL - Tube",
             "Unnamed: 2": 0.6,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -3489,6 +3574,11 @@
             "Unnamed: 1": "TfL - Tube",
             "Unnamed: 2": 0.05,
             "Use of transport modes": "2020-04-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-17 00:00:00"
         },
         {
             "Unnamed: 1": NaN,
@@ -3663,6 +3753,11 @@
             "Unnamed: 2": 4399
         },
         {
+            "Confirmed cases of Covid-19": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 4467
+        },
+        {
             "Confirmed cases of Covid-19": "2020-03-27 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 5
@@ -3778,6 +3873,11 @@
             "Unnamed: 2": 1127
         },
         {
+            "Confirmed cases of Covid-19": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 1383
+        },
+        {
             "Confirmed cases of Covid-19": "((Confidence: there are likely many more cases than currently recorded here). )",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
@@ -3788,7 +3888,7 @@
             "Unnamed: 2": NaN
         },
         {
-            "Confirmed cases of Covid-19": "(Department of Health and Social Care)",
+            "Confirmed cases of Covid-19": "(Testing capacity is increasing, which is resulting in a greater number of observed cases)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
@@ -3803,7 +3903,7 @@
             "Unnamed: 2": NaN
         },
         {
-            "Confirmed cases of Covid-19": "(Testing capacity is increasing, which is resulting in a greater number of observed cases)",
+            "Confirmed cases of Covid-19": "(Department of Health and Social Care)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         }
