@@ -1,4 +1,134 @@
 {
+    "All deaths and hospital deaths": [
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "Since 13th March 2020",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "United Kingdom",
+            "Unnamed: 1": "2020-03-13 00:00:00",
+            "Unnamed: 2": "2020-03-20 00:00:00",
+            "Unnamed: 3": "2020-03-27 00:00:00",
+            "Unnamed: 4": "2020-04-03 00:00:00",
+            "Unnamed: 5": "2020-04-10 00:00:00"
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "Deaths in hospital from COVID-19",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": 156,
+            "Unnamed: 3": 582,
+            "Unnamed: 4": 2846,
+            "Unnamed: 5": 5353
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "All weekly registered UK deaths involving COVID-19",
+            "Unnamed: 1": 5,
+            "Unnamed: 2": 113,
+            "Unnamed: 3": 607,
+            "Unnamed: 4": 3801,
+            "Unnamed: 5": 6887
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(Source: Office for National Statistics, Department of Health and Social Care, drawing on data from NHS England and the Devolved Administrations)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(Weekly registered deaths are published by the Office for National Statistics)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(Weekly deaths for Scotland are produced by NRS)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(Weekly deaths for Northern Ireland are produced by NISRA)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(Deaths in hospital from COVID-19 are published daily by the Department for Health and Social Care on the GOV.UK website and have been aggregated to weekly totals)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(Deaths in hospital are based on the date of reporting)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(Deaths in hospital from COVID-19 prior to 15 March 2020 are not separately available on a daily basis so is shown here as N/A)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(ONS figures differ from the DHSC counts as the latter include deaths which have not yet been registered.  The average (median) registration delay is 4 days.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(All ONS data is provisional and is based on date of registration rather than occurrence)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(ONS data also includes those without a test for COVID-19 but where COVID-19 was mentioned on the death certificate)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "Comparison of counts for all deaths and deaths in hospital": "(England, Wales and Northern Ireland weekly deaths run from Saturday to Friday. Scotland deaths run from Monday to Sunday.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        }
+    ],
     "Cover": [
         {
             "Slides and datasets to accompany coronavirus press conferences": "Transport use change"
@@ -29,6 +159,15 @@
         },
         {
             "Slides and datasets to accompany coronavirus press conferences": "The data is sent as near to real time as possible. "
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Bus (excl. London) data has been adjusted to compare against typical usage for the Easter break, whereas all other data sources have not"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Data on TfL Buses is not available from Sunday 19th April due to the change in boarding policy:"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "https://tfl.gov.uk/info-for/media/press-releases/2020/april/tfl-introduces-middle-door-only-boarding-across-the-london-bus-network"
         },
         {
             "Slides and datasets to accompany coronavirus press conferences": "DfT have published information on the data sources and methodology used to generate each of these headline measures:"
@@ -67,16 +206,49 @@
             "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government"
         },
         {
+            "Slides and datasets to accompany coronavirus press conferences": "Weekly registered deaths and deaths in hospital"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Office for National Statistics, Department of Health and Social Care, drawing on data from NHS England and the Devolved Administrations."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Weekly registered deaths are published by the Office for National Statistics"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Weekly deaths for Scotland are produced by National Records Scotland (NRS)"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Weekly deaths for Northern Ireland are produced by Northern Ireland Statistics and Research Agency (NISRA)"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Deaths in hospital from COVID-19 are by the date of reporting. They are published daily by the Department for Health and Social Care on the GOV.UK website and have been aggregated to weekly totals."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "ONS figures differ from the DHSC counts as the latter include deaths which have not yet been registered. The average (median) registration delay is 4 days."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "All ONS data is provisional and is based on date of registration rather than occurrence."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "ONS data also includes those without a test for COVID-19 but where COVID-19 was mentioned on the death certificate."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "England, Wales and Northern Ireland weekly deaths run from Saturday to Friday. Scotland deaths run from Monday to Sunday."
+        },
+        {
             "Slides and datasets to accompany coronavirus press conferences": "Global death comparison"
         },
         {
             "Slides and datasets to accompany coronavirus press conferences": "Source: Office for National Statistics (ONS), National Records Scotland (NRS), Northern Ireland Statistics and Research Agency (NISRA), Public Health England, John Hopkins University"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more deaths were reported."
+            "Slides and datasets to accompany coronavirus press conferences": "Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more cumulative deaths were reported."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Daily reporting of UK deaths is for hospitals only and may lag by up to several days. "
+            "Slides and datasets to accompany coronavirus press conferences": "The figures on deaths relate in almost all cases to patients who have died in hospital and who have tested positive for COVID-19."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Slight differences in reporting in devolved administrations may mean that they include a small number of deaths outside hospital. "
         },
         {
             "Slides and datasets to accompany coronavirus press conferences": "ONS, NRS and NISRA reporting of UK deaths for all settings is based on information from death certificates, and therefore lags daily hospital data."
@@ -87,7 +259,7 @@
     ],
     "Global comparisons": [
         {
-            "Deaths related to Covid-19": "Day 0 is the first day that 50 or more deaths were reported",
+            "Deaths related to Covid-19": "Day 0 is the first day that 50 or more cumulative deaths were reported",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
@@ -99,32 +271,7 @@
         {
             "Deaths related to Covid-19": NaN,
             "Unnamed: 1": "Day number",
-            "Unnamed: 2": "Deaths"
-        },
-        {
-            "Deaths related to Covid-19": "China",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 563
-        },
-        {
-            "Deaths related to Covid-19": "China",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 633
-        },
-        {
-            "Deaths related to Covid-19": "China",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 718
-        },
-        {
-            "Deaths related to Covid-19": "China",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 805
-        },
-        {
-            "Deaths related to Covid-19": "China",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 905
+            "Unnamed: 2": "Cumulative Deaths"
         },
         {
             "Deaths related to Covid-19": "China",
@@ -257,29 +404,54 @@
             "Unnamed: 2": 3044
         },
         {
-            "Deaths related to Covid-19": "France",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 860
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 41,
+            "Unnamed: 2": 3072
         },
         {
-            "Deaths related to Covid-19": "France",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 1100
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 42,
+            "Unnamed: 2": 3100
         },
         {
-            "Deaths related to Covid-19": "France",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 1331
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 43,
+            "Unnamed: 2": 3123
         },
         {
-            "Deaths related to Covid-19": "France",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 1696
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 44,
+            "Unnamed: 2": 3139
         },
         {
-            "Deaths related to Covid-19": "France",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 1995
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 45,
+            "Unnamed: 2": 3161
+        },
+        {
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 46,
+            "Unnamed: 2": 3172
+        },
+        {
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 47,
+            "Unnamed: 2": 3180
+        },
+        {
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 48,
+            "Unnamed: 2": 3193
+        },
+        {
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 49,
+            "Unnamed: 2": 3203
+        },
+        {
+            "Deaths related to Covid-19": "China",
+            "Unnamed: 1": 50,
+            "Unnamed: 2": 3217
         },
         {
             "Deaths related to Covid-19": "France",
@@ -397,29 +569,9 @@
             "Unnamed: 2": 19718
         },
         {
-            "Deaths related to Covid-19": "Germany",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 645
-        },
-        {
-            "Deaths related to Covid-19": "Germany",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 775
-        },
-        {
-            "Deaths related to Covid-19": "Germany",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 920
-        },
-        {
-            "Deaths related to Covid-19": "Germany",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 1107
-        },
-        {
-            "Deaths related to Covid-19": "Germany",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 1275
+            "Deaths related to Covid-19": "France",
+            "Unnamed: 1": 38,
+            "Unnamed: 2": 20265
         },
         {
             "Deaths related to Covid-19": "Germany",
@@ -502,29 +654,9 @@
             "Unnamed: 2": 4586
         },
         {
-            "Deaths related to Covid-19": "Italy",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 827
-        },
-        {
-            "Deaths related to Covid-19": "Italy",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 1266
-        },
-        {
-            "Deaths related to Covid-19": "Italy",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 1441
-        },
-        {
-            "Deaths related to Covid-19": "Italy",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 1809
-        },
-        {
-            "Deaths related to Covid-19": "Italy",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 2158
+            "Deaths related to Covid-19": "Germany",
+            "Unnamed: 1": 31,
+            "Unnamed: 2": 4862
         },
         {
             "Deaths related to Covid-19": "Italy",
@@ -657,29 +789,49 @@
             "Unnamed: 2": 19468
         },
         {
-            "Deaths related to Covid-19": "South Korea",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 84
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 41,
+            "Unnamed: 2": 19899
         },
         {
-            "Deaths related to Covid-19": "South Korea",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 91
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 42,
+            "Unnamed: 2": 20465
         },
         {
-            "Deaths related to Covid-19": "South Korea",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 94
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 43,
+            "Unnamed: 2": 21067
         },
         {
-            "Deaths related to Covid-19": "South Korea",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 102
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 44,
+            "Unnamed: 2": 21645
         },
         {
-            "Deaths related to Covid-19": "South Korea",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 111
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 45,
+            "Unnamed: 2": 22170
+        },
+        {
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 46,
+            "Unnamed: 2": 22745
+        },
+        {
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 47,
+            "Unnamed: 2": 23227
+        },
+        {
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 48,
+            "Unnamed: 2": 23660
+        },
+        {
+            "Deaths related to Covid-19": "Italy",
+            "Unnamed: 1": 49,
+            "Unnamed: 2": 24114
         },
         {
             "Deaths related to Covid-19": "South Korea",
@@ -812,29 +964,19 @@
             "Unnamed: 2": 230
         },
         {
-            "Deaths related to Covid-19": "Spain",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 1375
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 41,
+            "Unnamed: 2": 232
         },
         {
-            "Deaths related to Covid-19": "Spain",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 1772
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 42,
+            "Unnamed: 2": 234
         },
         {
-            "Deaths related to Covid-19": "Spain",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 2311
-        },
-        {
-            "Deaths related to Covid-19": "Spain",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 2808
-        },
-        {
-            "Deaths related to Covid-19": "Spain",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 3647
+            "Deaths related to Covid-19": "South Korea",
+            "Unnamed: 1": 43,
+            "Unnamed: 2": 236
         },
         {
             "Deaths related to Covid-19": "Spain",
@@ -962,29 +1104,9 @@
             "Unnamed: 2": 20453
         },
         {
-            "Deaths related to Covid-19": "Sweden",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 373
-        },
-        {
-            "Deaths related to Covid-19": "Sweden",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 401
-        },
-        {
-            "Deaths related to Covid-19": "Sweden",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 477
-        },
-        {
-            "Deaths related to Covid-19": "Sweden",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 591
-        },
-        {
-            "Deaths related to Covid-19": "Sweden",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 687
+            "Deaths related to Covid-19": "Spain",
+            "Unnamed: 1": 40,
+            "Unnamed: 2": 20852
         },
         {
             "Deaths related to Covid-19": "Sweden",
@@ -1042,9 +1164,9 @@
             "Unnamed: 2": 1540
         },
         {
-            "Deaths related to Covid-19": "UK (all settings)",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 725
+            "Deaths related to Covid-19": "Sweden",
+            "Unnamed: 1": 26,
+            "Unnamed: 2": 1580
         },
         {
             "Deaths related to Covid-19": "UK (all settings)",
@@ -1052,29 +1174,9 @@
             "Unnamed: 2": 4526
         },
         {
-            "Deaths related to Covid-19": "UK (hospitals only)",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 578
-        },
-        {
-            "Deaths related to Covid-19": "UK (hospitals only)",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 759
-        },
-        {
-            "Deaths related to Covid-19": "UK (hospitals only)",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 1019
-        },
-        {
-            "Deaths related to Covid-19": "UK (hospitals only)",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 1228
-        },
-        {
-            "Deaths related to Covid-19": "UK (hospitals only)",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 1408
+            "Deaths related to Covid-19": "UK (all settings)",
+            "Unnamed: 1": 25,
+            "Unnamed: 2": 11413
         },
         {
             "Deaths related to Covid-19": "UK (hospitals only)",
@@ -1182,29 +1284,9 @@
             "Unnamed: 2": 16509
         },
         {
-            "Deaths related to Covid-19": "United States",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 706
-        },
-        {
-            "Deaths related to Covid-19": "United States",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 942
-        },
-        {
-            "Deaths related to Covid-19": "United States",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 1209
-        },
-        {
-            "Deaths related to Covid-19": "United States",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 1581
-        },
-        {
-            "Deaths related to Covid-19": "United States",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 2026
+            "Deaths related to Covid-19": "UK (hospitals only)",
+            "Unnamed: 1": 36,
+            "Unnamed: 2": 17337
         },
         {
             "Deaths related to Covid-19": "United States",
@@ -1317,17 +1399,27 @@
             "Unnamed: 2": 40661
         },
         {
+            "Deaths related to Covid-19": "United States",
+            "Unnamed: 1": 37,
+            "Unnamed: 2": 42094
+        },
+        {
             "Deaths related to Covid-19": "(ONS, NRS, NISRA, Public Health England, Johns Hopkins University)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
         {
-            "Deaths related to Covid-19": "(Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more deaths were reported.)",
+            "Deaths related to Covid-19": "(Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more cumulative deaths were reported.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
         {
-            "Deaths related to Covid-19": "(Daily reporting of UK deaths is for hospitals only and may lag by up to several days)",
+            "Deaths related to Covid-19": "(The figures on deaths relate in almost all cases to patients who have died in hospital and who have tested positive for COVID-19.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Deaths related to Covid-19": "(Slight differences in reporting in devolved administrations may mean that they include a small number of deaths outside hospital.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
@@ -1357,6 +1449,11 @@
             "People in hospital": NaN,
             "Unnamed: 1": "Region",
             "Unnamed: 2": "People in hospital"
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 14
         },
         {
             "People in hospital": "2020-03-18 00:00:00",
@@ -1524,6 +1621,16 @@
             "Unnamed: 2": 1362
         },
         {
+            "People in hospital": "2020-04-20 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1363
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 282
+        },
+        {
             "People in hospital": "2020-03-18 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 445
@@ -1687,6 +1794,16 @@
             "People in hospital": "2020-04-19 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3384
+        },
+        {
+            "People in hospital": "2020-04-20 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 3378
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 58
         },
         {
             "People in hospital": "2020-03-18 00:00:00",
@@ -1854,6 +1971,16 @@
             "Unnamed: 2": 2523
         },
         {
+            "People in hospital": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2524
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 29
+        },
+        {
             "People in hospital": "2020-03-18 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 50
@@ -2017,6 +2144,16 @@
             "People in hospital": "2020-04-19 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2217
+        },
+        {
+            "People in hospital": "2020-04-20 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2121
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 33
         },
         {
             "People in hospital": "2020-03-18 00:00:00",
@@ -2184,6 +2321,11 @@
             "Unnamed: 2": 2651
         },
         {
+            "People in hospital": "2020-04-20 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2631
+        },
+        {
             "People in hospital": "2020-03-27 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 672
@@ -2302,6 +2444,16 @@
             "People in hospital": "2020-04-19 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1797
+        },
+        {
+            "People in hospital": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1809
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 33
         },
         {
             "People in hospital": "2020-03-18 00:00:00",
@@ -2469,6 +2621,16 @@
             "Unnamed: 2": 1933
         },
         {
+            "People in hospital": "2020-04-20 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1936
+        },
+        {
+            "People in hospital": "2020-03-17 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 23
+        },
+        {
             "People in hospital": "2020-03-18 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 36
@@ -2634,6 +2796,11 @@
             "Unnamed: 2": 771
         },
         {
+            "People in hospital": "2020-04-20 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 737
+        },
+        {
             "People in hospital": "2020-03-25 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 178
@@ -2762,6 +2929,11 @@
             "People in hospital": "2020-04-19 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1194
+        },
+        {
+            "People in hospital": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1182
         },
         {
             "People in hospital": "(Confidence: a new categorisation has been added to an existing high quality administrative data set)",
@@ -2961,6 +3133,11 @@
             "Use of transport modes": "2020-04-18 00:00:00"
         },
         {
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.31,
+            "Use of transport modes": "2020-04-19 00:00:00"
+        },
+        {
             "Unnamed: 1": "Bus (excl. London)",
             "Unnamed: 2": 0.88,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -3131,6 +3308,11 @@
             "Use of transport modes": "2020-04-18 00:00:00"
         },
         {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-04-19 00:00:00"
+        },
+        {
             "Unnamed: 1": "National rail",
             "Unnamed: 2": 0.77,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -3299,6 +3481,11 @@
             "Unnamed: 1": "National rail",
             "Unnamed: 2": 0.03,
             "Use of transport modes": "2020-04-18 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-19 00:00:00"
         },
         {
             "Unnamed: 1": "TfL - Bus",
@@ -3641,9 +3828,24 @@
             "Use of transport modes": "2020-04-18 00:00:00"
         },
         {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-19 00:00:00"
+        },
+        {
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
             "Use of transport modes": "(Bus (excl. London) data has been adjusted to compare against typical usage for the Easter break, whereas all other data sources have not)"
+        },
+        {
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": "(Data on TfL Buses is not available from Sunday 19th April due to the change in boarding policy)"
+        },
+        {
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": "https://tfl.gov.uk/info-for/media/press-releases/2020/april/tfl-introduces-middle-door-only-boarding-across-the-london-bus-network"
         },
         {
             "Unnamed: 1": NaN,
@@ -3823,6 +4025,11 @@
             "Unnamed: 2": 3023
         },
         {
+            "Confirmed cases of Covid-19": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 3643
+        },
+        {
             "Confirmed cases of Covid-19": "2020-03-27 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 5
@@ -3946,6 +4153,11 @@
             "Confirmed cases of Covid-19": "2020-04-20 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 1653
+        },
+        {
+            "Confirmed cases of Covid-19": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 658
         },
         {
             "Confirmed cases of Covid-19": "(Confidence: there are likely many more cases than currently recorded here)",
