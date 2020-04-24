@@ -1,112 +1,1304 @@
 {
     "Cover": [
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Total number of tests (UK)"
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care"
+            "Slides and datasets to accompany coronavirus press conferences": "Transport use change",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Daily testing capacity (UK)"
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department for Transport (DfT)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care"
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Preventing the spread of COVID-19 (Great Britain)"
+            "Slides and datasets to accompany coronavirus press conferences": "DfT provides daily updates to the Cabinet Office for use in the government\u2019s daily media briefings on changes in:",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Opinions and Lifestyle Survey, ONS"
+            "Slides and datasets to accompany coronavirus press conferences": "1. road traffic in Great Britain",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandthesocialimpactsongreatbritaindata"
+            "Slides and datasets to accompany coronavirus press conferences": "2. rail passenger journeys in Great Britain",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "A person is said to be \u201cin employment\u201d  if they had a paid job, either as an employee or self-employed; they did any casual work for payment; or they did any unpaid or voluntary work in the previous week"
+            "Slides and datasets to accompany coronavirus press conferences": "3. Transport for London\u2019s (TfL) tube and bus routes",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "It is not known whether those who said they were not working from home were still working in their usual place of work or if they had stopped working"
+            "Slides and datasets to accompany coronavirus press conferences": "4. bus travel in Great Britain (excluding London)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "New cases (UK)"
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care (DHSC)"
+            "Slides and datasets to accompany coronavirus press conferences": "Although daily data is being reported, direct comparisons of change should not be made between weekdays and weekends/bank holidays.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Cases are reported when lab tests are completed. This may be a few days after initial testing. "
+            "Slides and datasets to accompany coronavirus press conferences": "For public transport there are typically different levels of service/timetable in place on weekends and bank holidays than on weekdays; and for road traffic, there is a different profile on weekend days compared to weekdays.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Testing capacity is increasing, which is resulting in a greater number of observed cases There are likely many more cases than currently recorded here. "
+            "Slides and datasets to accompany coronavirus press conferences": "The data is sent as near to real time as possible.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Pillar 1: swab testing in PHE labs and NHS hospitals for those with a medical need and the most critical workers and their families"
+            "Slides and datasets to accompany coronavirus press conferences": "Bus (excl. London) data has been adjusted to compare against typical usage for the Easter break, whereas all other data sources have not",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Pillar 2: swab testing for key workers and their households"
+            "Slides and datasets to accompany coronavirus press conferences": "Data on TfL Buses is not available from Sunday 19th April due to the change in boarding policy:",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "DHSC have published explanatory notes to accompany this data:"
+            "Slides and datasets to accompany coronavirus press conferences": "https://tfl.gov.uk/info-for/media/press-releases/2020/april/tfl-introduces-middle-door-only-boarding-across-the-london-bus-network",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public"
+            "Slides and datasets to accompany coronavirus press conferences": "DfT have published information on the data sources and methodology used to generate each of these headline measures:",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "People in hospital with COVID-19 (Great Britain)"
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/government/publications/coronavirus-covid-19-transport-data-methodology-note/covid-19-transport-data-methodology-note",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government"
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Fluctuations in the North West have been driven by data validation changes and missing trusts returning data (creating artificial spikes in reporting.)"
+            "Slides and datasets to accompany coronavirus press conferences": "New cases (UK)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Nine hospitals, including London Nightingale did not return data for April 9, resulting in a misrepresented drop in hospitalisations."
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care (DHSC)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Critical care beds with COVID-19 patients (UK Nations)"
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: NHSE, Welsh, Scottish and Northern Ireland governments."
+            "Slides and datasets to accompany coronavirus press conferences": "Cases are reported when lab tests are completed. This may be a few days after initial testing. ",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Data for NHSE from 9 April does not include 9 type 1 acutes and the Nightingale London."
+            "Slides and datasets to accompany coronavirus press conferences": "Testing capacity is increasing, which is resulting in a greater number of observed cases There are likely many more cases than currently recorded here. ",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "UK deaths in hospital"
+            "Slides and datasets to accompany coronavirus press conferences": "Pillar 1: swab testing in PHE labs and NHS hospitals for those with a medical need and the most critical workers and their families",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Public Health England"
+            "Slides and datasets to accompany coronavirus press conferences": "Pillar 2: swab testing for key workers and their households",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Data source: https://coronavirus.data.gov.uk"
+            "Slides and datasets to accompany coronavirus press conferences": "DHSC have published explanatory notes to accompany this data:",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Deaths are reported when paper work is filed, rather than at time of death."
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Slight differences in reporting in devolved administrations may mean that they include a small number of deaths outside hospital. "
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Global death comparison"
+            "Slides and datasets to accompany coronavirus press conferences": "People in hospital with COVID-19 (Great Britain)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Office for National Statistics (ONS), National Records Scotland (NRS), Northern Ireland Statistics and Research Agency (NISRA), Public Health England, Johns Hopkins University"
+            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more cumulative deaths were reported."
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "The figures on deaths relate in almost all cases to patients who have died in hospital and who have tested positive for COVID-19."
+            "Slides and datasets to accompany coronavirus press conferences": "Fluctuations in the North West have been driven by data validation changes and missing trusts returning data (creating artificial spikes in reporting.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Slight differences in reporting in devolved administrations may mean that they include a small number of deaths outside hospital. "
+            "Slides and datasets to accompany coronavirus press conferences": "Nine hospitals, including London Nightingale did not return data for April 9, resulting in a misrepresented drop in hospitalisations.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "ONS, NRS and NISRA reporting of UK deaths for all settings is based on information from death certificates, and therefore lags daily hospital data."
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "International reporting procedures and lags are unclear, so may not be comparing like-for-like. "
+            "Slides and datasets to accompany coronavirus press conferences": "Critical care beds with COVID-19 patients (UK)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: NHSE, Welsh, Scottish and Northern Ireland governments.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "UK deaths in hospital",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care, based on data from NHS England and the devolved administrations",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Deaths are reported when paper work is filed, rather than at time of death.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Slight differences in reporting in devolved administrations may mean that they include a small number of deaths outside hospital. ",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Global death comparison",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Office for National Statistics (ONS), National Records Scotland (NRS), Northern Ireland Statistics and Research Agency (NISRA), Public Health England, Johns Hopkins University",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more cumulative deaths were reported.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "The figures on deaths relate in almost all cases to patients who have died in hospital and who have tested positive for COVID-19.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Slight differences in reporting in devolved administrations may mean that they include a small number of deaths outside hospital. ",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "ONS, NRS and NISRA reporting of UK deaths for all settings is based on information from death certificates, and therefore lags daily hospital data.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "International reporting procedures and lags are unclear, so may not be comparing like-for-like. ",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         }
     ],
     "Critical Care Beds with COVID-1": [
@@ -120,9 +1312,9 @@
         {
             "Critical care beds with COVID-19 patients  (UK)": "United Kingdom",
             "Unnamed: 1": NaN,
-            "Unnamed: 2": "Percentage",
+            "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN
+            "Unnamed: 4": "Percentage"
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": NaN,
@@ -220,35 +1412,35 @@
             "Unnamed: 1": 0.46,
             "Unnamed: 2": 0.33,
             "Unnamed: 3": 0.28,
-            "Unnamed: 4": 0.55
+            "Unnamed: 4": 0.56
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": 0.47,
             "Unnamed: 2": 0.32,
             "Unnamed: 3": 0.3,
-            "Unnamed: 4": 0.43
+            "Unnamed: 4": 0.44
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": 0.51,
             "Unnamed: 2": 0.34,
             "Unnamed: 3": 0.33,
-            "Unnamed: 4": 0.47
+            "Unnamed: 4": 0.48
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": 0.55,
             "Unnamed: 2": 0.37,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.43
+            "Unnamed: 4": 0.44
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": 0.53,
             "Unnamed: 2": 0.37,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.46
+            "Unnamed: 4": 0.47
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-07 00:00:00",
@@ -290,14 +1482,14 @@
             "Unnamed: 1": 0.57,
             "Unnamed: 2": 0.4,
             "Unnamed: 3": 0.38,
-            "Unnamed: 4": 0.43
+            "Unnamed: 4": 0.44
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": 0.54,
             "Unnamed: 2": 0.41,
             "Unnamed: 3": 0.36,
-            "Unnamed: 4": 0.4
+            "Unnamed: 4": 0.41
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-14 00:00:00",
@@ -318,59 +1510,59 @@
             "Unnamed: 1": 0.49,
             "Unnamed: 2": 0.39,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.38
+            "Unnamed: 4": 0.39
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": 0.46,
             "Unnamed: 2": 0.4,
             "Unnamed: 3": 0.32,
-            "Unnamed: 4": 0.35
+            "Unnamed: 4": 0.36
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": 0.48,
             "Unnamed: 2": 0.42,
             "Unnamed: 3": 0.31,
-            "Unnamed: 4": 0.33
+            "Unnamed: 4": 0.35
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": 0.48,
             "Unnamed: 2": 0.39,
             "Unnamed: 3": 0.3,
-            "Unnamed: 4": 0.3
+            "Unnamed: 4": 0.32
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": 0.47,
             "Unnamed: 2": 0.38,
             "Unnamed: 3": 0.29,
-            "Unnamed: 4": 0.35
+            "Unnamed: 4": 0.37
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": 0.45,
             "Unnamed: 2": 0.33,
             "Unnamed: 3": 0.28,
-            "Unnamed: 4": 0.33
+            "Unnamed: 4": 0.34
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": 0.45,
             "Unnamed: 2": 0.34,
             "Unnamed: 3": 0.26,
-            "Unnamed: 4": 0.31
+            "Unnamed: 4": 0.32
+        },
+        {
+            "Critical care beds with COVID-19 patients  (UK)": "2020-04-23 00:00:00",
+            "Unnamed: 1": 0.43,
+            "Unnamed: 2": 0.31,
+            "Unnamed: 3": 0.25,
+            "Unnamed: 4": 0.3
         },
         {
             "Critical care beds with COVID-19 patients  (UK)": "(Source: NHSE, Welsh, Scottish and Northern Ireland governments.)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN
-        },
-        {
-            "Critical care beds with COVID-19 patients  (UK)": "Data for NHSE from 9 April does not include 9 type 1 acutes and the Nightingale London.",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
@@ -524,6 +1716,11 @@
             "Unnamed: 2": 21340
         },
         {
+            "Global death comparison": "France",
+            "Unnamed: 1": 41,
+            "Unnamed: 2": 21856
+        },
+        {
             "Global death comparison": "Germany",
             "Unnamed: 1": 15,
             "Unnamed: 2": 1444
@@ -617,6 +1814,11 @@
             "Global death comparison": "Germany",
             "Unnamed: 1": 33,
             "Unnamed: 2": 5279
+        },
+        {
+            "Global death comparison": "Germany",
+            "Unnamed: 1": 34,
+            "Unnamed: 2": 5575
         },
         {
             "Global death comparison": "Italy",
@@ -954,6 +2156,11 @@
             "Unnamed: 2": 238
         },
         {
+            "Global death comparison": "South Korea",
+            "Unnamed: 1": 46,
+            "Unnamed: 2": 240
+        },
+        {
             "Global death comparison": "Spain",
             "Unnamed: 1": 15,
             "Unnamed: 2": 4365
@@ -1094,6 +2301,11 @@
             "Unnamed: 2": 21717
         },
         {
+            "Global death comparison": "Spain",
+            "Unnamed: 1": 43,
+            "Unnamed: 2": 22157
+        },
+        {
             "Global death comparison": "Sweden",
             "Unnamed: 1": 15,
             "Unnamed: 2": 793
@@ -1162,6 +2374,11 @@
             "Global death comparison": "Sweden",
             "Unnamed: 1": 28,
             "Unnamed: 2": 1937
+        },
+        {
+            "Global death comparison": "Sweden",
+            "Unnamed: 1": 29,
+            "Unnamed: 2": 2021
         },
         {
             "Global death comparison": "UK (all settings)",
@@ -1294,6 +2511,11 @@
             "Unnamed: 2": 18738
         },
         {
+            "Global death comparison": "UK (hospitals only)",
+            "Unnamed: 1": 39,
+            "Unnamed: 2": 19506
+        },
+        {
             "Global death comparison": "United States",
             "Unnamed: 1": 15,
             "Unnamed: 2": 2467
@@ -1419,6 +2641,11 @@
             "Unnamed: 2": 46583
         },
         {
+            "Global death comparison": "United States",
+            "Unnamed: 1": 40,
+            "Unnamed: 2": 49954
+        },
+        {
             "Global death comparison": "(ONS, NRS, NISRA, Public Health England, Johns Hopkins University)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
@@ -1447,104 +2674,6 @@
             "Global death comparison": "(International reporting procedures and lags are unclear, so may not be comparing like-for-like)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
-        }
-    ],
-    "Number of tests": [
-        {
-            "Total number of tests (UK)": "As per testing under pillars 1, 2 and 4 of the testing strategy",
-            "Unnamed: 1": NaN
-        },
-        {
-            "Total number of tests (UK)": "United Kingdom",
-            "Unnamed: 1": "Number of new cases"
-        },
-        {
-            "Total number of tests (UK)": NaN,
-            "Unnamed: 1": "Total"
-        },
-        {
-            "Total number of tests (UK)": "2020-04-04 00:00:00",
-            "Unnamed: 1": 222937
-        },
-        {
-            "Total number of tests (UK)": "2020-04-05 00:00:00",
-            "Unnamed: 1": 238836
-        },
-        {
-            "Total number of tests (UK)": "2020-04-06 00:00:00",
-            "Unnamed: 1": 251569
-        },
-        {
-            "Total number of tests (UK)": "2020-04-07 00:00:00",
-            "Unnamed: 1": 265885
-        },
-        {
-            "Total number of tests (UK)": "2020-04-08 00:00:00",
-            "Unnamed: 1": 280304
-        },
-        {
-            "Total number of tests (UK)": "2020-04-09 00:00:00",
-            "Unnamed: 1": 298169
-        },
-        {
-            "Total number of tests (UK)": "2020-04-10 00:00:00",
-            "Unnamed: 1": 316836
-        },
-        {
-            "Total number of tests (UK)": "2020-04-11 00:00:00",
-            "Unnamed: 1": 334974
-        },
-        {
-            "Total number of tests (UK)": "2020-04-12 00:00:00",
-            "Unnamed: 1": 352974
-        },
-        {
-            "Total number of tests (UK)": "2020-04-13 00:00:00",
-            "Unnamed: 1": 367667
-        },
-        {
-            "Total number of tests (UK)": "2020-04-14 00:00:00",
-            "Unnamed: 1": 382650
-        },
-        {
-            "Total number of tests (UK)": "2020-04-15 00:00:00",
-            "Unnamed: 1": 398916
-        },
-        {
-            "Total number of tests (UK)": "2020-04-16 00:00:00",
-            "Unnamed: 1": 417649
-        },
-        {
-            "Total number of tests (UK)": "2020-04-17 00:00:00",
-            "Unnamed: 1": 438991
-        },
-        {
-            "Total number of tests (UK)": "2020-04-18 00:00:00",
-            "Unnamed: 1": 460437
-        },
-        {
-            "Total number of tests (UK)": "2020-04-19 00:00:00",
-            "Unnamed: 1": 482063
-        },
-        {
-            "Total number of tests (UK)": "2020-04-20 00:00:00",
-            "Unnamed: 1": 501379
-        },
-        {
-            "Total number of tests (UK)": "2020-04-21 00:00:00",
-            "Unnamed: 1": 537121
-        },
-        {
-            "Total number of tests (UK)": "2020-04-22 00:00:00",
-            "Unnamed: 1": 559935
-        },
-        {
-            "Total number of tests (UK)": "2020-04-23 00:00:00",
-            "Unnamed: 1": 583496
-        },
-        {
-            "Total number of tests (UK)": "(Department of Health and Social Care)",
-            "Unnamed: 1": NaN
         }
     ],
     "People in hospital": [
@@ -1749,6 +2878,11 @@
             "Unnamed: 2": 1293
         },
         {
+            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1261
+        },
+        {
             "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 282
@@ -1932,6 +3066,11 @@
             "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3134
+        },
+        {
+            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 2928
         },
         {
             "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
@@ -2119,6 +3258,11 @@
             "Unnamed: 2": 2416
         },
         {
+            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2354
+        },
+        {
             "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 29
@@ -2302,6 +3446,11 @@
             "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2148
+        },
+        {
+            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2095
         },
         {
             "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
@@ -2489,6 +3638,11 @@
             "Unnamed: 2": 2462
         },
         {
+            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2445
+        },
+        {
             "People in hospital with COVID-19 (Great Britain)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 575
@@ -2627,6 +3781,11 @@
             "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1776
+        },
+        {
+            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1748
         },
         {
             "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
@@ -2814,6 +3973,11 @@
             "Unnamed: 2": 1856
         },
         {
+            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1747
+        },
+        {
             "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 23
@@ -2999,6 +4163,11 @@
             "Unnamed: 2": 713
         },
         {
+            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 677
+        },
+        {
             "People in hospital with COVID-19 (Great Britain)": "2020-03-24 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 63
@@ -3149,6 +4318,11 @@
             "Unnamed: 2": 1108
         },
         {
+            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1074
+        },
+        {
             "People in hospital with COVID-19 (Great Britain)": "(Fluctuations in the North West have been driven by data validation changes and missing trusts returning data (creating artificial spikes in reporting.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
@@ -3169,265 +4343,989 @@
             "Unnamed: 2": NaN
         }
     ],
-    "Preventing the spread of COVID-": [
+    "Transport use": [
         {
-            "Preventing the spread of COVID-19": "Great Britain",
-            "Unnamed: 1": NaN
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": "Since 16 March 2020"
         },
         {
-            "Preventing the spread of COVID-19": NaN,
-            "Unnamed: 1": NaN
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Percentage",
+            "Use of transport modes": "Great Britain"
         },
         {
-            "Preventing the spread of COVID-19": NaN,
-            "Unnamed: 1": "All Persons (%)"
+            "Unnamed: 1": "Transport Type",
+            "Unnamed: 2": "Percentage",
+            "Use of transport modes": NaN
         },
         {
-            "Preventing the spread of COVID-19": "In the past seven days, have you avoided physical contact with others when outside your home?",
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.98,
+            "Use of transport modes": "2020-03-16 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "Yes",
-            "Unnamed: 1": 97.2
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.89,
+            "Use of transport modes": "2020-03-17 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": NaN,
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.83,
+            "Use of transport modes": "2020-03-18 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": NaN,
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.82,
+            "Use of transport modes": "2020-03-19 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "In the past seven days, have you avoided contact with older people or other vulnerable people because of the Coronavirus (COVID-19) outbreak?",
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.81,
+            "Use of transport modes": "2020-03-20 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "Yes",
-            "Unnamed: 1": 93.4
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.73,
+            "Use of transport modes": "2020-03-21 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": NaN,
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.69,
+            "Use of transport modes": "2020-03-22 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": NaN,
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.69,
+            "Use of transport modes": "2020-03-23 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "Among those who said they were working:",
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.49,
+            "Use of transport modes": "2020-03-24 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "In the past seven days, have you worked from home because of the Coronavirus (COVID-19) outbreak?",
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.42,
+            "Use of transport modes": "2020-03-25 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "Yes",
-            "Unnamed: 1": 49.2
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.39,
+            "Use of transport modes": "2020-03-26 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": NaN,
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.38,
+            "Use of transport modes": "2020-03-27 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": NaN,
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.3,
+            "Use of transport modes": "2020-03-28 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "Whether followed stay at home guidelines in the past seven days3",
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.25,
+            "Use of transport modes": "2020-03-29 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "Followed stay at home guidelines",
-            "Unnamed: 1": 85.4
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.36,
+            "Use of transport modes": "2020-03-30 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "Not followed stay at home guidelines",
-            "Unnamed: 1": 14.6
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.36,
+            "Use of transport modes": "2020-03-31 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": NaN,
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-04-01 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": NaN,
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-04-02 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "(Source: Opinions and Lifestyle Survey, ONS)",
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.36,
+            "Use of transport modes": "2020-04-03 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "(https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandthesocialimpactsongreatbritaindata) ",
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.31,
+            "Use of transport modes": "2020-04-04 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "(A person is said to be \u201cin employment\u201d  if they had a paid job, either as an employee or self-employed; they did any casual work for payment; or they did any unpaid or voluntary work in the previous week) ",
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.27,
+            "Use of transport modes": "2020-04-05 00:00:00"
         },
         {
-            "Preventing the spread of COVID-19": "(It is not known whether those who said they were not working from home were still working in their usual place of work or if they had stopped working)",
-            "Unnamed: 1": NaN
-        }
-    ],
-    "Testing capacity": [
-        {
-            "Daily testing capacity (UK)": NaN,
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.37,
+            "Use of transport modes": "2020-04-06 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "United Kingdom",
-            "Unnamed: 1": "Testing capacity"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.36,
+            "Use of transport modes": "2020-04-07 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": NaN,
-            "Unnamed: 1": "Number of tests"
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.37,
+            "Use of transport modes": "2020-04-08 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-21 00:00:00",
-            "Unnamed: 1": 6127
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.39,
+            "Use of transport modes": "2020-04-09 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-22 00:00:00",
-            "Unnamed: 1": 6127
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.27,
+            "Use of transport modes": "2020-04-10 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-23 00:00:00",
-            "Unnamed: 1": 10949
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.31,
+            "Use of transport modes": "2020-04-11 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-24 00:00:00",
-            "Unnamed: 1": 10949
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.24,
+            "Use of transport modes": "2020-04-12 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-25 00:00:00",
-            "Unnamed: 1": 10949
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.23,
+            "Use of transport modes": "2020-04-13 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-26 00:00:00",
-            "Unnamed: 1": 10949
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.38,
+            "Use of transport modes": "2020-04-14 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-27 00:00:00",
-            "Unnamed: 1": 10949
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.38,
+            "Use of transport modes": "2020-04-15 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-28 00:00:00",
-            "Unnamed: 1": 10949
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.38,
+            "Use of transport modes": "2020-04-16 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-29 00:00:00",
-            "Unnamed: 1": 10949
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.39,
+            "Use of transport modes": "2020-04-17 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-30 00:00:00",
-            "Unnamed: 1": 12799
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.33,
+            "Use of transport modes": "2020-04-18 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-03-31 00:00:00",
-            "Unnamed: 1": 12799
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.31,
+            "Use of transport modes": "2020-04-19 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-01 00:00:00",
-            "Unnamed: 1": 15499
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.41,
+            "Use of transport modes": "2020-04-20 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-02 00:00:00",
-            "Unnamed: 1": 15499
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.41,
+            "Use of transport modes": "2020-04-21 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-03 00:00:00",
-            "Unnamed: 1": 15499
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.41,
+            "Use of transport modes": "2020-04-22 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-04 00:00:00",
-            "Unnamed: 1": 15499
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.88,
+            "Use of transport modes": "2020-03-16 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-05 00:00:00",
-            "Unnamed: 1": 15699
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.77,
+            "Use of transport modes": "2020-03-17 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-06 00:00:00",
-            "Unnamed: 1": 15699
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.62,
+            "Use of transport modes": "2020-03-18 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-07 00:00:00",
-            "Unnamed: 1": 18049
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.58,
+            "Use of transport modes": "2020-03-19 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-08 00:00:00",
-            "Unnamed: 1": 18149
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.53,
+            "Use of transport modes": "2020-03-20 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-09 00:00:00",
-            "Unnamed: 1": 24469
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.4,
+            "Use of transport modes": "2020-03-21 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-10 00:00:00",
-            "Unnamed: 1": 27057
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-03-22 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-11 00:00:00",
-            "Unnamed: 1": 26557
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.27,
+            "Use of transport modes": "2020-03-23 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-12 00:00:00",
-            "Unnamed: 1": 27947
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-03-24 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-13 00:00:00",
-            "Unnamed: 1": 27947
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.14,
+            "Use of transport modes": "2020-03-25 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-14 00:00:00",
-            "Unnamed: 1": 33171
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-03-26 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-15 00:00:00",
-            "Unnamed: 1": 35571
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.14,
+            "Use of transport modes": "2020-03-27 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-16 00:00:00",
-            "Unnamed: 1": 38766
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-03-28 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-17 00:00:00",
-            "Unnamed: 1": 39108
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-03-29 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-18 00:00:00",
-            "Unnamed: 1": 34808
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-03-30 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-19 00:00:00",
-            "Unnamed: 1": 36398
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-03-31 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-20 00:00:00",
-            "Unnamed: 1": 40398
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-01 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-21 00:00:00",
-            "Unnamed: 1": 41398
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-02 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-22 00:00:00",
-            "Unnamed: 1": 48273
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-03 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "2020-04-23 00:00:00",
-            "Unnamed: 1": 51121
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-04 00:00:00"
         },
         {
-            "Daily testing capacity (UK)": "(Department of Health and Social Care)",
-            "Unnamed: 1": NaN
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-05 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-06 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-07 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.1,
+            "Use of transport modes": "2020-04-08 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-09 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-10 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.1,
+            "Use of transport modes": "2020-04-11 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.1,
+            "Use of transport modes": "2020-04-12 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-13 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-14 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.1,
+            "Use of transport modes": "2020-04-15 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-17 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-18 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-04-19 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-04-20 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-21 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-22 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.77,
+            "Use of transport modes": "2020-03-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.69,
+            "Use of transport modes": "2020-03-17 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.59,
+            "Use of transport modes": "2020-03-18 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.52,
+            "Use of transport modes": "2020-03-19 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.44,
+            "Use of transport modes": "2020-03-20 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.38,
+            "Use of transport modes": "2020-03-21 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-03-22 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.29,
+            "Use of transport modes": "2020-03-23 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.24,
+            "Use of transport modes": "2020-03-24 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-03-25 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-03-26 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-03-27 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.12,
+            "Use of transport modes": "2020-03-28 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-03-29 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.1,
+            "Use of transport modes": "2020-03-30 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.09,
+            "Use of transport modes": "2020-03-31 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.08,
+            "Use of transport modes": "2020-04-01 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-02 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-04-03 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-04-04 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-04-05 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-06 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-07 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-08 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-09 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-10 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-11 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-12 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-13 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-14 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-15 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-17 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-18 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-19 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-20 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-21 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.03,
+            "Use of transport modes": "2020-04-22 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.79,
+            "Use of transport modes": "2020-03-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.7,
+            "Use of transport modes": "2020-03-17 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.65,
+            "Use of transport modes": "2020-03-18 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.59,
+            "Use of transport modes": "2020-03-19 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.52,
+            "Use of transport modes": "2020-03-20 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.39,
+            "Use of transport modes": "2020-03-21 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.32,
+            "Use of transport modes": "2020-03-22 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.31,
+            "Use of transport modes": "2020-03-23 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.22,
+            "Use of transport modes": "2020-03-24 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.19,
+            "Use of transport modes": "2020-03-25 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-03-26 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-03-27 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-03-28 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-03-29 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-03-30 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-03-31 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-04-01 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-04-02 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-04-03 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-04-04 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-04-05 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-06 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-07 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-04-08 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-09 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.17,
+            "Use of transport modes": "2020-04-10 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-04-11 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.14,
+            "Use of transport modes": "2020-04-12 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-13 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.19,
+            "Use of transport modes": "2020-04-14 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-15 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.18,
+            "Use of transport modes": "2020-04-17 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Bus",
+            "Unnamed: 2": 0.16,
+            "Use of transport modes": "2020-04-18 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.6,
+            "Use of transport modes": "2020-03-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.44,
+            "Use of transport modes": "2020-03-17 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-03-18 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.3,
+            "Use of transport modes": "2020-03-19 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.24,
+            "Use of transport modes": "2020-03-20 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-03-21 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-03-22 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.15,
+            "Use of transport modes": "2020-03-23 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.09,
+            "Use of transport modes": "2020-03-24 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.07,
+            "Use of transport modes": "2020-03-25 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-03-26 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-03-27 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-03-28 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-03-29 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-03-30 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-03-31 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-01 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-02 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-03 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-04 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-05 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-06 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-07 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-08 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-09 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-10 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-11 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-12 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-13 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-14 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-15 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-16 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-17 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-18 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-19 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-20 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-21 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-22 00:00:00"
+        },
+        {
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": NaN
+        },
+        {
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": "(Bus (excl. London) data has been adjusted to compare against typical usage for the Easter break, whereas all other data sources have not)"
+        },
+        {
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": "(Data on TfL Buses is not available from Sunday 19th April due to the change in boarding policy)"
+        },
+        {
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": "https://tfl.gov.uk/info-for/media/press-releases/2020/april/tfl-introduces-middle-door-only-boarding-across-the-london-bus-network"
+        },
+        {
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Use of transport modes": "(Department for Transport)"
         }
     ],
     "UK Deaths in Hospital": [
         {
             "UK deaths in hospital": "UK deaths are reported when papework is filed, rather than at time of death.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN
+        },
+        {
+            "UK deaths in hospital": NaN,
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
@@ -3763,7 +5661,15 @@
             "Unnamed: 5": 18738
         },
         {
-            "UK deaths in hospital": "(Source: Public Health England)",
+            "UK deaths in hospital": "United Kingdom",
+            "Unnamed: 1": "K02000001",
+            "Unnamed: 2": "UK",
+            "Unnamed: 3": "2020-04-24 00:00:00",
+            "Unnamed: 4": 684,
+            "Unnamed: 5": 19506
+        },
+        {
+            "UK deaths in hospital": "(Source: Department of Health and Social Care, based on data from NHS England and the devolved administrations)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
@@ -3982,6 +5888,11 @@
             "Unnamed: 2": 3831
         },
         {
+            "New cases (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 3641
+        },
+        {
             "New cases (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 5
@@ -4120,6 +6031,11 @@
             "New cases (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 752
+        },
+        {
+            "New cases (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 1745
         },
         {
             "New cases (UK)": "(Confidence: there are likely many more cases than currently recorded here)",
