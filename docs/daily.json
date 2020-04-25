@@ -1,4 +1,1914 @@
 {
+    "Apple Mobility": [
+        {
+            "Apple mobility data  (UK)": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "United Kingdom",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": "Percentage"
+        },
+        {
+            "Apple mobility data  (UK)": NaN,
+            "Unnamed: 1": "Transportation Type",
+            "Unnamed: 2": "Value",
+            "Unnamed: 3": "7 Day Rolling Average"
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-13 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 100,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-13 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 100,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-13 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 100,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-14 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 104.86,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-14 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 104.2,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-14 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 106.14,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-15 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 106.4,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-15 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 105.37,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-15 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 114.37,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-16 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 104.28,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-16 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 103.89,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-16 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 112.59,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-17 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 109.27,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-17 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 109.38,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-17 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 128.99,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-18 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 108.3,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-18 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 115.05,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-18 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 157.81,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-19 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 94.3,
+            "Unnamed: 3": 103.9157143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-19 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 99.52,
+            "Unnamed: 3": 105.3442857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-19 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 101.98,
+            "Unnamed: 3": 117.4114286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-20 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 103.22,
+            "Unnamed: 3": 104.3757143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-20 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 103.88,
+            "Unnamed: 3": 105.8985714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-20 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 109.43,
+            "Unnamed: 3": 118.7585714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-21 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 107.88,
+            "Unnamed: 3": 104.8071429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-21 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 108,
+            "Unnamed: 3": 106.4414286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-21 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 118.46,
+            "Unnamed: 3": 120.5185714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-22 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 108.79,
+            "Unnamed: 3": 105.1485714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-22 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 110.91,
+            "Unnamed: 3": 107.2328571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-22 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 122.92,
+            "Unnamed: 3": 121.74
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-23 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 106.41,
+            "Unnamed: 3": 105.4528571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-23 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 108.37,
+            "Unnamed: 3": 107.8728571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-23 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 122.03,
+            "Unnamed: 3": 123.0885714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-24 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 113.54,
+            "Unnamed: 3": 106.0628571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-24 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 115.49,
+            "Unnamed: 3": 108.7457143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-24 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 139.4,
+            "Unnamed: 3": 124.5757143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-25 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 111.13,
+            "Unnamed: 3": 106.4671429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-25 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 118.64,
+            "Unnamed: 3": 109.2585714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-25 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 165.49,
+            "Unnamed: 3": 125.6728571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-26 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 95.33,
+            "Unnamed: 3": 106.6142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-26 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 100.95,
+            "Unnamed: 3": 109.4628571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-26 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 97.84,
+            "Unnamed: 3": 125.0814286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-27 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 101.81,
+            "Unnamed: 3": 106.4128571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-27 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 103.81,
+            "Unnamed: 3": 109.4528571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-27 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 104.79,
+            "Unnamed: 3": 124.4185714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-28 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 105.64,
+            "Unnamed: 3": 106.0928571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-28 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 105.67,
+            "Unnamed: 3": 109.12
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-28 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 113.53,
+            "Unnamed: 3": 123.7142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-29 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 106.97,
+            "Unnamed: 3": 105.8328571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-29 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 109.06,
+            "Unnamed: 3": 108.8557143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-29 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 122.36,
+            "Unnamed: 3": 123.6342857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-30 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 105.43,
+            "Unnamed: 3": 105.6928571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-30 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 108.51,
+            "Unnamed: 3": 108.8757143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-30 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 119.75,
+            "Unnamed: 3": 123.3085714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-31 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 114.55,
+            "Unnamed: 3": 105.8371429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-31 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 118.03,
+            "Unnamed: 3": 109.2385714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-01-31 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 143.62,
+            "Unnamed: 3": 123.9114286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-01 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 112.34,
+            "Unnamed: 3": 106.01
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-01 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 119.31,
+            "Unnamed: 3": 109.3342857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-01 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 169.08,
+            "Unnamed: 3": 124.4242857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-02 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 96.88,
+            "Unnamed: 3": 106.2314286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-02 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 105.44,
+            "Unnamed: 3": 109.9757143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-02 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 103.22,
+            "Unnamed: 3": 125.1928571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-03 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 100.79,
+            "Unnamed: 3": 106.0857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-03 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 104.05,
+            "Unnamed: 3": 110.01
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-03 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 106.76,
+            "Unnamed: 3": 125.4742857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-04 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 106.62,
+            "Unnamed: 3": 106.2257143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-04 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 106.8,
+            "Unnamed: 3": 110.1714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-04 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 115.85,
+            "Unnamed: 3": 125.8057143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-05 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 107.82,
+            "Unnamed: 3": 106.3471429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-05 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 109.37,
+            "Unnamed: 3": 110.2157143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-05 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 124.21,
+            "Unnamed: 3": 126.07
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-06 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 107.32,
+            "Unnamed: 3": 106.6171429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-06 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 108.48,
+            "Unnamed: 3": 110.2114286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-06 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 123.83,
+            "Unnamed: 3": 126.6528571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-07 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 114.77,
+            "Unnamed: 3": 106.6485714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-07 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 116.15,
+            "Unnamed: 3": 109.9428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-07 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 142.03,
+            "Unnamed: 3": 126.4257143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-08 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 111.59,
+            "Unnamed: 3": 106.5414286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-08 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 122.06,
+            "Unnamed: 3": 110.3357143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-08 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 169.55,
+            "Unnamed: 3": 126.4928571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-09 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 95.17,
+            "Unnamed: 3": 106.2971429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-09 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 100.52,
+            "Unnamed: 3": 109.6328571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-09 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 79.14,
+            "Unnamed: 3": 123.0528571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-10 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 108.75,
+            "Unnamed: 3": 107.4342857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-10 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 106.76,
+            "Unnamed: 3": 110.02
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-10 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 101.55,
+            "Unnamed: 3": 122.3085714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-11 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 108.02,
+            "Unnamed: 3": 107.6342857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-11 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 107.86,
+            "Unnamed: 3": 110.1714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-11 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 111.72,
+            "Unnamed: 3": 121.7185714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-12 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 108.95,
+            "Unnamed: 3": 107.7957143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-12 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 110.08,
+            "Unnamed: 3": 110.2728571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-12 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 122.43,
+            "Unnamed: 3": 121.4642857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-13 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 109.78,
+            "Unnamed: 3": 108.1471429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-13 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 107.83,
+            "Unnamed: 3": 110.18
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-13 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 120.97,
+            "Unnamed: 3": 121.0557143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-14 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 119.65,
+            "Unnamed: 3": 108.8442857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-14 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 117.79,
+            "Unnamed: 3": 110.4142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-14 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 153.72,
+            "Unnamed: 3": 122.7257143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-15 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 109.55,
+            "Unnamed: 3": 108.5528571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-15 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 119,
+            "Unnamed: 3": 109.9771429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-15 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 152.82,
+            "Unnamed: 3": 120.3357143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-16 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 101.42,
+            "Unnamed: 3": 109.4457143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-16 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 109.71,
+            "Unnamed: 3": 111.29
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-16 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 98.69,
+            "Unnamed: 3": 123.1285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-17 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 118.6,
+            "Unnamed: 3": 110.8528571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-17 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 119.36,
+            "Unnamed: 3": 113.09
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-17 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 128.1,
+            "Unnamed: 3": 126.9214286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-18 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 119.26,
+            "Unnamed: 3": 112.4585714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-18 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 118.76,
+            "Unnamed: 3": 114.6471429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-18 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 130.01,
+            "Unnamed: 3": 129.5342857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-19 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 121.56,
+            "Unnamed: 3": 114.26
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-19 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 121.93,
+            "Unnamed: 3": 116.34
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-19 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 136.18,
+            "Unnamed: 3": 131.4985714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-20 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 118.33,
+            "Unnamed: 3": 115.4814286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-20 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 118.81,
+            "Unnamed: 3": 117.9085714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-20 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 131.67,
+            "Unnamed: 3": 133.0271429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-21 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 127.35,
+            "Unnamed: 3": 116.5814286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-21 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 126.56,
+            "Unnamed: 3": 119.1614286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-21 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 152.89,
+            "Unnamed: 3": 132.9085714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-22 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 115.64,
+            "Unnamed: 3": 117.4514286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-22 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 126.9,
+            "Unnamed: 3": 120.29
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-22 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 169.46,
+            "Unnamed: 3": 135.2857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-23 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 101.34,
+            "Unnamed: 3": 117.44
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-23 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 105.46,
+            "Unnamed: 3": 119.6828571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-23 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 101.08,
+            "Unnamed: 3": 135.6271429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-24 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 108.75,
+            "Unnamed: 3": 116.0328571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-24 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 107.92,
+            "Unnamed: 3": 118.0485714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-24 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 104.26,
+            "Unnamed: 3": 132.2214286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-25 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 108.16,
+            "Unnamed: 3": 114.4471429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-25 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 108.13,
+            "Unnamed: 3": 116.53
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-25 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 115.57,
+            "Unnamed: 3": 130.1585714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-26 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 109.74,
+            "Unnamed: 3": 112.7585714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-26 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 108.85,
+            "Unnamed: 3": 114.6614286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-26 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 121.26,
+            "Unnamed: 3": 128.0271429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-27 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 109.6,
+            "Unnamed: 3": 111.5114286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-27 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 108.32,
+            "Unnamed: 3": 113.1628571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-27 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 119.74,
+            "Unnamed: 3": 126.3228571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-28 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 122.59,
+            "Unnamed: 3": 110.8314286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-28 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 118.5,
+            "Unnamed: 3": 112.0114286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-28 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 138.49,
+            "Unnamed: 3": 124.2657143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-29 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 115.93,
+            "Unnamed: 3": 110.8728571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-29 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 118.75,
+            "Unnamed: 3": 110.8471429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-02-29 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 162.75,
+            "Unnamed: 3": 123.3071429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-01 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 100.48,
+            "Unnamed: 3": 110.75
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-01 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 103.74,
+            "Unnamed: 3": 110.6014286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-01 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 105.44,
+            "Unnamed: 3": 123.93
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-02 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 104.64,
+            "Unnamed: 3": 110.1628571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-02 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 103.96,
+            "Unnamed: 3": 110.0357143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-02 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 107.54,
+            "Unnamed: 3": 124.3985714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-03 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 108.34,
+            "Unnamed: 3": 110.1885714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-03 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 105.51,
+            "Unnamed: 3": 109.6614286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-03 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 114.84,
+            "Unnamed: 3": 124.2942857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-04 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 109.59,
+            "Unnamed: 3": 110.1671429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-04 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 106.1,
+            "Unnamed: 3": 109.2685714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-04 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 116.67,
+            "Unnamed: 3": 123.6385714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-05 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 109.18,
+            "Unnamed: 3": 110.1071429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-05 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 105.14,
+            "Unnamed: 3": 108.8142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-05 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 110.07,
+            "Unnamed: 3": 122.2571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-06 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 118.61,
+            "Unnamed: 3": 109.5385714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-06 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 114.68,
+            "Unnamed: 3": 108.2685714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-06 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 144.51,
+            "Unnamed: 3": 123.1171429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-07 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 115.05,
+            "Unnamed: 3": 109.4128571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-07 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 118.05,
+            "Unnamed: 3": 108.1685714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-07 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 172.59,
+            "Unnamed: 3": 124.5228571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-08 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 97.9,
+            "Unnamed: 3": 109.0442857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-08 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 97.76,
+            "Unnamed: 3": 107.3142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-08 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 101.39,
+            "Unnamed: 3": 123.9442857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-09 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 101.47,
+            "Unnamed: 3": 108.5914286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-09 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 99,
+            "Unnamed: 3": 106.6057143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-09 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 100.87,
+            "Unnamed: 3": 122.9914286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-10 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 102.73,
+            "Unnamed: 3": 107.79
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-10 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 99.54,
+            "Unnamed: 3": 105.7528571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-10 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 108.28,
+            "Unnamed: 3": 122.0542857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-11 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 102.32,
+            "Unnamed: 3": 106.7514286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-11 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 95.28,
+            "Unnamed: 3": 104.2071429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-11 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 111.71,
+            "Unnamed: 3": 121.3457143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-12 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 94.18,
+            "Unnamed: 3": 104.6085714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-12 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 86.55,
+            "Unnamed: 3": 101.5514286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-12 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 102.65,
+            "Unnamed: 3": 120.2857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-13 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 99.62,
+            "Unnamed: 3": 101.8957143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-13 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 88.77,
+            "Unnamed: 3": 97.85
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-13 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 117.26,
+            "Unnamed: 3": 116.3928571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-14 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 94.11,
+            "Unnamed: 3": 98.90428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-14 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 88.31,
+            "Unnamed: 3": 93.60142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-14 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 132.4,
+            "Unnamed: 3": 110.6514286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-15 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 76.22,
+            "Unnamed: 3": 95.80714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-15 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 67.17,
+            "Unnamed: 3": 89.23142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-15 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 73.47,
+            "Unnamed: 3": 106.6628571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-16 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 79.05,
+            "Unnamed: 3": 92.60428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-16 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 61.47,
+            "Unnamed: 3": 83.87
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-16 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 75.75,
+            "Unnamed: 3": 103.0742857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 69.91,
+            "Unnamed: 3": 87.91571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 49.57,
+            "Unnamed: 3": 76.73142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 62.55,
+            "Unnamed: 3": 96.54142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 66.55,
+            "Unnamed: 3": 82.80571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 43.41,
+            "Unnamed: 3": 69.32142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 56.11,
+            "Unnamed: 3": 88.59857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 67.07,
+            "Unnamed: 3": 78.93285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 41.52,
+            "Unnamed: 3": 62.88857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 54.04,
+            "Unnamed: 3": 81.65428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 68.81,
+            "Unnamed: 3": 74.53142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 37.97,
+            "Unnamed: 3": 55.63142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 58.17,
+            "Unnamed: 3": 73.21285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 56.73,
+            "Unnamed: 3": 69.19142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 30.08,
+            "Unnamed: 3": 47.31285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 52.54,
+            "Unnamed: 3": 61.80428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 46.81,
+            "Unnamed: 3": 64.99
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 28.1,
+            "Unnamed: 3": 41.73142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 42.16,
+            "Unnamed: 3": 57.33142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 52.26,
+            "Unnamed: 3": 61.16285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 27.42,
+            "Unnamed: 3": 36.86714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 45.89,
+            "Unnamed: 3": 53.06571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 38.31,
+            "Unnamed: 3": 56.64857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 19.49,
+            "Unnamed: 3": 32.57
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 37.23,
+            "Unnamed: 3": 49.44857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 36.16,
+            "Unnamed: 3": 52.30714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 17.87,
+            "Unnamed: 3": 28.92142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 38.72,
+            "Unnamed: 3": 46.96428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 35.19,
+            "Unnamed: 3": 47.75285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 16.97,
+            "Unnamed: 3": 25.41428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 38.3,
+            "Unnamed: 3": 44.71571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 36.93,
+            "Unnamed: 3": 43.19857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 16.56,
+            "Unnamed: 3": 22.35571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 40.83,
+            "Unnamed: 3": 42.23857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 29.6,
+            "Unnamed: 3": 39.32285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.38,
+            "Unnamed: 3": 20.25571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 37.43,
+            "Unnamed: 3": 40.08
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 24.72,
+            "Unnamed: 3": 36.16714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.34,
+            "Unnamed: 3": 18.43285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 29.62,
+            "Unnamed: 3": 38.28857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 32.8,
+            "Unnamed: 3": 33.38714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 16.85,
+            "Unnamed: 3": 16.92285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 34.55,
+            "Unnamed: 3": 36.66857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 34.38,
+            "Unnamed: 3": 32.82571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 16.4,
+            "Unnamed: 3": 16.48142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 38.69,
+            "Unnamed: 3": 36.87714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 34.1,
+            "Unnamed: 3": 32.53142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 16,
+            "Unnamed: 3": 16.21428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 38.16,
+            "Unnamed: 3": 36.79714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 34.25,
+            "Unnamed: 3": 32.39714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.91,
+            "Unnamed: 3": 16.06285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 38.45,
+            "Unnamed: 3": 36.81857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 37.6,
+            "Unnamed: 3": 32.49285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.53,
+            "Unnamed: 3": 15.91571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 42.67,
+            "Unnamed: 3": 37.08142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 31.53,
+            "Unnamed: 3": 32.76857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 14.41,
+            "Unnamed: 3": 15.77714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 42.78,
+            "Unnamed: 3": 37.84571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 27.02,
+            "Unnamed: 3": 33.09714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 14.81,
+            "Unnamed: 3": 15.70142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 36.77,
+            "Unnamed: 3": 38.86714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 34.74,
+            "Unnamed: 3": 33.37428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.8,
+            "Unnamed: 3": 15.55142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 37.16,
+            "Unnamed: 3": 39.24
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 36.06,
+            "Unnamed: 3": 33.61428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.57,
+            "Unnamed: 3": 15.43285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 41.7,
+            "Unnamed: 3": 39.67
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 36.67,
+            "Unnamed: 3": 33.98142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.59,
+            "Unnamed: 3": 15.37428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 41.69,
+            "Unnamed: 3": 40.17428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 38.05,
+            "Unnamed: 3": 34.52428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.45,
+            "Unnamed: 3": 15.30857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 43.55,
+            "Unnamed: 3": 40.90285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 34.4,
+            "Unnamed: 3": 34.06714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 14.92,
+            "Unnamed: 3": 15.22142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 45.19,
+            "Unnamed: 3": 41.26285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 31.74,
+            "Unnamed: 3": 34.09714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 14.17,
+            "Unnamed: 3": 15.18714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 44.4,
+            "Unnamed: 3": 41.49428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 24.46,
+            "Unnamed: 3": 33.73142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 13.5,
+            "Unnamed: 3": 15
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 34.94,
+            "Unnamed: 3": 41.23285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 29.72,
+            "Unnamed: 3": 33.01428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.29,
+            "Unnamed: 3": 14.92714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 37.14,
+            "Unnamed: 3": 41.23
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 38.71,
+            "Unnamed: 3": 33.39285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 16.35,
+            "Unnamed: 3": 15.03857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 45.4,
+            "Unnamed: 3": 41.75857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 40.02,
+            "Unnamed: 3": 33.87142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 16.64,
+            "Unnamed: 3": 15.18857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 48.31,
+            "Unnamed: 3": 42.70428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 40.08,
+            "Unnamed: 3": 34.16142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 16.26,
+            "Unnamed: 3": 15.30428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 46.97,
+            "Unnamed: 3": 43.19285714
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 41.72,
+            "Unnamed: 3": 35.20714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.65,
+            "Unnamed: 3": 15.40857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 44.36,
+            "Unnamed: 3": 43.07428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 35.18,
+            "Unnamed: 3": 35.69857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 14.82,
+            "Unnamed: 3": 15.50142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 42.18,
+            "Unnamed: 3": 42.75714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 31.94,
+            "Unnamed: 3": 36.76714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 15.7,
+            "Unnamed: 3": 15.81571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 44.39,
+            "Unnamed: 3": 44.10714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 39.99,
+            "Unnamed: 3": 38.23428571
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 17.27,
+            "Unnamed: 3": 16.09857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 44.92,
+            "Unnamed: 3": 45.21857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 41.19,
+            "Unnamed: 3": 38.58857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 17.05,
+            "Unnamed: 3": 16.19857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 45.61,
+            "Unnamed: 3": 45.24857143
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-22 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 42.03,
+            "Unnamed: 3": 38.87571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-22 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 17.04,
+            "Unnamed: 3": 16.25571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-22 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 46.54,
+            "Unnamed: 3": 44.99571429
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Driving",
+            "Unnamed: 2": 42.36,
+            "Unnamed: 3": 39.20142857
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Public Transport",
+            "Unnamed: 2": 16.97,
+            "Unnamed: 3": 16.35714286
+        },
+        {
+            "Apple mobility data  (UK)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Walking",
+            "Unnamed: 2": 46.36,
+            "Unnamed: 3": 44.90857143
+        },
+        {
+            "Apple mobility data  (UK)": "(Source: Apple LLC: Apple Maps COVID-19 Community Mobility Reports.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "(Source: https://www.apple.com/covid19/mobility.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "(The insights are drawn from changes from a relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "(This data only includes journeys searched for using Apple Maps, and therefore does not include users searching through alternative journey planners.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "(In many countries relative volume has increased since January 13th, consistent with normal, seasonal usage of Apple Maps.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "(Insights are calculated based on data from a subset of users.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "(As with all samples, this may or may not represent the exact behavior of a wider population and the results should be interpreted with caution)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "(About the data:)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Apple mobility data  (UK)": "(https://www.apple.com/covid19/mobility)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        }
+    ],
     "Cover": [
         {
             "Slides and datasets to accompany coronavirus press conferences": NaN,
@@ -476,6 +2386,306 @@
             "Unnamed: 9": NaN
         },
         {
+            "Slides and datasets to accompany coronavirus press conferences": "Apple Mobility",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Apple LLC: Apple Maps COVID-19 Community Mobility Reports. ",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.apple.com/covid19/mobility",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "The insights are drawn from changes from a relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "This data only includes journeys searched for using Apple Maps, and therefore does not include users searching through alternative journey planners. \n",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "In many countries relative volume has increased since January 13th, consistent with normal, seasonal usage of Apple Maps.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Insights are calculated based on data from a subset of users.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "As with all samples, this may or may not represent the exact behavior of a wider population and the results should be interpreted with caution\n",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "About the data:",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.apple.com/covid19/mobility",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
             "Slides and datasets to accompany coronavirus press conferences": "New cases (UK)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
@@ -726,7 +2936,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "People in hospital with COVID-19 (Great Britain)",
+            "Slides and datasets to accompany coronavirus press conferences": "People in hospital with COVID-19 (UK)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -751,7 +2961,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government",
+            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive\n",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -851,6 +3061,31 @@
             "Unnamed: 9": NaN
         },
         {
+            "Slides and datasets to accompany coronavirus press conferences": "National data may not be directly comparable as data about COVID-19 patients in hospitals is collected differently across nations.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
             "Slides and datasets to accompany coronavirus press conferences": NaN,
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
@@ -901,7 +3136,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: NHSE, Welsh, Scottish and Northern Ireland governments.",
+            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive\n",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1562,7 +3797,14 @@
             "Unnamed: 4": 0.3
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "(Source: NHSE, Welsh, Scottish and Northern Ireland governments.)",
+            "Critical care beds with COVID-19 patients  (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": 0.4,
+            "Unnamed: 2": 0.31,
+            "Unnamed: 3": 0.24,
+            "Unnamed: 4": 0.31
+        },
+        {
+            "Critical care beds with COVID-19 patients  (UK)": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
@@ -1721,6 +3963,11 @@
             "Unnamed: 2": 21856
         },
         {
+            "Global death comparison": "France",
+            "Unnamed: 1": 42,
+            "Unnamed: 2": 22245
+        },
+        {
             "Global death comparison": "Germany",
             "Unnamed: 1": 15,
             "Unnamed: 2": 1444
@@ -1819,6 +4066,11 @@
             "Global death comparison": "Germany",
             "Unnamed: 1": 34,
             "Unnamed: 2": 5575
+        },
+        {
+            "Global death comparison": "Germany",
+            "Unnamed: 1": 35,
+            "Unnamed: 2": 5760
         },
         {
             "Global death comparison": "Italy",
@@ -2161,6 +4413,11 @@
             "Unnamed: 2": 240
         },
         {
+            "Global death comparison": "South Korea",
+            "Unnamed: 1": 47,
+            "Unnamed: 2": 240
+        },
+        {
             "Global death comparison": "Spain",
             "Unnamed: 1": 15,
             "Unnamed: 2": 4365
@@ -2306,6 +4563,11 @@
             "Unnamed: 2": 22157
         },
         {
+            "Global death comparison": "Spain",
+            "Unnamed: 1": 44,
+            "Unnamed: 2": 22524
+        },
+        {
             "Global death comparison": "Sweden",
             "Unnamed: 1": 15,
             "Unnamed: 2": 793
@@ -2379,6 +4641,11 @@
             "Global death comparison": "Sweden",
             "Unnamed: 1": 29,
             "Unnamed: 2": 2021
+        },
+        {
+            "Global death comparison": "Sweden",
+            "Unnamed: 1": 30,
+            "Unnamed: 2": 2152
         },
         {
             "Global death comparison": "UK (all settings)",
@@ -2516,6 +4783,11 @@
             "Unnamed: 2": 19506
         },
         {
+            "Global death comparison": "UK (hospitals only)",
+            "Unnamed: 1": 40,
+            "Unnamed: 2": 20319
+        },
+        {
             "Global death comparison": "United States",
             "Unnamed: 1": 15,
             "Unnamed: 2": 2467
@@ -2646,6 +4918,11 @@
             "Unnamed: 2": 49954
         },
         {
+            "Global death comparison": "United States",
+            "Unnamed: 1": 41,
+            "Unnamed: 2": 51949
+        },
+        {
             "Global death comparison": "(ONS, NRS, NISRA, Public Health England, Johns Hopkins University)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
@@ -2678,1667 +4955,1912 @@
     ],
     "People in hospital": [
         {
-            "People in hospital with COVID-19 (Great Britain)": "With illness related to Covid-19",
+            "People in hospital with COVID-19 (UK)": "With illness related to Covid-19",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "Great Britain",
+            "People in hospital with COVID-19 (UK)": "United Kingdom",
             "Unnamed: 1": NaN,
             "Unnamed: 2": "Number of people"
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": NaN,
+            "People in hospital with COVID-19 (UK)": NaN,
             "Unnamed: 1": "Region",
             "Unnamed: 2": "People in hospital"
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 14
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 25
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 24
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 59
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 71
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 91
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 131
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-24 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 150
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-25 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 191
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-26 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 290
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-27 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 336
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-28 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 423
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-29 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 475
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-30 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 617
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-31 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 779
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-01 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 812
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-02 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 796
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-03 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 870
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-04 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 931
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-05 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1161
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-06 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1144
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-07 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1323
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-08 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1316
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-09 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1272
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-10 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1345
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-11 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1322
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-12 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1484
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-13 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1268
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-14 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1387
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-15 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1418
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-16 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1364
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1340
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1323
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1362
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1363
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1319
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1293
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "East of England",
             "Unnamed: 2": 1261
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1228
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 282
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 445
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 708
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 819
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 1119
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 1228
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 1515
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-24 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 1651
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-25 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 2019
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-26 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 2417
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-27 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 2727
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-28 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3002
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-29 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3334
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-30 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3492
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-31 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3915
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-01 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4065
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-02 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3893
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-03 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3836
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-04 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4406
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-05 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4571
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-06 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4656
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-07 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4689
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-08 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4813
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-09 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4194
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-10 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4736
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-11 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4430
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-12 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4433
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-13 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4248
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-14 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 4031
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-15 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3886
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-16 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3800
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3617
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3445
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3384
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3378
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3270
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 3134
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 2928
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 2737
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 58
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 96
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 132
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 218
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 278
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 379
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 436
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-24 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 581
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-25 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 688
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-26 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 964
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-27 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1054
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-28 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1117
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-29 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1312
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-30 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1799
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-31 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1918
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-01 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2138
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-02 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 1729
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-03 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2546
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-04 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2768
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-05 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2895
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-06 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3042
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-07 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3086
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-08 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3070
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-09 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2999
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-10 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3101
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-11 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3062
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-12 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 3092
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-13 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2975
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-14 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2989
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-15 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2756
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-16 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2708
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2496
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2510
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2523
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2524
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2497
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2416
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "Midlands",
             "Unnamed: 2": 2354
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2245
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 29
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 50
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 63
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 82
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 124
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 158
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 190
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-24 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 228
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-25 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 307
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-26 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 426
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-27 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 532
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-28 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 677
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-29 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 804
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-30 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 963
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-31 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1085
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-01 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1254
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-02 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1311
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-03 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1771
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-04 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2013
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-05 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2218
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-06 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2041
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-07 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2113
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-08 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2319
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-09 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2567
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-10 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2304
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-11 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2422
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-12 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2440
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-13 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2470
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-14 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2431
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-15 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2400
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-16 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2353
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2206
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2236
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2217
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2121
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2226
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2148
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 2095
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2047
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 33
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 51
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 71
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 130
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 162
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 190
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 236
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-24 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 250
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-25 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 332
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-26 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 372
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-27 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 548
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-28 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 654
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-29 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 809
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-30 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 964
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-31 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 1110
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-01 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 1392
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-02 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 1379
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-03 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 1638
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-04 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2049
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-05 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2178
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-06 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2409
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-07 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2495
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-08 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2436
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-09 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2596
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-10 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2721
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-11 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2830
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-12 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2837
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-13 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2890
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-14 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2842
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-15 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2655
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-16 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2753
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2389
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2652
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2651
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2631
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2547
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2462
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "North West",
             "Unnamed: 2": 2445
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-26 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2338
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 575
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-27 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 672
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-28 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 782
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-29 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 859
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-30 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 924
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-31 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1073
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-01 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1153
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-02 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1282
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-03 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1321
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-04 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1480
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-05 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1590
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-06 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1599
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-07 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1733
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-08 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1771
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-09 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1781
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-10 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1832
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-11 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1855
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-12 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1755
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-13 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1797
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-14 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1801
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-15 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1748
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-16 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1798
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1799
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1793
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1797
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1809
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1866
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1776
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1748
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1710
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 33
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 56
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 144
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 176
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 307
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 408
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 449
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-24 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 469
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-25 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 567
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-26 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 599
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-27 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 744
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-28 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 802
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-29 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1008
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-30 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1208
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-31 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1469
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-01 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1368
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-02 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1614
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-03 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1541
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-04 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1712
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-05 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1850
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-06 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1858
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-07 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2073
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-08 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2058
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-09 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1930
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-10 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2031
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-11 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2007
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-12 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2053
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-13 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2049
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-14 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 2020
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-15 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1970
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-16 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1911
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1893
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1932
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1933
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1936
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1897
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1856
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "South East",
             "Unnamed: 2": 1747
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1682
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 23
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 36
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 55
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 57
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 95
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 134
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 140
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-24 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 163
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-25 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 200
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-26 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 236
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-27 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 304
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-28 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 342
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-29 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 401
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-30 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 455
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-31 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 491
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-01 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 560
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-02 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 587
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-03 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 639
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-04 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 697
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-05 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 734
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-06 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 796
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-07 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 784
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-08 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 772
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-09 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 797
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-10 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 809
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-11 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 808
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-12 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 833
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-13 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 822
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-14 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 840
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-15 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 832
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-16 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 796
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 792
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 770
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 771
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 737
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 731
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 713
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 677
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-24 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 643
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 63
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-25 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 178
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-26 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 411
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-27 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 451
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-28 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 552
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-29 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 535
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-30 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 625
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-03-31 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 781
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-01 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 972
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-02 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 865
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-03 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 911
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-04 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 915
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-05 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 990
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-06 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1044
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-07 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1054
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-08 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1160
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-09 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1168
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-10 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1222
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-11 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1209
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-12 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1257
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-13 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1187
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-14 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1191
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-15 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1209
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-16 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1227
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-17 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1227
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-18 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1249
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-19 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1194
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-20 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1182
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-21 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1124
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-22 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1108
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "2020-04-23 00:00:00",
+            "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 1074
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "(Fluctuations in the North West have been driven by data validation changes and missing trusts returning data (creating artificial spikes in reporting.)",
+            "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1071
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 7
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 7
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 8
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 9
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 9
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 9
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 10
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 11
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 12
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 17
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 22
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 24
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 27
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 32
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 38
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 42
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 51
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 58
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 71
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 80
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 89
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 99
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 108
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 118
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 129
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 147
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 162
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 174
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 192
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 207
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 233
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 266
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 309
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 344
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 388
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 456
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 522
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 619
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 677
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "(Fluctuations in the North West have been driven by data validation changes and missing trusts returning data (creating artificial spikes in reporting.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "(Nine hospitals, including London Nightingale did not return data for April 9, resulting in a misrepresented drop in hospitalisations.)",
+            "People in hospital with COVID-19 (UK)": "(Nine hospitals, including London Nightingale did not return data for April 9, resulting in a misrepresented drop in hospitalisations.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "(Confidence: a new categorisation has been added to an existing high quality administrative data set)",
+            "People in hospital with COVID-19 (UK)": "(Confidence: a new categorisation has been added to an existing high quality administrative data set)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
         {
-            "People in hospital with COVID-19 (Great Britain)": "(NHSE, Welsh Government, Scotland Government)",
+            "People in hospital with COVID-19 (UK)": "(NHSE, Welsh Government, Scotland Government, Northern Ireland Executive)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "(National data may not be directly comparable as data about COVID-19 patients in hospitals is collected differently across nations.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         }
@@ -4550,6 +7072,11 @@
             "Use of transport modes": "2020-04-22 00:00:00"
         },
         {
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.41,
+            "Use of transport modes": "2020-04-23 00:00:00"
+        },
+        {
             "Unnamed: 1": "Bus (excl. London)",
             "Unnamed: 2": 0.88,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -4740,6 +7267,11 @@
             "Use of transport modes": "2020-04-22 00:00:00"
         },
         {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.11,
+            "Use of transport modes": "2020-04-23 00:00:00"
+        },
+        {
             "Unnamed: 1": "National rail",
             "Unnamed: 2": 0.77,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -4928,6 +7460,11 @@
             "Unnamed: 1": "National rail",
             "Unnamed: 2": 0.03,
             "Use of transport modes": "2020-04-22 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.02,
+            "Use of transport modes": "2020-04-23 00:00:00"
         },
         {
             "Unnamed: 1": "TfL - Bus",
@@ -5290,9 +7827,9 @@
             "Use of transport modes": "2020-04-22 00:00:00"
         },
         {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": NaN
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.05,
+            "Use of transport modes": "2020-04-23 00:00:00"
         },
         {
             "Unnamed: 1": NaN,
@@ -5669,6 +8206,14 @@
             "Unnamed: 5": 19506
         },
         {
+            "UK deaths in hospital": "United Kingdom",
+            "Unnamed: 1": "K02000001",
+            "Unnamed: 2": "UK",
+            "Unnamed: 3": "2020-04-25 00:00:00",
+            "Unnamed: 4": 813,
+            "Unnamed: 5": 20319
+        },
+        {
             "UK deaths in hospital": "(Source: Department of Health and Social Care, based on data from NHS England and the devolved administrations)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
@@ -5893,6 +8438,11 @@
             "Unnamed: 2": 3641
         },
         {
+            "New cases (UK)": "2020-04-25 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 3583
+        },
+        {
             "New cases (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 5
@@ -6036,6 +8586,11 @@
             "New cases (UK)": "2020-04-24 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 1745
+        },
+        {
+            "New cases (UK)": "2020-04-25 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 1330
         },
         {
             "New cases (UK)": "(Confidence: there are likely many more cases than currently recorded here)",
