@@ -1,1950 +1,4 @@
 {
-    "Apple Mobility": [
-        {
-            "Apple mobility data  (UK)": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "United Kingdom",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": "Percentage"
-        },
-        {
-            "Apple mobility data  (UK)": NaN,
-            "Unnamed: 1": "Transportation Type",
-            "Unnamed: 2": "Value",
-            "Unnamed: 3": "7 Day Rolling Average"
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-13 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 100,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-13 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 100,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-13 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 100,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-14 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 104.86,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-14 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 104.2,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-14 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 106.14,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-15 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 106.4,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-15 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 105.37,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-15 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 114.37,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-16 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 104.28,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-16 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 103.89,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-16 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 112.59,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-17 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 109.27,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-17 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 109.38,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-17 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 128.99,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-18 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 108.3,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-18 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 115.05,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-18 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 157.81,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-19 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 94.3,
-            "Unnamed: 3": 103.9157143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-19 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 99.52,
-            "Unnamed: 3": 105.3442857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-19 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 101.98,
-            "Unnamed: 3": 117.4114286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-20 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 103.22,
-            "Unnamed: 3": 104.3757143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-20 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 103.88,
-            "Unnamed: 3": 105.8985714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-20 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 109.43,
-            "Unnamed: 3": 118.7585714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-21 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 107.88,
-            "Unnamed: 3": 104.8071429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-21 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 108,
-            "Unnamed: 3": 106.4414286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-21 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 118.46,
-            "Unnamed: 3": 120.5185714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-22 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 108.79,
-            "Unnamed: 3": 105.1485714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-22 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 110.91,
-            "Unnamed: 3": 107.2328571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-22 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 122.92,
-            "Unnamed: 3": 121.74
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-23 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 106.41,
-            "Unnamed: 3": 105.4528571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-23 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 108.37,
-            "Unnamed: 3": 107.8728571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-23 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 122.03,
-            "Unnamed: 3": 123.0885714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-24 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 113.54,
-            "Unnamed: 3": 106.0628571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-24 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 115.49,
-            "Unnamed: 3": 108.7457143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-24 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 139.4,
-            "Unnamed: 3": 124.5757143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-25 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 111.13,
-            "Unnamed: 3": 106.4671429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-25 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 118.64,
-            "Unnamed: 3": 109.2585714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-25 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 165.49,
-            "Unnamed: 3": 125.6728571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-26 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 95.33,
-            "Unnamed: 3": 106.6142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-26 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 100.95,
-            "Unnamed: 3": 109.4628571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-26 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 97.84,
-            "Unnamed: 3": 125.0814286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-27 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 101.81,
-            "Unnamed: 3": 106.4128571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-27 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 103.81,
-            "Unnamed: 3": 109.4528571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-27 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 104.79,
-            "Unnamed: 3": 124.4185714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-28 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 105.64,
-            "Unnamed: 3": 106.0928571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-28 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 105.67,
-            "Unnamed: 3": 109.12
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-28 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 113.53,
-            "Unnamed: 3": 123.7142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-29 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 106.97,
-            "Unnamed: 3": 105.8328571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-29 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 109.06,
-            "Unnamed: 3": 108.8557143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-29 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 122.36,
-            "Unnamed: 3": 123.6342857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-30 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 105.43,
-            "Unnamed: 3": 105.6928571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-30 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 108.51,
-            "Unnamed: 3": 108.8757143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-30 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 119.75,
-            "Unnamed: 3": 123.3085714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-31 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 114.55,
-            "Unnamed: 3": 105.8371429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-31 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 118.03,
-            "Unnamed: 3": 109.2385714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-01-31 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 143.62,
-            "Unnamed: 3": 123.9114286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-01 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 112.34,
-            "Unnamed: 3": 106.01
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-01 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 119.31,
-            "Unnamed: 3": 109.3342857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-01 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 169.08,
-            "Unnamed: 3": 124.4242857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-02 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 96.88,
-            "Unnamed: 3": 106.2314286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-02 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 105.44,
-            "Unnamed: 3": 109.9757143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-02 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 103.22,
-            "Unnamed: 3": 125.1928571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-03 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 100.79,
-            "Unnamed: 3": 106.0857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-03 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 104.05,
-            "Unnamed: 3": 110.01
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-03 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 106.76,
-            "Unnamed: 3": 125.4742857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-04 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 106.62,
-            "Unnamed: 3": 106.2257143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-04 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 106.8,
-            "Unnamed: 3": 110.1714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-04 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 115.85,
-            "Unnamed: 3": 125.8057143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-05 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 107.82,
-            "Unnamed: 3": 106.3471429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-05 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 109.37,
-            "Unnamed: 3": 110.2157143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-05 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 124.21,
-            "Unnamed: 3": 126.07
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-06 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 107.32,
-            "Unnamed: 3": 106.6171429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-06 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 108.48,
-            "Unnamed: 3": 110.2114286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-06 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 123.83,
-            "Unnamed: 3": 126.6528571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-07 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 114.77,
-            "Unnamed: 3": 106.6485714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-07 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 116.15,
-            "Unnamed: 3": 109.9428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-07 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 142.03,
-            "Unnamed: 3": 126.4257143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-08 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 111.59,
-            "Unnamed: 3": 106.5414286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-08 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 122.06,
-            "Unnamed: 3": 110.3357143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-08 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 169.55,
-            "Unnamed: 3": 126.4928571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-09 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 95.17,
-            "Unnamed: 3": 106.2971429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-09 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 100.52,
-            "Unnamed: 3": 109.6328571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-09 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 79.14,
-            "Unnamed: 3": 123.0528571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-10 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 108.75,
-            "Unnamed: 3": 107.4342857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-10 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 106.76,
-            "Unnamed: 3": 110.02
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-10 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 101.55,
-            "Unnamed: 3": 122.3085714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-11 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 108.02,
-            "Unnamed: 3": 107.6342857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-11 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 107.86,
-            "Unnamed: 3": 110.1714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-11 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 111.72,
-            "Unnamed: 3": 121.7185714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-12 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 108.95,
-            "Unnamed: 3": 107.7957143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-12 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 110.08,
-            "Unnamed: 3": 110.2728571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-12 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 122.43,
-            "Unnamed: 3": 121.4642857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-13 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 109.78,
-            "Unnamed: 3": 108.1471429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-13 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 107.83,
-            "Unnamed: 3": 110.18
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-13 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 120.97,
-            "Unnamed: 3": 121.0557143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-14 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 119.65,
-            "Unnamed: 3": 108.8442857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-14 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 117.79,
-            "Unnamed: 3": 110.4142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-14 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 153.72,
-            "Unnamed: 3": 122.7257143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-15 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 109.55,
-            "Unnamed: 3": 108.5528571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-15 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 119,
-            "Unnamed: 3": 109.9771429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-15 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 152.82,
-            "Unnamed: 3": 120.3357143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-16 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 101.42,
-            "Unnamed: 3": 109.4457143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-16 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 109.71,
-            "Unnamed: 3": 111.29
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-16 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 98.69,
-            "Unnamed: 3": 123.1285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-17 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 118.6,
-            "Unnamed: 3": 110.8528571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-17 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 119.36,
-            "Unnamed: 3": 113.09
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-17 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 128.1,
-            "Unnamed: 3": 126.9214286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-18 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 119.26,
-            "Unnamed: 3": 112.4585714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-18 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 118.76,
-            "Unnamed: 3": 114.6471429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-18 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 130.01,
-            "Unnamed: 3": 129.5342857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-19 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 121.56,
-            "Unnamed: 3": 114.26
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-19 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 121.93,
-            "Unnamed: 3": 116.34
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-19 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 136.18,
-            "Unnamed: 3": 131.4985714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-20 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 118.33,
-            "Unnamed: 3": 115.4814286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-20 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 118.81,
-            "Unnamed: 3": 117.9085714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-20 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 131.67,
-            "Unnamed: 3": 133.0271429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-21 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 127.35,
-            "Unnamed: 3": 116.5814286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-21 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 126.56,
-            "Unnamed: 3": 119.1614286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-21 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 152.89,
-            "Unnamed: 3": 132.9085714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-22 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 115.64,
-            "Unnamed: 3": 117.4514286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-22 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 126.9,
-            "Unnamed: 3": 120.29
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-22 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 169.46,
-            "Unnamed: 3": 135.2857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-23 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 101.34,
-            "Unnamed: 3": 117.44
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-23 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 105.46,
-            "Unnamed: 3": 119.6828571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-23 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 101.08,
-            "Unnamed: 3": 135.6271429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-24 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 108.75,
-            "Unnamed: 3": 116.0328571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-24 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 107.92,
-            "Unnamed: 3": 118.0485714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-24 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 104.26,
-            "Unnamed: 3": 132.2214286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-25 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 108.16,
-            "Unnamed: 3": 114.4471429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-25 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 108.13,
-            "Unnamed: 3": 116.53
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-25 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 115.57,
-            "Unnamed: 3": 130.1585714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-26 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 109.74,
-            "Unnamed: 3": 112.7585714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-26 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 108.85,
-            "Unnamed: 3": 114.6614286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-26 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 121.26,
-            "Unnamed: 3": 128.0271429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-27 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 109.6,
-            "Unnamed: 3": 111.5114286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-27 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 108.32,
-            "Unnamed: 3": 113.1628571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-27 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 119.74,
-            "Unnamed: 3": 126.3228571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-28 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 122.59,
-            "Unnamed: 3": 110.8314286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-28 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 118.5,
-            "Unnamed: 3": 112.0114286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-28 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 138.49,
-            "Unnamed: 3": 124.2657143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-29 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 115.93,
-            "Unnamed: 3": 110.8728571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-29 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 118.75,
-            "Unnamed: 3": 110.8471429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-02-29 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 162.75,
-            "Unnamed: 3": 123.3071429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-01 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 100.48,
-            "Unnamed: 3": 110.75
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-01 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 103.74,
-            "Unnamed: 3": 110.6014286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-01 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 105.44,
-            "Unnamed: 3": 123.93
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-02 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 104.64,
-            "Unnamed: 3": 110.1628571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-02 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 103.96,
-            "Unnamed: 3": 110.0357143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-02 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 107.54,
-            "Unnamed: 3": 124.3985714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-03 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 108.34,
-            "Unnamed: 3": 110.1885714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-03 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 105.51,
-            "Unnamed: 3": 109.6614286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-03 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 114.84,
-            "Unnamed: 3": 124.2942857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-04 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 109.59,
-            "Unnamed: 3": 110.1671429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-04 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 106.1,
-            "Unnamed: 3": 109.2685714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-04 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 116.67,
-            "Unnamed: 3": 123.6385714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-05 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 109.18,
-            "Unnamed: 3": 110.1071429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-05 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 105.14,
-            "Unnamed: 3": 108.8142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-05 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 110.07,
-            "Unnamed: 3": 122.2571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-06 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 118.61,
-            "Unnamed: 3": 109.5385714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-06 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 114.68,
-            "Unnamed: 3": 108.2685714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-06 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 144.51,
-            "Unnamed: 3": 123.1171429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-07 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 115.05,
-            "Unnamed: 3": 109.4128571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-07 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 118.05,
-            "Unnamed: 3": 108.1685714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-07 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 172.59,
-            "Unnamed: 3": 124.5228571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-08 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 97.9,
-            "Unnamed: 3": 109.0442857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-08 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 97.76,
-            "Unnamed: 3": 107.3142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-08 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 101.39,
-            "Unnamed: 3": 123.9442857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-09 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 101.47,
-            "Unnamed: 3": 108.5914286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-09 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 99,
-            "Unnamed: 3": 106.6057143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-09 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 100.87,
-            "Unnamed: 3": 122.9914286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-10 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 102.73,
-            "Unnamed: 3": 107.79
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-10 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 99.54,
-            "Unnamed: 3": 105.7528571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-10 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 108.28,
-            "Unnamed: 3": 122.0542857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-11 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 102.32,
-            "Unnamed: 3": 106.7514286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-11 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 95.28,
-            "Unnamed: 3": 104.2071429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-11 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 111.71,
-            "Unnamed: 3": 121.3457143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-12 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 94.18,
-            "Unnamed: 3": 104.6085714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-12 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 86.55,
-            "Unnamed: 3": 101.5514286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-12 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 102.65,
-            "Unnamed: 3": 120.2857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-13 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 99.62,
-            "Unnamed: 3": 101.8957143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-13 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 88.77,
-            "Unnamed: 3": 97.85
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-13 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 117.26,
-            "Unnamed: 3": 116.3928571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-14 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 94.11,
-            "Unnamed: 3": 98.90428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-14 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 88.31,
-            "Unnamed: 3": 93.60142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-14 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 132.4,
-            "Unnamed: 3": 110.6514286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-15 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 76.22,
-            "Unnamed: 3": 95.80714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-15 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 67.17,
-            "Unnamed: 3": 89.23142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-15 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 73.47,
-            "Unnamed: 3": 106.6628571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-16 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 79.05,
-            "Unnamed: 3": 92.60428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-16 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 61.47,
-            "Unnamed: 3": 83.87
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-16 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 75.75,
-            "Unnamed: 3": 103.0742857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-17 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 69.91,
-            "Unnamed: 3": 87.91571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-17 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 49.57,
-            "Unnamed: 3": 76.73142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-17 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 62.55,
-            "Unnamed: 3": 96.54142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-18 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 66.55,
-            "Unnamed: 3": 82.80571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-18 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 43.41,
-            "Unnamed: 3": 69.32142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-18 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 56.11,
-            "Unnamed: 3": 88.59857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-19 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 67.07,
-            "Unnamed: 3": 78.93285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-19 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 41.52,
-            "Unnamed: 3": 62.88857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-19 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 54.04,
-            "Unnamed: 3": 81.65428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-20 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 68.81,
-            "Unnamed: 3": 74.53142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-20 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 37.97,
-            "Unnamed: 3": 55.63142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-20 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 58.17,
-            "Unnamed: 3": 73.21285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-21 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 56.73,
-            "Unnamed: 3": 69.19142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-21 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 30.08,
-            "Unnamed: 3": 47.31285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-21 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 52.54,
-            "Unnamed: 3": 61.80428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-22 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 46.81,
-            "Unnamed: 3": 64.99
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-22 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 28.1,
-            "Unnamed: 3": 41.73142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-22 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 42.16,
-            "Unnamed: 3": 57.33142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-23 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 52.26,
-            "Unnamed: 3": 61.16285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-23 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 27.42,
-            "Unnamed: 3": 36.86714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-23 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 45.89,
-            "Unnamed: 3": 53.06571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-24 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 38.31,
-            "Unnamed: 3": 56.64857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-24 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 19.49,
-            "Unnamed: 3": 32.57
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-24 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 37.23,
-            "Unnamed: 3": 49.44857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-25 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 36.16,
-            "Unnamed: 3": 52.30714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-25 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 17.87,
-            "Unnamed: 3": 28.92142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-25 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 38.72,
-            "Unnamed: 3": 46.96428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-26 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 35.19,
-            "Unnamed: 3": 47.75285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-26 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16.97,
-            "Unnamed: 3": 25.41428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-26 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 38.3,
-            "Unnamed: 3": 44.71571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-27 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 36.93,
-            "Unnamed: 3": 43.19857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-27 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16.56,
-            "Unnamed: 3": 22.35571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-27 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 40.83,
-            "Unnamed: 3": 42.23857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-28 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 29.6,
-            "Unnamed: 3": 39.32285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-28 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.38,
-            "Unnamed: 3": 20.25571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-28 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 37.43,
-            "Unnamed: 3": 40.08
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-29 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 24.72,
-            "Unnamed: 3": 36.16714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-29 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.34,
-            "Unnamed: 3": 18.43285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-29 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 29.62,
-            "Unnamed: 3": 38.28857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-30 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 32.8,
-            "Unnamed: 3": 33.38714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-30 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16.85,
-            "Unnamed: 3": 16.92285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-30 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 34.55,
-            "Unnamed: 3": 36.66857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-31 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 34.38,
-            "Unnamed: 3": 32.82571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-31 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16.4,
-            "Unnamed: 3": 16.48142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-03-31 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 38.69,
-            "Unnamed: 3": 36.87714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-01 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 34.1,
-            "Unnamed: 3": 32.53142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-01 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16,
-            "Unnamed: 3": 16.21428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-01 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 38.16,
-            "Unnamed: 3": 36.79714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-02 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 34.25,
-            "Unnamed: 3": 32.39714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-02 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.91,
-            "Unnamed: 3": 16.06285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-02 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 38.45,
-            "Unnamed: 3": 36.81857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-03 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 37.6,
-            "Unnamed: 3": 32.49285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-03 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.53,
-            "Unnamed: 3": 15.91571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-03 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 42.67,
-            "Unnamed: 3": 37.08142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-04 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 31.53,
-            "Unnamed: 3": 32.76857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-04 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 14.41,
-            "Unnamed: 3": 15.77714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-04 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 42.78,
-            "Unnamed: 3": 37.84571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-05 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 27.02,
-            "Unnamed: 3": 33.09714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-05 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 14.81,
-            "Unnamed: 3": 15.70142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-05 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 36.77,
-            "Unnamed: 3": 38.86714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-06 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 34.74,
-            "Unnamed: 3": 33.37428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-06 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.8,
-            "Unnamed: 3": 15.55142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-06 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 37.16,
-            "Unnamed: 3": 39.24
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-07 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 36.06,
-            "Unnamed: 3": 33.61428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-07 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.57,
-            "Unnamed: 3": 15.43285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-07 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 41.7,
-            "Unnamed: 3": 39.67
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-08 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 36.67,
-            "Unnamed: 3": 33.98142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-08 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.59,
-            "Unnamed: 3": 15.37428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-08 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 41.69,
-            "Unnamed: 3": 40.17428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-09 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 38.05,
-            "Unnamed: 3": 34.52428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-09 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.45,
-            "Unnamed: 3": 15.30857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-09 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 43.55,
-            "Unnamed: 3": 40.90285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-10 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 34.4,
-            "Unnamed: 3": 34.06714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-10 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 14.92,
-            "Unnamed: 3": 15.22142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-10 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 45.19,
-            "Unnamed: 3": 41.26285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-11 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 31.74,
-            "Unnamed: 3": 34.09714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-11 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 14.17,
-            "Unnamed: 3": 15.18714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-11 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 44.4,
-            "Unnamed: 3": 41.49428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-12 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 24.46,
-            "Unnamed: 3": 33.73142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-12 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 13.5,
-            "Unnamed: 3": 15
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-12 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 34.94,
-            "Unnamed: 3": 41.23285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-13 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 29.72,
-            "Unnamed: 3": 33.01428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-13 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.29,
-            "Unnamed: 3": 14.92714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-13 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 37.14,
-            "Unnamed: 3": 41.23
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-14 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 38.71,
-            "Unnamed: 3": 33.39285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-14 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16.35,
-            "Unnamed: 3": 15.03857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-14 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 45.4,
-            "Unnamed: 3": 41.75857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-15 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 40.02,
-            "Unnamed: 3": 33.87142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-15 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16.64,
-            "Unnamed: 3": 15.18857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-15 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 48.31,
-            "Unnamed: 3": 42.70428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-16 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 40.08,
-            "Unnamed: 3": 34.16142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-16 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16.26,
-            "Unnamed: 3": 15.30428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-16 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 46.97,
-            "Unnamed: 3": 43.19285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-17 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 41.72,
-            "Unnamed: 3": 35.20714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-17 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.65,
-            "Unnamed: 3": 15.40857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-17 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 44.36,
-            "Unnamed: 3": 43.07428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-18 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 35.18,
-            "Unnamed: 3": 35.69857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-18 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 14.82,
-            "Unnamed: 3": 15.50142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-18 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 42.18,
-            "Unnamed: 3": 42.75714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-19 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 31.94,
-            "Unnamed: 3": 36.76714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-19 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 15.7,
-            "Unnamed: 3": 15.81571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-19 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 44.39,
-            "Unnamed: 3": 44.10714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-20 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 39.99,
-            "Unnamed: 3": 38.23428571
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-20 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 17.27,
-            "Unnamed: 3": 16.09857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-20 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 44.92,
-            "Unnamed: 3": 45.21857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-21 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 41.19,
-            "Unnamed: 3": 38.58857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-21 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 17.05,
-            "Unnamed: 3": 16.19857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-21 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 45.61,
-            "Unnamed: 3": 45.24857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-22 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 42.03,
-            "Unnamed: 3": 38.87571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-22 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 17.04,
-            "Unnamed: 3": 16.25571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-22 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 46.54,
-            "Unnamed: 3": 44.99571429
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-23 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 42.36,
-            "Unnamed: 3": 39.20142857
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-23 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16.97,
-            "Unnamed: 3": 16.35714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-23 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 46.36,
-            "Unnamed: 3": 44.90857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-24 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 45.69,
-            "Unnamed: 3": 39.76857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-24 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16.63,
-            "Unnamed: 3": 16.49714286
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-24 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 49.85,
-            "Unnamed: 3": 45.69285714
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-25 00:00:00",
-            "Unnamed: 1": "Driving",
-            "Unnamed: 2": 39.03,
-            "Unnamed: 3": 40.31857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-25 00:00:00",
-            "Unnamed: 1": "Public Transport",
-            "Unnamed: 2": 16.37,
-            "Unnamed: 3": 16.71857143
-        },
-        {
-            "Apple mobility data  (UK)": "2020-04-25 00:00:00",
-            "Unnamed: 1": "Walking",
-            "Unnamed: 2": 49.52,
-            "Unnamed: 3": 46.74142857
-        },
-        {
-            "Apple mobility data  (UK)": "(Source: Apple LLC: Apple Maps COVID-19 Community Mobility Reports.)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "(Source: https://www.apple.com/covid19/mobility.)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "(The insights are drawn from changes from a relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020.)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "(This data only includes journeys searched for using Apple Maps, and therefore does not include users searching through alternative journey planners.)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "(In many countries relative volume has increased since January 13th, consistent with normal, seasonal usage of Apple Maps.)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "(Insights are calculated based on data from a subset of users.)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "(As with all samples, this may or may not represent the exact behavior of a wider population and the results should be interpreted with caution)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "(About the data:)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
-        },
-        {
-            "Apple mobility data  (UK)": "(https://www.apple.com/covid19/mobility)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
-        }
-    ],
     "Cover": [
         {
             "Slides and datasets to accompany coronavirus press conferences": NaN,
@@ -2373,306 +427,6 @@
         },
         {
             "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/government/publications/coronavirus-covid-19-transport-data-methodology-note/covid-19-transport-data-methodology-note",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Apple Mobility",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Apple LLC: Apple Maps COVID-19 Community Mobility Reports. ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "https://www.apple.com/covid19/mobility",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "The insights are drawn from changes from a relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "This data only includes journeys searched for using Apple Maps, and therefore does not include users searching through alternative journey planners. \n",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "In many countries relative volume has increased since January 13th, consistent with normal, seasonal usage of Apple Maps.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Insights are calculated based on data from a subset of users.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "As with all samples, this may or may not represent the exact behavior of a wider population and the results should be interpreted with caution\n",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "About the data:",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 15": NaN,
-            "Unnamed: 16": NaN,
-            "Unnamed: 17": NaN,
-            "Unnamed: 18": NaN,
-            "Unnamed: 19": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 20": NaN,
-            "Unnamed: 21": NaN,
-            "Unnamed: 22": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "https://www.apple.com/covid19/mobility",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -3297,6 +1051,56 @@
             "Unnamed: 9": NaN
         },
         {
+            "Slides and datasets to accompany coronavirus press conferences": "These data can be downloaded here: ",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
             "Slides and datasets to accompany coronavirus press conferences": "Deaths are reported when paper work is filed, rather than at time of death.",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
@@ -3323,6 +1127,331 @@
         },
         {
             "Slides and datasets to accompany coronavirus press conferences": "Slight differences in reporting in devolved administrations may mean that they include a small number of deaths outside hospital. ",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "All weekly registered deaths from COVID-19 compared with deaths in hospital (UK)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Cumulative totals for weekly deaths in hospital are derived by summing the 7 daily totals for the corresponding ONS week in .",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "ONS data on all weekly registered deaths are drawn directly from the Office for National Statistics dataset \"Deaths registered weekly in England and Wales, provisional\"",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "The data for the UK total is from tab \"UK - Covid-19 - Weekly reg\". ",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Provisional weekly registered deaths from COVID-19 in England and Wales by place of occurrence",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "These data are drawn directly from the Office for National Statistics dataset \"Deaths registered weekly in England and Wales, provisional\"",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Data for place of occurrence are from the tab \"Covid-19 - Place of occurrence \"",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "The accompanying statistical bulletin and supporting information is here: ",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 20": NaN,
+            "Unnamed: 21": NaN,
+            "Unnamed: 22": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending17april2020",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -3574,287 +1703,294 @@
     ],
     "Critical Care Beds with COVID-1": [
         {
-            "Critical care beds with COVID-19 patients  (UK)": NaN,
+            "Critical care beds with COVID-19 patients (UK)": NaN,
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
             "Unnamed: 4": NaN
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "United Kingdom",
+            "Critical care beds with COVID-19 patients (UK)": "United Kingdom",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
             "Unnamed: 4": "Percentage"
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": NaN,
+            "Critical care beds with COVID-19 patients (UK)": NaN,
             "Unnamed: 1": "England",
             "Unnamed: 2": "Wales",
             "Unnamed: 3": "Scotland",
             "Unnamed: 4": "Northern Ireland"
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-21 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-21 00:00:00",
             "Unnamed: 1": 0.12,
-            "Unnamed: 2": 0.05,
+            "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
             "Unnamed: 4": NaN
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-22 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-22 00:00:00",
             "Unnamed: 1": 0.15,
-            "Unnamed: 2": 0.07,
+            "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
             "Unnamed: 4": NaN
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-23 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-23 00:00:00",
             "Unnamed: 1": 0.16,
-            "Unnamed: 2": 0.09,
+            "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
             "Unnamed: 4": NaN
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-24 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": 0.18,
             "Unnamed: 2": 0.11,
             "Unnamed: 3": NaN,
             "Unnamed: 4": NaN
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-25 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": 0.21,
             "Unnamed: 2": 0.11,
             "Unnamed: 3": NaN,
             "Unnamed: 4": NaN
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-26 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": 0.24,
             "Unnamed: 2": 0.12,
             "Unnamed: 3": 0.16,
             "Unnamed: 4": NaN
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-27 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": 0.28,
             "Unnamed: 2": 0.13,
             "Unnamed: 3": 0.2,
             "Unnamed: 4": NaN
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-28 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": 0.31,
             "Unnamed: 2": 0.17,
             "Unnamed: 3": 0.23,
             "Unnamed: 4": NaN
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-29 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": 0.36,
             "Unnamed: 2": 0.23,
             "Unnamed: 3": 0.26,
             "Unnamed: 4": NaN
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-30 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": 0.38,
             "Unnamed: 2": 0.22,
             "Unnamed: 3": 0.3,
-            "Unnamed: 4": NaN
+            "Unnamed: 4": 0.3106796116504854
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-03-31 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": 0.42,
             "Unnamed: 2": 0.25,
             "Unnamed: 3": 0.38,
-            "Unnamed: 4": NaN
+            "Unnamed: 4": 0.3333333333333333
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-01 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": 0.45,
             "Unnamed: 2": 0.3,
             "Unnamed: 3": 0.41,
-            "Unnamed: 4": 0.48
+            "Unnamed: 4": 0.4845360824742268
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-02 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": 0.46,
             "Unnamed: 2": 0.33,
             "Unnamed: 3": 0.28,
-            "Unnamed: 4": 0.51
+            "Unnamed: 4": 0.5051546391752577
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-03 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": 0.47,
             "Unnamed: 2": 0.32,
             "Unnamed: 3": 0.3,
-            "Unnamed: 4": 0.42
+            "Unnamed: 4": 0.4152542372881356
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-04 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": 0.51,
             "Unnamed: 2": 0.34,
             "Unnamed: 3": 0.33,
-            "Unnamed: 4": 0.44
+            "Unnamed: 4": 0.4424778761061947
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-05 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": 0.55,
             "Unnamed: 2": 0.37,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.4
+            "Unnamed: 4": 0.4032258064516129
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-06 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": 0.53,
             "Unnamed: 2": 0.37,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.44
+            "Unnamed: 4": 0.4358974358974359
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-07 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": 0.52,
             "Unnamed: 2": 0.36,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.46
+            "Unnamed: 4": 0.4634146341463415
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-08 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": 0.48,
             "Unnamed: 2": 0.37,
             "Unnamed: 3": 0.36,
-            "Unnamed: 4": 0.41
+            "Unnamed: 4": 0.4140625
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-09 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": 0.51,
             "Unnamed: 2": 0.38,
             "Unnamed: 3": 0.36,
-            "Unnamed: 4": 0.41
+            "Unnamed: 4": 0.4140625
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-10 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": 0.58,
             "Unnamed: 2": 0.41,
             "Unnamed: 3": 0.35,
-            "Unnamed: 4": 0.43
+            "Unnamed: 4": 0.42962962962962964
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-11 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": 0.56,
             "Unnamed: 2": 0.39,
             "Unnamed: 3": 0.36,
-            "Unnamed: 4": 0.45
+            "Unnamed: 4": 0.4453125
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-12 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": 0.57,
             "Unnamed: 2": 0.4,
             "Unnamed: 3": 0.38,
-            "Unnamed: 4": 0.41
+            "Unnamed: 4": 0.4126984126984127
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-13 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": 0.54,
             "Unnamed: 2": 0.41,
             "Unnamed: 3": 0.36,
-            "Unnamed: 4": 0.38
+            "Unnamed: 4": 0.3770491803278688
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-14 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": 0.51,
             "Unnamed: 2": 0.39,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.37
+            "Unnamed: 4": 0.37209302325581395
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-15 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": 0.5,
             "Unnamed: 2": 0.38,
             "Unnamed: 3": 0.33,
-            "Unnamed: 4": 0.38
+            "Unnamed: 4": 0.376
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-16 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": 0.49,
             "Unnamed: 2": 0.39,
             "Unnamed: 3": 0.34,
             "Unnamed: 4": 0.36
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-17 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": 0.46,
             "Unnamed: 2": 0.4,
             "Unnamed: 3": 0.32,
-            "Unnamed: 4": 0.35
+            "Unnamed: 4": 0.3524590163934426
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-18 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": 0.48,
             "Unnamed: 2": 0.42,
             "Unnamed: 3": 0.31,
-            "Unnamed: 4": 0.33
+            "Unnamed: 4": 0.3333333333333333
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-19 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": 0.48,
             "Unnamed: 2": 0.39,
             "Unnamed: 3": 0.3,
-            "Unnamed: 4": 0.3
+            "Unnamed: 4": 0.3025210084033613
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-20 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": 0.47,
             "Unnamed: 2": 0.38,
             "Unnamed: 3": 0.29,
-            "Unnamed: 4": 0.35
+            "Unnamed: 4": 0.35398230088495575
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-21 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": 0.45,
             "Unnamed: 2": 0.33,
             "Unnamed: 3": 0.28,
-            "Unnamed: 4": 0.33
+            "Unnamed: 4": 0.3333333333333333
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-22 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": 0.45,
             "Unnamed: 2": 0.34,
             "Unnamed: 3": 0.26,
-            "Unnamed: 4": 0.31
+            "Unnamed: 4": 0.3076923076923077
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-23 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": 0.43,
             "Unnamed: 2": 0.31,
             "Unnamed: 3": 0.25,
-            "Unnamed: 4": 0.29
+            "Unnamed: 4": 0.2890625
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-24 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-24 00:00:00",
             "Unnamed: 1": 0.4,
             "Unnamed: 2": 0.31,
             "Unnamed: 3": 0.24,
-            "Unnamed: 4": 0.31
+            "Unnamed: 4": 0.3090909090909091
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-25 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-25 00:00:00",
             "Unnamed: 1": 0.43,
             "Unnamed: 2": 0.33,
             "Unnamed: 3": 0.24,
-            "Unnamed: 4": 0.36
+            "Unnamed: 4": 0.3619047619047619
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "2020-04-26 00:00:00",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-26 00:00:00",
             "Unnamed: 1": 0.4,
             "Unnamed: 2": 0.29,
             "Unnamed: 3": 0.23,
-            "Unnamed: 4": 0.32
+            "Unnamed: 4": 0.32142857142857145
         },
         {
-            "Critical care beds with COVID-19 patients  (UK)": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
+            "Critical care beds with COVID-19 patients (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": 0.35,
+            "Unnamed: 2": 0.27,
+            "Unnamed: 3": 0.23,
+            "Unnamed: 4": 0.3055555555555556
+        },
+        {
+            "Critical care beds with COVID-19 patients (UK)": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
             "Unnamed: 3": NaN,
@@ -4028,6 +2164,11 @@
             "Unnamed: 2": 22856
         },
         {
+            "Global death comparison": "France",
+            "Unnamed: 1": 45,
+            "Unnamed: 2": 23293
+        },
+        {
             "Global death comparison": "Germany",
             "Unnamed: 1": 15,
             "Unnamed: 2": 1444
@@ -4141,6 +2282,11 @@
             "Global death comparison": "Germany",
             "Unnamed: 1": 37,
             "Unnamed: 2": 5976
+        },
+        {
+            "Global death comparison": "Germany",
+            "Unnamed: 1": 38,
+            "Unnamed: 2": 6126
         },
         {
             "Global death comparison": "Italy",
@@ -4498,6 +2644,11 @@
             "Unnamed: 2": 243
         },
         {
+            "Global death comparison": "South Korea",
+            "Unnamed: 1": 50,
+            "Unnamed: 2": 244
+        },
+        {
             "Global death comparison": "Spain",
             "Unnamed: 1": 15,
             "Unnamed: 2": 4365
@@ -4658,6 +2809,11 @@
             "Unnamed: 2": 23190
         },
         {
+            "Global death comparison": "Spain",
+            "Unnamed: 1": 47,
+            "Unnamed: 2": 23521
+        },
+        {
             "Global death comparison": "Sweden",
             "Unnamed: 1": 15,
             "Unnamed: 2": 793
@@ -4748,6 +2904,11 @@
             "Unnamed: 2": 2194
         },
         {
+            "Global death comparison": "Sweden",
+            "Unnamed: 1": 33,
+            "Unnamed: 2": 2274
+        },
+        {
             "Global death comparison": "UK (all settings)",
             "Unnamed: 1": 18,
             "Unnamed: 2": 4526
@@ -4756,6 +2917,11 @@
             "Global death comparison": "UK (all settings)",
             "Unnamed: 1": 25,
             "Unnamed: 2": 11413
+        },
+        {
+            "Global death comparison": "UK (all settings)",
+            "Unnamed: 1": 32,
+            "Unnamed: 2": 20909
         },
         {
             "Global death comparison": "UK (hospitals only)",
@@ -4896,6 +3062,11 @@
             "Global death comparison": "UK (hospitals only)",
             "Unnamed: 1": 42,
             "Unnamed: 2": 21092
+        },
+        {
+            "Global death comparison": "UK (hospitals only) ",
+            "Unnamed: 1": 43,
+            "Unnamed: 2": 21678
         },
         {
             "Global death comparison": "United States",
@@ -5041,6 +3212,11 @@
             "Global death comparison": "United States",
             "Unnamed: 1": 43,
             "Unnamed: 2": 54881
+        },
+        {
+            "Global death comparison": "United States",
+            "Unnamed: 1": 44,
+            "Unnamed: 2": 56259
         },
         {
             "Global death comparison": "(ONS, NRS, NISRA, Public Health England, Johns Hopkins University)",
@@ -5295,6 +3471,11 @@
             "Unnamed: 2": 1227
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1205
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 282
@@ -5498,6 +3679,11 @@
             "People in hospital with COVID-19 (UK)": "2020-04-26 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 2615
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 2614
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
@@ -5705,6 +3891,11 @@
             "Unnamed: 2": 2110
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 2109
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 29
@@ -5908,6 +4099,11 @@
             "People in hospital with COVID-19 (UK)": "2020-04-26 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1956
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 2000
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
@@ -6115,6 +4311,51 @@
             "Unnamed: 2": 2277
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2306
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 149
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 213
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 247
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 244
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 285
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 329
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 441
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 482
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 575
@@ -6273,6 +4514,11 @@
             "People in hospital with COVID-19 (UK)": "2020-04-26 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1735
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1762
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
@@ -6480,6 +4726,11 @@
             "Unnamed: 2": 1482
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1526
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 23
@@ -6685,6 +4936,11 @@
             "Unnamed: 2": 608
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 586
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 411
@@ -6845,209 +5101,219 @@
             "Unnamed: 2": 1041
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1027
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 166
+            "Unnamed: 2": 167
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 189
+            "Unnamed: 2": 190
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 228
+            "Unnamed: 2": 230
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 241
+            "Unnamed: 2": 243
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 258
+            "Unnamed: 2": 260
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 299
+            "Unnamed: 2": 301
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 323
+            "Unnamed: 2": 324
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 356
+            "Unnamed: 2": 357
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 387
+            "Unnamed: 2": 388
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 440
+            "Unnamed: 2": 441
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 494
+            "Unnamed: 2": 495
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 527
+            "Unnamed: 2": 528
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 585
+            "Unnamed: 2": 586
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 610
+            "Unnamed: 2": 612
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 633
+            "Unnamed: 2": 634
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 662
+            "Unnamed: 2": 663
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 706
+            "Unnamed: 2": 707
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 679
+            "Unnamed: 2": 681
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-04 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 710
+            "Unnamed: 2": 713
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 765
+            "Unnamed: 2": 768
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 781
+            "Unnamed: 2": 784
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 790
+            "Unnamed: 2": 794
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 825
+            "Unnamed: 2": 830
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 821
+            "Unnamed: 2": 826
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 759
+            "Unnamed: 2": 764
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 753
+            "Unnamed: 2": 760
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 765
+            "Unnamed: 2": 772
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 756
+            "Unnamed: 2": 765
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 773
+            "Unnamed: 2": 785
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 756
+            "Unnamed: 2": 775
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 766
+            "Unnamed: 2": 789
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 750
+            "Unnamed: 2": 773
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 780
+            "Unnamed: 2": 808
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 835
+            "Unnamed: 2": 875
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 852
+            "Unnamed: 2": 898
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 865
+            "Unnamed: 2": 914
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 818
+            "Unnamed: 2": 887
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 760
+            "Unnamed: 2": 861
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 697
+            "Unnamed: 2": 840
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-25 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 697
+            "Unnamed: 2": 867
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-26 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 661
+            "Unnamed: 2": 892
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 791
         },
         {
             "People in hospital with COVID-19 (UK)": "(Fluctuations in the North West have been driven by data validation changes and missing trusts returning data (creating artificial spikes in reporting.)",
@@ -7297,6 +5563,11 @@
             "Use of transport modes": "2020-04-25 00:00:00"
         },
         {
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.35,
+            "Use of transport modes": "2020-04-26 00:00:00"
+        },
+        {
             "Unnamed: 1": "Bus (excl. London)",
             "Unnamed: 2": 0.88,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -7502,6 +5773,11 @@
             "Use of transport modes": "2020-04-25 00:00:00"
         },
         {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-04-26 00:00:00"
+        },
+        {
             "Unnamed: 1": "National rail",
             "Unnamed: 2": 0.77,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -7705,6 +5981,11 @@
             "Unnamed: 1": "National rail",
             "Unnamed: 2": 0.01,
             "Use of transport modes": "2020-04-25 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.01,
+            "Use of transport modes": "2020-04-26 00:00:00"
         },
         {
             "Unnamed: 1": "TfL - Bus",
@@ -8080,6 +6361,11 @@
             "Unnamed: 1": "TfL - Tube",
             "Unnamed: 2": 0.04,
             "Use of transport modes": "2020-04-25 00:00:00"
+        },
+        {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-04-26 00:00:00"
         },
         {
             "Unnamed: 1": NaN,
@@ -8527,6 +6813,15 @@
             "Unnamed: 6": 638
         },
         {
+            "UK deaths in hospital": "United Kingdom",
+            "Unnamed: 1": "K02000001",
+            "Unnamed: 2": "UK",
+            "Unnamed: 3": "2020-04-27 00:00:00",
+            "Unnamed: 4": 586,
+            "Unnamed: 5": 21678,
+            "Unnamed: 6": 604
+        },
+        {
             "UK deaths in hospital": "(Source: Department of Health and Social Care, based on data from NHS England and the devolved administrations)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
@@ -8779,6 +7074,11 @@
             "Unnamed: 2": 2730
         },
         {
+            "New cases (UK)": "2020-04-28 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 2455
+        },
+        {
             "New cases (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 5
@@ -8937,6 +7237,11 @@
             "New cases (UK)": "2020-04-27 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 1580
+        },
+        {
+            "New cases (UK)": "2020-04-28 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 1541
         },
         {
             "New cases (UK)": "(Confidence: there are likely many more cases than currently recorded here)",
