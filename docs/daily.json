@@ -1,1092 +1,121 @@
 {
     "Cover": [
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Change in mobility at public places (UK)"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Transport use change (GB)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Google LLC: Google COVID-19 Community Mobility Reports."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department for Transport (DfT)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.google.com/covid19/mobility/ "
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Changes for each day are compared to a baseline value for that day of the week. The baseline is the median value, for the corresponding day of the week, during the 5-week period Jan 3-Feb 6, 2020."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "DfT provides daily updates to the Cabinet Office for use in the government\u2019s daily media briefings on changes in:",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Insights are calculated based on data from a subset of users. As with all samples, this may or may not represent the exact behavior of a wider population."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "1. road traffic in Great Britain",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Daily tests (UK)"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "2. rail passenger journeys in Great Britain",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care, NHSX, Welsh Government, Scottish Government, Northern Ireland Executive."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "3. Transport for London\u2019s (TfL) tube and bus routes",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "For clinical reasons some people are tested more than once. Therefore the number of tests completed may be higher than the number of people tested. For serology testing (Pillar 4), some protocols allow for samples to be tested repeatedly. Samples are anonymised prior to sending to the lab for testing, therefore the identification of individuals tested is not possible in the current reporting process, and so the number of people tested is not reported."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "4. bus travel in Great Britain (excluding London)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Daily totals reflect actual counts reported for the previous day. Each day there may be corrections to previous reported figures. This means that previously published daily counts will not necessarily sum to the latest cumulative figure. It also means that today\u2019s cumulative count may not match the previous day\u2019s cumulative count plus today\u2019s daily count."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "The number of tests includes; (i) tests processed through our labs, and (ii) tests sent to individuals at home or to satellite testing locations."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Although daily data is being reported, direct comparisons of change should not be made between weekdays and weekends/bank holidays.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "New cases (UK)"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "For public transport there are typically different levels of service/timetable in place on weekends and bank holidays than on weekdays; and for road traffic, there is a different profile on weekend days compared to weekdays.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care (DHSC)."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "The data is sent as near to real time as possible.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Cases are reported when lab tests are completed. This may be a few days after initial testing. "
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Bus (excl. London) data has been adjusted to compare against typical usage for the Easter break, whereas all other data sources have not",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Testing capacity is increasing, which is resulting in a greater number of observed cases There are likely many more cases than currently recorded here. "
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Data on TfL Buses is not available from Sunday 19th April due to the change in boarding policy:",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Pillar 1: Swab testing in PHE labs and NHS hospitals for those with a medical need and, where possible, the most critical key workers."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "https://tfl.gov.uk/info-for/media/press-releases/2020/april/tfl-introduces-middle-door-only-boarding-across-the-london-bus-network",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Pillar 2: Mass swab testing for critical workers in the NHS, social care and other sectors and symptomatic household members, delivered by a partnership of universities, research institutes and companies."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "DfT have published information on the data sources and methodology used to generate each of these headline measures:",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "DHSC have published explanatory notes to accompany this data:"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/government/publications/coronavirus-covid-19-transport-data-methodology-note/covid-19-transport-data-methodology-note",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "People in hospital with COVID-19 (UK)"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Daily tests (UK)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.\n"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care (DHSC).",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Fluctuations in the North West have been driven by data validation changes and missing trusts returning data (creating artificial spikes in reporting.)"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Nine hospitals, including London Nightingale did not return data for April 9, resulting in a misrepresented drop in hospitalisations."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "For clinical reasons some people are tested more than once. Therefore the number of tests completed may be higher than the number of people tested. For serology testing (Pillar 4), some protocols allow for samples to be tested repeatedly. Samples are anonymised prior to sending to the lab for testing, therefore the identification of individuals tested is not possible in the current reporting process, and so the number of people tested is not reported.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "National data may not be directly comparable as data about COVID-19 patients in hospitals is collected differently across nations."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Daily totals reflect actual counts reported for the previous day. Each day there may be corrections to previous reported figures. This means that previously published daily counts will not necessarily sum to the latest cumulative figure. It also means that today\u2019s cumulative count may not match the previous day\u2019s cumulative count plus today\u2019s daily count.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Community hospitals are included in figures for Wales from 23 April onwards."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "The number of tests includes; (i) tests processed through our labs, and (ii) tests sent to individuals at home or to satellite testing locations.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Critical care beds with COVID-19 patients (UK)"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.\n"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "New cases (UK)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Different health systems collect this data differently. In England, critical care beds count high dependency units / intensive therapy unit beds as critical care beds. In Wales, critical care beds are taken to be invasive ventilation beds including new surge capacity. In Scotland, critical care beds include ICU beds and additional surge capacity. In Northern Ireland, critical care beds includes all ICU beds."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care (DHSC).",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Daily COVID-19 Deaths in All Settings (UK)"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care, sourced from Public Health England and the devolved administrations. "
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Cases are reported when lab tests are completed. This may be a few days after initial testing. ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "These data can be downloaded here: "
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Testing capacity is increasing, which is resulting in a greater number of observed cases There are likely many more cases than currently recorded here. ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Pillar 1: Swab testing in PHE labs and NHS hospitals for those with a medical need and, where possible, the most critical key workers.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "7-day rolling average (mean) of daily deaths."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Pillar 2: Mass swab testing for critical workers in the NHS, social care and other sectors and symptomatic household members, delivered by a partnership of universities, research institutes and companies.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Global death comparison"
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "DHSC have published explanatory notes to accompany this data:",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Public Health England, UK devolved administrations, Johns Hopkins University. "
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Deaths as reported by countries and collated by John Hopkins University: timeliness and definition of COVID death may differ. Definition of measures, implementation and compliance differ by country."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "On average, there is around a 2-week delay between interventions and a subsequent reduction in case numbers, and a 4-week lag between infections and deaths. Thus, the impact of interventions will take several weeks to show in this data."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "People in hospital with COVID-19 (UK)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more cumulative deaths were reported."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.\n",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "UK figures on deaths relate to those who have tests positive for COVID-19, whichever setting they died in."
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Fluctuations in the North West have been driven by data validation changes and missing trusts returning data (creating artificial spikes in reporting.)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Nine hospitals, including London Nightingale did not return data for April 9, resulting in a misrepresented drop in hospitalisations.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "National data may not be directly comparable as data about COVID-19 patients in hospitals is collected differently across nations.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Community hospitals are included in figures for Wales from 23 April onwards.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Critical care beds with COVID-19 patients (UK)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.\n",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Different health systems collect this data differently. In England critical care beds count high dependency units / intensive therapy unit beds as critical care beds, in Wales critical care beds are taken to be invasive ventilation beds including new surge capacity, in Scotland critical care beds include ICU beds and additional surge capacity, and in Northern Ireland critical care beds includes all ICU beds.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Daily COVID-19 Deaths in All Settings (UK)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care, sourced from Public Health England and the devolved administrations. ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "These data can be downloaded here: ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "7-day rolling average (mean) of daily deaths.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Global death comparison",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Public Health England, UK devolved administrations, Johns Hopkins University. ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Deaths as reported by countries and collated by John Hopkins University: timeliness and definition of COVID death may differ. Definition of measures, implementation and compliance differ by country.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "On average, there is around a 2-week delay between interventions and a subsequent reduction in case numbers, and a 4-week lag between infections and deaths. Thus, the impact of interventions will take several weeks to show in this data.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more cumulative deaths were reported.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "UK figures on deaths relate to those who have tests positive for COVID-19, whichever setting they died in.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "International reporting procedures and lags are unclear, so may not be comparing like-for-like",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "International reporting procedures and lags are unclear, so may not be comparing like-for-like"
         }
     ],
     "Critical Care Beds with COVID-1": [
@@ -1172,56 +201,56 @@
             "Unnamed: 1": 0.36,
             "Unnamed: 2": 0.23,
             "Unnamed: 3": 0.26,
-            "Unnamed: 4": NaN
+            "Unnamed: 4": 0.31
         },
         {
             "Critical care beds with COVID-19 patients": "2020-03-30 00:00:00",
             "Unnamed: 1": 0.38,
             "Unnamed: 2": 0.22,
             "Unnamed: 3": 0.3,
-            "Unnamed: 4": 0.36
+            "Unnamed: 4": 0.33
         },
         {
             "Critical care beds with COVID-19 patients": "2020-03-31 00:00:00",
             "Unnamed: 1": 0.42,
             "Unnamed: 2": 0.25,
             "Unnamed: 3": 0.38,
-            "Unnamed: 4": 0.38
+            "Unnamed: 4": 0.48
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-01 00:00:00",
             "Unnamed: 1": 0.45,
             "Unnamed: 2": 0.3,
             "Unnamed: 3": 0.41,
-            "Unnamed: 4": 0.53
+            "Unnamed: 4": 0.51
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-02 00:00:00",
             "Unnamed: 1": 0.46,
             "Unnamed: 2": 0.33,
             "Unnamed: 3": 0.28,
-            "Unnamed: 4": 0.55
+            "Unnamed: 4": 0.42
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-03 00:00:00",
             "Unnamed: 1": 0.47,
             "Unnamed: 2": 0.32,
             "Unnamed: 3": 0.3,
-            "Unnamed: 4": 0.43
+            "Unnamed: 4": 0.44
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-04 00:00:00",
             "Unnamed: 1": 0.51,
             "Unnamed: 2": 0.34,
             "Unnamed: 3": 0.33,
-            "Unnamed: 4": 0.47
+            "Unnamed: 4": 0.4
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-05 00:00:00",
             "Unnamed: 1": 0.55,
             "Unnamed: 2": 0.37,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.43
+            "Unnamed: 4": 0.44
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-06 00:00:00",
@@ -1235,140 +264,140 @@
             "Unnamed: 1": 0.52,
             "Unnamed: 2": 0.36,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.49
+            "Unnamed: 4": 0.41
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-08 00:00:00",
             "Unnamed: 1": 0.48,
             "Unnamed: 2": 0.37,
             "Unnamed: 3": 0.36,
-            "Unnamed: 4": 0.45
+            "Unnamed: 4": 0.41
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-09 00:00:00",
             "Unnamed: 1": 0.51,
             "Unnamed: 2": 0.38,
             "Unnamed: 3": 0.36,
-            "Unnamed: 4": 0.45
+            "Unnamed: 4": 0.43
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-10 00:00:00",
             "Unnamed: 1": 0.58,
             "Unnamed: 2": 0.41,
             "Unnamed: 3": 0.35,
-            "Unnamed: 4": 0.46
+            "Unnamed: 4": 0.45
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-11 00:00:00",
             "Unnamed: 1": 0.56,
             "Unnamed: 2": 0.39,
             "Unnamed: 3": 0.36,
-            "Unnamed: 4": 0.47
+            "Unnamed: 4": 0.41
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-12 00:00:00",
             "Unnamed: 1": 0.57,
             "Unnamed: 2": 0.4,
             "Unnamed: 3": 0.38,
-            "Unnamed: 4": 0.43
+            "Unnamed: 4": 0.38
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-13 00:00:00",
             "Unnamed: 1": 0.54,
             "Unnamed: 2": 0.41,
             "Unnamed: 3": 0.36,
-            "Unnamed: 4": 0.4
+            "Unnamed: 4": 0.37
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-14 00:00:00",
             "Unnamed: 1": 0.51,
             "Unnamed: 2": 0.39,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.41
+            "Unnamed: 4": 0.38
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-15 00:00:00",
             "Unnamed: 1": 0.5,
             "Unnamed: 2": 0.38,
             "Unnamed: 3": 0.33,
-            "Unnamed: 4": 0.4
+            "Unnamed: 4": 0.36
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-16 00:00:00",
             "Unnamed: 1": 0.49,
             "Unnamed: 2": 0.39,
             "Unnamed: 3": 0.34,
-            "Unnamed: 4": 0.38
+            "Unnamed: 4": 0.35
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-17 00:00:00",
             "Unnamed: 1": 0.46,
             "Unnamed: 2": 0.4,
             "Unnamed: 3": 0.32,
-            "Unnamed: 4": 0.35
+            "Unnamed: 4": 0.33
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-18 00:00:00",
             "Unnamed: 1": 0.48,
             "Unnamed: 2": 0.42,
             "Unnamed: 3": 0.31,
-            "Unnamed: 4": 0.33
+            "Unnamed: 4": 0.3
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-19 00:00:00",
             "Unnamed: 1": 0.48,
             "Unnamed: 2": 0.39,
             "Unnamed: 3": 0.3,
-            "Unnamed: 4": 0.3
+            "Unnamed: 4": 0.35
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-20 00:00:00",
             "Unnamed: 1": 0.47,
             "Unnamed: 2": 0.38,
             "Unnamed: 3": 0.29,
-            "Unnamed: 4": 0.35
+            "Unnamed: 4": 0.33
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-21 00:00:00",
             "Unnamed: 1": 0.45,
             "Unnamed: 2": 0.33,
             "Unnamed: 3": 0.28,
-            "Unnamed: 4": 0.33
+            "Unnamed: 4": 0.31
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-22 00:00:00",
             "Unnamed: 1": 0.45,
             "Unnamed: 2": 0.34,
             "Unnamed: 3": 0.26,
-            "Unnamed: 4": 0.31
+            "Unnamed: 4": 0.29
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-23 00:00:00",
             "Unnamed: 1": 0.43,
             "Unnamed: 2": 0.31,
             "Unnamed: 3": 0.25,
-            "Unnamed: 4": 0.29
+            "Unnamed: 4": 0.31
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-24 00:00:00",
             "Unnamed: 1": 0.4,
             "Unnamed: 2": 0.31,
             "Unnamed: 3": 0.24,
-            "Unnamed: 4": 0.31
+            "Unnamed: 4": 0.36
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-25 00:00:00",
             "Unnamed: 1": 0.43,
             "Unnamed: 2": 0.33,
             "Unnamed: 3": 0.24,
-            "Unnamed: 4": 0.36
+            "Unnamed: 4": 0.32
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-26 00:00:00",
             "Unnamed: 1": 0.4,
             "Unnamed: 2": 0.29,
             "Unnamed: 3": 0.23,
-            "Unnamed: 4": 0.32
+            "Unnamed: 4": 0.31
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-27 00:00:00",
@@ -1382,28 +411,35 @@
             "Unnamed: 1": 0.34,
             "Unnamed: 2": 0.28,
             "Unnamed: 3": 0.22,
-            "Unnamed: 4": 0.31
+            "Unnamed: 4": 0.27
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-29 00:00:00",
             "Unnamed: 1": 0.33,
             "Unnamed: 2": 0.26,
             "Unnamed: 3": 0.19,
-            "Unnamed: 4": 0.27
+            "Unnamed: 4": 0.29
         },
         {
             "Critical care beds with COVID-19 patients": "2020-04-30 00:00:00",
             "Unnamed: 1": 0.31,
             "Unnamed: 2": 0.26,
             "Unnamed: 3": 0.19,
-            "Unnamed: 4": 0.29
+            "Unnamed: 4": 0.31
         },
         {
             "Critical care beds with COVID-19 patients": "2020-05-01 00:00:00",
             "Unnamed: 1": 0.32,
             "Unnamed: 2": 0.24,
             "Unnamed: 3": 0.19,
-            "Unnamed: 4": 0.31
+            "Unnamed: 4": 0.29
+        },
+        {
+            "Critical care beds with COVID-19 patients": "2020-05-02 00:00:00",
+            "Unnamed: 1": 0.31,
+            "Unnamed: 2": 0.24,
+            "Unnamed: 3": 0.18,
+            "Unnamed: 4": 0.3
         },
         {
             "Critical care beds with COVID-19 patients": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
@@ -1776,6 +812,12 @@
             "Unnamed: 3": 642
         },
         {
+            "Daily COVID-19 Deaths in All Settings (UK)": "2020-05-03 00:00:00",
+            "Unnamed: 1": 315,
+            "Unnamed: 2": 28446,
+            "Unnamed: 3": 627
+        },
+        {
             "Daily COVID-19 Deaths in All Settings (UK)": "(Source: Department of Health and Social Care, sourced from Public Health England and the devolved administrations.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
@@ -1970,6 +1012,11 @@
             "Unnamed: 2": 28131
         },
         {
+            "Global death comparison": "UK (all settings)",
+            "Unnamed: 1": 48,
+            "Unnamed: 2": 28446
+        },
+        {
             "Global death comparison": "Spain",
             "Unnamed: 1": 15,
             "Unnamed: 2": 4365
@@ -2148,6 +1195,16 @@
             "Global death comparison": "Spain",
             "Unnamed: 1": 50,
             "Unnamed: 2": 24543
+        },
+        {
+            "Global death comparison": "Spain",
+            "Unnamed: 1": 51,
+            "Unnamed: 2": 24543
+        },
+        {
+            "Global death comparison": "Spain",
+            "Unnamed: 1": 52,
+            "Unnamed: 2": 25100
         },
         {
             "Global death comparison": "Italy",
@@ -2580,6 +1637,11 @@
             "Unnamed: 2": 250
         },
         {
+            "Global death comparison": "South Korea",
+            "Unnamed: 1": 55,
+            "Unnamed: 2": 250
+        },
+        {
             "Global death comparison": "France",
             "Unnamed: 1": 15,
             "Unnamed: 2": 2314
@@ -2667,92 +1729,97 @@
         {
             "Global death comparison": "France",
             "Unnamed: 1": 32,
-            "Unnamed: 2": 15729
+            "Unnamed: 2": 15712
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 33,
-            "Unnamed: 2": 17167
+            "Unnamed: 2": 17148
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 34,
-            "Unnamed: 2": 17920
+            "Unnamed: 2": 17901
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 35,
-            "Unnamed: 2": 18681
+            "Unnamed: 2": 18661
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 36,
-            "Unnamed: 2": 19323
+            "Unnamed: 2": 19303
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 37,
-            "Unnamed: 2": 19718
+            "Unnamed: 2": 19694
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 38,
-            "Unnamed: 2": 20265
+            "Unnamed: 2": 20240
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 39,
-            "Unnamed: 2": 20796
+            "Unnamed: 2": 20765
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 40,
-            "Unnamed: 2": 21340
+            "Unnamed: 2": 21309
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 41,
-            "Unnamed: 2": 21856
+            "Unnamed: 2": 21825
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 42,
-            "Unnamed: 2": 22245
+            "Unnamed: 2": 22214
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 43,
-            "Unnamed: 2": 22614
+            "Unnamed: 2": 22583
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 44,
-            "Unnamed: 2": 22856
+            "Unnamed: 2": 22825
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 45,
-            "Unnamed: 2": 23293
+            "Unnamed: 2": 23262
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 46,
-            "Unnamed: 2": 23660
+            "Unnamed: 2": 23629
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 47,
-            "Unnamed: 2": 24087
+            "Unnamed: 2": 24056
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 48,
-            "Unnamed: 2": 24376
+            "Unnamed: 2": 24345
         },
         {
             "Global death comparison": "France",
             "Unnamed: 1": 49,
-            "Unnamed: 2": 24594
+            "Unnamed: 2": 24563
+        },
+        {
+            "Global death comparison": "France",
+            "Unnamed: 1": 50,
+            "Unnamed: 2": 24729
         },
         {
             "Global death comparison": "United States",
@@ -2925,6 +1992,11 @@
             "Unnamed: 2": 64943
         },
         {
+            "Global death comparison": "United States",
+            "Unnamed: 1": 50,
+            "Unnamed: 2": 66369
+        },
+        {
             "Global death comparison": "Germany",
             "Unnamed: 1": 15,
             "Unnamed: 2": 1444
@@ -3065,6 +2137,11 @@
             "Unnamed: 2": 6736
         },
         {
+            "Global death comparison": "Germany",
+            "Unnamed: 1": 43,
+            "Unnamed: 2": 6812
+        },
+        {
             "Global death comparison": "Sweden",
             "Unnamed: 1": 15,
             "Unnamed: 2": 793
@@ -3180,6 +2257,11 @@
             "Unnamed: 2": 2653
         },
         {
+            "Global death comparison": "Sweden",
+            "Unnamed: 1": 38,
+            "Unnamed: 2": 2669
+        },
+        {
             "Global death comparison": "Ireland",
             "Unnamed: 1": 15,
             "Unnamed: 2": 406
@@ -3268,6 +2350,11 @@
             "Global death comparison": "Ireland",
             "Unnamed: 1": 32,
             "Unnamed: 2": 1265
+        },
+        {
+            "Global death comparison": "Ireland",
+            "Unnamed: 1": 33,
+            "Unnamed: 2": 1286
         },
         {
             "Global death comparison": "Belgium",
@@ -3405,7 +2492,22 @@
             "Unnamed: 2": 7703
         },
         {
+            "Global death comparison": "Belgium",
+            "Unnamed: 1": 42,
+            "Unnamed: 2": 7765
+        },
+        {
             "Global death comparison": "(Source: Public Health England, UK devolved administrations, Johns Hopkins University)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Global death comparison": "(Deaths as reported by countries and collated by John Hopkins University: timeliness and definition of COVID death may differ. Definition of measures, implementation and compliance differ by country.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Global death comparison": "(On average, there is around a 2-week delay between interventions and a subsequent reduction in case numbers, and a 4-week lag between infections and deaths. Thus, the impact of interventions will take several weeks to show in this data.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         },
@@ -3423,6 +2525,2250 @@
             "Global death comparison": "(International reporting procedures and lags are unclear, so may not be comparing like-for-like)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
+        },
+        {
+            "Global death comparison": "Deaths as reported by countries and collated by John Hopkins University: timeliness and definition of COVID death may differ. Definition of measures, implementation and compliance differ by country.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Global death comparison": "On average, there is around a 2-week delay between interventions and a subsequent reduction in case numbers, and a 4-week lag between infections and deaths. Thus, the impact of interventions will take several weeks to show in this data.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        }
+    ],
+    "Mobility (UK)": [
+        {
+            "Change in mobility at public places": "United Kingdom",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Change in mobility at public places": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": "percentage"
+        },
+        {
+            "Change in mobility at public places": NaN,
+            "Unnamed: 1": "Location",
+            "Unnamed: 2": "Percentage change",
+            "Unnamed: 3": "7-day rolling average"
+        },
+        {
+            "Change in mobility at public places": "2020-02-26 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Change in mobility at public places": "2020-02-27 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Change in mobility at public places": "2020-02-28 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Change in mobility at public places": "2020-02-29 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Change in mobility at public places": "2020-03-01 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 7,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Change in mobility at public places": "2020-03-02 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 4,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Change in mobility at public places": "2020-03-03 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-04 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-05 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -1,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-06 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 5,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-07 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-08 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 4,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-09 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-10 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -2,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-11 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-12 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -1,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-13 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -2,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-14 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -10,
+            "Unnamed: 3": -2
+        },
+        {
+            "Change in mobility at public places": "2020-03-15 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -11,
+            "Unnamed: 3": -4
+        },
+        {
+            "Change in mobility at public places": "2020-03-16 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -3,
+            "Unnamed: 3": -4
+        },
+        {
+            "Change in mobility at public places": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -15,
+            "Unnamed: 3": -6
+        },
+        {
+            "Change in mobility at public places": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -21,
+            "Unnamed: 3": -9
+        },
+        {
+            "Change in mobility at public places": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -21,
+            "Unnamed: 3": -12
+        },
+        {
+            "Change in mobility at public places": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -28,
+            "Unnamed: 3": -16
+        },
+        {
+            "Change in mobility at public places": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -50,
+            "Unnamed: 3": -21
+        },
+        {
+            "Change in mobility at public places": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -56,
+            "Unnamed: 3": -28
+        },
+        {
+            "Change in mobility at public places": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -45,
+            "Unnamed: 3": -34
+        },
+        {
+            "Change in mobility at public places": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -71,
+            "Unnamed: 3": -42
+        },
+        {
+            "Change in mobility at public places": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -73,
+            "Unnamed: 3": -49
+        },
+        {
+            "Change in mobility at public places": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -74,
+            "Unnamed: 3": -57
+        },
+        {
+            "Change in mobility at public places": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -76,
+            "Unnamed: 3": -64
+        },
+        {
+            "Change in mobility at public places": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -83,
+            "Unnamed: 3": -68
+        },
+        {
+            "Change in mobility at public places": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -85,
+            "Unnamed: 3": -72
+        },
+        {
+            "Change in mobility at public places": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -74,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -74,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -75,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -75,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -76,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -81,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -82,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -73,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -73,
+            "Unnamed: 3": -76
+        },
+        {
+            "Change in mobility at public places": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -73,
+            "Unnamed: 3": -76
+        },
+        {
+            "Change in mobility at public places": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -71,
+            "Unnamed: 3": -76
+        },
+        {
+            "Change in mobility at public places": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -78,
+            "Unnamed: 3": -76
+        },
+        {
+            "Change in mobility at public places": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -81,
+            "Unnamed: 3": -76
+        },
+        {
+            "Change in mobility at public places": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -89,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -78,
+            "Unnamed: 3": -78
+        },
+        {
+            "Change in mobility at public places": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -71,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -72,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -73,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -75,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -81,
+            "Unnamed: 3": -77
+        },
+        {
+            "Change in mobility at public places": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -80,
+            "Unnamed: 3": -76
+        },
+        {
+            "Change in mobility at public places": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -71,
+            "Unnamed: 3": -75
+        },
+        {
+            "Change in mobility at public places": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -72,
+            "Unnamed: 3": -75
+        },
+        {
+            "Change in mobility at public places": "2020-04-22 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -72,
+            "Unnamed: 3": -75
+        },
+        {
+            "Change in mobility at public places": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -72,
+            "Unnamed: 3": -75
+        },
+        {
+            "Change in mobility at public places": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -73,
+            "Unnamed: 3": -74
+        },
+        {
+            "Change in mobility at public places": "2020-04-25 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -78,
+            "Unnamed: 3": -74
+        },
+        {
+            "Change in mobility at public places": "2020-04-26 00:00:00",
+            "Unnamed: 1": "Retail and Recreation",
+            "Unnamed: 2": -78,
+            "Unnamed: 3": -74
+        },
+        {
+            "Change in mobility at public places": "2020-02-26 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": -64
+        },
+        {
+            "Change in mobility at public places": "2020-02-27 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": -53
+        },
+        {
+            "Change in mobility at public places": "2020-02-28 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": -43
+        },
+        {
+            "Change in mobility at public places": "2020-02-29 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": -32
+        },
+        {
+            "Change in mobility at public places": "2020-03-01 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": -22
+        },
+        {
+            "Change in mobility at public places": "2020-03-02 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 4,
+            "Unnamed: 3": -10
+        },
+        {
+            "Change in mobility at public places": "2020-03-03 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 3,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-04 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 3,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-05 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-06 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 6,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-07 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-08 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-09 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 4,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-10 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 5,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-11 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 5,
+            "Unnamed: 3": 4
+        },
+        {
+            "Change in mobility at public places": "2020-03-12 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 11,
+            "Unnamed: 3": 5
+        },
+        {
+            "Change in mobility at public places": "2020-03-13 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 11,
+            "Unnamed: 3": 6
+        },
+        {
+            "Change in mobility at public places": "2020-03-14 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 7,
+            "Unnamed: 3": 6
+        },
+        {
+            "Change in mobility at public places": "2020-03-15 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 7,
+            "Unnamed: 3": 7
+        },
+        {
+            "Change in mobility at public places": "2020-03-16 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 20,
+            "Unnamed: 3": 9
+        },
+        {
+            "Change in mobility at public places": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 21,
+            "Unnamed: 3": 12
+        },
+        {
+            "Change in mobility at public places": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 22,
+            "Unnamed: 3": 14
+        },
+        {
+            "Change in mobility at public places": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 24,
+            "Unnamed: 3": 16
+        },
+        {
+            "Change in mobility at public places": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 10,
+            "Unnamed: 3": 16
+        },
+        {
+            "Change in mobility at public places": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 15
+        },
+        {
+            "Change in mobility at public places": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -14,
+            "Unnamed: 3": 12
+        },
+        {
+            "Change in mobility at public places": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -8,
+            "Unnamed: 3": 8
+        },
+        {
+            "Change in mobility at public places": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -24,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -26,
+            "Unnamed: 3": -5
+        },
+        {
+            "Change in mobility at public places": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -28,
+            "Unnamed: 3": -13
+        },
+        {
+            "Change in mobility at public places": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -29,
+            "Unnamed: 3": -18
+        },
+        {
+            "Change in mobility at public places": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -39,
+            "Unnamed: 3": -24
+        },
+        {
+            "Change in mobility at public places": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -46,
+            "Unnamed: 3": -29
+        },
+        {
+            "Change in mobility at public places": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -32,
+            "Unnamed: 3": -32
+        },
+        {
+            "Change in mobility at public places": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -30,
+            "Unnamed: 3": -33
+        },
+        {
+            "Change in mobility at public places": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -32,
+            "Unnamed: 3": -34
+        },
+        {
+            "Change in mobility at public places": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -32,
+            "Unnamed: 3": -34
+        },
+        {
+            "Change in mobility at public places": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -30,
+            "Unnamed: 3": -34
+        },
+        {
+            "Change in mobility at public places": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -36,
+            "Unnamed: 3": -34
+        },
+        {
+            "Change in mobility at public places": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -41,
+            "Unnamed: 3": -33
+        },
+        {
+            "Change in mobility at public places": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -31,
+            "Unnamed: 3": -33
+        },
+        {
+            "Change in mobility at public places": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -29,
+            "Unnamed: 3": -33
+        },
+        {
+            "Change in mobility at public places": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -27,
+            "Unnamed: 3": -32
+        },
+        {
+            "Change in mobility at public places": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -20,
+            "Unnamed: 3": -31
+        },
+        {
+            "Change in mobility at public places": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -33,
+            "Unnamed: 3": -31
+        },
+        {
+            "Change in mobility at public places": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -32,
+            "Unnamed: 3": -30
+        },
+        {
+            "Change in mobility at public places": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -63,
+            "Unnamed: 3": -34
+        },
+        {
+            "Change in mobility at public places": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -41,
+            "Unnamed: 3": -35
+        },
+        {
+            "Change in mobility at public places": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -26,
+            "Unnamed: 3": -35
+        },
+        {
+            "Change in mobility at public places": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -27,
+            "Unnamed: 3": -35
+        },
+        {
+            "Change in mobility at public places": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -27,
+            "Unnamed: 3": -36
+        },
+        {
+            "Change in mobility at public places": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -30,
+            "Unnamed: 3": -35
+        },
+        {
+            "Change in mobility at public places": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -37,
+            "Unnamed: 3": -36
+        },
+        {
+            "Change in mobility at public places": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -40,
+            "Unnamed: 3": -33
+        },
+        {
+            "Change in mobility at public places": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -30,
+            "Unnamed: 3": -31
+        },
+        {
+            "Change in mobility at public places": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -28,
+            "Unnamed: 3": -31
+        },
+        {
+            "Change in mobility at public places": "2020-04-22 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -28,
+            "Unnamed: 3": -31
+        },
+        {
+            "Change in mobility at public places": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -27,
+            "Unnamed: 3": -31
+        },
+        {
+            "Change in mobility at public places": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -26,
+            "Unnamed: 3": -31
+        },
+        {
+            "Change in mobility at public places": "2020-04-25 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -32,
+            "Unnamed: 3": -30
+        },
+        {
+            "Change in mobility at public places": "2020-04-26 00:00:00",
+            "Unnamed: 1": "Grocery and Pharmacy",
+            "Unnamed: 2": -37,
+            "Unnamed: 3": -30
+        },
+        {
+            "Change in mobility at public places": "2020-02-26 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 6,
+            "Unnamed: 3": -25
+        },
+        {
+            "Change in mobility at public places": "2020-02-27 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 8,
+            "Unnamed: 3": -19
+        },
+        {
+            "Change in mobility at public places": "2020-02-28 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -13,
+            "Unnamed: 3": -17
+        },
+        {
+            "Change in mobility at public places": "2020-02-29 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -14,
+            "Unnamed: 3": -15
+        },
+        {
+            "Change in mobility at public places": "2020-03-01 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 14,
+            "Unnamed: 3": -10
+        },
+        {
+            "Change in mobility at public places": "2020-03-02 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 14,
+            "Unnamed: 3": -3
+        },
+        {
+            "Change in mobility at public places": "2020-03-03 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 11,
+            "Unnamed: 3": 4
+        },
+        {
+            "Change in mobility at public places": "2020-03-04 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-05 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-06 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 22,
+            "Unnamed: 3": 7
+        },
+        {
+            "Change in mobility at public places": "2020-03-07 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 7,
+            "Unnamed: 3": 10
+        },
+        {
+            "Change in mobility at public places": "2020-03-08 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 15,
+            "Unnamed: 3": 10
+        },
+        {
+            "Change in mobility at public places": "2020-03-09 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 4,
+            "Unnamed: 3": 9
+        },
+        {
+            "Change in mobility at public places": "2020-03-10 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 4,
+            "Unnamed: 3": 8
+        },
+        {
+            "Change in mobility at public places": "2020-03-11 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 10,
+            "Unnamed: 3": 9
+        },
+        {
+            "Change in mobility at public places": "2020-03-12 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 5,
+            "Unnamed: 3": 10
+        },
+        {
+            "Change in mobility at public places": "2020-03-13 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 12,
+            "Unnamed: 3": 8
+        },
+        {
+            "Change in mobility at public places": "2020-03-14 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 7
+        },
+        {
+            "Change in mobility at public places": "2020-03-15 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -1,
+            "Unnamed: 3": 5
+        },
+        {
+            "Change in mobility at public places": "2020-03-16 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 29,
+            "Unnamed: 3": 9
+        },
+        {
+            "Change in mobility at public places": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 6,
+            "Unnamed: 3": 9
+        },
+        {
+            "Change in mobility at public places": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -3,
+            "Unnamed: 3": 7
+        },
+        {
+            "Change in mobility at public places": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 7
+        },
+        {
+            "Change in mobility at public places": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 6,
+            "Unnamed: 3": 6
+        },
+        {
+            "Change in mobility at public places": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 6
+        },
+        {
+            "Change in mobility at public places": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 20,
+            "Unnamed: 3": 9
+        },
+        {
+            "Change in mobility at public places": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 5
+        },
+        {
+            "Change in mobility at public places": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -14,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -12,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -11,
+            "Unnamed: 3": -1
+        },
+        {
+            "Change in mobility at public places": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -26,
+            "Unnamed: 3": -6
+        },
+        {
+            "Change in mobility at public places": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -54,
+            "Unnamed: 3": -14
+        },
+        {
+            "Change in mobility at public places": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -52,
+            "Unnamed: 3": -24
+        },
+        {
+            "Change in mobility at public places": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -33,
+            "Unnamed: 3": -29
+        },
+        {
+            "Change in mobility at public places": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -21,
+            "Unnamed: 3": -30
+        },
+        {
+            "Change in mobility at public places": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -29,
+            "Unnamed: 3": -32
+        },
+        {
+            "Change in mobility at public places": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -24,
+            "Unnamed: 3": -34
+        },
+        {
+            "Change in mobility at public places": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -25,
+            "Unnamed: 3": -34
+        },
+        {
+            "Change in mobility at public places": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -38,
+            "Unnamed: 3": -32
+        },
+        {
+            "Change in mobility at public places": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -29,
+            "Unnamed: 3": -28
+        },
+        {
+            "Change in mobility at public places": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -20,
+            "Unnamed: 3": -27
+        },
+        {
+            "Change in mobility at public places": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -7,
+            "Unnamed: 3": -25
+        },
+        {
+            "Change in mobility at public places": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -14,
+            "Unnamed: 3": -22
+        },
+        {
+            "Change in mobility at public places": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -13,
+            "Unnamed: 3": -21
+        },
+        {
+            "Change in mobility at public places": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -18,
+            "Unnamed: 3": -20
+        },
+        {
+            "Change in mobility at public places": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -37,
+            "Unnamed: 3": -20
+        },
+        {
+            "Change in mobility at public places": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -33,
+            "Unnamed: 3": -20
+        },
+        {
+            "Change in mobility at public places": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -21,
+            "Unnamed: 3": -20
+        },
+        {
+            "Change in mobility at public places": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -10,
+            "Unnamed: 3": -21
+        },
+        {
+            "Change in mobility at public places": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -6,
+            "Unnamed: 3": -20
+        },
+        {
+            "Change in mobility at public places": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -7,
+            "Unnamed: 3": -19
+        },
+        {
+            "Change in mobility at public places": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -33,
+            "Unnamed: 3": -21
+        },
+        {
+            "Change in mobility at public places": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -47,
+            "Unnamed: 3": -22
+        },
+        {
+            "Change in mobility at public places": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -12,
+            "Unnamed: 3": -19
+        },
+        {
+            "Change in mobility at public places": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -2,
+            "Unnamed: 3": -17
+        },
+        {
+            "Change in mobility at public places": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": -15
+        },
+        {
+            "Change in mobility at public places": "2020-04-22 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": -14
+        },
+        {
+            "Change in mobility at public places": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": 6,
+            "Unnamed: 3": -12
+        },
+        {
+            "Change in mobility at public places": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -4,
+            "Unnamed: 3": -8
+        },
+        {
+            "Change in mobility at public places": "2020-04-25 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -23,
+            "Unnamed: 3": -5
+        },
+        {
+            "Change in mobility at public places": "2020-04-26 00:00:00",
+            "Unnamed: 1": "Parks",
+            "Unnamed: 2": -10,
+            "Unnamed: 3": -4
+        },
+        {
+            "Change in mobility at public places": "2020-02-26 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -1,
+            "Unnamed: 3": -4
+        },
+        {
+            "Change in mobility at public places": "2020-02-27 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": -4
+        },
+        {
+            "Change in mobility at public places": "2020-02-28 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": -5
+        },
+        {
+            "Change in mobility at public places": "2020-02-29 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -2,
+            "Unnamed: 3": -6
+        },
+        {
+            "Change in mobility at public places": "2020-03-01 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": 5,
+            "Unnamed: 3": -4
+        },
+        {
+            "Change in mobility at public places": "2020-03-02 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": -1
+        },
+        {
+            "Change in mobility at public places": "2020-03-03 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-04 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -2,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-05 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -3,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-06 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-07 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-08 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": -1
+        },
+        {
+            "Change in mobility at public places": "2020-03-09 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -3,
+            "Unnamed: 3": -1
+        },
+        {
+            "Change in mobility at public places": "2020-03-10 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -4,
+            "Unnamed: 3": -1
+        },
+        {
+            "Change in mobility at public places": "2020-03-11 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -6,
+            "Unnamed: 3": -2
+        },
+        {
+            "Change in mobility at public places": "2020-03-12 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -8,
+            "Unnamed: 3": -3
+        },
+        {
+            "Change in mobility at public places": "2020-03-13 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -9,
+            "Unnamed: 3": -4
+        },
+        {
+            "Change in mobility at public places": "2020-03-14 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -15,
+            "Unnamed: 3": -6
+        },
+        {
+            "Change in mobility at public places": "2020-03-15 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -16,
+            "Unnamed: 3": -9
+        },
+        {
+            "Change in mobility at public places": "2020-03-16 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -16,
+            "Unnamed: 3": -11
+        },
+        {
+            "Change in mobility at public places": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -27,
+            "Unnamed: 3": -14
+        },
+        {
+            "Change in mobility at public places": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -34,
+            "Unnamed: 3": -18
+        },
+        {
+            "Change in mobility at public places": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -37,
+            "Unnamed: 3": -22
+        },
+        {
+            "Change in mobility at public places": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -40,
+            "Unnamed: 3": -26
+        },
+        {
+            "Change in mobility at public places": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -46,
+            "Unnamed: 3": -31
+        },
+        {
+            "Change in mobility at public places": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -46,
+            "Unnamed: 3": -35
+        },
+        {
+            "Change in mobility at public places": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -53,
+            "Unnamed: 3": -40
+        },
+        {
+            "Change in mobility at public places": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -64,
+            "Unnamed: 3": -46
+        },
+        {
+            "Change in mobility at public places": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -68,
+            "Unnamed: 3": -51
+        },
+        {
+            "Change in mobility at public places": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -55
+        },
+        {
+            "Change in mobility at public places": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -71,
+            "Unnamed: 3": -60
+        },
+        {
+            "Change in mobility at public places": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -74,
+            "Unnamed: 3": -64
+        },
+        {
+            "Change in mobility at public places": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -75,
+            "Unnamed: 3": -68
+        },
+        {
+            "Change in mobility at public places": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -73,
+            "Unnamed: 3": -71
+        },
+        {
+            "Change in mobility at public places": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -72,
+            "Unnamed: 3": -72
+        },
+        {
+            "Change in mobility at public places": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -73,
+            "Unnamed: 3": -73
+        },
+        {
+            "Change in mobility at public places": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -73,
+            "Unnamed: 3": -73
+        },
+        {
+            "Change in mobility at public places": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -72,
+            "Unnamed: 3": -73
+        },
+        {
+            "Change in mobility at public places": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -72,
+            "Unnamed: 3": -73
+        },
+        {
+            "Change in mobility at public places": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -72
+        },
+        {
+            "Change in mobility at public places": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -72,
+            "Unnamed: 3": -72
+        },
+        {
+            "Change in mobility at public places": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -69,
+            "Unnamed: 3": -72
+        },
+        {
+            "Change in mobility at public places": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -71
+        },
+        {
+            "Change in mobility at public places": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -71
+        },
+        {
+            "Change in mobility at public places": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -75,
+            "Unnamed: 3": -71
+        },
+        {
+            "Change in mobility at public places": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -71
+        },
+        {
+            "Change in mobility at public places": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -71,
+            "Unnamed: 3": -71
+        },
+        {
+            "Change in mobility at public places": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -78,
+            "Unnamed: 3": -72
+        },
+        {
+            "Change in mobility at public places": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -69,
+            "Unnamed: 3": -72
+        },
+        {
+            "Change in mobility at public places": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -69,
+            "Unnamed: 3": -72
+        },
+        {
+            "Change in mobility at public places": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -72
+        },
+        {
+            "Change in mobility at public places": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -71,
+            "Unnamed: 3": -71
+        },
+        {
+            "Change in mobility at public places": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -71,
+            "Unnamed: 3": -71
+        },
+        {
+            "Change in mobility at public places": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -66,
+            "Unnamed: 3": -71
+        },
+        {
+            "Change in mobility at public places": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -68,
+            "Unnamed: 3": -69
+        },
+        {
+            "Change in mobility at public places": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -67,
+            "Unnamed: 3": -69
+        },
+        {
+            "Change in mobility at public places": "2020-04-22 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -67,
+            "Unnamed: 3": -69
+        },
+        {
+            "Change in mobility at public places": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -67,
+            "Unnamed: 3": -68
+        },
+        {
+            "Change in mobility at public places": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -66,
+            "Unnamed: 3": -67
+        },
+        {
+            "Change in mobility at public places": "2020-04-25 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -65,
+            "Unnamed: 3": -67
+        },
+        {
+            "Change in mobility at public places": "2020-04-26 00:00:00",
+            "Unnamed: 1": "Transit Stations",
+            "Unnamed: 2": -64,
+            "Unnamed: 3": -66
+        },
+        {
+            "Change in mobility at public places": "2020-02-26 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": -56
+        },
+        {
+            "Change in mobility at public places": "2020-02-27 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": -47
+        },
+        {
+            "Change in mobility at public places": "2020-02-28 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -1,
+            "Unnamed: 3": -37
+        },
+        {
+            "Change in mobility at public places": "2020-02-29 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": -28
+        },
+        {
+            "Change in mobility at public places": "2020-03-01 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": -18
+        },
+        {
+            "Change in mobility at public places": "2020-03-02 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": -9
+        },
+        {
+            "Change in mobility at public places": "2020-03-03 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-04 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-05 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-06 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-07 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-08 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-09 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-10 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-11 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-12 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-13 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -4,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-14 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -2,
+            "Unnamed: 3": -1
+        },
+        {
+            "Change in mobility at public places": "2020-03-15 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -4,
+            "Unnamed: 3": -2
+        },
+        {
+            "Change in mobility at public places": "2020-03-16 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -9,
+            "Unnamed: 3": -3
+        },
+        {
+            "Change in mobility at public places": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -16,
+            "Unnamed: 3": -5
+        },
+        {
+            "Change in mobility at public places": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -23,
+            "Unnamed: 3": -8
+        },
+        {
+            "Change in mobility at public places": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -27,
+            "Unnamed: 3": -12
+        },
+        {
+            "Change in mobility at public places": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -29,
+            "Unnamed: 3": -16
+        },
+        {
+            "Change in mobility at public places": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -25,
+            "Unnamed: 3": -19
+        },
+        {
+            "Change in mobility at public places": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -30,
+            "Unnamed: 3": -23
+        },
+        {
+            "Change in mobility at public places": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -45,
+            "Unnamed: 3": -28
+        },
+        {
+            "Change in mobility at public places": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -58,
+            "Unnamed: 3": -34
+        },
+        {
+            "Change in mobility at public places": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -64,
+            "Unnamed: 3": -40
+        },
+        {
+            "Change in mobility at public places": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -66,
+            "Unnamed: 3": -45
+        },
+        {
+            "Change in mobility at public places": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -66,
+            "Unnamed: 3": -51
+        },
+        {
+            "Change in mobility at public places": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -57,
+            "Unnamed: 3": -55
+        },
+        {
+            "Change in mobility at public places": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -55,
+            "Unnamed: 3": -59
+        },
+        {
+            "Change in mobility at public places": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -69,
+            "Unnamed: 3": -62
+        },
+        {
+            "Change in mobility at public places": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -64
+        },
+        {
+            "Change in mobility at public places": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -69,
+            "Unnamed: 3": -65
+        },
+        {
+            "Change in mobility at public places": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -65
+        },
+        {
+            "Change in mobility at public places": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -69,
+            "Unnamed: 3": -66
+        },
+        {
+            "Change in mobility at public places": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -57,
+            "Unnamed: 3": -66
+        },
+        {
+            "Change in mobility at public places": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -54,
+            "Unnamed: 3": -65
+        },
+        {
+            "Change in mobility at public places": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -66
+        },
+        {
+            "Change in mobility at public places": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -66
+        },
+        {
+            "Change in mobility at public places": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -66
+        },
+        {
+            "Change in mobility at public places": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -66
+        },
+        {
+            "Change in mobility at public places": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -80,
+            "Unnamed: 3": -67
+        },
+        {
+            "Change in mobility at public places": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -57,
+            "Unnamed: 3": -67
+        },
+        {
+            "Change in mobility at public places": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -58,
+            "Unnamed: 3": -68
+        },
+        {
+            "Change in mobility at public places": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -83,
+            "Unnamed: 3": -70
+        },
+        {
+            "Change in mobility at public places": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -70,
+            "Unnamed: 3": -70
+        },
+        {
+            "Change in mobility at public places": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -69,
+            "Unnamed: 3": -70
+        },
+        {
+            "Change in mobility at public places": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -69,
+            "Unnamed: 3": -69
+        },
+        {
+            "Change in mobility at public places": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -68,
+            "Unnamed: 3": -68
+        },
+        {
+            "Change in mobility at public places": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -54,
+            "Unnamed: 3": -67
+        },
+        {
+            "Change in mobility at public places": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -49,
+            "Unnamed: 3": -66
+        },
+        {
+            "Change in mobility at public places": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -67,
+            "Unnamed: 3": -64
+        },
+        {
+            "Change in mobility at public places": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -67,
+            "Unnamed: 3": -63
+        },
+        {
+            "Change in mobility at public places": "2020-04-22 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -66,
+            "Unnamed: 3": -63
+        },
+        {
+            "Change in mobility at public places": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -66,
+            "Unnamed: 3": -62
+        },
+        {
+            "Change in mobility at public places": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -65,
+            "Unnamed: 3": -62
+        },
+        {
+            "Change in mobility at public places": "2020-04-25 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -51,
+            "Unnamed: 3": -62
+        },
+        {
+            "Change in mobility at public places": "2020-04-26 00:00:00",
+            "Unnamed: 1": "Workplaces",
+            "Unnamed: 2": -48,
+            "Unnamed: 3": -61
+        },
+        {
+            "Change in mobility at public places": "2020-02-26 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": -52
+        },
+        {
+            "Change in mobility at public places": "2020-02-27 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": -42
+        },
+        {
+            "Change in mobility at public places": "2020-02-28 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": -33
+        },
+        {
+            "Change in mobility at public places": "2020-02-29 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": -23
+        },
+        {
+            "Change in mobility at public places": "2020-03-01 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": -1,
+            "Unnamed: 3": -14
+        },
+        {
+            "Change in mobility at public places": "2020-03-02 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": -7
+        },
+        {
+            "Change in mobility at public places": "2020-03-03 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-04 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-05 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-06 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-07 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-08 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": -1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-09 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-10 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-11 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 1,
+            "Unnamed: 3": 0
+        },
+        {
+            "Change in mobility at public places": "2020-03-12 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-13 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-14 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 1
+        },
+        {
+            "Change in mobility at public places": "2020-03-15 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-16 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 4,
+            "Unnamed: 3": 2
+        },
+        {
+            "Change in mobility at public places": "2020-03-17 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 7,
+            "Unnamed: 3": 3
+        },
+        {
+            "Change in mobility at public places": "2020-03-18 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 10,
+            "Unnamed: 3": 4
+        },
+        {
+            "Change in mobility at public places": "2020-03-19 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 11,
+            "Unnamed: 3": 5
+        },
+        {
+            "Change in mobility at public places": "2020-03-20 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 13,
+            "Unnamed: 3": 7
+        },
+        {
+            "Change in mobility at public places": "2020-03-21 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 11,
+            "Unnamed: 3": 8
+        },
+        {
+            "Change in mobility at public places": "2020-03-22 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 9,
+            "Unnamed: 3": 9
+        },
+        {
+            "Change in mobility at public places": "2020-03-23 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 17,
+            "Unnamed: 3": 11
+        },
+        {
+            "Change in mobility at public places": "2020-03-24 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 24,
+            "Unnamed: 3": 14
+        },
+        {
+            "Change in mobility at public places": "2020-03-25 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 26,
+            "Unnamed: 3": 16
+        },
+        {
+            "Change in mobility at public places": "2020-03-26 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 18
+        },
+        {
+            "Change in mobility at public places": "2020-03-27 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 28,
+            "Unnamed: 3": 20
+        },
+        {
+            "Change in mobility at public places": "2020-03-28 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 20,
+            "Unnamed: 3": 22
+        },
+        {
+            "Change in mobility at public places": "2020-03-29 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 15,
+            "Unnamed: 3": 22
+        },
+        {
+            "Change in mobility at public places": "2020-03-30 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 24
+        },
+        {
+            "Change in mobility at public places": "2020-03-31 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 24
+        },
+        {
+            "Change in mobility at public places": "2020-04-01 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 28,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-02 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 29,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-03 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 29,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-04 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 19,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-05 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 15,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-06 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-07 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-08 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-09 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 24
+        },
+        {
+            "Change in mobility at public places": "2020-04-10 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 32,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-11 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 19,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-12 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 16,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-13 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 31,
+            "Unnamed: 3": 26
+        },
+        {
+            "Change in mobility at public places": "2020-04-14 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 26
+        },
+        {
+            "Change in mobility at public places": "2020-04-15 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 26
+        },
+        {
+            "Change in mobility at public places": "2020-04-16 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 28,
+            "Unnamed: 3": 26
+        },
+        {
+            "Change in mobility at public places": "2020-04-17 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 29,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-18 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 19,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-19 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 14,
+            "Unnamed: 3": 25
+        },
+        {
+            "Change in mobility at public places": "2020-04-20 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 25,
+            "Unnamed: 3": 24
+        },
+        {
+            "Change in mobility at public places": "2020-04-21 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 26,
+            "Unnamed: 3": 24
+        },
+        {
+            "Change in mobility at public places": "2020-04-22 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 24
+        },
+        {
+            "Change in mobility at public places": "2020-04-23 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 24
+        },
+        {
+            "Change in mobility at public places": "2020-04-24 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 27,
+            "Unnamed: 3": 24
+        },
+        {
+            "Change in mobility at public places": "2020-04-25 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 18,
+            "Unnamed: 3": 23
+        },
+        {
+            "Change in mobility at public places": "2020-04-26 00:00:00",
+            "Unnamed: 1": "Residential",
+            "Unnamed: 2": 14,
+            "Unnamed: 3": 23
+        },
+        {
+            "Change in mobility at public places": "(Source: Google LLC: Google COVID-19 Community Mobility Reports.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Change in mobility at public places": "(Changes for each day are compared to a baseline value for that day of the week. The baseline is the median value, for the corresponding day of the week, during the 5-week period Jan 3-Feb 6, 2020.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+        },
+        {
+            "Change in mobility at public places": "(Insights are calculated based on data from a subset of users. As with all samples, this may or may not represent the exact behavior of a wider population)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
         }
     ],
     "People in hospital": [
@@ -3672,6 +5018,11 @@
             "Unnamed: 2": 1033
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 1021
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 282
@@ -3900,6 +5251,11 @@
             "People in hospital with COVID-19 (UK)": "2020-05-01 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 2152
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 2033
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
@@ -4132,6 +5488,11 @@
             "Unnamed: 2": 1873
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 1835
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 29
@@ -4360,6 +5721,11 @@
             "People in hospital with COVID-19 (UK)": "2020-05-01 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1847
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 1828
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
@@ -4592,6 +5958,11 @@
             "Unnamed: 2": 2150
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 2191
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 149
@@ -4814,7 +6185,12 @@
         {
             "People in hospital with COVID-19 (UK)": "2020-05-01 00:00:00",
             "Unnamed: 1": "Scotland",
-            "Unnamed: 2": 1809
+            "Unnamed: 2": 1741
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1674
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
@@ -5047,6 +6423,11 @@
             "Unnamed: 2": 1407
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1310
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 22
@@ -5277,6 +6658,11 @@
             "Unnamed: 2": 491
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 481
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 411
@@ -5462,6 +6848,11 @@
             "Unnamed: 2": 1104
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1124
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "Northern Ireland",
             "Unnamed: 2": 191
@@ -5574,117 +6965,122 @@
         {
             "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 828
+            "Unnamed: 2": 827
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 765
+            "Unnamed: 2": 764
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 760
+            "Unnamed: 2": 759
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 772
+            "Unnamed: 2": 771
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 764
+            "Unnamed: 2": 763
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 785
+            "Unnamed: 2": 784
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 778
+            "Unnamed: 2": 777
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 794
+            "Unnamed: 2": 792
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 777
+            "Unnamed: 2": 775
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 811
+            "Unnamed: 2": 809
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 876
+            "Unnamed: 2": 874
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 901
+            "Unnamed: 2": 899
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 917
+            "Unnamed: 2": 915
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 887
+            "Unnamed: 2": 885
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 866
+            "Unnamed: 2": 864
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 846
+            "Unnamed: 2": 844
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-25 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 883
+            "Unnamed: 2": 880
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-26 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 976
+            "Unnamed: 2": 973
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 981
+            "Unnamed: 2": 977
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-28 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 954
+            "Unnamed: 2": 949
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-29 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 927
+            "Unnamed: 2": 916
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-30 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 856
+            "Unnamed: 2": 845
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-01 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 739
+            "Unnamed: 2": 776
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 723
         },
         {
             "People in hospital with COVID-19 (UK)": "(Source: NHSE, Welsh Government, Scotland Government, Northern Ireland Executive)",
@@ -5712,7 +7108,12 @@
             "Unnamed: 2": NaN
         },
         {
-            "People in hospital with COVID-19 (UK)": "(Please note for the 1st May, Northern Ireland were unable to submit updated figures.)\n",
+            "People in hospital with COVID-19 (UK)": "(Community hospitals are included in figures for Wales from 23 April onwards.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "(Due to technical issues, Northern Ireland figures for 1st and 2nd May will be revised in subsequent reports.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
         }
@@ -5839,6 +7240,10 @@
             "Unnamed: 1": 105937
         },
         {
+            "Daily tests (UK)": "2020-05-03 00:00:00",
+            "Unnamed: 1": 76496
+        },
+        {
             "Daily tests (UK)": "(Source: Department of Health and Social Care)",
             "Unnamed: 1": NaN
         },
@@ -5853,1133 +7258,6 @@
         {
             "Daily tests (UK)": "(The number of tests includes; (i) tests processed through our labs, and (ii) tests sent to individuals at home or to satellite testing locations.)",
             "Unnamed: 1": NaN
-        }
-    ],
-    "Transport use": [
-        {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": "Since 16 March 2020"
-        },
-        {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": "Percentage",
-            "Use of transport modes": "Great Britain"
-        },
-        {
-            "Unnamed: 1": "Transport Type",
-            "Unnamed: 2": "Percentage",
-            "Use of transport modes": NaN
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.98,
-            "Use of transport modes": "2020-03-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.89,
-            "Use of transport modes": "2020-03-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.83,
-            "Use of transport modes": "2020-03-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.82,
-            "Use of transport modes": "2020-03-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.81,
-            "Use of transport modes": "2020-03-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.73,
-            "Use of transport modes": "2020-03-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.69,
-            "Use of transport modes": "2020-03-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.69,
-            "Use of transport modes": "2020-03-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.49,
-            "Use of transport modes": "2020-03-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.42,
-            "Use of transport modes": "2020-03-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.39,
-            "Use of transport modes": "2020-03-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.38,
-            "Use of transport modes": "2020-03-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.3,
-            "Use of transport modes": "2020-03-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.25,
-            "Use of transport modes": "2020-03-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.36,
-            "Use of transport modes": "2020-03-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.36,
-            "Use of transport modes": "2020-03-31 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.35,
-            "Use of transport modes": "2020-04-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.35,
-            "Use of transport modes": "2020-04-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.36,
-            "Use of transport modes": "2020-04-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.31,
-            "Use of transport modes": "2020-04-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.27,
-            "Use of transport modes": "2020-04-05 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.37,
-            "Use of transport modes": "2020-04-06 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.36,
-            "Use of transport modes": "2020-04-07 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.37,
-            "Use of transport modes": "2020-04-08 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.39,
-            "Use of transport modes": "2020-04-09 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.27,
-            "Use of transport modes": "2020-04-10 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.31,
-            "Use of transport modes": "2020-04-11 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.24,
-            "Use of transport modes": "2020-04-12 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.23,
-            "Use of transport modes": "2020-04-13 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.38,
-            "Use of transport modes": "2020-04-14 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.38,
-            "Use of transport modes": "2020-04-15 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.38,
-            "Use of transport modes": "2020-04-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.39,
-            "Use of transport modes": "2020-04-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.33,
-            "Use of transport modes": "2020-04-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.31,
-            "Use of transport modes": "2020-04-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.41,
-            "Use of transport modes": "2020-04-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.41,
-            "Use of transport modes": "2020-04-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.41,
-            "Use of transport modes": "2020-04-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.41,
-            "Use of transport modes": "2020-04-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.42,
-            "Use of transport modes": "2020-04-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.38,
-            "Use of transport modes": "2020-04-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.35,
-            "Use of transport modes": "2020-04-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.44,
-            "Use of transport modes": "2020-04-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.42,
-            "Use of transport modes": "2020-04-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.42,
-            "Use of transport modes": "2020-04-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.42,
-            "Use of transport modes": "2020-04-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.88,
-            "Use of transport modes": "2020-03-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.77,
-            "Use of transport modes": "2020-03-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.62,
-            "Use of transport modes": "2020-03-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.58,
-            "Use of transport modes": "2020-03-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.53,
-            "Use of transport modes": "2020-03-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.4,
-            "Use of transport modes": "2020-03-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.35,
-            "Use of transport modes": "2020-03-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.27,
-            "Use of transport modes": "2020-03-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-03-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.14,
-            "Use of transport modes": "2020-03-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-03-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.14,
-            "Use of transport modes": "2020-03-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-03-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-03-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-03-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-03-31 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-05 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-06 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-07 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.1,
-            "Use of transport modes": "2020-04-08 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-09 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-10 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.1,
-            "Use of transport modes": "2020-04-11 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.1,
-            "Use of transport modes": "2020-04-12 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-13 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-14 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.1,
-            "Use of transport modes": "2020-04-15 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-04-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-04-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.74,
-            "Use of transport modes": "2020-03-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.65,
-            "Use of transport modes": "2020-03-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.55,
-            "Use of transport modes": "2020-03-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.48,
-            "Use of transport modes": "2020-03-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.4,
-            "Use of transport modes": "2020-03-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.34,
-            "Use of transport modes": "2020-03-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.3,
-            "Use of transport modes": "2020-03-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.22,
-            "Use of transport modes": "2020-03-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-03-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.15,
-            "Use of transport modes": "2020-03-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-03-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.09,
-            "Use of transport modes": "2020-03-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.08,
-            "Use of transport modes": "2020-03-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.08,
-            "Use of transport modes": "2020-03-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.06,
-            "Use of transport modes": "2020-03-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-03-31 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-05 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-06 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-07 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-08 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-09 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-10 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-11 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-12 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-04-13 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-14 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-15 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-04-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-04-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-04-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-04-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.79,
-            "Use of transport modes": "2020-03-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.7,
-            "Use of transport modes": "2020-03-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.65,
-            "Use of transport modes": "2020-03-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.59,
-            "Use of transport modes": "2020-03-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.52,
-            "Use of transport modes": "2020-03-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.39,
-            "Use of transport modes": "2020-03-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.32,
-            "Use of transport modes": "2020-03-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.31,
-            "Use of transport modes": "2020-03-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.22,
-            "Use of transport modes": "2020-03-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.19,
-            "Use of transport modes": "2020-03-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-03-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-03-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-03-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-03-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-03-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-03-31 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-04-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-04-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-04-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-04-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-04-05 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-06 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-07 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-04-08 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-09 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-04-10 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-04-11 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.14,
-            "Use of transport modes": "2020-04-12 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-13 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.19,
-            "Use of transport modes": "2020-04-14 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-15 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-04-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.6,
-            "Use of transport modes": "2020-03-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.44,
-            "Use of transport modes": "2020-03-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.35,
-            "Use of transport modes": "2020-03-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.3,
-            "Use of transport modes": "2020-03-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.24,
-            "Use of transport modes": "2020-03-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-03-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-03-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.15,
-            "Use of transport modes": "2020-03-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.09,
-            "Use of transport modes": "2020-03-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.07,
-            "Use of transport modes": "2020-03-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.06,
-            "Use of transport modes": "2020-03-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.06,
-            "Use of transport modes": "2020-03-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-03-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-03-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-03-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-03-31 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-05 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-06 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-07 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-08 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-09 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-10 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-11 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-12 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-13 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-14 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-15 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": "(Bus (excl. London) data has been adjusted to compare against typical usage for the Easter break, whereas all other data sources have not)"
-        },
-        {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": "(Data on TfL Buses is not available from Sunday 19th April due to the change in boarding policy)"
-        },
-        {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": "https://tfl.gov.uk/info-for/media/press-releases/2020/april/tfl-introduces-middle-door-only-boarding-across-the-london-bus-network"
-        },
-        {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": "(Department for Transport)"
         }
     ],
     "UK cases": [
@@ -7214,6 +7492,11 @@
             "Unnamed: 2": 2750
         },
         {
+            "New cases (UK)": "2020-05-03 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 2441
+        },
+        {
             "New cases (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 5
@@ -7397,6 +7680,11 @@
             "New cases (UK)": "2020-05-02 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 2056
+        },
+        {
+            "New cases (UK)": "2020-05-03 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 1898
         },
         {
             "New cases (UK)": "(Source: Department of Health and Social Care)",
