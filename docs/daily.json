@@ -1,1262 +1,121 @@
 {
     "Cover": [
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Transport use change (GB)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department for Transport (DfT)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "DfT provides daily updates to the Cabinet Office for use in the government\u2019s daily media briefings on changes in:",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "1. road traffic in Great Britain",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
+            "Slides and datasets to accompany coronavirus press conferences": "Preventing the spread of coronavirus (GB)"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Opinions and Lifestyle Survey, Office for National Statistics (ONS)"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "A person is said to be \u201cin employment\u201d if they had a paid job, either as an employee or self-employed; they did any casual work for payment; or they did any unpaid or voluntary work in the previous week."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandthesocialimpactsongreatbritaindata"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Daily tests (UK)"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care, NHSX, Welsh Government, Scottish Government, Northern Ireland Executive."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "For clinical reasons some people are tested more than once. Therefore the number of tests completed may be higher than the number of people tested. For serology testing (Pillar 4), some protocols allow for samples to be tested repeatedly. Samples are anonymised prior to sending to the lab for testing, therefore the identification of individuals tested is not possible in the current reporting process, and so the number of people tested is not reported."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Daily totals reflect actual counts reported for the previous day. Each day there may be corrections to previous reported figures. This means that previously published daily counts will not necessarily sum to the latest cumulative figure. It also means that today\u2019s cumulative count may not match the previous day\u2019s cumulative count plus today\u2019s daily count."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "The number of tests includes; (i) tests processed through our labs, and (ii) tests sent to individuals at home or to satellite testing locations."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "New cases (UK)"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care (DHSC)."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Cases are reported when lab tests are completed. This may be a few days after initial testing. "
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Testing capacity is increasing, which is resulting in a greater number of observed cases There are likely many more cases than currently recorded here. "
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Pillar 1: Swab testing in PHE labs and NHS hospitals for those with a medical need and, where possible, the most critical key workers."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Pillar 2: Mass swab testing for critical workers in the NHS, social care and other sectors and symptomatic household members, delivered by a partnership of universities, research institutes and companies."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "DHSC have published explanatory notes to accompany this data:"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "People in hospital with COVID-19 (UK)"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.\n"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Fluctuations in the North West have been driven by data validation changes and missing trusts returning data (creating artificial spikes in reporting.)"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Nine hospitals, including London Nightingale did not return data for April 9, resulting in a misrepresented drop in hospitalisations."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "National data may not be directly comparable as data about COVID-19 patients in hospitals is collected differently across nations."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Community hospitals are included in figures for Wales from 23 April onwards."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Scottish data has been updated to only reflect 'confirmed' cases; with 'suspected' cases removed."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Critical care beds with COVID-19 patients (UK)"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.\n"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Different health systems collect this data differently. In England, critical care beds count high dependency units / intensive therapy unit beds as critical care beds. In Wales, critical care beds are taken to be invasive ventilation beds including new surge capacity. In Scotland, critical care beds include ICU beds and additional surge capacity. In Northern Ireland, critical care beds includes all ICU beds."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Daily COVID-19 Deaths in All Settings (UK)"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care, sourced from Public Health England and the devolved administrations. "
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "These data can be downloaded here: "
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "7-day rolling average (mean) of daily deaths."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Global death comparison"
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Public Health England, UK devolved administrations, Johns Hopkins University. "
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Deaths as reported by countries and collated by John Hopkins University: timeliness and definition of COVID death may differ. Definition of measures, implementation and compliance differ by country."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "On average, there is around a 2-week delay between interventions and a subsequent reduction in case numbers, and a 4-week lag between infections and deaths. Thus, the impact of interventions will take several weeks to show in this data."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more cumulative deaths were reported."
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "UK figures on deaths relate to those who have tests positive for COVID-19, whichever setting they died in."
+        },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "2. rail passenger journeys in Great Britain",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "3. Transport for London\u2019s (TfL) tube and bus routes",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "4. bus travel in Great Britain (excluding London)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Although daily data is being reported, direct comparisons of change should not be made between weekdays and weekends/bank holidays.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "For public transport there are typically different levels of service/timetable in place on weekends and bank holidays than on weekdays; and for road traffic, there is a different profile on weekend days compared to weekdays.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "The data is sent as near to real time as possible.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Bus (excl. London) data has been adjusted to compare against typical usage for the Easter break, whereas all other data sources have not",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Data on TfL Buses is not available from Sunday 19th April due to the change in boarding policy:",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "https://tfl.gov.uk/info-for/media/press-releases/2020/april/tfl-introduces-middle-door-only-boarding-across-the-london-bus-network",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "DfT have published information on the data sources and methodology used to generate each of these headline measures:",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/government/publications/coronavirus-covid-19-transport-data-methodology-note/covid-19-transport-data-methodology-note",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Daily tests (UK)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care, NHSX, Welsh Government, Scottish Government, Northern Ireland Executive.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "For clinical reasons some people are tested more than once. Therefore the number of tests completed may be higher than the number of people tested. For serology testing (Pillar 4), some protocols allow for samples to be tested repeatedly. Samples are anonymised prior to sending to the lab for testing, therefore the identification of individuals tested is not possible in the current reporting process, and so the number of people tested is not reported.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Daily totals reflect actual counts reported for the previous day. Each day there may be corrections to previous reported figures. This means that previously published daily counts will not necessarily sum to the latest cumulative figure. It also means that today\u2019s cumulative count may not match the previous day\u2019s cumulative count plus today\u2019s daily count.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "The number of tests includes; (i) tests processed through our labs, and (ii) tests sent to individuals at home or to satellite testing locations.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "New cases (UK)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care (DHSC).",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Cases are reported when lab tests are completed. This may be a few days after initial testing. ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Testing capacity is increasing, which is resulting in a greater number of observed cases There are likely many more cases than currently recorded here. ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Pillar 1: Swab testing in PHE labs and NHS hospitals for those with a medical need and, where possible, the most critical key workers.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Pillar 2: Mass swab testing for critical workers in the NHS, social care and other sectors and symptomatic household members, delivered by a partnership of universities, research institutes and companies.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "DHSC have published explanatory notes to accompany this data:",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "People in hospital with COVID-19 (UK)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.\n",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Fluctuations in the North West have been driven by data validation changes and missing trusts returning data (creating artificial spikes in reporting.)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Nine hospitals, including London Nightingale did not return data for April 9, resulting in a misrepresented drop in hospitalisations.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "National data may not be directly comparable as data about COVID-19 patients in hospitals is collected differently across nations.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Community hospitals are included in figures for Wales from 23 April onwards.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Scottish data has been updated to only reflect 'confirmed' cases; with 'suspected' cases removed.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Critical care beds with COVID-19 patients (UK)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.\n",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Different health systems collect this data differently. In England, critical care beds count high dependency units / intensive therapy unit beds as critical care beds. In Wales, critical care beds are taken to be invasive ventilation beds including new surge capacity. In Scotland, critical care beds include ICU beds and additional surge capacity. In Northern Ireland, critical care beds includes all ICU beds.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Daily COVID-19 Deaths in All Settings (UK)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Department of Health and Social Care, sourced from Public Health England and the devolved administrations. ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "These data can be downloaded here: ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "7-day rolling average (mean) of daily deaths.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Global death comparison",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Public Health England, UK devolved administrations, Johns Hopkins University. ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Deaths as reported by countries and collated by John Hopkins University: timeliness and definition of COVID death may differ. Definition of measures, implementation and compliance differ by country.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "On average, there is around a 2-week delay between interventions and a subsequent reduction in case numbers, and a 4-week lag between infections and deaths. Thus, the impact of interventions will take several weeks to show in this data.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more cumulative deaths were reported.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "UK figures on deaths relate to those who have tests positive for COVID-19, whichever setting they died in.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "International reporting procedures and lags are unclear, so may not be comparing like-for-like",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Global comparison of COVID-19 deaths (per million) ",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Johns Hopkins University, PHE",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Source: Public Health England, Johns Hopkins University",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Differences between countries' trajectories can reflect can reflect differences in determining cause of death",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Testing capacity, and interventions (e.g. social distancing measures) implemented",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Note that the impact of interventions on transmission can take up to 3 weeks to show in case numbers",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
-        },
-        {
-            "Slides and datasets to accompany coronavirus press conferences": "Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more cumulative deaths were reported.",
-            "Unnamed: 1": NaN,
-            "Unnamed: 10": NaN,
-            "Unnamed: 11": NaN,
-            "Unnamed: 12": NaN,
-            "Unnamed: 13": NaN,
-            "Unnamed: 14": NaN,
-            "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN,
-            "Unnamed: 4": NaN,
-            "Unnamed: 5": NaN,
-            "Unnamed: 6": NaN,
-            "Unnamed: 7": NaN,
-            "Unnamed: 8": NaN,
-            "Unnamed: 9": NaN
+            "Slides and datasets to accompany coronavirus press conferences": "International reporting procedures and lags are unclear, so may not be comparing like-for-like"
         }
     ],
     "Critical Care Beds COVID-19": [
@@ -1275,7 +134,7 @@
             "Unnamed: 4": "Percentage"
         },
         {
-            "Critical care beds with COVID-19 patients": NaN,
+            "Critical care beds with COVID-19 patients": "Date",
             "Unnamed: 1": "England",
             "Unnamed: 2": "Wales",
             "Unnamed: 3": "Scotland",
@@ -1604,6 +463,13 @@
             "Unnamed: 4": 0.25
         },
         {
+            "Critical care beds with COVID-19 patients": "2020-05-06 00:00:00",
+            "Unnamed: 1": 0.28,
+            "Unnamed: 2": 0.21,
+            "Unnamed: 3": 0.15,
+            "Unnamed: 4": 0.23
+        },
+        {
             "Critical care beds with COVID-19 patients": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
@@ -1629,7 +495,7 @@
             "Daily COVID-19 Deaths in All Settings (UK)": NaN,
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
-            "Unnamed: 3": NaN
+            "Unnamed: 3": "Number of deaths"
         },
         {
             "Daily COVID-19 Deaths in All Settings (UK)": "Date",
@@ -1998,6 +864,12 @@
             "Unnamed: 3": 568
         },
         {
+            "Daily COVID-19 Deaths in All Settings (UK)": "2020-05-07 00:00:00",
+            "Unnamed: 1": 539,
+            "Unnamed: 2": 30615,
+            "Unnamed: 3": 549
+        },
+        {
             "Daily COVID-19 Deaths in All Settings (UK)": "(Source: Department of Health and Social Care, sourced from Public Health England and the devolved administrations.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
@@ -2017,10 +889,14 @@
         },
         {
             "Daily tests (UK)": "United Kingdom",
-            "Unnamed: 1": "Tests"
+            "Unnamed: 1": NaN
         },
         {
             "Daily tests (UK)": NaN,
+            "Unnamed: 1": "Tests"
+        },
+        {
+            "Daily tests (UK)": "Date",
             "Unnamed: 1": "Tests Performed"
         },
         {
@@ -2148,6 +1024,10 @@
             "Unnamed: 1": 69463
         },
         {
+            "Daily tests (UK)": "2020-05-07 00:00:00",
+            "Unnamed: 1": 86583
+        },
+        {
             "Daily tests (UK)": "(Source: Department of Health and Social Care)",
             "Unnamed: 1": NaN
         },
@@ -2173,10 +1053,15 @@
         {
             "Global death comparison": "Global",
             "Unnamed: 1": NaN,
-            "Unnamed: 2": "Number of deaths"
+            "Unnamed: 2": NaN
         },
         {
             "Global death comparison": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Number of deaths"
+        },
+        {
+            "Global death comparison": "Country",
             "Unnamed: 1": "Day number",
             "Unnamed: 2": "Cumulative Deaths"
         },
@@ -2364,6 +1249,11 @@
             "Global death comparison": "UK (all settings)",
             "Unnamed: 1": 51,
             "Unnamed: 2": 30076
+        },
+        {
+            "Global death comparison": "UK (all settings)",
+            "Unnamed: 1": 52,
+            "Unnamed: 2": 30615
         },
         {
             "Global death comparison": "Spain",
@@ -2569,6 +1459,11 @@
             "Global death comparison": "Spain",
             "Unnamed: 1": 55,
             "Unnamed: 2": 25613
+        },
+        {
+            "Global death comparison": "Spain",
+            "Unnamed: 1": 56,
+            "Unnamed: 2": 25857
         },
         {
             "Global death comparison": "Italy",
@@ -2821,6 +1716,11 @@
             "Unnamed: 2": 29315
         },
         {
+            "Global death comparison": "Italy",
+            "Unnamed: 1": 65,
+            "Unnamed: 2": 29684
+        },
+        {
             "Global death comparison": "South Korea",
             "Unnamed: 1": 15,
             "Unnamed: 2": 111
@@ -3041,6 +1941,11 @@
             "Unnamed: 2": 255
         },
         {
+            "Global death comparison": "South Korea",
+            "Unnamed: 1": 59,
+            "Unnamed: 2": 256
+        },
+        {
             "Global death comparison": "France",
             "Unnamed: 1": 15,
             "Unnamed: 2": 2314
@@ -3236,6 +2141,11 @@
             "Unnamed: 2": 25498
         },
         {
+            "Global death comparison": "France",
+            "Unnamed: 1": 54,
+            "Unnamed: 2": 25772
+        },
+        {
             "Global death comparison": "United States",
             "Unnamed: 1": 15,
             "Unnamed: 2": 3420
@@ -3383,7 +2293,7 @@
         {
             "Global death comparison": "United States",
             "Unnamed: 1": 44,
-            "Unnamed: 2": 56259
+            "Unnamed: 2": 56219
         },
         {
             "Global death comparison": "United States",
@@ -3424,6 +2334,11 @@
             "Global death comparison": "United States",
             "Unnamed: 1": 52,
             "Unnamed: 2": 71064
+        },
+        {
+            "Global death comparison": "United States",
+            "Unnamed: 1": 53,
+            "Unnamed: 2": 73431
         },
         {
             "Global death comparison": "Germany",
@@ -3586,6 +2501,11 @@
             "Unnamed: 2": 6993
         },
         {
+            "Global death comparison": "Germany",
+            "Unnamed: 1": 47,
+            "Unnamed: 2": 7275
+        },
+        {
             "Global death comparison": "Sweden",
             "Unnamed: 1": 15,
             "Unnamed: 2": 793
@@ -3721,6 +2641,11 @@
             "Unnamed: 2": 2854
         },
         {
+            "Global death comparison": "Sweden",
+            "Unnamed: 1": 42,
+            "Unnamed: 2": 2941
+        },
+        {
             "Global death comparison": "Ireland",
             "Unnamed: 1": 15,
             "Unnamed: 2": 406
@@ -3829,6 +2754,11 @@
             "Global death comparison": "Ireland",
             "Unnamed: 1": 36,
             "Unnamed: 2": 1339
+        },
+        {
+            "Global death comparison": "Ireland",
+            "Unnamed: 1": 37,
+            "Unnamed: 2": 1375
         },
         {
             "Global death comparison": "Belgium",
@@ -3986,6 +2916,11 @@
             "Unnamed: 2": 8016
         },
         {
+            "Global death comparison": "Belgium",
+            "Unnamed: 1": 46,
+            "Unnamed: 2": 8339
+        },
+        {
             "Global death comparison": "(Source: Public Health England, UK devolved administrations, Johns Hopkins University)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
@@ -4016,2173 +2951,6 @@
             "Unnamed: 2": NaN
         }
     ],
-    "Global Deaths per Million": [
-        {
-            "Global death comparison": "Day 0 is the first day that 50 or more cumulative deaths were reported",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN
-        },
-        {
-            "Global death comparison": "Global",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": "Number of deaths"
-        },
-        {
-            "Global death comparison": NaN,
-            "Unnamed: 1": "Day number",
-            "Unnamed: 2": "Cumulative Deaths"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 0,
-            "Unnamed: 2": "65"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 1,
-            "Unnamed: 2": "81"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 2,
-            "Unnamed: 2": "115"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 3,
-            "Unnamed: 2": "158"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 4,
-            "Unnamed: 2": "194"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 5,
-            "Unnamed: 2": "250"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 6,
-            "Unnamed: 2": "285"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 7,
-            "Unnamed: 2": "359"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 8,
-            "Unnamed: 2": "508"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 9,
-            "Unnamed: 2": "694"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": "877"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": "1161"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": "1455"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": "1669"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": "2043"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 15,
-            "Unnamed: 2": "2425"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 16,
-            "Unnamed: 2": "3095"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 17,
-            "Unnamed: 2": "3747"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 18,
-            "Unnamed: 2": "4461"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 19,
-            "Unnamed: 2": "5221"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 20,
-            "Unnamed: 2": "5865"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 21,
-            "Unnamed: 2": "6433"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 22,
-            "Unnamed: 2": "7471"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 23,
-            "Unnamed: 2": "8505"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 24,
-            "Unnamed: 2": "9608"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 25,
-            "Unnamed: 2": "10760"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 26,
-            "Unnamed: 2": "11599"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 27,
-            "Unnamed: 2": "12285"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 28,
-            "Unnamed: 2": "13029"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 29,
-            "Unnamed: 2": "14073"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 30,
-            "Unnamed: 2": "14915"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 31,
-            "Unnamed: 2": "15944"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 32,
-            "Unnamed: 2": "16879"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 33,
-            "Unnamed: 2": "17994"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 34,
-            "Unnamed: 2": "18492"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 35,
-            "Unnamed: 2": "19051"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 36,
-            "Unnamed: 2": "20223"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 37,
-            "Unnamed: 2": "21060"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 38,
-            "Unnamed: 2": "21787"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 39,
-            "Unnamed: 2": "22792"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 40,
-            "Unnamed: 2": "23635"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 41,
-            "Unnamed: 2": "24055"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 42,
-            "Unnamed: 2": "24393"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 43,
-            "Unnamed: 2": "25302"
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 44,
-            "Unnamed: 2": 26097
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 45,
-            "Unnamed: 2": 26771
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 46,
-            "Unnamed: 2": 27510
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 47,
-            "Unnamed: 2": 28131
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 48,
-            "Unnamed: 2": 28446
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 49,
-            "Unnamed: 2": 28734
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 50,
-            "Unnamed: 2": 29427
-        },
-        {
-            "Global death comparison": "UK",
-            "Unnamed: 1": 51,
-            "Unnamed: 2": 30076
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 0,
-            "Unnamed: 2": 54
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 1,
-            "Unnamed: 2": 55
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 2,
-            "Unnamed: 2": 133
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 3,
-            "Unnamed: 2": 195
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 4,
-            "Unnamed: 2": 289
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 5,
-            "Unnamed: 2": 342
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 6,
-            "Unnamed: 2": 533
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 7,
-            "Unnamed: 2": 623
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 8,
-            "Unnamed: 2": 830
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 9,
-            "Unnamed: 2": 1043
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 1375
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 1772
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 2311
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 2808
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 3647
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 15,
-            "Unnamed: 2": 4365
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 16,
-            "Unnamed: 2": 5138
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 17,
-            "Unnamed: 2": 5982
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 18,
-            "Unnamed: 2": 6803
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 19,
-            "Unnamed: 2": 7716
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 20,
-            "Unnamed: 2": 8464
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 21,
-            "Unnamed: 2": 9387
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 22,
-            "Unnamed: 2": 10348
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 23,
-            "Unnamed: 2": 11198
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 24,
-            "Unnamed: 2": 11947
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 25,
-            "Unnamed: 2": 12641
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 26,
-            "Unnamed: 2": 13341
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 27,
-            "Unnamed: 2": 14045
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 28,
-            "Unnamed: 2": 14792
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 29,
-            "Unnamed: 2": 15447
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 30,
-            "Unnamed: 2": 16081
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 31,
-            "Unnamed: 2": 16606
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 32,
-            "Unnamed: 2": 17209
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 33,
-            "Unnamed: 2": 17756
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 34,
-            "Unnamed: 2": 18056
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 35,
-            "Unnamed: 2": 18708
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 36,
-            "Unnamed: 2": 19315
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 37,
-            "Unnamed: 2": 20002
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 38,
-            "Unnamed: 2": 20043
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 39,
-            "Unnamed: 2": 20453
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 40,
-            "Unnamed: 2": 20852
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 41,
-            "Unnamed: 2": 21282
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 42,
-            "Unnamed: 2": 21717
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 43,
-            "Unnamed: 2": 22157
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 44,
-            "Unnamed: 2": 22524
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 45,
-            "Unnamed: 2": 22902
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 46,
-            "Unnamed: 2": 23190
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 47,
-            "Unnamed: 2": 23521
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 48,
-            "Unnamed: 2": 23822
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 49,
-            "Unnamed: 2": 24275
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 50,
-            "Unnamed: 2": 24543
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 51,
-            "Unnamed: 2": 24543
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 52,
-            "Unnamed: 2": 25100
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 53,
-            "Unnamed: 2": 25264
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 54,
-            "Unnamed: 2": 25428
-        },
-        {
-            "Global death comparison": "Spain",
-            "Unnamed: 1": 55,
-            "Unnamed: 2": 25613
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 0,
-            "Unnamed: 2": 52
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 1,
-            "Unnamed: 2": 79
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 2,
-            "Unnamed: 2": 107
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 3,
-            "Unnamed: 2": 148
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 4,
-            "Unnamed: 2": 197
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 5,
-            "Unnamed: 2": 233
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 6,
-            "Unnamed: 2": 366
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 7,
-            "Unnamed: 2": 463
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 8,
-            "Unnamed: 2": 631
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 9,
-            "Unnamed: 2": 827
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 827
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 1266
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 1441
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 1809
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 2158
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 15,
-            "Unnamed: 2": 2503
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 16,
-            "Unnamed: 2": 2978
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 17,
-            "Unnamed: 2": 3405
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 18,
-            "Unnamed: 2": 4032
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 19,
-            "Unnamed: 2": 4825
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 20,
-            "Unnamed: 2": 5476
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 21,
-            "Unnamed: 2": 6077
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 22,
-            "Unnamed: 2": 6820
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 23,
-            "Unnamed: 2": 7503
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 24,
-            "Unnamed: 2": 8215
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 25,
-            "Unnamed: 2": 9134
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 26,
-            "Unnamed: 2": 10023
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 27,
-            "Unnamed: 2": 10779
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 28,
-            "Unnamed: 2": 11591
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 29,
-            "Unnamed: 2": 12428
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 30,
-            "Unnamed: 2": 13155
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 31,
-            "Unnamed: 2": 13915
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 32,
-            "Unnamed: 2": 14681
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 33,
-            "Unnamed: 2": 15362
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 34,
-            "Unnamed: 2": 15887
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 35,
-            "Unnamed: 2": 16523
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 36,
-            "Unnamed: 2": 17127
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 37,
-            "Unnamed: 2": 17669
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 38,
-            "Unnamed: 2": 18279
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 39,
-            "Unnamed: 2": 18849
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 40,
-            "Unnamed: 2": 19468
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 41,
-            "Unnamed: 2": 19899
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 42,
-            "Unnamed: 2": 20465
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 43,
-            "Unnamed: 2": 21067
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 44,
-            "Unnamed: 2": 21645
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 45,
-            "Unnamed: 2": 22170
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 46,
-            "Unnamed: 2": 22745
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 47,
-            "Unnamed: 2": 23227
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 48,
-            "Unnamed: 2": 23660
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 49,
-            "Unnamed: 2": 24114
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 50,
-            "Unnamed: 2": 24648
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 51,
-            "Unnamed: 2": 25085
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 52,
-            "Unnamed: 2": 25549
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 53,
-            "Unnamed: 2": 25969
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 54,
-            "Unnamed: 2": 26384
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 55,
-            "Unnamed: 2": 26644
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 56,
-            "Unnamed: 2": 26977
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 57,
-            "Unnamed: 2": 27359
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 58,
-            "Unnamed: 2": 27682
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 59,
-            "Unnamed: 2": 27967
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 60,
-            "Unnamed: 2": 28236
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 61,
-            "Unnamed: 2": 28710
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 62,
-            "Unnamed: 2": 28884
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 63,
-            "Unnamed: 2": 29079
-        },
-        {
-            "Global death comparison": "Italy",
-            "Unnamed: 1": 64,
-            "Unnamed: 2": 29315
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 0,
-            "Unnamed: 2": 50
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 1,
-            "Unnamed: 2": 53
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 2,
-            "Unnamed: 2": 54
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 3,
-            "Unnamed: 2": 60
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 4,
-            "Unnamed: 2": 66
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 5,
-            "Unnamed: 2": 66
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 6,
-            "Unnamed: 2": 72
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 7,
-            "Unnamed: 2": 75
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 8,
-            "Unnamed: 2": 75
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 9,
-            "Unnamed: 2": 81
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 84
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 91
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 94
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 102
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 111
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 15,
-            "Unnamed: 2": 111
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 16,
-            "Unnamed: 2": 120
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 17,
-            "Unnamed: 2": 126
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 18,
-            "Unnamed: 2": 131
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 19,
-            "Unnamed: 2": 139
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 20,
-            "Unnamed: 2": 144
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 21,
-            "Unnamed: 2": 152
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 22,
-            "Unnamed: 2": 158
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 23,
-            "Unnamed: 2": 162
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 24,
-            "Unnamed: 2": 165
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 25,
-            "Unnamed: 2": 169
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 26,
-            "Unnamed: 2": 174
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 27,
-            "Unnamed: 2": 177
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 28,
-            "Unnamed: 2": 183
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 29,
-            "Unnamed: 2": 186
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 30,
-            "Unnamed: 2": 192
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 31,
-            "Unnamed: 2": 200
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 32,
-            "Unnamed: 2": 204
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 33,
-            "Unnamed: 2": 208
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 34,
-            "Unnamed: 2": 211
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 35,
-            "Unnamed: 2": 214
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 36,
-            "Unnamed: 2": 217
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 37,
-            "Unnamed: 2": 222
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 38,
-            "Unnamed: 2": 225
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 39,
-            "Unnamed: 2": 229
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 40,
-            "Unnamed: 2": 230
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 41,
-            "Unnamed: 2": 232
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 42,
-            "Unnamed: 2": 234
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 43,
-            "Unnamed: 2": 236
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 44,
-            "Unnamed: 2": 237
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 45,
-            "Unnamed: 2": 238
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 46,
-            "Unnamed: 2": 240
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 47,
-            "Unnamed: 2": 240
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 48,
-            "Unnamed: 2": 242
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 49,
-            "Unnamed: 2": 243
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 50,
-            "Unnamed: 2": 244
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 51,
-            "Unnamed: 2": 246
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 52,
-            "Unnamed: 2": 247
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 53,
-            "Unnamed: 2": 248
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 54,
-            "Unnamed: 2": 250
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 55,
-            "Unnamed: 2": 250
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 56,
-            "Unnamed: 2": 252
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 57,
-            "Unnamed: 2": 254
-        },
-        {
-            "Global death comparison": "South Korea",
-            "Unnamed: 1": 58,
-            "Unnamed: 2": 255
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 0,
-            "Unnamed: 2": 79
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 1,
-            "Unnamed: 2": 91
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 2,
-            "Unnamed: 2": 91
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 3,
-            "Unnamed: 2": 148
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 4,
-            "Unnamed: 2": 148
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 5,
-            "Unnamed: 2": 148
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 6,
-            "Unnamed: 2": 243
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 7,
-            "Unnamed: 2": 450
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 8,
-            "Unnamed: 2": 562
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 9,
-            "Unnamed: 2": 674
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 860
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 1100
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 1331
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 1696
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 1995
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 15,
-            "Unnamed: 2": 2314
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 16,
-            "Unnamed: 2": 2606
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 17,
-            "Unnamed: 2": 3024
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 18,
-            "Unnamed: 2": 3523
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 19,
-            "Unnamed: 2": 4403
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 20,
-            "Unnamed: 2": 5387
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 21,
-            "Unnamed: 2": 6507
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 22,
-            "Unnamed: 2": 7560
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 23,
-            "Unnamed: 2": 8078
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 24,
-            "Unnamed: 2": 8911
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 25,
-            "Unnamed: 2": 10328
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 26,
-            "Unnamed: 2": 10869
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 27,
-            "Unnamed: 2": 12210
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 28,
-            "Unnamed: 2": 13197
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 29,
-            "Unnamed: 2": 13832
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 30,
-            "Unnamed: 2": 14393
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 31,
-            "Unnamed: 2": 14967
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 32,
-            "Unnamed: 2": 15712
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 33,
-            "Unnamed: 2": 17148
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 34,
-            "Unnamed: 2": 17901
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 35,
-            "Unnamed: 2": 18661
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 36,
-            "Unnamed: 2": 19303
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 37,
-            "Unnamed: 2": 19694
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 38,
-            "Unnamed: 2": 20240
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 39,
-            "Unnamed: 2": 20765
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 40,
-            "Unnamed: 2": 21309
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 41,
-            "Unnamed: 2": 21825
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 42,
-            "Unnamed: 2": 22214
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 43,
-            "Unnamed: 2": 22583
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 44,
-            "Unnamed: 2": 22825
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 45,
-            "Unnamed: 2": 23262
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 46,
-            "Unnamed: 2": 23629
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 47,
-            "Unnamed: 2": 24056
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 48,
-            "Unnamed: 2": 24345
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 49,
-            "Unnamed: 2": 24563
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 50,
-            "Unnamed: 2": 24729
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 51,
-            "Unnamed: 2": 24864
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 52,
-            "Unnamed: 2": 25168
-        },
-        {
-            "Global death comparison": "France",
-            "Unnamed: 1": 53,
-            "Unnamed: 2": 25498
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 0,
-            "Unnamed: 2": 58
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 1,
-            "Unnamed: 2": 73
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 2,
-            "Unnamed: 2": 99
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 3,
-            "Unnamed: 2": 133
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 4,
-            "Unnamed: 2": 164
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 5,
-            "Unnamed: 2": 258
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 6,
-            "Unnamed: 2": 349
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 7,
-            "Unnamed: 2": 442
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 8,
-            "Unnamed: 2": 586
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 9,
-            "Unnamed: 2": 786
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 1008
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 1316
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 1726
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 2265
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 2731
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 15,
-            "Unnamed: 2": 3420
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 16,
-            "Unnamed: 2": 4192
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 17,
-            "Unnamed: 2": 5367
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 18,
-            "Unnamed: 2": 6501
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 19,
-            "Unnamed: 2": 7921
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 20,
-            "Unnamed: 2": 9246
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 21,
-            "Unnamed: 2": 10855
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 22,
-            "Unnamed: 2": 12375
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 23,
-            "Unnamed: 2": 13894
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 24,
-            "Unnamed: 2": 16191
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 25,
-            "Unnamed: 2": 18270
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 26,
-            "Unnamed: 2": 20255
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 27,
-            "Unnamed: 2": 22333
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 28,
-            "Unnamed: 2": 24342
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 29,
-            "Unnamed: 2": 26086
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 30,
-            "Unnamed: 2": 27870
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 31,
-            "Unnamed: 2": 30262
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 32,
-            "Unnamed: 2": 32734
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 33,
-            "Unnamed: 2": 34827
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 34,
-            "Unnamed: 2": 37411
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 35,
-            "Unnamed: 2": 39753
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 36,
-            "Unnamed: 2": 40945
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 37,
-            "Unnamed: 2": 42659
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 38,
-            "Unnamed: 2": 45086
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 39,
-            "Unnamed: 2": 47412
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 40,
-            "Unnamed: 2": 49724
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 41,
-            "Unnamed: 2": 51493
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 42,
-            "Unnamed: 2": 53755
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 43,
-            "Unnamed: 2": 54881
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 44,
-            "Unnamed: 2": 56259
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 45,
-            "Unnamed: 2": 58355
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 46,
-            "Unnamed: 2": 60967
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 47,
-            "Unnamed: 2": 62996
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 48,
-            "Unnamed: 2": 64943
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 49,
-            "Unnamed: 2": 66369
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 50,
-            "Unnamed: 2": 67682
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 51,
-            "Unnamed: 2": 68922
-        },
-        {
-            "Global death comparison": "United States",
-            "Unnamed: 1": 52,
-            "Unnamed: 2": 71064
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 0,
-            "Unnamed: 2": 67
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 1,
-            "Unnamed: 2": 84
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 2,
-            "Unnamed: 2": 94
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 3,
-            "Unnamed: 2": 123
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 4,
-            "Unnamed: 2": 157
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 5,
-            "Unnamed: 2": 206
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 6,
-            "Unnamed: 2": 267
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 7,
-            "Unnamed: 2": 342
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 8,
-            "Unnamed: 2": 433
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 9,
-            "Unnamed: 2": 533
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 645
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 775
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 920
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 1107
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 1275
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 15,
-            "Unnamed: 2": 1444
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 16,
-            "Unnamed: 2": 1584
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 17,
-            "Unnamed: 2": 1810
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 18,
-            "Unnamed: 2": 2016
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 19,
-            "Unnamed: 2": 2349
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 20,
-            "Unnamed: 2": 2607
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 21,
-            "Unnamed: 2": 2767
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 22,
-            "Unnamed: 2": 2736
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 23,
-            "Unnamed: 2": 3022
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 24,
-            "Unnamed: 2": 3194
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 25,
-            "Unnamed: 2": 3294
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 26,
-            "Unnamed: 2": 3804
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 27,
-            "Unnamed: 2": 4052
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 28,
-            "Unnamed: 2": 4352
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 29,
-            "Unnamed: 2": 4459
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 30,
-            "Unnamed: 2": 4586
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 31,
-            "Unnamed: 2": 4862
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 32,
-            "Unnamed: 2": 5033
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 33,
-            "Unnamed: 2": 5279
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 34,
-            "Unnamed: 2": 5575
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 35,
-            "Unnamed: 2": 5760
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 36,
-            "Unnamed: 2": 5877
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 37,
-            "Unnamed: 2": 5976
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 38,
-            "Unnamed: 2": 6126
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 39,
-            "Unnamed: 2": 6314
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 40,
-            "Unnamed: 2": 6467
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 41,
-            "Unnamed: 2": 6623
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 42,
-            "Unnamed: 2": 6736
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 43,
-            "Unnamed: 2": 6812
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 44,
-            "Unnamed: 2": 6866
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 45,
-            "Unnamed: 2": 6993
-        },
-        {
-            "Global death comparison": "Germany",
-            "Unnamed: 1": 46,
-            "Unnamed: 2": 6993
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 0,
-            "Unnamed: 2": 52
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 1,
-            "Unnamed: 2": 54
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 2,
-            "Unnamed: 2": 54
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 3,
-            "Unnamed: 2": 56
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 4,
-            "Unnamed: 2": 57
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 5,
-            "Unnamed: 2": 62
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 6,
-            "Unnamed: 2": 63
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 7,
-            "Unnamed: 2": 77
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 8,
-            "Unnamed: 2": 77
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 9,
-            "Unnamed: 2": 85
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 10,
-            "Unnamed: 2": 92
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 11,
-            "Unnamed: 2": 93
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 12,
-            "Unnamed: 2": 94
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 13,
-            "Unnamed: 2": 99
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 14,
-            "Unnamed: 2": 99
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 15,
-            "Unnamed: 2": 108
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 16,
-            "Unnamed: 2": 123
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 17,
-            "Unnamed: 2": 143
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 18,
-            "Unnamed: 2": 146
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 19,
-            "Unnamed: 2": 178
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 20,
-            "Unnamed: 2": 190
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 21,
-            "Unnamed: 2": 222
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 22,
-            "Unnamed: 2": 236
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 23,
-            "Unnamed: 2": 236
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 24,
-            "Unnamed: 2": 263
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 25,
-            "Unnamed: 2": 281
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 26,
-            "Unnamed: 2": 328
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 27,
-            "Unnamed: 2": 345
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 28,
-            "Unnamed: 2": 360
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 29,
-            "Unnamed: 2": 372
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 30,
-            "Unnamed: 2": 385
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 31,
-            "Unnamed: 2": 394
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 32,
-            "Unnamed: 2": 413
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 33,
-            "Unnamed: 2": 430
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 34,
-            "Unnamed: 2": 455
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 35,
-            "Unnamed: 2": 474
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 36,
-            "Unnamed: 2": 487
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 37,
-            "Unnamed: 2": 536
-        },
-        {
-            "Global death comparison": "Japan",
-            "Unnamed: 1": 38,
-            "Unnamed: 2": 556
-        },
-        {
-            "Global death comparison": "(Source: Public Health England, Johns Hopkins University)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN
-        },
-        {
-            "Global death comparison": "(Differences between countries' trajectories can reflect can reflect differences in determining cause of death)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN
-        },
-        {
-            "Global death comparison": "(Testing capacity, and interventions (e.g. social distancing measures) implemented)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN
-        },
-        {
-            "Global death comparison": "(Note that the impact of interventions on transmission can take up to 3 weeks to show in case numbers)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN
-        },
-        {
-            "Global death comparison": "(Country data is aligned by stage of the outbreak. Day 0 equals the first day 50 or more cumulative deaths were reported.)",
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN
-        }
-    ],
     "New Cases (UK)": [
         {
             "New cases (UK)": "As per testing under pillars 1 and 2 of the testing strategy",
@@ -6192,10 +2960,15 @@
         {
             "New cases (UK)": "United Kingdom",
             "Unnamed: 1": NaN,
-            "Unnamed: 2": "Number of new cases"
+            "Unnamed: 2": NaN
         },
         {
             "New cases (UK)": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Number of new cases"
+        },
+        {
+            "New cases (UK)": "Date",
             "Unnamed: 1": "Pillar",
             "Unnamed: 2": "Cases"
         },
@@ -6435,6 +3208,11 @@
             "Unnamed: 2": 2031
         },
         {
+            "New cases (UK)": "2020-05-07 00:00:00",
+            "Unnamed: 1": "Pillar 1",
+            "Unnamed: 2": 2485
+        },
+        {
             "New cases (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Pillar 2",
             "Unnamed: 2": 5
@@ -6640,6 +3418,11 @@
             "Unnamed: 2": 4080
         },
         {
+            "New cases (UK)": "2020-05-07 00:00:00",
+            "Unnamed: 1": "Pillar 2",
+            "Unnamed: 2": 3129
+        },
+        {
             "New cases (UK)": "(Source: Department of Health and Social Care)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
@@ -6684,10 +3467,15 @@
         {
             "People in hospital with COVID-19 (UK)": "United Kingdom",
             "Unnamed: 1": NaN,
-            "Unnamed: 2": "Number of people"
+            "Unnamed: 2": NaN
         },
         {
             "People in hospital with COVID-19 (UK)": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Number of people"
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "Date",
             "Unnamed: 1": "Region",
             "Unnamed: 2": "People in hospital"
         },
@@ -6942,6 +3730,11 @@
             "Unnamed: 2": 981
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 935
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 282
@@ -7190,6 +3983,11 @@
             "People in hospital with COVID-19 (UK)": "2020-05-05 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 1889
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 1802
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
@@ -7442,6 +4240,11 @@
             "Unnamed: 2": 1735
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 1712
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 29
@@ -7690,6 +4493,11 @@
             "People in hospital with COVID-19 (UK)": "2020-05-05 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1745
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 1670
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
@@ -7942,6 +4750,11 @@
             "Unnamed: 2": 2043
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 1956
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 404
@@ -8140,6 +4953,11 @@
             "People in hospital with COVID-19 (UK)": "2020-05-05 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1225
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1204
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
@@ -8392,6 +5210,11 @@
             "Unnamed: 2": 1291
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 1230
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-17 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 23
@@ -8642,6 +5465,11 @@
             "Unnamed: 2": 515
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 464
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 411
@@ -8847,84 +5675,89 @@
             "Unnamed: 2": 1057
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 1020
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 191
+            "Unnamed: 2": 194
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-19 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 232
+            "Unnamed: 2": 233
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 246
+            "Unnamed: 2": 247
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-21 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 261
+            "Unnamed: 2": 262
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-22 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 299
+            "Unnamed: 2": 300
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-23 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 321
+            "Unnamed: 2": 322
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-24 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 356
+            "Unnamed: 2": 358
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-25 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 389
+            "Unnamed: 2": 391
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 443
+            "Unnamed: 2": 446
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 495
+            "Unnamed: 2": 500
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 528
+            "Unnamed: 2": 533
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 586
+            "Unnamed: 2": 591
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 612
+            "Unnamed: 2": 616
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-31 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 634
+            "Unnamed: 2": 638
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 665
+            "Unnamed: 2": 668
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 710
+            "Unnamed: 2": 712
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-03 00:00:00",
@@ -8939,152 +5772,157 @@
         {
             "People in hospital with COVID-19 (UK)": "2020-04-05 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 770
+            "Unnamed: 2": 769
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-06 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 786
+            "Unnamed: 2": 785
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 797
+            "Unnamed: 2": 796
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 832
+            "Unnamed: 2": 831
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 826
+            "Unnamed: 2": 824
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 763
+            "Unnamed: 2": 761
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 758
+            "Unnamed: 2": 756
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 770
+            "Unnamed: 2": 768
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 762
+            "Unnamed: 2": 760
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 783
+            "Unnamed: 2": 781
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 776
+            "Unnamed: 2": 775
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 792
+            "Unnamed: 2": 791
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 774
+            "Unnamed: 2": 773
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 808
+            "Unnamed: 2": 807
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 873
+            "Unnamed: 2": 871
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 901
+            "Unnamed: 2": 899
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 918
+            "Unnamed: 2": 915
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 887
+            "Unnamed: 2": 884
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 863
+            "Unnamed: 2": 861
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 842
+            "Unnamed: 2": 841
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-25 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 878
+            "Unnamed: 2": 877
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-26 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 970
+            "Unnamed: 2": 968
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 974
+            "Unnamed: 2": 970
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-28 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 942
+            "Unnamed: 2": 937
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-29 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 910
+            "Unnamed: 2": 905
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-30 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 844
+            "Unnamed: 2": 841
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-01 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 786
+            "Unnamed: 2": 781
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 801
+            "Unnamed: 2": 797
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-03 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 794
+            "Unnamed: 2": 839
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-04 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 687
+            "Unnamed: 2": 788
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-05 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 699
         },
         {
             "People in hospital with COVID-19 (UK)": NaN,
@@ -9127,1211 +5965,86 @@
             "Unnamed: 2": NaN
         }
     ],
-    "Transport use (GB)": [
+    "Preventing the spread of COVID-": [
         {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": "Since 16 March 2020"
+            "Preventing the spread of COVID-19 ": "Great Britain",
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": "Percentage",
-            "Use of transport modes": "Great Britain"
+            "Preventing the spread of COVID-19 ": NaN,
+            "Unnamed: 1": "Percentage"
         },
         {
-            "Unnamed: 1": "Transport Type",
-            "Unnamed: 2": "Percentage",
-            "Use of transport modes": NaN
+            "Preventing the spread of COVID-19 ": NaN,
+            "Unnamed: 1": "All Persons"
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.98,
-            "Use of transport modes": "2020-03-16 00:00:00"
+            "Preventing the spread of COVID-19 ": "In the past seven days, have you avoided contact with older people or other vulnerable people because of the Coronavirus (COVID-19) outbreak?",
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.89,
-            "Use of transport modes": "2020-03-17 00:00:00"
+            "Preventing the spread of COVID-19 ": "Yes",
+            "Unnamed: 1": 0.915
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.83,
-            "Use of transport modes": "2020-03-18 00:00:00"
+            "Preventing the spread of COVID-19 ": NaN,
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.82,
-            "Use of transport modes": "2020-03-19 00:00:00"
+            "Preventing the spread of COVID-19 ": NaN,
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.81,
-            "Use of transport modes": "2020-03-20 00:00:00"
+            "Preventing the spread of COVID-19 ": "Among those who said they were working:",
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.73,
-            "Use of transport modes": "2020-03-21 00:00:00"
+            "Preventing the spread of COVID-19 ": "In the past seven days, have you worked from home because of the Coronavirus (COVID-19) outbreak?",
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.69,
-            "Use of transport modes": "2020-03-22 00:00:00"
+            "Preventing the spread of COVID-19 ": "Yes",
+            "Unnamed: 1": 0.444
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.69,
-            "Use of transport modes": "2020-03-23 00:00:00"
+            "Preventing the spread of COVID-19 ": NaN,
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.49,
-            "Use of transport modes": "2020-03-24 00:00:00"
+            "Preventing the spread of COVID-19 ": NaN,
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.42,
-            "Use of transport modes": "2020-03-25 00:00:00"
+            "Preventing the spread of COVID-19 ": "Whether followed stay at home guidelines in the past seven days",
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.39,
-            "Use of transport modes": "2020-03-26 00:00:00"
+            "Preventing the spread of COVID-19 ": "Followed stay at home guidelines",
+            "Unnamed: 1": 0.824
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.38,
-            "Use of transport modes": "2020-03-27 00:00:00"
+            "Preventing the spread of COVID-19 ": "Not followed stay at home guidelines",
+            "Unnamed: 1": 0.176
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.3,
-            "Use of transport modes": "2020-03-28 00:00:00"
+            "Preventing the spread of COVID-19 ": NaN,
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.25,
-            "Use of transport modes": "2020-03-29 00:00:00"
+            "Preventing the spread of COVID-19 ": NaN,
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.36,
-            "Use of transport modes": "2020-03-30 00:00:00"
+            "Preventing the spread of COVID-19 ": "(Source: Opinions and Lifestyle Survey, Office for National Statistics)",
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.36,
-            "Use of transport modes": "2020-03-31 00:00:00"
+            "Preventing the spread of COVID-19 ": "(https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandthesocialimpactsongreatbritaindata) ",
+            "Unnamed: 1": NaN
         },
         {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.35,
-            "Use of transport modes": "2020-04-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.35,
-            "Use of transport modes": "2020-04-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.36,
-            "Use of transport modes": "2020-04-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.31,
-            "Use of transport modes": "2020-04-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.27,
-            "Use of transport modes": "2020-04-05 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.37,
-            "Use of transport modes": "2020-04-06 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.36,
-            "Use of transport modes": "2020-04-07 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.37,
-            "Use of transport modes": "2020-04-08 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.39,
-            "Use of transport modes": "2020-04-09 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.27,
-            "Use of transport modes": "2020-04-10 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.31,
-            "Use of transport modes": "2020-04-11 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.24,
-            "Use of transport modes": "2020-04-12 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.23,
-            "Use of transport modes": "2020-04-13 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.38,
-            "Use of transport modes": "2020-04-14 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.38,
-            "Use of transport modes": "2020-04-15 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.38,
-            "Use of transport modes": "2020-04-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.39,
-            "Use of transport modes": "2020-04-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.33,
-            "Use of transport modes": "2020-04-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.31,
-            "Use of transport modes": "2020-04-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.41,
-            "Use of transport modes": "2020-04-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.41,
-            "Use of transport modes": "2020-04-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.41,
-            "Use of transport modes": "2020-04-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.41,
-            "Use of transport modes": "2020-04-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.42,
-            "Use of transport modes": "2020-04-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.38,
-            "Use of transport modes": "2020-04-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.35,
-            "Use of transport modes": "2020-04-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.44,
-            "Use of transport modes": "2020-04-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.42,
-            "Use of transport modes": "2020-04-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.42,
-            "Use of transport modes": "2020-04-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.42,
-            "Use of transport modes": "2020-04-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.44,
-            "Use of transport modes": "2020-05-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.4,
-            "Use of transport modes": "2020-05-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.37,
-            "Use of transport modes": "2020-05-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "All motor vehicles",
-            "Unnamed: 2": 0.46,
-            "Use of transport modes": "2020-05-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.88,
-            "Use of transport modes": "2020-03-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.77,
-            "Use of transport modes": "2020-03-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.62,
-            "Use of transport modes": "2020-03-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.58,
-            "Use of transport modes": "2020-03-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.53,
-            "Use of transport modes": "2020-03-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.4,
-            "Use of transport modes": "2020-03-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.35,
-            "Use of transport modes": "2020-03-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.27,
-            "Use of transport modes": "2020-03-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-03-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.14,
-            "Use of transport modes": "2020-03-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-03-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.14,
-            "Use of transport modes": "2020-03-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-03-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-03-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-03-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-03-31 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-05 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-06 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-07 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.1,
-            "Use of transport modes": "2020-04-08 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-09 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-10 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.1,
-            "Use of transport modes": "2020-04-11 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.1,
-            "Use of transport modes": "2020-04-12 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-13 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-14 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.1,
-            "Use of transport modes": "2020-04-15 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-04-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-04-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-04-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-04-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-05-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-05-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-05-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "Bus (excl. London)",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-05-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.74,
-            "Use of transport modes": "2020-03-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.65,
-            "Use of transport modes": "2020-03-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.55,
-            "Use of transport modes": "2020-03-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.48,
-            "Use of transport modes": "2020-03-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.4,
-            "Use of transport modes": "2020-03-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.34,
-            "Use of transport modes": "2020-03-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.3,
-            "Use of transport modes": "2020-03-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.22,
-            "Use of transport modes": "2020-03-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-03-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.15,
-            "Use of transport modes": "2020-03-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.12,
-            "Use of transport modes": "2020-03-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.09,
-            "Use of transport modes": "2020-03-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.08,
-            "Use of transport modes": "2020-03-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.08,
-            "Use of transport modes": "2020-03-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.06,
-            "Use of transport modes": "2020-03-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-03-31 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-05 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-06 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-07 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-08 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-09 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-10 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-11 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-12 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-04-13 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-14 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-15 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-04-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-04-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-04-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-04-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-05-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-05-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.03,
-            "Use of transport modes": "2020-05-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-05-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.79,
-            "Use of transport modes": "2020-03-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.7,
-            "Use of transport modes": "2020-03-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.65,
-            "Use of transport modes": "2020-03-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.59,
-            "Use of transport modes": "2020-03-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.52,
-            "Use of transport modes": "2020-03-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.39,
-            "Use of transport modes": "2020-03-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.32,
-            "Use of transport modes": "2020-03-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.31,
-            "Use of transport modes": "2020-03-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.22,
-            "Use of transport modes": "2020-03-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.19,
-            "Use of transport modes": "2020-03-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-03-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-03-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-03-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-03-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-03-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-03-31 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-04-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-04-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-04-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-04-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-04-05 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-06 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-07 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-04-08 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-09 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.17,
-            "Use of transport modes": "2020-04-10 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-04-11 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.14,
-            "Use of transport modes": "2020-04-12 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-13 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.19,
-            "Use of transport modes": "2020-04-14 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-15 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.18,
-            "Use of transport modes": "2020-04-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Bus",
-            "Unnamed: 2": 0.16,
-            "Use of transport modes": "2020-04-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.6,
-            "Use of transport modes": "2020-03-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.44,
-            "Use of transport modes": "2020-03-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.35,
-            "Use of transport modes": "2020-03-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.3,
-            "Use of transport modes": "2020-03-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.24,
-            "Use of transport modes": "2020-03-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.13,
-            "Use of transport modes": "2020-03-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.11,
-            "Use of transport modes": "2020-03-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.15,
-            "Use of transport modes": "2020-03-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.09,
-            "Use of transport modes": "2020-03-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.07,
-            "Use of transport modes": "2020-03-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.06,
-            "Use of transport modes": "2020-03-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.06,
-            "Use of transport modes": "2020-03-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-03-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-03-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-03-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-03-31 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-05 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-06 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-07 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-08 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-09 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-10 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-11 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-12 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-13 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-14 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-15 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-16 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-17 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-18 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-19 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-20 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-21 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-22 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-23 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-24 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-25 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-04-26 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-27 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-28 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-29 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-04-30 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.05,
-            "Use of transport modes": "2020-05-01 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-05-02 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.04,
-            "Use of transport modes": "2020-05-03 00:00:00"
-        },
-        {
-            "Unnamed: 1": "TfL - Tube",
-            "Unnamed: 2": 0.06,
-            "Use of transport modes": "2020-05-04 00:00:00"
-        },
-        {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": "(Bus (excl. London) data has been adjusted to compare against typical usage for the Easter break, whereas all other data sources have not)"
-        },
-        {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": "(Data on TfL Buses is not available from Sunday 19th April due to the change in boarding policy)"
-        },
-        {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": "https://tfl.gov.uk/info-for/media/press-releases/2020/april/tfl-introduces-middle-door-only-boarding-across-the-london-bus-network"
-        },
-        {
-            "Unnamed: 1": NaN,
-            "Unnamed: 2": NaN,
-            "Use of transport modes": "(Department for Transport)"
+            "Preventing the spread of COVID-19 ": "(A person is said to be \u201cin employment\u201d  if they had a paid job, either as an employee or self-employed; they did any casual work for payment; or they did any unpaid or voluntary work in the previous week) ",
+            "Unnamed: 1": NaN
         }
     ]
 }
