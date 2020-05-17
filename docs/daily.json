@@ -3178,7 +3178,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": "Daily COVID-19 Deaths in All Settings (UK)",
+            "Slides and datasets to accompany coronavirus press conferences": "Daily COVID-19 deaths confirmed with a positive test (UK)\n",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -3710,6 +3710,13 @@
             "Unnamed: 2": 0.15,
             "Unnamed: 3": 0.12,
             "Unnamed: 4": 0.2
+        },
+        {
+            "Critical care beds with COVID-19 patients (UK)": "2020-05-16 00:00:00",
+            "Unnamed: 1": 0.21,
+            "Unnamed: 2": 0.17,
+            "Unnamed: 3": 0.1,
+            "Unnamed: 4": 0.18
         },
         {
             "Critical care beds with COVID-19 patients (UK)": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
@@ -4274,6 +4281,13 @@
             "Unnamed: 4": 2880
         },
         {
+            "Daily COVID-19 Deaths in All Settings (UK)": "2020-05-17 00:00:00",
+            "Unnamed: 1": 170,
+            "Unnamed: 2": 34636,
+            "Unnamed: 3": 397,
+            "Unnamed: 4": 2781
+        },
+        {
             "Daily COVID-19 Deaths in All Settings (UK)": "(Source: Department of Health and Social Care, sourced from NHS England, Public Health England and the devolved administrations.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
@@ -4477,6 +4491,10 @@
             "Unnamed: 1": 136486
         },
         {
+            "Daily tests (UK)": "2020-05-17 00:00:00",
+            "Unnamed: 1": 91206
+        },
+        {
             "Daily tests (UK)": "(Source: Department of Health and Social Care, Welsh Government, Scottish Government, Northern Ireland Executive.)",
             "Unnamed: 1": NaN
         },
@@ -4498,6 +4516,10 @@
         },
         {
             "Daily tests (UK)": "(The number of tests includes; (i) tests processed through our labs, and (ii) tests sent to individuals at home or to satellite testing locations.)",
+            "Unnamed: 1": NaN
+        },
+        {
+            "Daily tests (UK)": "(Due to technical issues on 17 May, Northern Ireland have been unable to process any tests and new cases data for Pillar 1 testing. May 17 daily testing total reflects Pillar 1 for Great Britain, and Pillars 2 and 4 for the whole of the UK. Historic Northern Ireland data is still included in cumulative totals and earlier daily totals.)",
             "Unnamed: 1": NaN
         }
     ],
@@ -4778,6 +4800,11 @@
             "Unnamed: 2": 736
         },
         {
+            "COVID-19 Hospital Admissions": "2020-05-15 00:00:00",
+            "Unnamed: 1": "England",
+            "Unnamed: 2": 719
+        },
+        {
             "COVID-19 Hospital Admissions": "(Source: NHS England)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
@@ -5044,6 +5071,10 @@
             "Unnamed: 1": 3451
         },
         {
+            "New cases (UK)": "2020-05-17 00:00:00",
+            "Unnamed: 1": 3142
+        },
+        {
             "New cases (UK)": "(Source: Department of Health and Social Care, Welsh Government, Scottish Government, Northern Ireland Executive.)",
             "Unnamed: 1": NaN
         },
@@ -5065,6 +5096,10 @@
         },
         {
             "New cases (UK)": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public",
+            "Unnamed: 1": NaN
+        },
+        {
+            "New cases (UK)": "(Due to technical issues on 17 May, Northern Ireland have been unable to process any tests and new cases data for Pillar 1 testing. May 17 daily cases total reflects Pillar 1 for Great Britain and Pillar 2 for the whole of the UK. Historic Northern Ireland data is still included in cumulative totals and earlier daily totals.)",
             "Unnamed: 1": NaN
         }
     ],
@@ -5375,6 +5410,11 @@
             "Unnamed: 2": 811
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-16 00:00:00",
+            "Unnamed: 1": "East of England",
+            "Unnamed: 2": 777
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 819
@@ -5658,6 +5698,11 @@
             "People in hospital with COVID-19 (UK)": "2020-05-15 00:00:00",
             "Unnamed: 1": "London",
             "Unnamed: 2": 1366
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-16 00:00:00",
+            "Unnamed: 1": "London",
+            "Unnamed: 2": 1315
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
@@ -5945,6 +5990,11 @@
             "Unnamed: 2": 1407
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-16 00:00:00",
+            "Unnamed: 1": "Midlands",
+            "Unnamed: 2": 1385
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 82
@@ -6228,6 +6278,11 @@
             "People in hospital with COVID-19 (UK)": "2020-05-15 00:00:00",
             "Unnamed: 1": "North East & Yorkshire",
             "Unnamed: 2": 1366
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-16 00:00:00",
+            "Unnamed: 1": "North East & Yorkshire",
+            "Unnamed: 2": 1257
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
@@ -6515,6 +6570,11 @@
             "Unnamed: 2": 1636
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-16 00:00:00",
+            "Unnamed: 1": "North West",
+            "Unnamed: 2": 1580
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-27 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 404
@@ -6763,6 +6823,11 @@
             "People in hospital with COVID-19 (UK)": "2020-05-15 00:00:00",
             "Unnamed: 1": "Scotland",
             "Unnamed: 2": 1066
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-16 00:00:00",
+            "Unnamed: 1": "Scotland",
+            "Unnamed: 2": 1011
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
@@ -7050,6 +7115,11 @@
             "Unnamed: 2": 955
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-16 00:00:00",
+            "Unnamed: 1": "South East",
+            "Unnamed: 2": 866
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-20 00:00:00",
             "Unnamed: 1": "South West",
             "Unnamed: 2": 57
@@ -7335,6 +7405,11 @@
             "Unnamed: 2": 361
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-16 00:00:00",
+            "Unnamed: 1": "South West",
+            "Unnamed: 2": 347
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-26 00:00:00",
             "Unnamed: 1": "Wales",
             "Unnamed: 2": 411
@@ -7590,6 +7665,11 @@
             "Unnamed: 2": 841
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-05-16 00:00:00",
+            "Unnamed: 1": "Wales",
+            "Unnamed: 2": 868
+        },
+        {
             "People in hospital with COVID-19 (UK)": "2020-03-18 00:00:00",
             "Unnamed: 1": "Northern Ireland",
             "Unnamed: 2": 194
@@ -7692,192 +7772,197 @@
         {
             "People in hospital with COVID-19 (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 796
+            "Unnamed: 2": 795
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 831
+            "Unnamed: 2": 830
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 824
+            "Unnamed: 2": 823
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-10 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 761
+            "Unnamed: 2": 760
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 756
+            "Unnamed: 2": 755
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-12 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 768
+            "Unnamed: 2": 767
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 759
+            "Unnamed: 2": 758
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 780
+            "Unnamed: 2": 779
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 773
+            "Unnamed: 2": 772
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 791
+            "Unnamed: 2": 789
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 773
+            "Unnamed: 2": 771
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 806
+            "Unnamed: 2": 804
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 869
+            "Unnamed: 2": 867
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 896
+            "Unnamed: 2": 894
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 910
+            "Unnamed: 2": 908
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 878
+            "Unnamed: 2": 876
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 855
+            "Unnamed: 2": 853
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-24 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 832
+            "Unnamed: 2": 830
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-25 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 868
+            "Unnamed: 2": 866
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-26 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 960
+            "Unnamed: 2": 958
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-27 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 961
+            "Unnamed: 2": 958
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-28 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 928
+            "Unnamed: 2": 925
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-29 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 894
+            "Unnamed: 2": 891
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-30 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 832
+            "Unnamed: 2": 827
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-01 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 774
+            "Unnamed: 2": 769
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-02 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 789
+            "Unnamed: 2": 783
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-03 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 830
+            "Unnamed: 2": 824
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-04 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 793
+            "Unnamed: 2": 787
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-05 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 798
+            "Unnamed: 2": 792
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 773
+            "Unnamed: 2": 768
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-07 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 731
+            "Unnamed: 2": 724
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-08 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 721
+            "Unnamed: 2": 713
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-09 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 749
+            "Unnamed: 2": 740
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-10 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 798
+            "Unnamed: 2": 790
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-11 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 803
+            "Unnamed: 2": 793
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-12 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 793
+            "Unnamed: 2": 780
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-13 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 766
+            "Unnamed: 2": 784
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-14 00:00:00",
             "Unnamed: 1": "Northern Ireland",
-            "Unnamed: 2": 675
+            "Unnamed: 2": 716
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-05-15 00:00:00",
+            "Unnamed: 1": "Northern Ireland",
+            "Unnamed: 2": 629
         },
         {
             "People in hospital with COVID-19 (UK)": "(Source: NHSE, Welsh Government, Scotland Government, Northern Ireland Executive)",
@@ -8242,6 +8327,11 @@
             "Use of transport modes": "2020-05-14 00:00:00"
         },
         {
+            "Unnamed: 1": "All motor vehicles",
+            "Unnamed: 2": 0.55,
+            "Use of transport modes": "2020-05-15 00:00:00"
+        },
+        {
             "Unnamed: 1": "Bus (excl. London)",
             "Unnamed: 2": 0.88,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -8542,6 +8632,11 @@
             "Use of transport modes": "2020-05-14 00:00:00"
         },
         {
+            "Unnamed: 1": "Bus (excl. London)",
+            "Unnamed: 2": 0.13,
+            "Use of transport modes": "2020-05-15 00:00:00"
+        },
+        {
             "Unnamed: 1": "National rail",
             "Unnamed: 2": 0.78,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -8823,7 +8918,7 @@
         },
         {
             "Unnamed: 1": "National rail",
-            "Unnamed: 2": 0.04,
+            "Unnamed: 2": 0.05,
             "Use of transport modes": "2020-05-11 00:00:00"
         },
         {
@@ -8840,6 +8935,11 @@
             "Unnamed: 1": "National rail",
             "Unnamed: 2": 0.04,
             "Use of transport modes": "2020-05-14 00:00:00"
+        },
+        {
+            "Unnamed: 1": "National rail",
+            "Unnamed: 2": 0.04,
+            "Use of transport modes": "2020-05-15 00:00:00"
         },
         {
             "Unnamed: 1": "TfL - Bus",
@@ -9312,6 +9412,11 @@
             "Use of transport modes": "2020-05-14 00:00:00"
         },
         {
+            "Unnamed: 1": "TfL - Tube",
+            "Unnamed: 2": 0.06,
+            "Use of transport modes": "2020-05-15 00:00:00"
+        },
+        {
             "Unnamed: 1": "Light Goods Vehicles",
             "Unnamed: 2": 1.03,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -9610,6 +9715,11 @@
             "Unnamed: 1": "Light Goods Vehicles",
             "Unnamed: 2": 0.6,
             "Use of transport modes": "2020-05-14 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Light Goods Vehicles",
+            "Unnamed: 2": 0.61,
+            "Use of transport modes": "2020-05-15 00:00:00"
         },
         {
             "Unnamed: 1": "Heavy Goods Vehicle",
@@ -9912,6 +10022,11 @@
             "Use of transport modes": "2020-05-14 00:00:00"
         },
         {
+            "Unnamed: 1": "Heavy Goods Vehicles",
+            "Unnamed: 2": 0.74,
+            "Use of transport modes": "2020-05-15 00:00:00"
+        },
+        {
             "Unnamed: 1": "Car",
             "Unnamed: 2": 0.96,
             "Use of transport modes": "2020-03-16 00:00:00"
@@ -10210,6 +10325,11 @@
             "Unnamed: 1": "Car",
             "Unnamed: 2": 0.49,
             "Use of transport modes": "2020-05-14 00:00:00"
+        },
+        {
+            "Unnamed: 1": "Car",
+            "Unnamed: 2": 0.51,
+            "Use of transport modes": "2020-05-15 00:00:00"
         },
         {
             "Unnamed: 1": NaN,
