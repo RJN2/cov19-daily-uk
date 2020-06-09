@@ -1145,7 +1145,29 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "Weekly COVID-19 Deaths (UK)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Office for National Statistics, Department of Health and Social Care, sourced from Public Health England and the devolved administrations. ",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1189,7 +1211,73 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "DHSC reporting of UK deaths may lag by up to several days.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "DHSC daily counts have been aggregated to weekly totals.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "ONS, NRS and NISRA reporting of registered UK deaths is based on information from death certificates.",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "The ONS average (median) registration delay is four days.",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1233,7 +1321,29 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "Weekly COVID-19 deaths by place of occurrence (UK)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Source: Office for National Statistics, National Records of Scotland, Northern Ireland Statistics and Research Agency",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1277,7 +1387,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "(COVID-19 deaths include any death where Coronavirus or COVID-19 (suspected or confirmed) was mentioned on the death certificate.)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1299,7 +1409,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "(Figures are based on date of registration. The ONS average (median) registration delay is four days.   In Scotland, it is three days.  In Northern Ireland, it is five days. )",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1321,7 +1431,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "(England, Wales and Northern Ireland weekly deaths run from Saturday to Friday, Scotland deaths run from Monday to Sunday. Weeks have been aligned to match the ONS method for reporting UK-wide COVID deaths.)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1343,7 +1453,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "(Non residents are not included in the England and Wales figure to ensure consistency with ONS reporting of UK deaths. For this reason, counts for England and for Wales may not sum to the ONS total for \"England and Wales\".)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1365,7 +1475,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "(\"Other\" includes counts from England, Wales and Northern Ireland for Hospices, Communal Establishments (except for Hospitals and Care Homes), and deaths that occurred in settings other than Homes, Hospitals or Care Homes. It includes counts from Scotland for institutions excluding Care Homes and Hospitals.)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1387,7 +1497,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "(In Scotland, hospices cannot be identified separately. As a result, some fall under the \"Hospitals\" category and others under \"Care Homes\".)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1409,7 +1519,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "(In Scotland, \"Home\" includes other deaths that did not occur in an institution and these numbers are included in the \"Home\" category here and on the chart.)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1431,7 +1541,7 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "(In Northern Ireland, \"Care Home\" includes deaths in care homes only. Care home residents who died in a different location will be counted at that location.)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -1453,8 +1563,74 @@
             "Unnamed: 9": NaN
         },
         {
-            "Slides and datasets to accompany coronavirus press conferences": NaN,
+            "Slides and datasets to accompany coronavirus press conferences": "Full breakdowns of deaths by setting in the different countries of the UK can be downloaded directly from the data providers:",
             "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "England and Wales:",
+            "Unnamed: 1": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales",
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Scotland:",
+            "Unnamed: 1": "https://www.nrscotland.gov.uk/covid19stats",
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 15": NaN,
+            "Unnamed: 16": NaN,
+            "Unnamed: 17": NaN,
+            "Unnamed: 18": NaN,
+            "Unnamed: 19": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Slides and datasets to accompany coronavirus press conferences": "Northern Ireland:",
+            "Unnamed: 1": "https://www.nisra.gov.uk/publications/weekly-deaths",
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
             "Unnamed: 12": NaN,
@@ -3143,6 +3319,23 @@
             "Unnamed: 9": NaN
         },
         {
+            "Daily COVID-19 Deaths in All Settings (UK)": "2020-06-09 00:00:00",
+            "Unnamed: 1": 286,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 2": 40883,
+            "Unnamed: 3": 216,
+            "Unnamed: 4": 1514,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
             "Daily COVID-19 Deaths in All Settings (UK)": "(Source: Department of Health and Social Care, sourced from NHS England, Public Health England and the devolved administrations.)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
@@ -3272,7 +3465,7 @@
             "Unnamed: 1": 1639,
             "Unnamed: 2": 155,
             "Unnamed: 3": 107,
-            "Unnamed: 4": 91
+            "Unnamed: 4": 92
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-03-27 00:00:00",
@@ -3321,7 +3514,7 @@
             "Unnamed: 1": 2932,
             "Unnamed: 2": 171,
             "Unnamed: 3": 139,
-            "Unnamed: 4": 116
+            "Unnamed: 4": 115
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-03 00:00:00",
@@ -3391,7 +3584,7 @@
             "Unnamed: 1": 1791,
             "Unnamed: 2": 84,
             "Unnamed: 3": 168,
-            "Unnamed: 4": 86
+            "Unnamed: 4": 85
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-13 00:00:00",
@@ -3447,7 +3640,7 @@
             "Unnamed: 1": 1522,
             "Unnamed: 2": 66,
             "Unnamed: 3": 114,
-            "Unnamed: 4": 129
+            "Unnamed: 4": 128
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-21 00:00:00",
@@ -3496,7 +3689,7 @@
             "Unnamed: 1": 1344,
             "Unnamed: 2": 75,
             "Unnamed: 3": 95,
-            "Unnamed: 4": 156
+            "Unnamed: 4": 155
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-28 00:00:00",
@@ -3517,14 +3710,14 @@
             "Unnamed: 1": 1233,
             "Unnamed: 2": 54,
             "Unnamed: 3": 148,
-            "Unnamed: 4": 120
+            "Unnamed: 4": 119
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-01 00:00:00",
             "Unnamed: 1": 1087,
             "Unnamed: 2": 51,
             "Unnamed: 3": 122,
-            "Unnamed: 4": 79
+            "Unnamed: 4": 78
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-02 00:00:00",
@@ -3545,14 +3738,14 @@
             "Unnamed: 1": 1074,
             "Unnamed: 2": 49,
             "Unnamed: 3": 125,
-            "Unnamed: 4": 88
+            "Unnamed: 4": 86
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-05 00:00:00",
             "Unnamed: 1": 961,
             "Unnamed: 2": 36,
             "Unnamed: 3": 140,
-            "Unnamed: 4": 81
+            "Unnamed: 4": 80
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-06 00:00:00",
@@ -3573,7 +3766,7 @@
             "Unnamed: 1": 747,
             "Unnamed: 2": 30,
             "Unnamed: 3": 144,
-            "Unnamed: 4": 68
+            "Unnamed: 4": 67
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-09 00:00:00",
@@ -3587,21 +3780,21 @@
             "Unnamed: 1": 757,
             "Unnamed: 2": 21,
             "Unnamed: 3": 118,
-            "Unnamed: 4": 71
+            "Unnamed: 4": 72
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-11 00:00:00",
             "Unnamed: 1": 869,
             "Unnamed: 2": 29,
             "Unnamed: 3": 120,
-            "Unnamed: 4": 87
+            "Unnamed: 4": 88
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-12 00:00:00",
             "Unnamed: 1": 856,
             "Unnamed: 2": 34,
             "Unnamed: 3": 98,
-            "Unnamed: 4": 70
+            "Unnamed: 4": 69
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-13 00:00:00",
@@ -3629,7 +3822,7 @@
             "Unnamed: 1": 671,
             "Unnamed: 2": 17,
             "Unnamed: 3": 125,
-            "Unnamed: 4": 64
+            "Unnamed: 4": 63
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-17 00:00:00",
@@ -3664,7 +3857,7 @@
             "Unnamed: 1": 725,
             "Unnamed: 2": 13,
             "Unnamed: 3": 118,
-            "Unnamed: 4": 71
+            "Unnamed: 4": 70
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-22 00:00:00",
@@ -3699,7 +3892,7 @@
             "Unnamed: 1": 578,
             "Unnamed: 2": 13,
             "Unnamed: 3": 99,
-            "Unnamed: 4": 98
+            "Unnamed: 4": 97
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-27 00:00:00",
@@ -3713,14 +3906,14 @@
             "Unnamed: 1": 570,
             "Unnamed: 2": 6,
             "Unnamed: 3": 130,
-            "Unnamed: 4": 84
+            "Unnamed: 4": 83
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-29 00:00:00",
             "Unnamed: 1": 499,
             "Unnamed: 2": 5,
             "Unnamed: 3": 112,
-            "Unnamed: 4": 50
+            "Unnamed: 4": 52
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-30 00:00:00",
@@ -3748,21 +3941,21 @@
             "Unnamed: 1": 553,
             "Unnamed: 2": NaN,
             "Unnamed: 3": 112,
-            "Unnamed: 4": 67
+            "Unnamed: 4": 68
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-03 00:00:00",
             "Unnamed: 1": 491,
             "Unnamed: 2": NaN,
             "Unnamed: 3": 144,
-            "Unnamed: 4": 30
+            "Unnamed: 4": 50
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-04 00:00:00",
             "Unnamed: 1": 458,
             "Unnamed: 2": NaN,
             "Unnamed: 3": 107,
-            "Unnamed: 4": 72
+            "Unnamed: 4": 70
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-05 00:00:00",
@@ -3770,6 +3963,13 @@
             "Unnamed: 2": NaN,
             "Unnamed: 3": 88,
             "Unnamed: 4": 51
+        },
+        {
+            "COVID-19 Hospital Admissions (UK)": "2020-06-06 00:00:00",
+            "Unnamed: 1": 306,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": 101,
+            "Unnamed: 4": 39
         },
         {
             "COVID-19 Hospital Admissions (UK)": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
@@ -4241,6 +4441,11 @@
             "New cases (UK)": "2020-06-08 00:00:00",
             "Unnamed: 1": 1205,
             "Unnamed: 2": 1575
+        },
+        {
+            "New cases (UK)": "2020-06-09 00:00:00",
+            "Unnamed: 1": 1387,
+            "Unnamed: 2": 1543
         },
         {
             "New cases (UK)": "(Source: Department of Health and Social Care, Welsh Government, Scottish Government, Northern Ireland Executive.)",
@@ -5358,7 +5563,7 @@
         {
             "People in hospital with COVID-19 (UK)": "2020-06-05 00:00:00",
             "Unnamed: 1": 408,
-            "Unnamed: 10": 452,
+            "Unnamed: 10": 451,
             "Unnamed: 2": 662,
             "Unnamed: 3": 987,
             "Unnamed: 4": 739,
@@ -5371,7 +5576,7 @@
         {
             "People in hospital with COVID-19 (UK)": "2020-06-06 00:00:00",
             "Unnamed: 1": 439,
-            "Unnamed: 10": 465,
+            "Unnamed: 10": 468,
             "Unnamed: 2": 591,
             "Unnamed: 3": 955,
             "Unnamed: 4": 701,
@@ -5384,7 +5589,7 @@
         {
             "People in hospital with COVID-19 (UK)": "2020-06-07 00:00:00",
             "Unnamed: 1": 389,
-            "Unnamed: 10": NaN,
+            "Unnamed: 10": 480,
             "Unnamed: 2": 586,
             "Unnamed: 3": 932,
             "Unnamed: 4": 698,
@@ -5393,6 +5598,19 @@
             "Unnamed: 7": 188,
             "Unnamed: 8": 646,
             "Unnamed: 9": 967
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-06-08 00:00:00",
+            "Unnamed: 1": 394,
+            "Unnamed: 10": NaN,
+            "Unnamed: 2": 585,
+            "Unnamed: 3": 936,
+            "Unnamed: 4": 708,
+            "Unnamed: 5": 1019,
+            "Unnamed: 6": 511,
+            "Unnamed: 7": 173,
+            "Unnamed: 8": 655,
+            "Unnamed: 9": 887
         },
         {
             "People in hospital with COVID-19 (UK)": "(Source: NHSE, Welsh Government, Scotland Government, Northern Ireland Executive)",
@@ -6100,6 +6318,14 @@
             "Unnamed: 5": 516
         },
         {
+            "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-08 00:00:00",
+            "Unnamed: 1": 443,
+            "Unnamed: 2": 24,
+            "Unnamed: 3": 38,
+            "Unnamed: 4": 8,
+            "Unnamed: 5": 513
+        },
+        {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN,
@@ -6162,6 +6388,365 @@
             "Unnamed: 3": NaN,
             "Unnamed: 4": NaN,
             "Unnamed: 5": NaN
+        }
+    ],
+    "Weekly COVID-19 Deaths (UK)": [
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "United Kingdom",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Number of deaths"
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": NaN,
+            "Unnamed: 1": "DHSC Recorded COVID-19 Deaths",
+            "Unnamed: 2": "ONS Registered Deaths"
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-03-13 00:00:00",
+            "Unnamed: 1": 9,
+            "Unnamed: 2": 5
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-03-20 00:00:00",
+            "Unnamed: 1": 184,
+            "Unnamed: 2": 113
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-03-27 00:00:00",
+            "Unnamed: 1": 967,
+            "Unnamed: 2": 607
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-04-03 00:00:00",
+            "Unnamed: 1": 3300,
+            "Unnamed: 2": 3801
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-04-10 00:00:00",
+            "Unnamed: 1": 6299,
+            "Unnamed: 2": 6889
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-04-17 00:00:00",
+            "Unnamed: 1": 6119,
+            "Unnamed: 2": 9495
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-04-24 00:00:00",
+            "Unnamed: 1": 5913,
+            "Unnamed: 2": 9006
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-05-01 00:00:00",
+            "Unnamed: 1": 4718,
+            "Unnamed: 2": 6679
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-05-08 00:00:00",
+            "Unnamed: 1": 3731,
+            "Unnamed: 2": 4426
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-05-15 00:00:00",
+            "Unnamed: 1": 2757,
+            "Unnamed: 2": 4214
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-05-22 00:00:00",
+            "Unnamed: 1": 2395,
+            "Unnamed: 2": 2872
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "2020-05-29 00:00:00",
+            "Unnamed: 1": 2200,
+            "Unnamed: 2": 2000
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "(Source: Office for National Statistics, Department of Health and Social Care, sourced from Public Health England and the devolved administrations.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "(Daily reporting of UK deaths is for hospitals only and may lag by up to several days. Daily counts have been aggregated to weekly totals.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "(ONS, NRS and NISRA reporting of registered UK deaths for all settings is based on information from death certificates, and lags DHSC daily hospital data.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "(The average (median) registration delay is four days. ONS data also includes those without a test for COVID-19 but where COVID-19 was mentioned on the death certificate.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        },
+        {
+            "Comparing Weekly Counts of COVID-19 deaths": "(DHSC recorded COVID-19 deaths is a 7-day rolling sum of daily deaths for the seven days that correspond to the ONS measure.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+        }
+    ],
+    "Weekly Deaths by Place (UK)": [
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "United Kingdom",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": "Number of deaths",
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": NaN,
+            "Unnamed: 1": "2020-03-13 00:00:00",
+            "Unnamed: 10": "2020-05-15 00:00:00",
+            "Unnamed: 11": "2020-05-22 00:00:00",
+            "Unnamed: 12": "2020-05-29 00:00:00",
+            "Unnamed: 2": "2020-03-20 00:00:00",
+            "Unnamed: 3": "2020-03-27 00:00:00",
+            "Unnamed: 4": "2020-04-03 00:00:00",
+            "Unnamed: 5": "2020-04-10 00:00:00",
+            "Unnamed: 6": "2020-04-17 00:00:00",
+            "Unnamed: 7": "2020-04-24 00:00:00",
+            "Unnamed: 8": "2020-05-01 00:00:00",
+            "Unnamed: 9": "2020-05-08 00:00:00"
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "Other",
+            "Unnamed: 1": 0,
+            "Unnamed: 10": 98,
+            "Unnamed: 11": 74,
+            "Unnamed: 12": 42,
+            "Unnamed: 2": 0,
+            "Unnamed: 3": 4,
+            "Unnamed: 4": 51,
+            "Unnamed: 5": 100,
+            "Unnamed: 6": 186,
+            "Unnamed: 7": 179,
+            "Unnamed: 8": 144,
+            "Unnamed: 9": 125
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "Home",
+            "Unnamed: 1": 0,
+            "Unnamed: 10": 165,
+            "Unnamed: 11": 120,
+            "Unnamed: 12": 84,
+            "Unnamed: 2": 3,
+            "Unnamed: 3": 29,
+            "Unnamed: 4": 161,
+            "Unnamed: 5": 398,
+            "Unnamed: 6": 458,
+            "Unnamed: 7": 474,
+            "Unnamed: 8": 275,
+            "Unnamed: 9": 182
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "Care Home",
+            "Unnamed: 1": 0,
+            "Unnamed: 10": 1883,
+            "Unnamed: 11": 1230,
+            "Unnamed: 12": 786,
+            "Unnamed: 2": 2,
+            "Unnamed: 3": 24,
+            "Unnamed: 4": 260,
+            "Unnamed: 5": 1032,
+            "Unnamed: 6": 2395,
+            "Unnamed: 7": 3199,
+            "Unnamed: 8": 2812,
+            "Unnamed: 9": 1945
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "Hospital",
+            "Unnamed: 1": 5,
+            "Unnamed: 10": 2067,
+            "Unnamed: 11": 1448,
+            "Unnamed: 12": 1088,
+            "Unnamed: 2": 108,
+            "Unnamed: 3": 550,
+            "Unnamed: 4": 3329,
+            "Unnamed: 5": 5359,
+            "Unnamed: 6": 6456,
+            "Unnamed: 7": 5154,
+            "Unnamed: 8": 3448,
+            "Unnamed: 9": 2174
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "(Source: Office for National Statistics, National Records of Scotland, Northern Ireland Statistics and Research Agency)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "(COVID-19 deaths include any death where Coronavirus or COVID-19 (suspected or confirmed) was mentioned on the death certificate.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "(Figures are based on date of registration.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "(England, Wales and Northern Ireland weekly deaths run from Saturday to Friday, Scotland deaths run from Monday to Sunday. Weeks have been aligned to match the ONS method for reporting UK-wide COVID deaths.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "(Non residents are not included in the England and Wales figure to ensure consistency with ONS reporting of UK deaths. For this reason, counts for England and for Wales may not sum to the ONS total for \"England and Wales\".)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "(\"Other\" includes counts from England, Wales and Northern Ireland for Hospices, Communal Establishments (except for Hospitals and Care Homes), and deaths that occurred in settings other than Homes, Hospitals or Care Homes. It includes counts from Scotland for institutions excluding Care Homes and Hospitals.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "(In Scotland, hospices cannot be identified separately. As a result, some fall under the \"Hospitals\" category and others under \"Care Homes\".)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "(In Scotland, \"Home\" includes other deaths that did not occur in an institution and these numbers are included in the \"Home\" category here and on the chart.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "ONS / NRS / NISRA Registered Deaths from COVID-19 by Place of Occurrence": "(In Northern Ireland, \"Care Home\" includes deaths in care homes only. Care home residents who died in a different location will be counted at that location.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
         }
     ]
 }
