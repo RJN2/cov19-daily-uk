@@ -2094,6 +2094,23 @@
             "Unnamed: 9": NaN
         },
         {
+            "Daily COVID-19 Deaths in All Settings (UK)": "2020-06-25 00:00:00",
+            "Unnamed: 1": 149,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 2": 43230,
+            "Unnamed: 3": 119,
+            "Unnamed: 4": 835,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
             "Daily COVID-19 Deaths in All Settings (UK)": "(Source: Department of Health and Social Care, sourced from NHS England, Public Health England and the devolved administrations.)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
@@ -2240,7 +2257,7 @@
             "Unnamed: 1": 1639,
             "Unnamed: 2": 155,
             "Unnamed: 3": 107,
-            "Unnamed: 4": 92
+            "Unnamed: 4": 91
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-03-27 00:00:00",
@@ -2252,7 +2269,7 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-03-28 00:00:00",
             "Unnamed: 1": 1873,
-            "Unnamed: 2": 156,
+            "Unnamed: 2": 155,
             "Unnamed: 3": 126,
             "Unnamed: 4": 122
         },
@@ -2266,7 +2283,7 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-03-30 00:00:00",
             "Unnamed: 1": 2817,
-            "Unnamed: 2": 189,
+            "Unnamed: 2": 188,
             "Unnamed: 3": 147,
             "Unnamed: 4": 130
         },
@@ -2280,14 +2297,14 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-01 00:00:00",
             "Unnamed: 1": 3099,
-            "Unnamed: 2": 213,
+            "Unnamed: 2": 212,
             "Unnamed: 3": 207,
             "Unnamed: 4": 126
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-02 00:00:00",
             "Unnamed: 1": 2932,
-            "Unnamed: 2": 171,
+            "Unnamed: 2": 169,
             "Unnamed: 3": 139,
             "Unnamed: 4": 118
         },
@@ -2303,7 +2320,7 @@
             "Unnamed: 1": 2593,
             "Unnamed: 2": 152,
             "Unnamed: 3": 134,
-            "Unnamed: 4": 101
+            "Unnamed: 4": 100
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-05 00:00:00",
@@ -2322,21 +2339,21 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-07 00:00:00",
             "Unnamed: 1": 2744,
-            "Unnamed: 2": 173,
+            "Unnamed: 2": 172,
             "Unnamed: 3": 196,
             "Unnamed: 4": 128
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-08 00:00:00",
             "Unnamed: 1": 2619,
-            "Unnamed: 2": 156,
+            "Unnamed: 2": 155,
             "Unnamed: 3": 158,
             "Unnamed: 4": 124
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-09 00:00:00",
             "Unnamed: 1": 2340,
-            "Unnamed: 2": 132,
+            "Unnamed: 2": 131,
             "Unnamed: 3": 126,
             "Unnamed: 4": 126
         },
@@ -2364,14 +2381,14 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-13 00:00:00",
             "Unnamed: 1": 1912,
-            "Unnamed: 2": 103,
+            "Unnamed: 2": 102,
             "Unnamed: 3": 130,
             "Unnamed: 4": 100
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": 1859,
-            "Unnamed: 2": 99,
+            "Unnamed: 2": 100,
             "Unnamed: 3": 106,
             "Unnamed: 4": 89
         },
@@ -2385,28 +2402,28 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": 1777,
-            "Unnamed: 2": 96,
+            "Unnamed: 2": 97,
             "Unnamed: 3": 104,
             "Unnamed: 4": 128
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": 1674,
-            "Unnamed: 2": 114,
+            "Unnamed: 2": 111,
             "Unnamed: 3": 151,
             "Unnamed: 4": 122
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": 1411,
-            "Unnamed: 2": 72,
+            "Unnamed: 2": 73,
             "Unnamed: 3": 129,
             "Unnamed: 4": 105
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": 1475,
-            "Unnamed: 2": 58,
+            "Unnamed: 2": 59,
             "Unnamed: 3": 102,
             "Unnamed: 4": 106
         },
@@ -2427,28 +2444,28 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": 1310,
-            "Unnamed: 2": 68,
+            "Unnamed: 2": 67,
             "Unnamed: 3": 127,
             "Unnamed: 4": 133
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-23 00:00:00",
             "Unnamed: 1": 1289,
-            "Unnamed: 2": 66,
+            "Unnamed: 2": 65,
             "Unnamed: 3": 137,
             "Unnamed: 4": 105
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-24 00:00:00",
             "Unnamed: 1": 1277,
-            "Unnamed: 2": 92,
+            "Unnamed: 2": 91,
             "Unnamed: 3": 147,
             "Unnamed: 4": 124
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-25 00:00:00",
             "Unnamed: 1": 1080,
-            "Unnamed: 2": 42,
+            "Unnamed: 2": 41,
             "Unnamed: 3": 126,
             "Unnamed: 4": 103
         },
@@ -2462,132 +2479,132 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-27 00:00:00",
             "Unnamed: 1": 1344,
-            "Unnamed: 2": 77,
+            "Unnamed: 2": 76,
             "Unnamed: 3": 95,
             "Unnamed: 4": 154
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-28 00:00:00",
             "Unnamed: 1": 1296,
-            "Unnamed: 2": 73,
+            "Unnamed: 2": 71,
             "Unnamed: 3": 148,
             "Unnamed: 4": 140
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-29 00:00:00",
             "Unnamed: 1": 1295,
-            "Unnamed: 2": 48,
+            "Unnamed: 2": 47,
             "Unnamed: 3": 136,
             "Unnamed: 4": 105
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-04-30 00:00:00",
-            "Unnamed: 1": 1233,
-            "Unnamed: 2": 55,
+            "Unnamed: 1": 1227,
+            "Unnamed: 2": 54,
             "Unnamed: 3": 148,
             "Unnamed: 4": 120
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-01 00:00:00",
-            "Unnamed: 1": 1087,
-            "Unnamed: 2": 53,
+            "Unnamed: 1": 1081,
+            "Unnamed: 2": 54,
             "Unnamed: 3": 122,
             "Unnamed: 4": 79
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-02 00:00:00",
-            "Unnamed: 1": 982,
-            "Unnamed: 2": 47,
+            "Unnamed: 1": 980,
+            "Unnamed: 2": 46,
             "Unnamed: 3": 147,
             "Unnamed: 4": 72
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-03 00:00:00",
-            "Unnamed: 1": 1045,
+            "Unnamed: 1": 1044,
             "Unnamed: 2": 40,
             "Unnamed: 3": 100,
             "Unnamed: 4": 72
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-04 00:00:00",
-            "Unnamed: 1": 1074,
+            "Unnamed: 1": 1063,
             "Unnamed: 2": 52,
             "Unnamed: 3": 125,
             "Unnamed: 4": 85
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-05 00:00:00",
-            "Unnamed: 1": 961,
+            "Unnamed: 1": 959,
             "Unnamed: 2": 39,
             "Unnamed: 3": 140,
             "Unnamed: 4": 80
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-06 00:00:00",
-            "Unnamed: 1": 1044,
+            "Unnamed: 1": 1040,
             "Unnamed: 2": 46,
             "Unnamed: 3": 116,
             "Unnamed: 4": 99
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-07 00:00:00",
-            "Unnamed: 1": 1002,
-            "Unnamed: 2": 36,
+            "Unnamed: 1": 998,
+            "Unnamed: 2": 37,
             "Unnamed: 3": 131,
-            "Unnamed: 4": 89
+            "Unnamed: 4": 90
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-08 00:00:00",
-            "Unnamed: 1": 747,
+            "Unnamed: 1": 743,
             "Unnamed: 2": 32,
             "Unnamed: 3": 144,
             "Unnamed: 4": 66
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-09 00:00:00",
-            "Unnamed: 1": 799,
+            "Unnamed: 1": 798,
             "Unnamed: 2": 20,
             "Unnamed: 3": 112,
             "Unnamed: 4": 62
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-10 00:00:00",
-            "Unnamed: 1": 757,
+            "Unnamed: 1": 756,
             "Unnamed: 2": 27,
             "Unnamed: 3": 118,
             "Unnamed: 4": 72
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-11 00:00:00",
-            "Unnamed: 1": 869,
+            "Unnamed: 1": 866,
             "Unnamed: 2": 32,
             "Unnamed: 3": 120,
             "Unnamed: 4": 84
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-12 00:00:00",
-            "Unnamed: 1": 856,
+            "Unnamed: 1": 844,
             "Unnamed: 2": 37,
             "Unnamed: 3": 98,
             "Unnamed: 4": 67
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-13 00:00:00",
-            "Unnamed: 1": 807,
+            "Unnamed: 1": 804,
             "Unnamed: 2": 26,
             "Unnamed: 3": 122,
             "Unnamed: 4": 79
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-14 00:00:00",
-            "Unnamed: 1": 774,
+            "Unnamed: 1": 763,
             "Unnamed: 2": 27,
             "Unnamed: 3": 112,
             "Unnamed: 4": 68
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-15 00:00:00",
-            "Unnamed: 1": 742,
+            "Unnamed: 1": 738,
             "Unnamed: 2": 30,
             "Unnamed: 3": 101,
             "Unnamed: 4": 63
@@ -2601,42 +2618,42 @@
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-17 00:00:00",
-            "Unnamed: 1": 677,
+            "Unnamed: 1": 673,
             "Unnamed: 2": 9,
             "Unnamed: 3": 99,
             "Unnamed: 4": 57
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-18 00:00:00",
-            "Unnamed: 1": 744,
+            "Unnamed: 1": 733,
             "Unnamed: 2": 27,
             "Unnamed: 3": 84,
             "Unnamed: 4": 87
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-19 00:00:00",
-            "Unnamed: 1": 763,
+            "Unnamed: 1": 752,
             "Unnamed: 2": 12,
             "Unnamed: 3": 114,
             "Unnamed: 4": 79
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-20 00:00:00",
-            "Unnamed: 1": 746,
+            "Unnamed: 1": 732,
             "Unnamed: 2": 18,
             "Unnamed: 3": 108,
             "Unnamed: 4": 66
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-21 00:00:00",
-            "Unnamed: 1": 725,
+            "Unnamed: 1": 715,
             "Unnamed: 2": 13,
             "Unnamed: 3": 118,
             "Unnamed: 4": 70
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-22 00:00:00",
-            "Unnamed: 1": 641,
+            "Unnamed: 1": 638,
             "Unnamed: 2": 15,
             "Unnamed: 3": 92,
             "Unnamed: 4": 46
@@ -2650,14 +2667,14 @@
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-24 00:00:00",
-            "Unnamed: 1": 499,
+            "Unnamed: 1": 497,
             "Unnamed: 2": 8,
             "Unnamed: 3": 81,
             "Unnamed: 4": 42
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-05-25 00:00:00",
-            "Unnamed: 1": 501,
+            "Unnamed: 1": 498,
             "Unnamed: 2": 12,
             "Unnamed: 3": 90,
             "Unnamed: 4": 59
@@ -2721,7 +2738,7 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-03 00:00:00",
             "Unnamed: 1": 491,
-            "Unnamed: 2": 7,
+            "Unnamed: 2": 8,
             "Unnamed: 3": 144,
             "Unnamed: 4": 43
         },
@@ -2749,14 +2766,14 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-07 00:00:00",
             "Unnamed: 1": 323,
-            "Unnamed: 2": 4,
+            "Unnamed: 2": 5,
             "Unnamed: 3": 81,
             "Unnamed: 4": 31
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-08 00:00:00",
             "Unnamed: 1": 348,
-            "Unnamed: 2": 3,
+            "Unnamed: 2": 4,
             "Unnamed: 3": 61,
             "Unnamed: 4": 49
         },
@@ -2770,56 +2787,56 @@
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-10 00:00:00",
             "Unnamed: 1": 402,
-            "Unnamed: 2": 6,
+            "Unnamed: 2": 7,
             "Unnamed: 3": 103,
             "Unnamed: 4": 35
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-11 00:00:00",
             "Unnamed: 1": 330,
-            "Unnamed: 2": 4,
+            "Unnamed: 2": 5,
             "Unnamed: 3": 114,
             "Unnamed: 4": 34
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-12 00:00:00",
             "Unnamed: 1": 298,
-            "Unnamed: 2": NaN,
+            "Unnamed: 2": 2,
             "Unnamed: 3": 98,
             "Unnamed: 4": 36
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-13 00:00:00",
             "Unnamed: 1": 265,
-            "Unnamed: 2": NaN,
+            "Unnamed: 2": 4,
             "Unnamed: 3": 127,
             "Unnamed: 4": 19
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-14 00:00:00",
             "Unnamed: 1": 306,
-            "Unnamed: 2": NaN,
+            "Unnamed: 2": 5,
             "Unnamed: 3": 58,
             "Unnamed: 4": 23
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-15 00:00:00",
             "Unnamed: 1": 365,
-            "Unnamed: 2": NaN,
+            "Unnamed: 2": 6,
             "Unnamed: 3": 68,
             "Unnamed: 4": 57
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-16 00:00:00",
             "Unnamed: 1": 354,
-            "Unnamed: 2": NaN,
+            "Unnamed: 2": 4,
             "Unnamed: 3": 96,
             "Unnamed: 4": 44
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-17 00:00:00",
             "Unnamed: 1": 334,
-            "Unnamed: 2": NaN,
+            "Unnamed: 2": 3,
             "Unnamed: 3": 108,
             "Unnamed: 4": 33
         },
@@ -2842,14 +2859,21 @@
             "Unnamed: 1": 184,
             "Unnamed: 2": NaN,
             "Unnamed: 3": 72,
-            "Unnamed: 4": 28
+            "Unnamed: 4": 29
         },
         {
             "COVID-19 Hospital Admissions (UK)": "2020-06-21 00:00:00",
             "Unnamed: 1": 215,
             "Unnamed: 2": NaN,
             "Unnamed: 3": 68,
-            "Unnamed: 4": 35
+            "Unnamed: 4": 36
+        },
+        {
+            "COVID-19 Hospital Admissions (UK)": "2020-06-22 00:00:00",
+            "Unnamed: 1": 318,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": 71,
+            "Unnamed: 4": 30
         },
         {
             "COVID-19 Hospital Admissions (UK)": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
@@ -3401,6 +3425,11 @@
             "New cases (UK)": "2020-06-24 00:00:00",
             "Unnamed: 1": 653,
             "Unnamed: 2": 1081
+        },
+        {
+            "New cases (UK)": "2020-06-25 00:00:00",
+            "Unnamed: 1": 1118,
+            "Unnamed: 2": 1066
         },
         {
             "New cases (UK)": "(Source: Department of Health and Social Care, Welsh Government, Scottish Government, Northern Ireland Executive.)",
@@ -4763,6 +4792,19 @@
             "Unnamed: 9": 713
         },
         {
+            "People in hospital with COVID-19 (UK)": "2020-06-24 00:00:00",
+            "Unnamed: 1": 319,
+            "Unnamed: 10": NaN,
+            "Unnamed: 2": 386,
+            "Unnamed: 3": 658,
+            "Unnamed: 4": 465,
+            "Unnamed: 5": 747,
+            "Unnamed: 6": 294,
+            "Unnamed: 7": 67,
+            "Unnamed: 8": 489,
+            "Unnamed: 9": 761
+        },
+        {
             "People in hospital with COVID-19 (UK)": "(Source: NHSE, Welsh Government, Scotland Government, Northern Ireland Executive)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
@@ -4894,6 +4936,19 @@
         },
         {
             "People in hospital with COVID-19 (UK)": "(Northern Ireland data were revised on 30 May to reflect a methodology change for calculating the number of COVID inpatients.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "(From 22 June Northern Ireland data was not available.)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 2": NaN,
@@ -5594,6 +5649,14 @@
             "Unnamed: 3": 22,
             "Unnamed: 4": 2,
             "Unnamed: 5": 311
+        },
+        {
+            "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-24 00:00:00",
+            "Unnamed: 1": 264,
+            "Unnamed: 2": 23,
+            "Unnamed: 3": 27,
+            "Unnamed: 4": 2,
+            "Unnamed: 5": 316
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
