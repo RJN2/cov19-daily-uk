@@ -2111,6 +2111,23 @@
             "Unnamed: 9": NaN
         },
         {
+            "Daily COVID-19 Deaths in All Settings (UK)": "2020-06-26 00:00:00",
+            "Unnamed: 1": 186,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 2": 43414,
+            "Unnamed: 3": 121,
+            "Unnamed: 4": 848,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
             "Daily COVID-19 Deaths in All Settings (UK)": "(Source: Department of Health and Social Care, sourced from NHS England, Public Health England and the devolved administrations.)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
@@ -2197,6 +2214,23 @@
         },
         {
             "Daily COVID-19 Deaths in All Settings (UK)": "(On 23 June due to improvements in how the COVID-19 death data is processed in England, a further 109 deaths that occurred in April, May and June 2020 have been confirmed. The published daily series has been revised on 24 June to show when these deaths were reported.)",
+            "Unnamed: 1": NaN,
+            "Unnamed: 10": NaN,
+            "Unnamed: 11": NaN,
+            "Unnamed: 12": NaN,
+            "Unnamed: 13": NaN,
+            "Unnamed: 14": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN,
+            "Unnamed: 7": NaN,
+            "Unnamed: 8": NaN,
+            "Unnamed: 9": NaN
+        },
+        {
+            "Daily COVID-19 Deaths in All Settings (UK)": "(On 26 June following a de-duplication exercise by Public Health Wales, they have found 2 deaths that should not have been reported previously, which now have been removed from the cumulative total. Therefore, the cumulative total for deaths today is 2 lower than if you added the daily figure to yesterday\u2019s total.)",
             "Unnamed: 1": NaN,
             "Unnamed: 10": NaN,
             "Unnamed: 11": NaN,
@@ -2368,7 +2402,7 @@
             "COVID-19 Hospital Admissions (UK)": "2020-04-11 00:00:00",
             "Unnamed: 1": 1955,
             "Unnamed: 2": 80,
-            "Unnamed: 3": 107,
+            "Unnamed: 3": 106,
             "Unnamed: 4": 102
         },
         {
@@ -2874,6 +2908,13 @@
             "Unnamed: 2": NaN,
             "Unnamed: 3": 71,
             "Unnamed: 4": 30
+        },
+        {
+            "COVID-19 Hospital Admissions (UK)": "2020-06-23 00:00:00",
+            "Unnamed: 1": 275,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": 83,
+            "Unnamed: 4": 33
         },
         {
             "COVID-19 Hospital Admissions (UK)": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
@@ -3432,6 +3473,11 @@
             "Unnamed: 2": 1066
         },
         {
+            "New cases (UK)": "2020-06-26 00:00:00",
+            "Unnamed: 1": 1006,
+            "Unnamed: 2": 1018
+        },
+        {
             "New cases (UK)": "(Source: Department of Health and Social Care, Welsh Government, Scottish Government, Northern Ireland Executive.)",
             "Unnamed: 1": NaN,
             "Unnamed: 2": NaN
@@ -3645,7 +3691,7 @@
             "Unnamed: 6": 744,
             "Unnamed: 7": 304,
             "Unnamed: 8": 404,
-            "Unnamed: 9": 451
+            "Unnamed: 9": 456
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-28 00:00:00",
@@ -3658,7 +3704,7 @@
             "Unnamed: 6": 802,
             "Unnamed: 7": 342,
             "Unnamed: 8": 511,
-            "Unnamed: 9": 552
+            "Unnamed: 9": 553
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-03-29 00:00:00",
@@ -4048,7 +4094,7 @@
             "Unnamed: 6": 1568,
             "Unnamed: 7": 589,
             "Unnamed: 8": 1387,
-            "Unnamed: 9": 1300
+            "Unnamed: 9": 1302
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-28 00:00:00",
@@ -4061,7 +4107,7 @@
             "Unnamed: 6": 1541,
             "Unnamed: 7": 590,
             "Unnamed: 8": 1359,
-            "Unnamed: 9": 1273
+            "Unnamed: 9": 1269
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-04-29 00:00:00",
@@ -4152,7 +4198,7 @@
             "Unnamed: 6": 1291,
             "Unnamed: 7": 518,
             "Unnamed: 8": 1225,
-            "Unnamed: 9": 1057
+            "Unnamed: 9": 1065
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-06 00:00:00",
@@ -4191,7 +4237,7 @@
             "Unnamed: 6": 1123,
             "Unnamed: 7": 402,
             "Unnamed: 8": 1168,
-            "Unnamed: 9": 1069
+            "Unnamed: 9": 1109
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-09 00:00:00",
@@ -4425,7 +4471,7 @@
             "Unnamed: 6": 747,
             "Unnamed: 7": 301,
             "Unnamed: 8": 833,
-            "Unnamed: 9": 1112
+            "Unnamed: 9": 1017
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-05-27 00:00:00",
@@ -4607,7 +4653,7 @@
             "Unnamed: 6": 481,
             "Unnamed: 7": 162,
             "Unnamed: 8": 641,
-            "Unnamed: 9": 897
+            "Unnamed: 9": 889
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-06-10 00:00:00",
@@ -4620,7 +4666,7 @@
             "Unnamed: 6": 474,
             "Unnamed: 7": 152,
             "Unnamed: 8": 623,
-            "Unnamed: 9": 885
+            "Unnamed: 9": 869
         },
         {
             "People in hospital with COVID-19 (UK)": "2020-06-11 00:00:00",
@@ -4803,6 +4849,19 @@
             "Unnamed: 7": 67,
             "Unnamed: 8": 489,
             "Unnamed: 9": 761
+        },
+        {
+            "People in hospital with COVID-19 (UK)": "2020-06-25 00:00:00",
+            "Unnamed: 1": 301,
+            "Unnamed: 10": NaN,
+            "Unnamed: 2": 380,
+            "Unnamed: 3": 629,
+            "Unnamed: 4": 436,
+            "Unnamed: 5": 698,
+            "Unnamed: 6": 299,
+            "Unnamed: 7": 70,
+            "Unnamed: 8": 472,
+            "Unnamed: 9": 721
         },
         {
             "People in hospital with COVID-19 (UK)": "(Source: NHSE, Welsh Government, Scotland Government, Northern Ireland Executive)",
@@ -5079,80 +5138,80 @@
             "Unnamed: 1": 2872,
             "Unnamed: 2": 211,
             "Unnamed: 3": 155,
-            "Unnamed: 4": 40,
-            "Unnamed: 5": 3278
+            "Unnamed: 4": 39,
+            "Unnamed: 5": 3277
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-14 00:00:00",
             "Unnamed: 1": 2849,
             "Unnamed: 2": 196,
             "Unnamed: 3": 151,
-            "Unnamed: 4": 43,
-            "Unnamed: 5": 3239
+            "Unnamed: 4": 38,
+            "Unnamed: 5": 3234
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-15 00:00:00",
             "Unnamed: 1": 2847,
             "Unnamed: 2": 195,
             "Unnamed: 3": 150,
-            "Unnamed: 4": 40,
-            "Unnamed: 5": 3232
+            "Unnamed: 4": 36,
+            "Unnamed: 5": 3228
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-16 00:00:00",
             "Unnamed: 1": 2838,
             "Unnamed: 2": 196,
             "Unnamed: 3": 155,
-            "Unnamed: 4": 37,
-            "Unnamed: 5": 3226
+            "Unnamed: 4": 33,
+            "Unnamed: 5": 3222
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-17 00:00:00",
             "Unnamed: 1": 2780,
             "Unnamed: 2": 189,
             "Unnamed: 3": 159,
-            "Unnamed: 4": 39,
-            "Unnamed: 5": 3167
+            "Unnamed: 4": 34,
+            "Unnamed: 5": 3162
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-18 00:00:00",
             "Unnamed: 1": 2868,
             "Unnamed: 2": 182,
             "Unnamed: 3": 164,
-            "Unnamed: 4": 39,
-            "Unnamed: 5": 3253
+            "Unnamed: 4": 33,
+            "Unnamed: 5": 3247
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-19 00:00:00",
             "Unnamed: 1": 2820,
             "Unnamed: 2": 174,
             "Unnamed: 3": 153,
-            "Unnamed: 4": 31,
-            "Unnamed: 5": 3178
+            "Unnamed: 4": 29,
+            "Unnamed: 5": 3176
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-20 00:00:00",
             "Unnamed: 1": 2780,
             "Unnamed: 2": 169,
             "Unnamed: 3": 150,
-            "Unnamed: 4": 36,
-            "Unnamed: 5": 3135
+            "Unnamed: 4": 31,
+            "Unnamed: 5": 3130
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-21 00:00:00",
             "Unnamed: 1": 2701,
             "Unnamed: 2": 166,
             "Unnamed: 3": 135,
-            "Unnamed: 4": 39,
-            "Unnamed: 5": 3041
+            "Unnamed: 4": 34,
+            "Unnamed: 5": 3036
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-22 00:00:00",
             "Unnamed: 1": 2646,
             "Unnamed: 2": 155,
             "Unnamed: 3": 132,
-            "Unnamed: 4": 33,
-            "Unnamed: 5": 2966
+            "Unnamed: 4": 31,
+            "Unnamed: 5": 2964
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-23 00:00:00",
@@ -5175,256 +5234,256 @@
             "Unnamed: 1": 2405,
             "Unnamed: 2": 140,
             "Unnamed: 3": 126,
-            "Unnamed: 4": 32,
-            "Unnamed: 5": 2703
+            "Unnamed: 4": 31,
+            "Unnamed: 5": 2702
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-26 00:00:00",
             "Unnamed: 1": 2309,
             "Unnamed: 2": 133,
             "Unnamed: 3": 111,
-            "Unnamed: 4": 28,
-            "Unnamed: 5": 2581
+            "Unnamed: 4": 27,
+            "Unnamed: 5": 2580
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-27 00:00:00",
             "Unnamed: 1": 2194,
             "Unnamed: 2": 134,
-            "Unnamed: 3": 106,
-            "Unnamed: 4": 28,
-            "Unnamed: 5": 2462
+            "Unnamed: 3": 105,
+            "Unnamed: 4": 27,
+            "Unnamed: 5": 2460
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-28 00:00:00",
             "Unnamed: 1": 2093,
             "Unnamed: 2": 126,
-            "Unnamed: 3": 108,
-            "Unnamed: 4": 28,
-            "Unnamed: 5": 2355
+            "Unnamed: 3": 107,
+            "Unnamed: 4": 27,
+            "Unnamed: 5": 2353
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-29 00:00:00",
             "Unnamed: 1": 2045,
             "Unnamed: 2": 114,
             "Unnamed: 3": 101,
-            "Unnamed: 4": 28,
-            "Unnamed: 5": 2288
+            "Unnamed: 4": 26,
+            "Unnamed: 5": 2286
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-04-30 00:00:00",
             "Unnamed: 1": 1991,
             "Unnamed: 2": 109,
             "Unnamed: 3": 99,
-            "Unnamed: 4": 32,
-            "Unnamed: 5": 2231
+            "Unnamed: 4": 25,
+            "Unnamed: 5": 2224
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-01 00:00:00",
             "Unnamed: 1": 1954,
             "Unnamed: 2": 110,
             "Unnamed: 3": 92,
-            "Unnamed: 4": 29,
-            "Unnamed: 5": 2185
+            "Unnamed: 4": 22,
+            "Unnamed: 5": 2178
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-02 00:00:00",
             "Unnamed: 1": 1844,
             "Unnamed: 2": 108,
             "Unnamed: 3": 93,
-            "Unnamed: 4": 26,
-            "Unnamed: 5": 2071
+            "Unnamed: 4": 23,
+            "Unnamed: 5": 2068
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-03 00:00:00",
             "Unnamed: 1": 1795,
             "Unnamed: 2": 99,
             "Unnamed: 3": 94,
-            "Unnamed: 4": 27,
-            "Unnamed: 5": 2015
+            "Unnamed: 4": 21,
+            "Unnamed: 5": 2009
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-04 00:00:00",
             "Unnamed: 1": 1724,
             "Unnamed: 2": 99,
             "Unnamed: 3": 92,
-            "Unnamed: 4": 26,
-            "Unnamed: 5": 1941
+            "Unnamed: 4": 21,
+            "Unnamed: 5": 1936
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-05 00:00:00",
             "Unnamed: 1": 1662,
             "Unnamed: 2": 104,
             "Unnamed: 3": 87,
-            "Unnamed: 4": 25,
-            "Unnamed: 5": 1878
+            "Unnamed: 4": 21,
+            "Unnamed: 5": 1874
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-06 00:00:00",
             "Unnamed: 1": 1610,
             "Unnamed: 2": 89,
             "Unnamed: 3": 81,
-            "Unnamed: 4": 24,
-            "Unnamed: 5": 1804
+            "Unnamed: 4": 22,
+            "Unnamed: 5": 1802
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-07 00:00:00",
             "Unnamed: 1": 1493,
             "Unnamed: 2": 86,
             "Unnamed: 3": 84,
-            "Unnamed: 4": 26,
-            "Unnamed: 5": 1689
+            "Unnamed: 4": 22,
+            "Unnamed: 5": 1685
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-08 00:00:00",
             "Unnamed: 1": 1446,
             "Unnamed: 2": 84,
             "Unnamed: 3": 89,
-            "Unnamed: 4": 27,
-            "Unnamed: 5": 1646
+            "Unnamed: 4": 23,
+            "Unnamed: 5": 1642
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-09 00:00:00",
             "Unnamed: 1": 1398,
             "Unnamed: 2": 93,
             "Unnamed: 3": 75,
-            "Unnamed: 4": 22,
-            "Unnamed: 5": 1588
+            "Unnamed: 4": 19,
+            "Unnamed: 5": 1585
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-10 00:00:00",
             "Unnamed: 1": 1362,
             "Unnamed: 2": 82,
             "Unnamed: 3": 78,
-            "Unnamed: 4": 20,
-            "Unnamed: 5": 1542
+            "Unnamed: 4": 16,
+            "Unnamed: 5": 1538
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-11 00:00:00",
             "Unnamed: 1": 1316,
             "Unnamed: 2": 80,
             "Unnamed: 3": 76,
-            "Unnamed: 4": 15,
-            "Unnamed: 5": 1487
+            "Unnamed: 4": 13,
+            "Unnamed: 5": 1485
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-12 00:00:00",
             "Unnamed: 1": 1247,
             "Unnamed: 2": 81,
             "Unnamed: 3": 72,
-            "Unnamed: 4": 18,
-            "Unnamed: 5": 1418
+            "Unnamed: 4": 14,
+            "Unnamed: 5": 1414
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-13 00:00:00",
             "Unnamed: 1": 1198,
             "Unnamed: 2": 66,
             "Unnamed: 3": 66,
-            "Unnamed: 4": 15,
-            "Unnamed: 5": 1345
+            "Unnamed: 4": 12,
+            "Unnamed: 5": 1342
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-14 00:00:00",
             "Unnamed: 1": 1162,
             "Unnamed: 2": 71,
             "Unnamed: 3": 69,
-            "Unnamed: 4": 13,
-            "Unnamed: 5": 1315
+            "Unnamed: 4": 12,
+            "Unnamed: 5": 1314
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-15 00:00:00",
             "Unnamed: 1": 1200,
             "Unnamed: 2": 71,
             "Unnamed: 3": 56,
-            "Unnamed: 4": 11,
-            "Unnamed: 5": 1338
+            "Unnamed: 4": 10,
+            "Unnamed: 5": 1337
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-16 00:00:00",
             "Unnamed: 1": 1101,
             "Unnamed: 2": 59,
             "Unnamed: 3": 62,
-            "Unnamed: 4": 14,
-            "Unnamed: 5": 1236
+            "Unnamed: 4": 12,
+            "Unnamed: 5": 1234
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-17 00:00:00",
             "Unnamed: 1": 1064,
             "Unnamed: 2": 59,
             "Unnamed: 3": 60,
-            "Unnamed: 4": 14,
-            "Unnamed: 5": 1197
+            "Unnamed: 4": 13,
+            "Unnamed: 5": 1196
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-18 00:00:00",
             "Unnamed: 1": 1010,
             "Unnamed: 2": 63,
             "Unnamed: 3": 59,
-            "Unnamed: 4": 11,
-            "Unnamed: 5": 1143
+            "Unnamed: 4": 9,
+            "Unnamed: 5": 1141
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-19 00:00:00",
             "Unnamed: 1": 976,
             "Unnamed: 2": 59,
             "Unnamed: 3": 64,
-            "Unnamed: 4": 9,
-            "Unnamed: 5": 1108
+            "Unnamed: 4": 7,
+            "Unnamed: 5": 1106
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-20 00:00:00",
             "Unnamed: 1": 921,
             "Unnamed: 2": 53,
             "Unnamed: 3": 55,
-            "Unnamed: 4": 9,
-            "Unnamed: 5": 1038
+            "Unnamed: 4": 5,
+            "Unnamed: 5": 1034
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-21 00:00:00",
             "Unnamed: 1": 894,
             "Unnamed: 2": 51,
             "Unnamed: 3": 57,
-            "Unnamed: 4": 8,
-            "Unnamed: 5": 1010
+            "Unnamed: 4": 6,
+            "Unnamed: 5": 1008
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-22 00:00:00",
             "Unnamed: 1": 852,
             "Unnamed: 2": 50,
             "Unnamed: 3": 58,
-            "Unnamed: 4": 7,
-            "Unnamed: 5": 967
+            "Unnamed: 4": 4,
+            "Unnamed: 5": 964
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-23 00:00:00",
             "Unnamed: 1": 815,
             "Unnamed: 2": 50,
             "Unnamed: 3": 58,
-            "Unnamed: 4": 6,
-            "Unnamed: 5": 929
+            "Unnamed: 4": 5,
+            "Unnamed: 5": 928
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-24 00:00:00",
             "Unnamed: 1": 786,
             "Unnamed: 2": 44,
             "Unnamed: 3": 52,
-            "Unnamed: 4": 7,
-            "Unnamed: 5": 889
+            "Unnamed: 4": 4,
+            "Unnamed: 5": 886
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-25 00:00:00",
             "Unnamed: 1": 771,
             "Unnamed: 2": 40,
             "Unnamed: 3": 47,
-            "Unnamed: 4": 10,
-            "Unnamed: 5": 868
+            "Unnamed: 4": 5,
+            "Unnamed: 5": 863
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-26 00:00:00",
             "Unnamed: 1": 756,
             "Unnamed: 2": 35,
             "Unnamed: 3": 51,
-            "Unnamed: 4": 6,
-            "Unnamed: 5": 848
+            "Unnamed: 4": 5,
+            "Unnamed: 5": 847
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-27 00:00:00",
@@ -5447,48 +5506,48 @@
             "Unnamed: 1": 630,
             "Unnamed: 2": 40,
             "Unnamed: 3": 45,
-            "Unnamed: 4": 5,
-            "Unnamed: 5": 720
+            "Unnamed: 4": 4,
+            "Unnamed: 5": 719
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-30 00:00:00",
             "Unnamed: 1": 628,
             "Unnamed: 2": 33,
             "Unnamed: 3": 39,
-            "Unnamed: 4": 5,
-            "Unnamed: 5": 705
+            "Unnamed: 4": 4,
+            "Unnamed: 5": 704
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-05-31 00:00:00",
             "Unnamed: 1": 606,
             "Unnamed: 2": 27,
             "Unnamed: 3": 42,
-            "Unnamed: 4": 6,
-            "Unnamed: 5": 681
+            "Unnamed: 4": 4,
+            "Unnamed: 5": 679
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-01 00:00:00",
             "Unnamed: 1": 584,
             "Unnamed: 2": 27,
             "Unnamed: 3": 37,
-            "Unnamed: 4": 5,
-            "Unnamed: 5": 653
+            "Unnamed: 4": 4,
+            "Unnamed: 5": 652
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-02 00:00:00",
             "Unnamed: 1": 553,
             "Unnamed: 2": 34,
             "Unnamed: 3": 44,
-            "Unnamed: 4": 7,
-            "Unnamed: 5": 638
+            "Unnamed: 4": 5,
+            "Unnamed: 5": 636
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-03 00:00:00",
             "Unnamed: 1": 523,
             "Unnamed: 2": 34,
             "Unnamed: 3": 42,
-            "Unnamed: 4": 5,
-            "Unnamed: 5": 604
+            "Unnamed: 4": 3,
+            "Unnamed: 5": 602
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-04 00:00:00",
@@ -5503,72 +5562,72 @@
             "Unnamed: 1": 481,
             "Unnamed: 2": 23,
             "Unnamed: 3": 44,
-            "Unnamed: 4": 8,
-            "Unnamed: 5": 556
+            "Unnamed: 4": 6,
+            "Unnamed: 5": 554
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-06 00:00:00",
             "Unnamed: 1": 473,
             "Unnamed: 2": 20,
             "Unnamed: 3": 41,
-            "Unnamed: 4": 8,
-            "Unnamed: 5": 542
+            "Unnamed: 4": 6,
+            "Unnamed: 5": 540
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-07 00:00:00",
             "Unnamed: 1": 448,
             "Unnamed: 2": 25,
             "Unnamed: 3": 38,
-            "Unnamed: 4": 5,
-            "Unnamed: 5": 516
+            "Unnamed: 4": 4,
+            "Unnamed: 5": 515
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-08 00:00:00",
             "Unnamed: 1": 443,
             "Unnamed: 2": 24,
             "Unnamed: 3": 38,
-            "Unnamed: 4": 8,
-            "Unnamed: 5": 513
+            "Unnamed: 4": 4,
+            "Unnamed: 5": 509
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-09 00:00:00",
             "Unnamed: 1": 427,
             "Unnamed: 2": 21,
             "Unnamed: 3": 40,
-            "Unnamed: 4": 4,
-            "Unnamed: 5": 492
+            "Unnamed: 4": 3,
+            "Unnamed: 5": 491
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-10 00:00:00",
             "Unnamed: 1": 384,
             "Unnamed: 2": 18,
             "Unnamed: 3": 32,
-            "Unnamed: 4": 6,
-            "Unnamed: 5": 440
+            "Unnamed: 4": 5,
+            "Unnamed: 5": 439
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-11 00:00:00",
             "Unnamed: 1": 334,
             "Unnamed: 2": 21,
             "Unnamed: 3": 29,
-            "Unnamed: 4": 8,
-            "Unnamed: 5": 392
+            "Unnamed: 4": 6,
+            "Unnamed: 5": 390
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-12 00:00:00",
             "Unnamed: 1": 336,
             "Unnamed: 2": 23,
             "Unnamed: 3": 29,
-            "Unnamed: 4": 7,
-            "Unnamed: 5": 395
+            "Unnamed: 4": 5,
+            "Unnamed: 5": 393
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-13 00:00:00",
             "Unnamed: 1": 339,
             "Unnamed: 2": 20,
             "Unnamed: 3": 27,
-            "Unnamed: 4": 6,
-            "Unnamed: 5": 392
+            "Unnamed: 4": 4,
+            "Unnamed: 5": 390
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-14 00:00:00",
@@ -5591,24 +5650,24 @@
             "Unnamed: 1": 327,
             "Unnamed: 2": 19,
             "Unnamed: 3": 29,
-            "Unnamed: 4": 4,
-            "Unnamed: 5": 379
+            "Unnamed: 4": 3,
+            "Unnamed: 5": 378
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-17 00:00:00",
             "Unnamed: 1": 300,
             "Unnamed: 2": 22,
             "Unnamed: 3": 33,
-            "Unnamed: 4": 3,
-            "Unnamed: 5": 358
+            "Unnamed: 4": 2,
+            "Unnamed: 5": 357
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-18 00:00:00",
             "Unnamed: 1": 299,
             "Unnamed: 2": 22,
             "Unnamed: 3": 29,
-            "Unnamed: 4": 3,
-            "Unnamed: 5": 353
+            "Unnamed: 4": 2,
+            "Unnamed: 5": 352
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-19 00:00:00",
@@ -5623,8 +5682,8 @@
             "Unnamed: 1": 297,
             "Unnamed: 2": 14,
             "Unnamed: 3": 33,
-            "Unnamed: 4": 3,
-            "Unnamed: 5": 347
+            "Unnamed: 4": 2,
+            "Unnamed: 5": 346
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-21 00:00:00",
@@ -5657,6 +5716,14 @@
             "Unnamed: 3": 27,
             "Unnamed: 4": 2,
             "Unnamed: 5": 316
+        },
+        {
+            "Mechanical ventilator beds with COVID-19 patients (UK)": "2020-06-25 00:00:00",
+            "Unnamed: 1": 236,
+            "Unnamed: 2": 18,
+            "Unnamed: 3": 21,
+            "Unnamed: 4": 1,
+            "Unnamed: 5": 276
         },
         {
             "Mechanical ventilator beds with COVID-19 patients (UK)": "(Source: NHS England, Welsh Government, Scottish Government, Northern Ireland Executive.)",
